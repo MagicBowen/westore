@@ -1,0 +1,13 @@
+{
+    "brandName" : "Francesco Scognamiglio",
+    "color" : "white",
+    "currency" : "EUR",
+    "price" : 1066,
+    "discount" : 0.6,
+    "sizeType" : "standard",
+    "quantity" : {"40" : 1, "42" : 2},
+    "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
+    "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]},  {"name" : "model.jpg", "tags" : ["front", "impression"]}],
+    "description" : "真丝 蕾丝边蝴蝶结罩衫。成分：丝绸100% 洗剂说明 干洗",
+    "tags" : ["female", "blouse"]
+}

@@ -1,0 +1,49 @@
+{
+  "orders": [
+    {
+      "id": "order-1",
+      "payer": "",
+      "postNo": "post-1",
+      "receiver": {
+        "address": "",
+        "phone": "",
+        "name": ""
+      },
+      "products": [
+        {
+          "id": "1",
+          "size": "S",
+          "number": 1
+        }
+      ],
+      "payedTime": "",
+      "totalPrice": 1968.4,
+      "payed": true
+    },
+    {
+      "receiver": {
+        "address": "",
+        "phone": "",
+        "name": ""
+      },
+      "payer": "",
+      "id": "order-2",
+      "payedTime": "",
+      "payed": false,
+      "postNo": null,
+      "totalPrice": 1968.4,
+      "products": [
+        {
+          "id": "1",
+          "size": "XS",
+          "number": 1
+        },
+        {
+          "id": "2",
+          "size": "S",
+          "number": 1
+        }
+      ]
+    }
+  ]
+}

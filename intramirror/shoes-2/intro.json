@@ -1,0 +1,37 @@
+{
+	"brandName": "Marni",
+	"brandID": "TCMSZ11C07LV702",
+	"brandColor":"961",
+	"color": "Black",
+	"currency": "EUR",
+	"price": 790,
+	"discount": 0.69,
+	"size": "China",
+	"quantity": { "39": 1, "40":1},
+	"transport": {
+		"duration": {
+		"min": 15, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["right"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": ["right"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": ["left"]
+		}
+		
+
+	],
+	"description": "Marni（玛尼） 黑色 牛皮与小牛皮 镶嵌细跟及裸靴。尖头，侧置拉链，银色五金配件。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+	"tags": ["female", "shoes", "boots", "Ankle boots"]
+
+}

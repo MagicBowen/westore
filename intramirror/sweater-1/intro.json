@@ -1,0 +1,13 @@
+{
+    "brandName" : "Maison Margiela",
+    "color" : "white",
+    "currency" : "EUR",
+    "price" : 790,
+    "discount" : 0.62,
+    "sizeType" : "standard",
+    "quantity" : {"XS" : 1},
+    "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
+    "pictures" : [{"name" : "front-1.jpg", "tags" : ["front"]}, {"name" : "front-2.jpg", "tags" : ["front"]}, {"name" : "close-up.jpg", "tags" : ["close-up"]}, {"name" : "back.jpg", "tags" : ["back"]}, {"name" : "front-m-1.jpg", "tags" : ["front", "model"]}, {"name" : "front-m-2.jpg", "tags" : ["front", "model"]}, {"name" : "front-m-3.jpg", "tags" : ["front", "model"]}, {"name" : "garment-tag.jpg", "tags" : ["garment"]}, {"name" : "price-tag.jpg", "tags" : ["price"]}],
+    "description" : "白色 羊毛混纺 高领纯色毛衣。 卷边, 罗纹底边及袖口, 罗纹设计, 垮肩。成分:绒面皮 100%、成分:聚酰胺 35%、成分:羊毛 65%、洗涤说明:干洗",
+    "tags" : ["female", "sweater"]
+}

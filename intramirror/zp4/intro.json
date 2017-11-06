@@ -1,0 +1,41 @@
+{
+	"brandName": "Balenciaga",
+	"brandID": "443097/DE9ON",
+	"brandColor": "4380",
+	"color": "blue",
+	"currency": "EUR",
+	"price": 1350,
+	"discount": 0.76,
+	"size": "standard",
+	"quantity": {"standard": 2},
+	"transport": {
+		"duration": {
+		"min": 15, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": ["left side"]
+		},
+		{
+			"name": "4.jpg",
+			"tags": ["right side"]
+		}
+
+
+	],
+	"description": "'Bazar'中号购物袋",
+	"tags": ["female", "bag"]
+
+}

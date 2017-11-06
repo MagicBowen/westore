@@ -1,0 +1,13 @@
+{
+    "brandName" : "Celine",
+    "color" : "RED",
+    "currency" : "EUR",
+    "price" : 620,
+    "discount" : 0.58,
+    "sizeType" : "standard",
+    "quantity" : {"L" : 1},
+    "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
+    "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]},  {"name" : "close-up.jpg", "tags" : ["close-up"]}],
+    "description" : "羊绒连身衣",
+    "tags" : ["female", "sweater"]
+}

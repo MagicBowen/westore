@@ -1,0 +1,13 @@
+{
+    "brandName" : "Paco Rabanne",
+    "color" : "white",
+    "currency" : "EUR",
+    "price" : 596,
+    "discount" : 0.6,
+    "sizeType" : "standard",
+    "quantity" : {"36" : 1, "38" : 1},
+    "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
+    "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "front-1.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]}, {"name" : "front-i.jpg", "tags" : ["front", "impression"]}, {"name" : "close-up.jpg", "tags" : ["close-up"]}],
+    "description" : "白色 全棉 连帽府绸衬衫。成分:棉 100%、洗涤说明：机洗",
+    "tags" : ["female", "blouse"]
+}

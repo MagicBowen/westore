@@ -1,0 +1,65 @@
+{
+	"brandName": "Valentino Garavani",
+	"brandID": "NW0S0E70XRL",
+	"brandColor": "0NO",
+	"color": "Black",
+	"currency": "EUR",
+	"price": 1100,
+	"discount": 0.62,
+	"size": "China",
+	"quantity": { "36": 1,"37": 1, "38": 1,  "40":1},
+	"transport": {
+		"duration": {
+		"min": 15, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["right"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": ["right"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": ["back"]
+		},
+		{
+			"name": "4.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "5.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "6.jpg",
+			"tags": ["close-up"]
+		},
+		{
+			"name": "7.jpg",
+			"tags": ["close-up"]
+		},
+		{
+			"name": "8.jpg",
+			"tags": ["close-up"]
+		},
+		{
+			"name": "9.jpg",
+			"tags": ["close-up"]
+		},
+		{
+			"name": "10.jpg",
+			"tags": ["close-up"]
+		}
+		
+
+	],
+	"description": "Valentino(华伦天奴) 黑色 牛皮与小牛皮 Valentino Garavani战斗短靴。杏仁形斜肩、系带，小号银色rockstud柳钉向前，橡胶质地抓地鞋底，及踝。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+	"tags": ["female", "shoes", "boots", "Combat short boots "]
+
+}

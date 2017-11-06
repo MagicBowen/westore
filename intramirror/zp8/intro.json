@@ -1,0 +1,45 @@
+{
+	"brandName": "Paco Rabanne",
+	"brandID": "17H1401SM2MIRLG.710",
+	"color": "GOLD",
+	"currency": "EUR",
+	"price": 750,
+	"discount": 0.62,
+	"size": "standard",
+	"quantity": {"standard": 1},
+	"transport": {
+		"duration": {
+		"min": 15, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": ["back","left"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": ["close-up"]
+		},
+		{
+			"name": "4.jpg",
+			"tags": ["back"]
+		}
+		,
+		{
+			"name": "5.jpg",
+			"tags": ["model"]
+		}
+
+
+	],
+	"description": "帕科（Paco Rabanne）是创建于20世纪60年代的法国高级时装品牌。品牌以塑料、皮革、激光唱片、金属等一系列元素为独特标志。Paco Rabanne 金色 牛皮小号链饰手提包。成分：牛皮100%",
+	"tags": ["female", "bag"]
+
+}
