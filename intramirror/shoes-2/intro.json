@@ -2,11 +2,11 @@
 	"brandName": "Marni",
 	"brandID": "TCMSZ11C07LV702",
 	"brandColor":"961",
-	"color": "Black",
+	"color": "black",
 	"currency": "EUR",
 	"price": 790,
 	"discount": 0.69,
-	"size": "China",
+	"sizeType": "China",
 	"quantity": { "39": 1, "40":1},
 	"transport": {
 		"duration": {

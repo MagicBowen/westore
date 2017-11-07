@@ -2,11 +2,11 @@
 	"brandName": "Maison Margiela",
 	"brandID": "S61WG0011SY0767",
 	"brandColor": "615",
-	"color": "Green",
+	"color": "green",
 	"currency": "EUR",
 	"price": 2390,
 	"discount": 0.62,
-	"size": "standard",
+	"sizeType": "standard",
 	"quantity": {"U": 2},
 	"transport": {
 		"duration": {

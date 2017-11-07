@@ -1,11 +1,11 @@
 {
 	"brandName": "Chloe",
 	"brandID": "C17WS331HGP208",
-	"color": "mustard brown",
+	"color": "brown",
 	"currency": "EUR",
 	"price": 1190,
 	"discount": 0.73,
-	"size": "00",
+	"sizeType": "00",
 	"quantity": {"00": 1},
 	"transport": {
 		"duration": {

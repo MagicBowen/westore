@@ -2,11 +2,11 @@
 	"brandName": "Maison Margiela",
 	"brandID": "S39WU0097S48432",
 	"brandColor":"961",
-	"color": "Red",
+	"color": "red",
 	"currency": "EUR",
 	"price": 590,
 	"discount": 0.62,
-	"size": "China",
+	"sizeType": "China",
 	"quantity": {"35.5": 1, "36":1, "36.5":1,  "37": 1, "37.5": 1, "38": 1, "39": 1, "40":1},
 	"transport": {
 		"duration": {

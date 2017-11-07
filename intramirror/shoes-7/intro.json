@@ -2,11 +2,11 @@
 	"brandName": "Balenciaga",
 	"brandID": "494248/W0530",
 	"brandColor":"6650",
-	"color": "Red",
+	"color": "red",
 	"currency": "EUR",
 	"price": 1295,
 	"discount": 0.68,
-	"size": "China",
+	"sizeType": "China",
 	"quantity": {"36":1, "37": 1, "37.5": 1, "38.5": 1, "39": 1},
 	"transport": {
 		"duration": {

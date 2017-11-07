@@ -2,11 +2,11 @@
 	"brandName": "Bottega Veneta",
 	"brandID": "386498/VCB10",
 	"brandColor": "1000",
-	"color":"Black",
+	"color":"black",
 	"currency": "EUR",
 	"price": 2800,
 	"discount": 0.73,
-	"size": "standard",
+	"sizeType": "standard",
 	"quantity": {"standard": 1},
 	"transport": {
 		"duration": {

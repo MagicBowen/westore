@@ -12,12 +12,24 @@ class ProductRepo:
         return self.products
 
     def getById(self, id):
-        return self.getByCondition({'id' : id})
+        return list(filter(lambda p : p['id'] == id, self.products))
 
     def getByCondition(self, condition):
-        return list(filter(lambda p : self._isSatisfied(p, condition), self.products))
+        productInTags = self.getByTags(condition.getlist('tags'))
+        productInProperties = self.getByProperties(condition)
+        result = []
+        for p1 in productInProperties:
+            for p2 in productInTags:
+                if p1['id'] == p2['id']:
+                    result.append(p1)
+        return result
+
+    def getByProperties(self, properties):
+        if not properties: return self.products
+        return list(filter(lambda p : self._isSatisfied(p, properties), self.products))
 
     def getByTags(self, tags):
+        if not tags: return self.products
         return list(filter(lambda p: set(p['tags']) >= set(tags) , self.products))
 
     def removeStock(self, sell):
@@ -32,8 +44,10 @@ class ProductRepo:
                     
 
     def _isSatisfied(self, product, condition):
-        if not condition: return True
-        return reduce(lambda acc, item: acc and item[1] == str(product[item[0]]), condition.items(), True)
+        for item in condition.items():
+            if item[0] == 'tags': continue
+            if item[1] != product[item[0]]: return False
+        return True
 
     def _save(self):
         with open(self.file, 'w') as json_file:

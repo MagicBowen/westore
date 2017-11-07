@@ -2,11 +2,11 @@
 	"brandName": "Valentino Garavani",
 	"brandID": "NW0S0E70XRL",
 	"brandColor": "0NO",
-	"color": "Black",
+	"color": "black",
 	"currency": "EUR",
 	"price": 1100,
 	"discount": 0.62,
-	"size": "China",
+	"sizeType": "China",
 	"quantity": { "36": 1,"37": 1, "38": 1,  "40":1},
 	"transport": {
 		"duration": {

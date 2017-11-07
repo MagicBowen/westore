@@ -6,7 +6,7 @@
 	"currency": "EUR",
 	"price": 1350,
 	"discount": 0.76,
-	"size": "standard",
+	"sizeType": "standard",
 	"quantity": {"standard": 2},
 	"transport": {
 		"duration": {

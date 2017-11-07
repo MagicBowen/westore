@@ -1,11 +1,11 @@
 {
 	"brandName": "Paco Rabanne",
 	"brandID": "17H1401SM2MIRLG.710",
-	"color": "GOLD",
+	"color": "gold",
 	"currency": "EUR",
 	"price": 750,
 	"discount": 0.62,
-	"size": "standard",
+	"sizeType": "standard",
 	"quantity": {"standard": 1},
 	"transport": {
 		"duration": {

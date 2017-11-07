@@ -2,11 +2,11 @@
 	"brandName": "Versace",
 	"brandID": "NW0S0E70XRL",
 	"brandColor": "0NO",
-	"color": "Black",
+	"color": "blask",
 	"currency": "EUR",
 	"price": 1100,
 	"discount": 0.62,
-	"size": "China",
+	"sizeType": "China",
 	"quantity": { "35":2, "35+": 2, "36": 2, "36+": 2, "37": 2, "37+":2,  "38": 1, "38+":2,  "39":2},
 	"transport": {
 		"duration": {

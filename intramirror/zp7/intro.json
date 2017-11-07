@@ -1,11 +1,11 @@
 {
 	"brandName": "Valentino Garavani",
 	"brandID": "NW2B0053UVC",
-	"color": "I16",
+	"color": "black",
 	"currency": "EUR",
 	"price": 2545,
 	"discount": 0.62,
-	"size": "standard",
+	"sizeType": "standard",
 	"quantity": {"U": 2},
 	"transport": {
 		"duration": {

@@ -4,6 +4,7 @@ from werkzeug import secure_filename
 from ProductRepo import *
 from OrderRepo import *
 from PostRepo import *
+from MakePublicEntity import *
 
 
 app = Flask(__name__)
@@ -16,19 +17,19 @@ class ProductsAPI(Resource):
         self.repo = ProductRepo('./db/products.json')
 
     def get(self):
-        condition = request.args
-        tags = condition.getlist('tags')
-        if tags: return self.repo.getByTags(tags)
-        return self.repo.getByCondition(condition)
-        
+        products = self.repo.getByCondition(request.args)
+        return {'products' : list(map(lambda p : make_public_product(p), products))}
+
 
 class ProductAPI(Resource):
     def __init__(self):
         self.repo = ProductRepo('./db/products.json')
 
     def get(self, id):   
-        product = self.repo.getById(id)
-        return product if product is not None else abort(404)
+        products = self.repo.getById(id)
+        if not products:
+            abort(404)
+        return make_public_product(products[0])
 
 
 class OrdersAPI(Resource):
@@ -37,7 +38,8 @@ class OrdersAPI(Resource):
         self.repo = OrderRepo('./db/orders.json')
 
     def get(self):
-        return self.repo.getByCondition(request.args)
+        orders = self.repo.getByCondition(request.args)
+        return {'orders' : list(map(lambda order: make_public_order(order), orders))}
 
     def post(self):
         order = request.get_json()
@@ -60,8 +62,10 @@ class OrderAPI(Resource):
         self.repo = OrderRepo('./db/orders.json')
     
     def get(self, id):
-        order = self.repo.getById(id)
-        return order if order is not None else abort(404)
+        orders = self.repo.getById(id)
+        if not orders:
+            abort(404)
+        return make_public_order(orders[0])
 
     def put(self, id):
         pass
@@ -75,7 +79,7 @@ class PostsAPI(Resource):
         self.repo = PostRepo('./db/posts.json')
 
     def get(self):
-        return self.repo.getByCondition(request.args)
+        return {'posts' : self.repo.getByCondition(request.args)}
 
 
 class PostAPI(Resource):
@@ -83,8 +87,10 @@ class PostAPI(Resource):
         self.repo = PostRepo('./db/posts.json')
     
     def get(self, id):
-        post = self.repo.getById(id)
-        return post if post is not None else abort(404)
+        posts = self.repo.getById(id)
+        if not posts:
+            abort(404)
+        return posts[0]
 
 
 api.add_resource(ProductsAPI, '/westore/api/products', endpoint = 'products')
@@ -132,7 +138,7 @@ def upload_picture():
 def download_picture():
     product_id = request.args.get('productid')
     image_id = request.args.get('pictureid')
-    return send_file("./intramirror/{}/target/{}.jpg".format(product_id, image_id), mimetype='image/jpeg')
+    return send_file("./intramirror/{}/target/{}".format(product_id, image_id), mimetype='image/jpeg')
 
 @app.route('/westore', methods=['GET'])
 def index():

@@ -2,11 +2,11 @@
 	"brandName": "Balenciaga",
 	"brandID": "491634/C8k05",
 	"brandColor":"1000",
-	"color": "Black",
+	"color": "black",
 	"currency": "EUR",
 	"price": 1795,
 	"discount": 0.76,
-	"size": "standard",
+	"sizeType": "standard",
 	"quantity": {"00": 1},
 	"transport": {
 		"duration": {

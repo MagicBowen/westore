@@ -2,11 +2,11 @@
 	"brandName": "Celine",
 	"brandID": "321943CES",
 	"brandColor":"07EB",
-	"color": "Blue",
+	"color": "blue",
 	"currency": "EUR",
 	"price": 680,
 	"discount": 0.65,
-	"size": "China",
+	"sizeType": "China",
 	"quantity": {"37.5": 1, "38.5": 1, "40": 1},
 	"transport": {
 		"duration": {
