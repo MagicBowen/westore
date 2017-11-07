@@ -1,5 +1,6 @@
 from flask import Flask, request, Response, send_file, abort, redirect, url_for, jsonify
 from flask_restful import Api, Resource
+from flask_cors import CORS
 from werkzeug import secure_filename
 from ProductRepo import *
 from OrderRepo import *
@@ -8,8 +9,10 @@ from MakePublicEntity import *
 
 
 app = Flask(__name__)
+CORS(app) 
 # app.config.update(RESTFUL_JSON=dict(ensure_ascii=False))
 api = Api(app)
+
 
 
 class ProductsAPI(Resource):
