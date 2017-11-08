@@ -1,4 +1,4 @@
-from flask import Flask, request, Response, send_file, abort, redirect, url_for, jsonify
+from flask import Flask, request, Response, send_file, abort, redirect, url_for, jsonify, render_template
 from flask_restful import Api, Resource
 from flask_cors import CORS
 from werkzeug import secure_filename
@@ -143,13 +143,9 @@ def download_picture():
     image_id = request.args.get('pictureid')
     return send_file("./intramirror/{}/target/{}".format(product_id, image_id), mimetype='image/jpeg')
 
-@app.route('/westore', methods=['GET'])
+@app.route('/', methods=['GET'])
 def index():
-    return '''
-    <!doctype html>
-    <title>Westore</title>
-    <h1>WeStore Demo for Da-Da!!!</h1>
-    '''
+    return render_template("index.html")
 
 
 if __name__ == '__main__':
