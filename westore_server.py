@@ -143,9 +143,9 @@ def download_picture():
     image_id = request.args.get('pictureid')
     return send_file("./intramirror/{}/target/{}".format(product_id, image_id), mimetype='image/jpeg')
 
-@app.route('/', methods=['GET'])
+@app.route('/')
 def index():
-    return render_template("index.html")
+    return render_template('index.html')
 
 
 if __name__ == '__main__':
