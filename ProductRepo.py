@@ -46,6 +46,7 @@ class ProductRepo:
     def _isSatisfied(self, product, condition):
         for item in condition.items():
             if item[0] == 'tags': continue
+            if item[1] == '': continue
             if item[1] != product[item[0]]: return False
         return True
 
