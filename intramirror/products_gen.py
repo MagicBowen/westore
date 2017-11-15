@@ -5,7 +5,7 @@ import codecs
 
 def get_product(path):
     print('deal product {}'.format(path))
-    with open(os.path.join(path, 'intro.json'), 'r') as product_json:
+    with open(os.path.join(path, 'intro.json'), 'r', encoding='utf-8') as product_json:
         product = json.loads(product_json.read())
         product['id'] = path.split(os.path.sep)[-1]
         return product

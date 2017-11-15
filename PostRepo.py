@@ -5,7 +5,7 @@ from functools import reduce
 class PostRepo:
     def __init__(self, file):
         self.file = file
-        with open(file) as json_file:
+        with open(file, encoding='utf-8') as json_file:
             self.posts = json.loads(json_file.read())['posts']
     
     def getAll(self):

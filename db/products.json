@@ -1,56 +1,20 @@
 {
   "products": [
     {
-      "description": "羊绒连身衣",
-      "typeId": null,
-      "brandName": "Celine",
-      "id": "product-24",
-      "price": 620,
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.58,
-      "pictures": [
-        {
-          "name": "front.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "back.jpg",
-          "tags": [
-            "back"
-          ]
-        },
-        {
-          "name": "close-up.jpg",
-          "tags": [
-            "close-up"
-          ]
-        }
-      ],
       "quantity": {
         "L": 1
       },
+      "price": 620,
+      "currency": "EUR",
+      "brandName": "Celine",
+      "discount": 0.58,
+      "description": "羊绒连身衣",
+      "typeId": null,
       "tags": [
         "female",
         "sweater"
       ],
-      "color": "red"
-    },
-    {
-      "description": "白色 羊毛混纺 高领纯色毛衣。 卷边, 罗纹底边及袖口, 罗纹设计, 垮肩。成分:绒面皮 100%、成分:聚酰胺 35%、成分:羊毛 65%、洗涤说明:干洗",
-      "typeId": "sweater-1",
-      "brandName": "Maison Margiela",
-      "id": "product-23",
-      "price": 790,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -58,160 +22,133 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
       "pictures": [
         {
-          "name": "front-1.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "front-2.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "close-up.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "back.jpg",
           "tags": [
             "back"
-          ]
+          ],
+          "name": "back.jpg"
         },
         {
-          "name": "front-m-1.jpg",
           "tags": [
-            "front",
-            "model"
-          ]
-        },
-        {
-          "name": "front-m-2.jpg",
-          "tags": [
-            "front",
-            "model"
-          ]
-        },
-        {
-          "name": "front-m-3.jpg",
-          "tags": [
-            "front",
-            "model"
-          ]
-        },
-        {
-          "name": "garment-tag.jpg",
-          "tags": [
-            "garment"
-          ]
-        },
-        {
-          "name": "price-tag.jpg",
-          "tags": [
-            "price"
-          ]
+            "close-up"
+          ],
+          "name": "close-up.jpg"
         }
       ],
+      "id": "product-24",
+      "color": "red"
+    },
+    {
       "quantity": {
         "XS": 1
       },
+      "price": 790,
+      "currency": "EUR",
+      "brandName": "Maison Margiela",
+      "discount": 0.62,
+      "description": "白色 羊毛混纺 高领纯色毛衣。 卷边, 罗纹底边及袖口, 罗纹设计, 垮肩。成分:绒面皮 100%、成分:聚酰胺 35%、成分:羊毛 65%、洗涤说明:干洗",
+      "typeId": "sweater-1",
       "tags": [
         "female",
         "sweater"
       ],
+      "sizeType": "standard",
+      "transport": {
+        "duration": {
+          "min": 15,
+          "max": 19
+        },
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
+      },
+      "pictures": [
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "front-1.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "front-2.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "close-up.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "back.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "model"
+          ],
+          "name": "front-m-1.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "model"
+          ],
+          "name": "front-m-2.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "model"
+          ],
+          "name": "front-m-3.jpg"
+        },
+        {
+          "tags": [
+            "garment"
+          ],
+          "name": "garment-tag.jpg"
+        },
+        {
+          "tags": [
+            "price"
+          ],
+          "name": "price-tag.jpg"
+        }
+      ],
+      "id": "product-23",
       "color": "white"
     },
     {
-      "description": "Valentino(华伦天奴) 黑色 牛皮与小牛皮 Valentino Garavani战斗短靴。杏仁形斜肩、系带，小号银色rockstud柳钉向前，橡胶质地抓地鞋底，及踝。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+      "quantity": {
+        "36": 1,
+        "40": 1,
+        "37": 1,
+        "38": 1
+      },
       "brandID": "NW0S0E70XRL",
-      "brandName": "Valentino Garavani",
-      "id": "product-15",
       "price": 1100,
+      "currency": "EUR",
+      "brandName": "Valentino Garavani",
+      "discount": 0.62,
+      "description": "Valentino(华伦天奴) 黑色 牛皮与小牛皮 Valentino Garavani战斗短靴。杏仁形斜肩、系带，小号银色rockstud柳钉向前，橡胶质地抓地鞋底，及踝。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.62,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "back"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "5.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "6.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "7.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "8.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "9.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "10.jpg",
-          "tags": [
-            "close-up"
-          ]
-        }
-      ],
-      "quantity": {
-        "36": 1,
-        "38": 1,
-        "37": 1,
-        "40": 1
       },
       "tags": [
         "female",
@@ -219,16 +156,88 @@
         "boots",
         "Combat short boots "
       ],
-      "typeId": null,
-      "color": "black",
-      "brandColor": "0NO"
+      "pictures": [
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "4.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "5.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "6.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "7.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "8.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "9.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "10.jpg"
+        }
+      ],
+      "brandColor": "0NO",
+      "sizeType": "China",
+      "id": "product-15",
+      "color": "black"
     },
     {
+      "quantity": {
+        "40": 1
+      },
+      "price": 2500,
+      "currency": "EUR",
+      "brandName": "Max Mara",
+      "discount": 0.6,
       "description": "成分：57% ALPACA 43% VIRGIN WOOL",
       "typeId": null,
-      "brandName": "Max Mara",
-      "id": "product-12",
-      "price": 2500,
+      "tags": [
+        "female",
+        "coat"
+      ],
+      "sizeType": "Max Mara",
       "transport": {
         "duration": {
           "min": 15,
@@ -236,136 +245,106 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "Max Mara",
-      "currency": "EUR",
-      "discount": 0.6,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "front-1.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front-1.jpg"
         },
         {
-          "name": "back.jpg",
           "tags": [
             "back"
-          ]
+          ],
+          "name": "back.jpg"
         },
         {
-          "name": "close-up.jpg",
           "tags": [
             "close-up"
-          ]
+          ],
+          "name": "close-up.jpg"
         }
       ],
-      "quantity": {
-        "40": 1
-      },
-      "tags": [
-        "female",
-        "coat"
-      ],
+      "id": "product-12",
       "color": "camel"
     },
     {
-      "description": "Jimmy Choo 黑色 牛皮 'Romy'高跟鞋。尖头，鞋垫饰有品牌浮雕，细高跟。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "quantity": {
+        "37": 1,
+        "38": 1,
+        "39": 1,
+        "36": 1,
+        "41": 1,
+        "40": 1
+      },
       "brandID": "S39WU0097S48432",
-      "brandName": "Jimmy Choo",
-      "id": "product-13",
       "price": 494,
+      "currency": "EUR",
+      "brandName": "Jimmy Choo",
+      "discount": 0.69,
+      "description": "Jimmy Choo 黑色 牛皮 'Romy'高跟鞋。尖头，鞋垫饰有品牌浮雕，细高跟。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.69,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "left"
-          ]
-        }
-      ],
-      "quantity": {
-        "39": 1,
-        "38": 1,
-        "37": 1,
-        "40": 1,
-        "36": 1,
-        "41": 1
       },
       "tags": [
         "female",
         "shoes",
         "high-heel shoes"
       ],
-      "typeId": null,
-      "color": "black",
-      "brandColor": "961"
+      "pictures": [
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "left"
+          ],
+          "name": "3.jpg"
+        }
+      ],
+      "brandColor": "961",
+      "sizeType": "China",
+      "id": "product-13",
+      "color": "black"
     },
     {
-      "description": "Marni（玛尼） 黑色 牛皮与小牛皮 镶嵌细跟及裸靴。尖头，侧置拉链，银色五金配件。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "quantity": {
+        "39": 1,
+        "40": 1
+      },
       "brandID": "TCMSZ11C07LV702",
-      "brandName": "Marni",
-      "id": "product-14",
       "price": 790,
+      "currency": "EUR",
+      "brandName": "Marni",
+      "discount": 0.69,
+      "description": "Marni（玛尼） 黑色 牛皮与小牛皮 镶嵌细跟及裸靴。尖头，侧置拉链，银色五金配件。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.69,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "left"
-          ]
-        }
-      ],
-      "quantity": {
-        "39": 1,
-        "40": 1
       },
       "tags": [
         "female",
@@ -373,68 +352,46 @@
         "boots",
         "Ankle boots"
       ],
-      "typeId": null,
-      "color": "black",
-      "brandColor": "961"
-    },
-    {
-      "description": "Lanvin (浪凡) 黑色 丝绸 长款, 高腰, 伞形半身裙。 表面 成分: 丝绸 100% 表面 成分: 纤维胶 45% 表面 成分: 醋酸纤维 55% 表面 成分: 涤纶 19% 衬里 成分: 纤维胶 48% 衬里 成分: 醋酸纤维 52% 表面 成分: 三醋酸纤维 81% 洗涤说明 干洗",
-      "typeId": null,
-      "brandName": "Lanvin",
-      "id": "product-22",
-      "price": 1990,
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.6,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
-            "front"
-          ]
+            "right"
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "back.jpg",
           "tags": [
-            "back"
-          ]
+            "right"
+          ],
+          "name": "2.jpg"
         },
         {
-          "name": "front_1.jpg",
           "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "front_i.jpg",
-          "tags": [
-            "front",
-            "impression"
-          ]
+            "left"
+          ],
+          "name": "3.jpg"
         }
       ],
+      "brandColor": "961",
+      "sizeType": "China",
+      "id": "product-14",
+      "color": "black"
+    },
+    {
       "quantity": {
         "38": 1
       },
+      "price": 1990,
+      "currency": "EUR",
+      "brandName": "Lanvin",
+      "discount": 0.6,
+      "description": "Lanvin (浪凡) 黑色 丝绸 长款, 高腰, 伞形半身裙。 表面 成分: 丝绸 100% 表面 成分: 纤维胶 45% 表面 成分: 醋酸纤维 55% 表面 成分: 涤纶 19% 衬里 成分: 纤维胶 48% 衬里 成分: 醋酸纤维 52% 表面 成分: 三醋酸纤维 81% 洗涤说明 干洗",
+      "typeId": null,
       "tags": [
         "female",
         "skirt"
       ],
-      "color": "black"
-    },
-    {
-      "description": "灰色 全棉 New York骷髅头T恤。 圆领, 正面印花, 超短袖, 后侧饰有印花, 平直下摆。 成分: 棉 100%",
-      "typeId": null,
-      "brandName": "Philipp Plein",
-      "id": "product-25",
-      "price": 425,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -442,87 +399,94 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.6,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "close-up.jpg",
           "tags": [
-            "close-up"
-          ]
+            "back"
+          ],
+          "name": "back.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "front_1.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "impression"
+          ],
+          "name": "front_i.jpg"
         }
       ],
+      "id": "product-22",
+      "color": "black"
+    },
+    {
       "quantity": {
-        "M": 1,
         "XS": 1,
-        "X": 1
+        "X": 1,
+        "M": 1
       },
+      "price": 425,
+      "currency": "EUR",
+      "brandName": "Philipp Plein",
+      "discount": 0.6,
+      "description": "灰色 全棉 New York骷髅头T恤。 圆领, 正面印花, 超短袖, 后侧饰有印花, 平直下摆。 成分: 棉 100%",
+      "typeId": null,
       "tags": [
         "female",
         "tshirt"
       ],
-      "color": "grey"
-    },
-    {
-      "description": "Black Cotton Jogging Pants from Les Hommes",
-      "typeId": null,
-      "brandName": "Les Hommes",
-      "id": "product-6",
-      "price": 395,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
-        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
       "pictures": [
         {
-          "name": "1.jpg",
-          "tags": [
-            "price"
-          ]
-        },
-        {
-          "name": "2.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "3.jpg",
           "tags": [
-            "back"
-          ]
+            "close-up"
+          ],
+          "name": "close-up.jpg"
         }
       ],
+      "id": "product-25",
+      "color": "grey"
+    },
+    {
       "quantity": {
         "S": 1,
-        "M": 1,
-        "L": 1
+        "L": 1,
+        "M": 1
       },
+      "price": 395,
+      "currency": "EUR",
+      "brandName": "Les Hommes",
+      "discount": 0.62,
+      "description": "Black Cotton Jogging Pants from Les Hommes",
+      "typeId": null,
       "tags": [
         "male",
         "pants"
       ],
-      "color": "black"
-    },
-    {
-      "description": "高领纯色毛衣，成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
-      "typeId": "sweater-1",
-      "brandName": "Maison Margiela",
-      "id": "product-1",
-      "price": 790,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -530,111 +494,98 @@
         },
         "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
       "pictures": [
         {
-          "name": "1.jpg",
-          "tags": [
-            "intro"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "front",
-            "model"
-          ]
-        },
-        {
-          "name": "3.jpg",
           "tags": [
             "price"
-          ]
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "4.jpg",
           "tags": [
-            "front",
-            "model"
-          ]
+            "front"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "3.jpg"
         }
       ],
+      "id": "product-6",
+      "color": "black"
+    },
+    {
       "quantity": {
         "XS": 1
       },
+      "price": 790,
+      "currency": "EUR",
+      "brandName": "Maison Margiela",
+      "discount": 0.62,
+      "description": "高领纯色毛衣，成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
+      "typeId": "sweater-1",
       "tags": [
         "female",
         "sweater"
       ],
-      "color": "white"
-    },
-    {
-      "description": "白色 真丝 印花衬衫。成分: 丝绸 100% 洗涤说明 干洗",
-      "typeId": null,
-      "brandName": "Equipment",
-      "id": "product-8",
-      "price": 369,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
+        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.6,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
-            "front"
-          ]
+            "intro"
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "front-1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "back.jpg",
-          "tags": [
-            "back"
-          ]
-        },
-        {
-          "name": "front-i.jpg",
           "tags": [
             "front",
-            "impression"
-          ]
+            "model"
+          ],
+          "name": "2.jpg"
         },
         {
-          "name": "close-up.jpg",
           "tags": [
-            "close-up"
-          ]
+            "price"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "model"
+          ],
+          "name": "4.jpg"
         }
       ],
+      "id": "product-1",
+      "color": "white"
+    },
+    {
       "quantity": {
         "L": 1,
         "M": 1
       },
+      "price": 369,
+      "currency": "EUR",
+      "brandName": "Equipment",
+      "discount": 0.6,
+      "description": "白色 真丝 印花衬衫。成分: 丝绸 100% 洗涤说明 干洗",
+      "typeId": null,
       "tags": [
         "female",
         "blouse"
       ],
-      "color": "white"
-    },
-    {
-      "description": "白色 全棉 连帽府绸衬衫。成分:棉 100%、洗涤说明：机洗",
-      "typeId": null,
-      "brandName": "Paco Rabanne",
-      "id": "product-9",
-      "price": 596,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -642,58 +593,58 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.6,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "front-1.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front-1.jpg"
         },
         {
-          "name": "back.jpg",
           "tags": [
             "back"
-          ]
+          ],
+          "name": "back.jpg"
         },
         {
-          "name": "front-i.jpg",
           "tags": [
             "front",
             "impression"
-          ]
+          ],
+          "name": "front-i.jpg"
         },
         {
-          "name": "close-up.jpg",
           "tags": [
             "close-up"
-          ]
+          ],
+          "name": "close-up.jpg"
         }
       ],
+      "id": "product-8",
+      "color": "white"
+    },
+    {
       "quantity": {
         "36": 1,
         "38": 1
       },
+      "price": 596,
+      "currency": "EUR",
+      "brandName": "Paco Rabanne",
+      "discount": 0.6,
+      "description": "白色 全棉 连帽府绸衬衫。成分:棉 100%、洗涤说明：机洗",
+      "typeId": null,
       "tags": [
         "female",
         "blouse"
       ],
-      "color": "white"
-    },
-    {
-      "description": "真丝 蕾丝边蝴蝶结罩衫。成分：丝绸100% 洗剂说明 干洗",
-      "typeId": null,
-      "brandName": "Francesco Scognamiglio",
-      "id": "product-7",
-      "price": 1066,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -701,102 +652,100 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.6,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "back.jpg",
+          "tags": [
+            "front"
+          ],
+          "name": "front-1.jpg"
+        },
+        {
           "tags": [
             "back"
-          ]
+          ],
+          "name": "back.jpg"
         },
         {
-          "name": "model.jpg",
           "tags": [
             "front",
             "impression"
-          ]
+          ],
+          "name": "front-i.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "close-up.jpg"
         }
       ],
+      "id": "product-9",
+      "color": "white"
+    },
+    {
       "quantity": {
         "42": 2,
         "40": 1
       },
+      "price": 1066,
+      "currency": "EUR",
+      "brandName": "Francesco Scognamiglio",
+      "discount": 0.6,
+      "description": "真丝 蕾丝边蝴蝶结罩衫。成分：丝绸100% 洗剂说明 干洗",
+      "typeId": null,
       "tags": [
         "female",
         "blouse"
       ],
+      "sizeType": "standard",
+      "transport": {
+        "duration": {
+          "min": 15,
+          "max": 19
+        },
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
+      },
+      "pictures": [
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "front.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "back.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "impression"
+          ],
+          "name": "model.jpg"
+        }
+      ],
+      "id": "product-7",
       "color": "white"
     },
     {
-      "description": "CALVIN KLEIN 205W39NYC 黑色 牛皮 超大款手提包。成分：牛皮100%",
-      "brandID": "74WLBA01.T027",
-      "brandName": "Calvin Klein",
-      "id": "product-31",
-      "price": 1600,
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.69,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "left",
-            "back"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "top",
-            "close-up"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "front",
-            "model"
-          ]
-        }
-      ],
       "quantity": {
         "standard": 1
       },
-      "tags": [
-        "female",
-        "bag"
-      ],
+      "brandID": "74WLBA01.T027",
+      "price": 1600,
+      "currency": "EUR",
+      "brandName": "Calvin Klein",
+      "discount": 0.69,
+      "description": "CALVIN KLEIN 205W39NYC 黑色 牛皮 超大款手提包。成分：牛皮100%",
       "typeId": null,
-      "color": "black",
-      "brandColor": "001"
-    },
-    {
-      "description": "Maison Margiela 绿色 牛皮 马鞍包。翻盖饰有摁扣，可拆卸可调肩带，顶部有一个手柄，内置拉链口袋。商品尺寸 带长：67cm、深度：13cm、手柄：11cm、宽度：28cm、高度：28 cm。表面成分：小牛皮100%、衬里 成分：涤纶100%",
-      "brandID": "S61WG0011SY0767",
-      "brandName": "Maison Margiela",
-      "id": "product-30",
-      "price": 2390,
       "transport": {
         "duration": {
           "min": 15,
@@ -804,84 +753,55 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
+      "tags": [
+        "female",
+        "bag"
+      ],
       "pictures": [
         {
-          "name": "1.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "2.jpg",
           "tags": [
+            "left",
             "back"
-          ]
+          ],
+          "name": "2.jpg"
         },
         {
-          "name": "3.jpg",
           "tags": [
-            "front"
-          ]
+            "top",
+            "close-up"
+          ],
+          "name": "3.jpg"
         },
         {
-          "name": "4.jpg",
           "tags": [
-            "left"
-          ]
-        },
-        {
-          "name": "5.jpg",
-          "tags": [
-            "top"
-          ]
-        },
-        {
-          "name": "6.jpg",
-          "tags": [
-            "top"
-          ]
-        },
-        {
-          "name": "7.jpg",
-          "tags": [
-            "price"
-          ]
-        },
-        {
-          "name": "8.jpg",
-          "tags": [
-            "model",
-            "front"
-          ]
-        },
-        {
-          "name": "9.jpg",
-          "tags": [
-            "model",
-            "front"
-          ]
+            "front",
+            "model"
+          ],
+          "name": "4.jpg"
         }
       ],
+      "brandColor": "001",
+      "sizeType": "standard",
+      "id": "product-31",
+      "color": "black"
+    },
+    {
       "quantity": {
         "U": 2
       },
-      "tags": [
-        "female",
-        "bag"
-      ],
-      "typeId": null,
-      "color": "green",
-      "brandColor": "615"
-    },
-    {
-      "description": "Maison Margiela 红色 小牛皮 Socks及裸靴。圆头，后置隐藏式拉链，后饰有标志性的白色针脚，中高粗跟。商品尺寸 Heel：8cm，Circumaference：23cm，Height：13.5cm。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
-      "brandID": "S39WU0097S48432",
+      "brandID": "S61WG0011SY0767",
+      "price": 2390,
+      "currency": "EUR",
       "brandName": "Maison Margiela",
-      "id": "product-20",
-      "price": 590,
+      "discount": 0.62,
+      "description": "Maison Margiela 绿色 牛皮 马鞍包。翻盖饰有摁扣，可拆卸可调肩带，顶部有一个手柄，内置拉链口袋。商品尺寸 带长：67cm、深度：13cm、手柄：11cm、宽度：28cm、高度：28 cm。表面成分：小牛皮100%、衬里 成分：涤纶100%",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
@@ -889,74 +809,97 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.62,
+      "tags": [
+        "female",
+        "bag"
+      ],
       "pictures": [
         {
-          "name": "1.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "3.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "4.jpg",
           "tags": [
             "back"
-          ]
+          ],
+          "name": "2.jpg"
         },
         {
-          "name": "5.jpg",
           "tags": [
-            "close-up"
-          ]
+            "front"
+          ],
+          "name": "3.jpg"
         },
         {
-          "name": "6.jpg",
           "tags": [
-            "close-up"
-          ]
+            "left"
+          ],
+          "name": "4.jpg"
         },
         {
-          "name": "7.jpg",
           "tags": [
-            "close-up"
-          ]
+            "top"
+          ],
+          "name": "5.jpg"
         },
         {
-          "name": "8.jpg",
           "tags": [
-            "close-up"
-          ]
+            "top"
+          ],
+          "name": "6.jpg"
         },
         {
-          "name": "9.jpg",
           "tags": [
             "price"
-          ]
+          ],
+          "name": "7.jpg"
+        },
+        {
+          "tags": [
+            "model",
+            "front"
+          ],
+          "name": "8.jpg"
+        },
+        {
+          "tags": [
+            "model",
+            "front"
+          ],
+          "name": "9.jpg"
         }
       ],
+      "brandColor": "615",
+      "sizeType": "standard",
+      "id": "product-30",
+      "color": "green"
+    },
+    {
       "quantity": {
-        "39": 1,
-        "36.5": 1,
-        "37": 1,
-        "37.5": 1,
         "40": 1,
+        "37": 1,
+        "38": 1,
+        "39": 1,
         "36": 1,
         "35.5": 1,
-        "38": 1
+        "37.5": 1,
+        "36.5": 1
+      },
+      "brandID": "S39WU0097S48432",
+      "price": 590,
+      "currency": "EUR",
+      "brandName": "Maison Margiela",
+      "discount": 0.62,
+      "description": "Maison Margiela 红色 小牛皮 Socks及裸靴。圆头，后置隐藏式拉链，后饰有标志性的白色针脚，中高粗跟。商品尺寸 Heel：8cm，Circumaference：23cm，Height：13.5cm。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "typeId": null,
+      "transport": {
+        "duration": {
+          "min": 15,
+          "max": 19
+        },
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
       "tags": [
         "female",
@@ -964,16 +907,78 @@
         "boots",
         "Ankle boots"
       ],
-      "typeId": null,
-      "color": "red",
-      "brandColor": "961"
+      "pictures": [
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "4.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "5.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "6.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "7.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "8.jpg"
+        },
+        {
+          "tags": [
+            "price"
+          ],
+          "name": "9.jpg"
+        }
+      ],
+      "brandColor": "961",
+      "sizeType": "China",
+      "id": "product-20",
+      "color": "red"
     },
     {
-      "description": "SOFT CUBE小号光滑小牛皮手袋；手提或斜挎 皮革肩带，长22英寸（55厘米）；2个内侧扁平口袋 9 X 9 X 5英寸（24 X 23 X 11厘米）；金色饰面；100%小牛皮，100％反毛小牛皮衬里",
+      "quantity": {
+        "standard": 1
+      },
       "brandID": "181613AZJ38NO",
-      "brandName": "Celine",
-      "id": "product-27",
       "price": 1300,
+      "currency": "EUR",
+      "brandName": "Celine",
+      "discount": 0.69,
+      "description": "SOFT CUBE小号光滑小牛皮手袋；手提或斜挎 皮革肩带，长22英寸（55厘米）；2个内侧扁平口袋 9 X 9 X 5英寸（24 X 23 X 11厘米）；金色饰面；100%小牛皮，100％反毛小牛皮衬里",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
@@ -981,76 +986,78 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.69,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "left"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "top"
-          ]
-        },
-        {
-          "name": "5.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "6.jpg",
-          "tags": [
-            "bottom"
-          ]
-        },
-        {
-          "name": "7.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "8.jpg",
-          "tags": [
-            "price"
-          ]
-        }
-      ],
-      "quantity": {
-        "standard": 1
-      },
       "tags": [
         "female",
         "bag"
       ],
-      "typeId": null,
-      "color": "black",
-      "brandColor": "38NO"
+      "pictures": [
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "left"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "top"
+          ],
+          "name": "4.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "5.jpg"
+        },
+        {
+          "tags": [
+            "bottom"
+          ],
+          "name": "6.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "7.jpg"
+        },
+        {
+          "tags": [
+            "price"
+          ],
+          "name": "8.jpg"
+        }
+      ],
+      "brandColor": "38NO",
+      "sizeType": "standard",
+      "id": "product-27",
+      "color": "black"
     },
     {
-      "description": "Blue leather chelsea boots",
+      "quantity": {
+        "40": 1,
+        "38.5": 1,
+        "37.5": 1
+      },
       "brandID": "321943CES",
-      "brandName": "Celine",
-      "id": "product-18",
       "price": 680,
+      "currency": "EUR",
+      "brandName": "Celine",
+      "discount": 0.65,
+      "description": "Blue leather chelsea boots",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
@@ -1058,56 +1065,61 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.65,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "right",
-            "back"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "close-up"
-          ]
-        }
-      ],
-      "quantity": {
-        "38.5": 1,
-        "40": 1,
-        "37.5": 1
-      },
       "tags": [
         "female",
         "shoes",
         "boots"
       ],
-      "typeId": null,
-      "color": "blue",
-      "brandColor": "07EB"
+      "pictures": [
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "right",
+            "back"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "4.jpg"
+        }
+      ],
+      "brandColor": "07EB",
+      "sizeType": "China",
+      "id": "product-18",
+      "color": "blue"
     },
     {
+      "quantity": {
+        "2": 1,
+        "4": 1,
+        "6": 1,
+        "8": 1
+      },
+      "price": 560,
+      "currency": "EUR",
+      "brandName": "Tory Burch",
+      "discount": 0.65,
       "description": "成分：57% ALPACA 43% VIRGIN WOOL",
       "typeId": null,
-      "brandName": "Tory Burch",
-      "id": "product-11",
-      "price": 560,
+      "tags": [
+        "female",
+        "dress"
+      ],
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 17,
@@ -1115,210 +1127,147 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计12个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.65,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         }
       ],
-      "quantity": {
-        "8": 1,
-        "4": 1,
-        "2": 1,
-        "6": 1
-      },
-      "tags": [
-        "female",
-        "dress"
-      ],
+      "id": "product-11",
       "color": "black"
     },
     {
-      "description": "Versace 黑色 牛皮 Medusa Palazzo高跟鞋。尖头，Medusa头纹标志镶嵌，低跟，鞋垫饰有品牌标识。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+      "quantity": {
+        "39": 2,
+        "35+": 2,
+        "37": 2,
+        "35": 2,
+        "38": 1,
+        "38+": 2,
+        "36": 2,
+        "37+": 2,
+        "36+": 2
+      },
       "brandID": "NW0S0E70XRL",
-      "brandName": "Versace",
-      "id": "product-16",
       "price": 1100,
+      "currency": "EUR",
+      "brandName": "Versace",
+      "discount": 0.62,
+      "description": "Versace 黑色 牛皮 Medusa Palazzo高跟鞋。尖头，Medusa头纹标志镶嵌，低跟，鞋垫饰有品牌标识。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.62,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "left"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "right"
-          ]
-        }
-      ],
-      "quantity": {
-        "39": 2,
-        "35+": 2,
-        "35": 2,
-        "38": 1,
-        "37": 2,
-        "36": 2,
-        "37+": 2,
-        "38+": 2,
-        "36+": 2
       },
       "tags": [
         "female",
         "shoes",
         "High-heel shoes"
       ],
-      "typeId": null,
-      "color": "blask",
-      "brandColor": "0NO"
+      "pictures": [
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "left"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "3.jpg"
+        }
+      ],
+      "brandColor": "0NO",
+      "sizeType": "China",
+      "id": "product-16",
+      "color": "blask"
     },
     {
-      "description": "'Bazar'中号购物袋",
+      "quantity": {
+        "standard": 2
+      },
       "brandID": "443097/DE9ON",
-      "brandName": "Balenciaga",
-      "id": "product-29",
       "price": 1350,
+      "currency": "EUR",
+      "brandName": "Balenciaga",
+      "discount": 0.76,
+      "description": "'Bazar'中号购物袋",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.76,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "left side"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "right side"
-          ]
-        }
-      ],
-      "quantity": {
-        "standard": 2
       },
       "tags": [
         "female",
         "bag"
       ],
-      "typeId": null,
-      "color": "blue",
-      "brandColor": "4380"
+      "pictures": [
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "left side"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "right side"
+          ],
+          "name": "4.jpg"
+        }
+      ],
+      "brandColor": "4380",
+      "sizeType": "standard",
+      "id": "product-29",
+      "color": "blue"
     },
     {
-      "description": "Sneakers",
+      "quantity": {
+        "35.5": 1,
+        "36.5": 1,
+        "35": 1,
+        "37": 1,
+        "36": 1
+      },
       "brandID": "CK0150AH290",
-      "brandName": "Dolce & Gabanna",
-      "id": "product-17",
       "price": 595,
+      "currency": "EUR",
+      "brandName": "Dolce & Gabanna",
+      "discount": 0.6,
+      "description": "Sneakers",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
           "max": 19
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.6,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "back"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "5.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "6.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "7.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "8.jpg",
-          "tags": [
-            "close-up"
-          ]
-        }
-      ],
-      "quantity": {
-        "36": 1,
-        "35.5": 1,
-        "36.5": 1,
-        "35": 1,
-        "37": 1
       },
       "tags": [
         "female",
@@ -1326,16 +1275,72 @@
         "boots",
         "Sneakers"
       ],
-      "typeId": null,
-      "color": "black",
-      "brandColor": "HNF57"
+      "pictures": [
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "4.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "5.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "6.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "7.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "8.jpg"
+        }
+      ],
+      "brandColor": "HNF57",
+      "sizeType": "China",
+      "id": "product-17",
+      "color": "black"
     },
     {
-      "description": "",
+      "quantity": {
+        "standard": 1
+      },
       "brandID": "386498/VCB10",
-      "brandName": "Bottega Veneta",
-      "id": "product-28",
       "price": 2800,
+      "currency": "EUR",
+      "brandName": "Bottega Veneta",
+      "discount": 0.73,
+      "description": "",
+      "typeId": null,
       "transport": {
         "duration": {
           "min": 15,
@@ -1343,52 +1348,58 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.73,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "back"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "top"
-          ]
-        }
-      ],
-      "quantity": {
-        "standard": 1
-      },
       "tags": [
         "female",
         "bag"
       ],
-      "typeId": null,
-      "color": "black",
-      "brandColor": "1000"
+      "pictures": [
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "top"
+          ],
+          "name": "4.jpg"
+        }
+      ],
+      "brandColor": "1000",
+      "sizeType": "standard",
+      "id": "product-28",
+      "color": "black"
     },
     {
+      "quantity": {
+        "42": 1,
+        "40": 1,
+        "38": 1
+      },
+      "price": 375,
+      "currency": "EUR",
+      "brandName": "Federica Tosi",
+      "discount": 0.6,
       "description": "丝绸混纺 丝绒阔腿裤。 成分: 纤维胶 82% 成分: 丝绸 18% 洗涤说明 干洗",
       "typeId": null,
-      "brandName": "Federica Tosi",
-      "id": "product-10",
-      "price": 375,
+      "tags": [
+        "female",
+        "pants"
+      ],
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -1396,92 +1407,39 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.6,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "close-up.jpg",
           "tags": [
             "close-up"
-          ]
+          ],
+          "name": "close-up.jpg"
         }
       ],
-      "quantity": {
-        "42": 1,
-        "38": 1,
-        "40": 1
-      },
-      "tags": [
-        "female",
-        "pants"
-      ],
+      "id": "product-10",
       "color": "green"
     },
     {
-      "description": "",
-      "brandID": "C17WS331HGP208",
-      "brandName": "Chloe",
-      "id": "product-26",
-      "price": 1190,
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "00",
-      "currency": "EUR",
-      "discount": 0.73,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "above"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "right side"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "front"
-          ]
-        }
-      ],
       "quantity": {
         "00": 1
       },
+      "brandID": "C17WS331HGP208",
+      "price": 1190,
+      "currency": "EUR",
+      "brandName": "Chloe",
+      "discount": 0.73,
+      "description": "",
+      "typeId": null,
       "tags": [
         "female",
         "bag"
       ],
-      "typeId": null,
-      "color": "brown"
-    },
-    {
-      "description": "红色高筒靴",
-      "brandID": "494248/W0530",
-      "brandName": "Balenciaga",
-      "id": "product-19",
-      "price": 1295,
+      "sizeType": "00",
       "transport": {
         "duration": {
           "min": 15,
@@ -1489,42 +1447,56 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "China",
-      "currency": "EUR",
-      "discount": 0.68,
       "pictures": [
         {
-          "name": "1.jpg",
           "tags": [
-            "right"
-          ]
+            "front"
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "2.jpg",
           "tags": [
-            "right"
-          ]
+            "above"
+          ],
+          "name": "2.jpg"
         },
         {
-          "name": "3.jpg",
           "tags": [
-            "right",
-            "back"
-          ]
+            "right side"
+          ],
+          "name": "3.jpg"
         },
         {
-          "name": "4.jpg",
           "tags": [
-            "close-up"
-          ]
+            "front"
+          ],
+          "name": "4.jpg"
         }
       ],
+      "id": "product-26",
+      "color": "brown"
+    },
+    {
       "quantity": {
-        "36": 1,
-        "38.5": 1,
         "39": 1,
-        "37.5": 1,
-        "37": 1
+        "36": 1,
+        "37": 1,
+        "38.5": 1,
+        "37.5": 1
+      },
+      "brandID": "494248/W0530",
+      "price": 1295,
+      "currency": "EUR",
+      "brandName": "Balenciaga",
+      "discount": 0.68,
+      "description": "红色高筒靴",
+      "typeId": null,
+      "transport": {
+        "duration": {
+          "min": 15,
+          "max": 19
+        },
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
       "tags": [
         "female",
@@ -1532,16 +1504,57 @@
         "boots",
         "high boots"
       ],
-      "typeId": null,
-      "color": "red",
-      "brandColor": "6650"
+      "pictures": [
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "right"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "right",
+            "back"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "4.jpg"
+        }
+      ],
+      "brandColor": "6650",
+      "sizeType": "China",
+      "id": "product-19",
+      "color": "red"
     },
     {
+      "quantity": {
+        "25": 1,
+        "24": 2,
+        "28": 1,
+        "26": 2,
+        "27": 2
+      },
+      "price": 174,
+      "currency": "EUR",
+      "brandName": "J Brand",
+      "discount": 0.81,
       "description": "Cut Off Shorts from J Brand: Over Blue Cut Off Shorts with belt loops, stitching detail, five pockets design, distressed effect, frayed edges, front zip and button fly closure",
       "typeId": null,
-      "brandName": "J Brand",
-      "id": "product-21",
-      "price": 174,
+      "tags": [
+        "female",
+        "short"
+      ],
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -1549,42 +1562,39 @@
         },
         "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.81,
       "pictures": [
         {
-          "name": "front.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "front.jpg"
         },
         {
-          "name": "back.jpg",
           "tags": [
             "back"
-          ]
+          ],
+          "name": "back.jpg"
         }
       ],
-      "quantity": {
-        "24": 2,
-        "28": 1,
-        "25": 1,
-        "26": 2,
-        "27": 2
-      },
-      "tags": [
-        "female",
-        "short"
-      ],
+      "id": "product-21",
       "color": "blue"
     },
     {
+      "quantity": {
+        "XS": 2,
+        "S": 2
+      },
+      "price": 790,
+      "currency": "EUR",
+      "brandName": "Maison Margiela",
+      "discount": 0.62,
       "description": "高领纯色毛衣，成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
       "typeId": "sweater-1",
-      "brandName": "Maison Margiela",
-      "id": "product-2",
-      "price": 790,
+      "tags": [
+        "female",
+        "sweater"
+      ],
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -1592,40 +1602,46 @@
         },
         "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
       "pictures": [
         {
-          "name": "1.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "2.jpg",
           "tags": [
             "front",
             "model"
-          ]
+          ],
+          "name": "2.jpg"
         }
       ],
-      "quantity": {
-        "S": 2,
-        "XS": 2
-      },
-      "tags": [
-        "female",
-        "sweater"
-      ],
+      "id": "product-2",
       "color": "red"
     },
     {
+      "quantity": {
+        "44": 1,
+        "41": 1,
+        "39": 1,
+        "42": 1,
+        "41.5": 1,
+        "43": 1,
+        "40": 1,
+        "39.5": 1
+      },
+      "price": 520,
+      "currency": "EUR",
+      "brandName": "valentino",
+      "discount": 0.65,
       "description": "黑色、牛皮与绒面皮、拼接logo板鞋；成分：牛皮 100%，表面 成分：绒面皮 100%",
       "typeId": null,
-      "brandName": "valentino",
-      "id": "product-5",
-      "price": 520,
+      "tags": [
+        "male",
+        "shoes"
+      ],
+      "sizeType": "valentino",
       "transport": {
         "duration": {
           "min": 15,
@@ -1633,96 +1649,44 @@
         },
         "description": "1个工作日和买手店确认，周一、周四发货，发货后预计10个工作日到达目的地"
       },
-      "sizeType": "valentino",
-      "currency": "EUR",
-      "discount": 0.65,
       "pictures": [
         {
-          "name": "1.jpg",
           "tags": [
             "standard"
-          ]
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "2.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "2.jpg"
         },
         {
-          "name": "3.jpg",
           "tags": [
             "price"
-          ]
+          ],
+          "name": "3.jpg"
         }
       ],
-      "quantity": {
-        "42": 1,
-        "44": 1,
-        "41.5": 1,
-        "40": 1,
-        "39": 1,
-        "43": 1,
-        "39.5": 1,
-        "41": 1
-      },
-      "tags": [
-        "male",
-        "shoes"
-      ],
+      "id": "product-5",
       "color": "black"
     },
     {
-      "description": "黑色、牛皮、小号斜跨包；商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
-      "typeId": "bag-1",
-      "brandName": "Maison Margiela",
-      "id": "product-4",
-      "price": 1600,
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
-      },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "right side"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "front"
-          ]
-        }
-      ],
       "quantity": {
         "U": 1
       },
+      "price": 1600,
+      "currency": "EUR",
+      "brandName": "Maison Margiela",
+      "discount": 0.62,
+      "description": "黑色、牛皮、小号斜跨包；商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
+      "typeId": "bag-1",
       "tags": [
         "female",
         "bag"
       ],
-      "color": "black"
-    },
-    {
-      "description": "粉色、牛皮、小号斜跨包；商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
-      "typeId": "bag-1",
-      "brandName": "Maison Margiela",
-      "id": "product-3",
-      "price": 1600,
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -1730,137 +1694,96 @@
         },
         "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
       "pictures": [
         {
-          "name": "1.jpg",
           "tags": [
-            "left side"
-          ]
+            "right side"
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "2.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "2.jpg"
         },
         {
-          "name": "3.jpg",
           "tags": [
-            "price"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "model"
-          ]
+            "front"
+          ],
+          "name": "3.jpg"
         }
       ],
-      "quantity": {
-        "U": 2
-      },
-      "tags": [
-        "female",
-        "bag"
-      ],
-      "color": "pink"
-    },
-    {
-      "description": "Valentino Garavani 轻薄象牙色皮革单肩包，正面搭配钩扣，正面和背面饰有黑色和灰色金属铆钉细节，绒面革衬里内有两个隔层和一个拉链袋，里面贴有品牌标志。",
-      "brandID": "NW2B0053UVC",
-      "brandName": "Valentino Garavani",
-      "id": "product-32",
-      "price": 2545,
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "front",
-            "left"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "right"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "front",
-            "close-up"
-          ]
-        },
-        {
-          "name": "5.jpg",
-          "tags": [
-            "bottom"
-          ]
-        },
-        {
-          "name": "6.jpg",
-          "tags": [
-            "top",
-            "close-up"
-          ]
-        },
-        {
-          "name": "7.jpg",
-          "tags": [
-            "front",
-            "close-up"
-          ]
-        },
-        {
-          "name": "8.jpg",
-          "tags": [
-            "price"
-          ]
-        },
-        {
-          "name": "9.jpg",
-          "tags": [
-            "model",
-            "front"
-          ]
-        }
-      ],
-      "quantity": {
-        "U": 2
-      },
-      "tags": [
-        "female",
-        "bag"
-      ],
-      "typeId": null,
+      "id": "product-4",
       "color": "black"
     },
     {
-      "description": "",
-      "brandID": "491634/C8k05",
-      "brandName": "Balenciaga",
-      "id": "product-34",
-      "price": 1795,
+      "quantity": {
+        "U": 2
+      },
+      "price": 1600,
+      "currency": "EUR",
+      "brandName": "Maison Margiela",
+      "discount": 0.62,
+      "description": "粉色、牛皮、小号斜跨包；商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
+      "typeId": "bag-1",
+      "tags": [
+        "female",
+        "bag"
+      ],
+      "sizeType": "standard",
+      "transport": {
+        "duration": {
+          "min": 15,
+          "max": 19
+        },
+        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
+      },
+      "pictures": [
+        {
+          "tags": [
+            "left side"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "price"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "model"
+          ],
+          "name": "4.jpg"
+        }
+      ],
+      "id": "product-3",
+      "color": "pink"
+    },
+    {
+      "quantity": {
+        "U": 2
+      },
+      "brandID": "NW2B0053UVC",
+      "price": 2545,
+      "currency": "EUR",
+      "brandName": "Valentino Garavani",
+      "discount": 0.62,
+      "description": "Valentino Garavani 轻薄象牙色皮革单肩包，正面搭配钩扣，正面和背面饰有黑色和灰色金属铆钉细节，绒面革衬里内有两个隔层和一个拉链袋，里面贴有品牌标志。",
+      "typeId": null,
+      "tags": [
+        "female",
+        "bag"
+      ],
+      "sizeType": "standard",
       "transport": {
         "duration": {
           "min": 15,
@@ -1868,53 +1791,81 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.76,
       "pictures": [
         {
-          "name": "1.jpg",
           "tags": [
             "front"
-          ]
+          ],
+          "name": "1.jpg"
         },
         {
-          "name": "2.jpg",
           "tags": [
             "front",
+            "left"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
             "right"
-          ]
+          ],
+          "name": "3.jpg"
         },
         {
-          "name": "3.jpg",
           "tags": [
+            "front",
             "close-up"
-          ]
+          ],
+          "name": "4.jpg"
         },
         {
-          "name": "4.jpg",
           "tags": [
-            "back"
-          ]
+            "bottom"
+          ],
+          "name": "5.jpg"
+        },
+        {
+          "tags": [
+            "top",
+            "close-up"
+          ],
+          "name": "6.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "close-up"
+          ],
+          "name": "7.jpg"
+        },
+        {
+          "tags": [
+            "price"
+          ],
+          "name": "8.jpg"
+        },
+        {
+          "tags": [
+            "model",
+            "front"
+          ],
+          "name": "9.jpg"
         }
       ],
+      "id": "product-32",
+      "color": "black"
+    },
+    {
       "quantity": {
         "00": 1
       },
-      "tags": [
-        "female",
-        "bag"
-      ],
+      "brandID": "491634/C8k05",
+      "price": 1795,
+      "currency": "EUR",
+      "brandName": "Balenciaga",
+      "discount": 0.76,
+      "description": "",
       "typeId": null,
-      "color": "black",
-      "brandColor": "1000"
-    },
-    {
-      "description": "帕科（Paco Rabanne）是创建于20世纪60年代的法国高级时装品牌。品牌以塑料、皮革、激光唱片、金属等一系列元素为独特标志。Paco Rabanne 金色 牛皮小号链饰手提包。成分：牛皮100%",
-      "brandID": "17H1401SM2MIRLG.710",
-      "brandName": "Paco Rabanne",
-      "id": "product-33",
-      "price": 750,
       "transport": {
         "duration": {
           "min": 15,
@@ -1922,50 +1873,99 @@
         },
         "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
       },
-      "sizeType": "standard",
-      "currency": "EUR",
-      "discount": 0.62,
-      "pictures": [
-        {
-          "name": "1.jpg",
-          "tags": [
-            "front"
-          ]
-        },
-        {
-          "name": "2.jpg",
-          "tags": [
-            "back",
-            "left"
-          ]
-        },
-        {
-          "name": "3.jpg",
-          "tags": [
-            "close-up"
-          ]
-        },
-        {
-          "name": "4.jpg",
-          "tags": [
-            "back"
-          ]
-        },
-        {
-          "name": "5.jpg",
-          "tags": [
-            "model"
-          ]
-        }
-      ],
-      "quantity": {
-        "standard": 1
-      },
       "tags": [
         "female",
         "bag"
       ],
+      "pictures": [
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "front",
+            "right"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "4.jpg"
+        }
+      ],
+      "brandColor": "1000",
+      "sizeType": "standard",
+      "id": "product-34",
+      "color": "black"
+    },
+    {
+      "quantity": {
+        "standard": 1
+      },
+      "brandID": "17H1401SM2MIRLG.710",
+      "price": 750,
+      "currency": "EUR",
+      "brandName": "Paco Rabanne",
+      "discount": 0.62,
+      "description": "帕科（Paco Rabanne）是创建于20世纪60年代的法国高级时装品牌。品牌以塑料、皮革、激光唱片、金属等一系列元素为独特标志。Paco Rabanne 金色 牛皮小号链饰手提包。成分：牛皮100%",
       "typeId": null,
+      "tags": [
+        "female",
+        "bag"
+      ],
+      "sizeType": "standard",
+      "transport": {
+        "duration": {
+          "min": 15,
+          "max": 19
+        },
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+      },
+      "pictures": [
+        {
+          "tags": [
+            "front"
+          ],
+          "name": "1.jpg"
+        },
+        {
+          "tags": [
+            "back",
+            "left"
+          ],
+          "name": "2.jpg"
+        },
+        {
+          "tags": [
+            "close-up"
+          ],
+          "name": "3.jpg"
+        },
+        {
+          "tags": [
+            "back"
+          ],
+          "name": "4.jpg"
+        },
+        {
+          "tags": [
+            "model"
+          ],
+          "name": "5.jpg"
+        }
+      ],
+      "id": "product-33",
       "color": "gold"
     }
   ]
