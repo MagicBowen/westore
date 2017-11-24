@@ -2,7 +2,7 @@
 	"brandName": "Versace",
 	"brandID": "NW0S0E70XRL",
 	"brandColor": "0NO",
-	"color": "blask",
+	"color": "black",
 	"currency": "EUR",
 	"price": 1100,
 	"discount": 0.62,
@@ -33,6 +33,6 @@
 
 	],
 	"description": "Versace 黑色 牛皮 Medusa Palazzo高跟鞋。尖头，Medusa头纹标志镶嵌，低跟，鞋垫饰有品牌标识。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
-	"tags": ["female", "shoes", "High-heel shoes"]
+	"tags": ["female", "shoes", "high heel shoes"]
 
 }
