@@ -8,7 +8,7 @@
 	"discount": 0.69,
 	"typeId"   : null,
 	"sizeType": "standard",
-	"quantity": {"standard": 1},
+	"quantity": {"U": 1},
 	"transport": {
 		"duration": {
 		"min": 15, 
