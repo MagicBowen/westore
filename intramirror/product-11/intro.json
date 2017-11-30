@@ -9,6 +9,7 @@
     "quantity" : {"XS" : 1, "S" : 1, "M" : 1, "L" : 1},
     "transport" : {"duration" : {"min" : 17, "max" : 24}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计12个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
     "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}],
-    "description" : "吊带裙，成分：57% ALPACA 43% VIRGIN WOOL",
+    "description" : "成分：57% ALPACA 43% VIRGIN WOOL",
+    "type"     : "吊带裙",
     "tags" : ["female", "dress"]
 }

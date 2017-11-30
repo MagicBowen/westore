@@ -36,7 +36,8 @@
 
 
 	],
-	"description": "Bazar中号购物袋",
+	"description": "Bazar购物袋，蓝白彩条，皮质",
+	"type" : "购物袋",
 	"tags": ["female", "bag"]
 
 }

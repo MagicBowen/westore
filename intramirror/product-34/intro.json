@@ -34,6 +34,7 @@
 			"tags": ["back"]
 		}
 	],
-	"description": "女士手提包",
+	"description": "真皮材质",
+	"type" : "女士手提包",
 	"tags": ["female", "bag"]
 }

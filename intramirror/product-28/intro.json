@@ -36,7 +36,8 @@
 
 
 	],
-	"description": "女士编制手提包",
+	"description": "真皮编制，金属提链",
+	"type" : "女士编制手提包",
 	"tags": ["female", "bag"]
 
 }

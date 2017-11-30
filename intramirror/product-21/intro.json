@@ -10,5 +10,6 @@
     "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
     "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]}],
     "description" : "牛仔短裤",
+    "type" : "牛仔短裤",
     "tags" : ["female", "short"]
 }
