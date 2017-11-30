@@ -9,6 +9,6 @@
     "quantity" : {"U" : 1},
     "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"},
     "pictures" : [{"name" : "1.jpg", "tags" : ["right side"]}, {"name" : "2.jpg", "tags" : ["front"]}, {"name" : "3.jpg", "tags" : ["front"]}],
-    "description" : "黑色、牛皮、小号斜跨包；商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
+    "description" : "小号斜跨包；商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
     "tags" : ["female", "bag"]
 }
