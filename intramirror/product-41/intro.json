@@ -2,12 +2,12 @@
 	"brandName": "Lanvin",
 	"brandID": "RMS10235S00401als",
 	"brandColor": "10",
-	"color": "Black",
+	"color": "black",
 	"currency": "EUR",
 	"price": 275,
 	"discount": 0.56,
 	"typeId"   : null,
-	"sizeType": "England/America",
+	"sizeType": "America",
 	"quantity": {"39": 1, "40": 1, "41": 1},
 	"transport": {
 		"duration": {
@@ -28,6 +28,5 @@
 	],
 	"description": "字母刺绣衬衫。黑色。立领。纽扣闭合方式。短袖",
 	"type" : "男士短袖衬衫",
-	"tags": ["female", "bag"]
-
+	"tags": ["male", "blouse"]
 }

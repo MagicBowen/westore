@@ -2,11 +2,12 @@
 	"brandName": "Valentino",
 	"brandID": "PV3MG10B3LE",
 	"brandColor": "0OI",
-	"color": "Blue",
+	"color": "blue",
 	"currency": "EUR",
 	"price": 295,
 	"discount": 0.69,
-	"size": "standard",
+	"typeId"   : null,	
+	"sizeType": "standard",
 	"quantity": {"S": 1, "M": 1, "L": 2, "XL": 1},
 	"transport": {
 		"duration": {
@@ -29,8 +30,7 @@
 			"tags": ["close-up"]
 		}
 	],
-	"description": "",
+	"description": "男士休闲穿棉T恤",
 	"tags": ["male", "tshirt"],
 	"type": "男士T恤"
-
 }

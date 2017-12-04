@@ -2,11 +2,12 @@
 	"brandName": "Burberry",
 	"brandID": "4059500SANDRINGHAM",
 	"brandColor": "41000",
-	"color": "Blue",
+	"color": "blue",
 	"currency": "EUR",
 	"price": 895,
 	"discount": 0.6,
-	"size": "standard",
+	"typeId"   : null,	
+	"sizeType": "standard",
 	"quantity": {"M": 1, "L": 1, "XL": 1},
 	"transport": {
 		"duration": {
@@ -17,24 +18,27 @@
 	},
 	"pictures": [
 		{
-			"name": "01.jpg",
+			"name": "1.jpg",
 			"tags": ["front"]
 		},
 		{
-			"name": "02.jpg",
+			"name": "2.jpg",
 			"tags": ["front", "model"]
 		},
 		{
-			"name": "03.jpg",
+			"name": "3.jpg",
 			"tags": ["left-side", "model"]
 		},
 		{
-			"name": "04.jpg",
+			"name": "4.jpg",
 			"tags": ["front", "model"]
-		}
+		},
+		{
+			"name": "5.jpg",
+			"tags": ["back", "model"]
+		}		
 	],
-	"description": "Burberry 海军蓝色 牛皮与羊毛混纺 Plymouth连帽外套。短款，纽扣，经典衣领，带兜帽，方格衬里。成分：牛皮100%、成分：聚酰胺 20%、成分：羊毛 80%",
+	"description": "海军蓝色 牛皮与羊毛混纺 Plymouth连帽外套。短款，纽扣，经典衣领，带兜帽，方格衬里。成分：牛皮100%、成分：聚酰胺 20%、成分：羊毛 80%",
 	"tags": ["male", "coat"],
 	"type": "男士外套"
-
 }

@@ -1,12 +1,13 @@
 {
-	"brandName": "Fendi",
-	"brandID": "FZZ363 A2DX",
-	"brandColor": "F0QA1",
-	"color": "Black",
+	"brandName": "Valentino",
+	"brandID": "PV3RB20J4TA",
+	"brandColor": "0NO",
+	"color": "black",
 	"currency": "EUR",
-	"price": 420,
-	"discount": 0.6,
-	"size": "standard",
+	"price": 300,
+	"discount": 0.69,
+	"typeId"   : null,	
+	"sizeType": "standard",
 	"quantity": {"48": 1, "50": 1, "52": 1},
 	"transport": {
 		"duration": {
@@ -22,16 +23,26 @@
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["front"]
+			"tags": ["back"]
 		},
 		{
 			"name": "3.jpg",
+			"tags": ["right", "model"]
+		},
+		{
+			"name": "4.jpg",
 			"tags": ["close-up"]
+		},
+		{
+			"name": "5.jpg",
+			"tags": ["front", "model"]
+		},
+		{
+			"name": "6.jpg",
+			"tags": ["back", "model"]
 		}
-
 	],
-	"description": "Fendi(芬迪) 黑色 棉质与羊绒混纺 logo滚边套头衫。圆领，长袖，螺纹底边及袖口。表面 成分：棉85%、表面 成分：羊绒 15%、表面 成分：珍珠母 100%、洗涤说明：干洗",
-	"tags": ["man", "pullover"],
-	"type": "男士套头衫"
-
+	"description": "Valentino（华伦天奴）黑色 全棉 经典西裤。合身设计",
+	"tags": ["male", "pants"],
+	"type": "男士西裤"
 }
