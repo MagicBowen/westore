@@ -26,24 +26,24 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["right"]
+			"tags": ["right","scene","close-up"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["front", "close-up"]
+			"tags": ["front", "close-up","scene"]
 		}
 		,
 		{
 			"name": "5.jpg",
-			"tags": ["bottom"]
+			"tags": ["bottom","scene","scene"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": ["top", "close-up"]
+			"tags": ["top", "close-up","scene"]
 		},
 		{
 			"name": "7.jpg",
-			"tags": ["front", "close-up"]
+			"tags": ["front", "close-up","scene"]
 		},
 		{
 			"name": "8.jpg",

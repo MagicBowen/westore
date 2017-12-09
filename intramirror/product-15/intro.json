@@ -27,35 +27,35 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["back"]
+			"tags": ["back", "scene"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["front"]
+			"tags": ["front", "scene"]
 		},
 		{
 			"name": "5.jpg",
-			"tags": ["front"]
+			"tags": ["front", "scene"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up", "scene"]
 		},
 		{
 			"name": "7.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up", "scene"]
 		},
 		{
 			"name": "8.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up", "scene"]
 		},
 		{
 			"name": "9.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up", "scene"]
 		},
 		{
 			"name": "10.jpg",
-			"tags": ["close-up"]
+			"tags": ["front", "close-up"]
 		}
 		
 

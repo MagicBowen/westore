@@ -27,32 +27,32 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["front"]
+			"tags": ["front","scene"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["back"]
+			"tags": ["back","scene"]
 		},
 			
 		{
 			"name": "5.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up","scene"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up","scene"]
 		},
 		{
 			"name": "7.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up","scene"]
 		},
 		{
 			"name": "8.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up","scene"]
 		},
 		{
 			"name": "9.jpg",
-			"tags": ["price"]
+			"tags": ["price","scene","intro"]
 		}
 		
 
