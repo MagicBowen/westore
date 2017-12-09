@@ -23,27 +23,27 @@
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["front"]
+			"tags": ["front","scene"]
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["left"]
+			"tags": ["left","scene"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["top"]
+			"tags": ["close-up","scene"]
 		},
 		{
 			"name": "5.jpg",
-			"tags": ["front"]
+			"tags": ["front","scene"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": ["bottom"]
+			"tags": ["close-up","scene"]
 		},
 		{
 			"name": "7.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up","scene"]
 		},
 		{
 			"name": "8.jpg",

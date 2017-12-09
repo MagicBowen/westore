@@ -23,24 +23,24 @@
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["back"]
+			"tags": ["back","scene"]
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["front"]
+			"tags": ["front","scene"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["left"]
+			"tags": ["left","scene"]
 		}
 		,
 		{
 			"name": "5.jpg",
-			"tags": ["top"]
+			"tags": ["top","scene"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": ["top"]
+			"tags": ["top","scene"]
 		},
 		{
 			"name": "7.jpg",
