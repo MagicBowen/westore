@@ -7,7 +7,7 @@
 	"price": 300,
 	"discount": 0.69,
 	"typeId"   : null,	
-	"sizeType": "standard",
+	"sizeType": "Italy",
 	"quantity": {"48": 1, "50": 1, "52": 1},
 	"transport": {
 		"duration": {
