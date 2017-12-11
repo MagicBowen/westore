@@ -11,5 +11,5 @@
     "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "front-1.jpg", "tags" : ["front","model"]}, {"name" : "back.jpg", "tags" : ["back","model"]}, {"name" : "close-up.jpg", "tags" : ["close-up"]}],
     "description" : "成分：57% ALPACA 43% VIRGIN WOOL",
     "type"     : "大衣",
-    "tags" : ["female", "coat", "overcoat"]
+    "tags" : ["female", "coat", "overcoat","loose_coat"]
 }
