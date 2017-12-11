@@ -19,7 +19,7 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right","side"]
 		},
 		{
 			"name": "2.jpg",
@@ -31,7 +31,7 @@
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up","bottom"]
 		}
 
 

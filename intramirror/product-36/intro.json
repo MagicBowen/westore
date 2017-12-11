@@ -31,7 +31,7 @@
 		}
 	],
 	"description": "皮夹克，男士，红色",
-	"tags": ["male", "jacket"],
+	"tags": ["male", "jacket", "coat", "loose_coat"],
 	"type": "男士夹克"
 
 }

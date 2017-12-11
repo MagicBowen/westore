@@ -19,23 +19,23 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["right","scene"]
+			"tags": ["right","scene", "side"]
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["back","scene"]
+			"tags": ["back","scene", "side"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["front","scene"]
+			"tags": ["front","scene", "side"]
 		},
 		{
 			"name": "5.jpg",
-			"tags": ["front","scene"]
+			"tags": ["front","scene", "side"]
 		},
 		{
 			"name": "6.jpg",
@@ -54,6 +54,6 @@
 	],
 	"description": "运动鞋，休闲款",
 	"type" : "运动鞋",
-	"tags": ["female", "shoes", "boots", "sneakers"]
+	"tags": ["female", "shoes", "sneakers"]
 
 }
