@@ -11,5 +11,5 @@
     "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]},  {"name" : "close-up.jpg", "tags" : ["close-up"]}],
     "description" : "羊绒连身衣",
     "type" : "羊绒连身衣",
-    "tags" : ["female", "sweater"]
+    "tags" : ["female", "sweater", "coat"]
 }

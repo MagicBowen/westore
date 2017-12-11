@@ -7,7 +7,7 @@
 	"price": 420,
 	"discount": 0.6,
 	"typeId"   : null,	
-	"sizeType": "standard",
+	"sizeType": "Italy",
 	"quantity": {"48": 1, "50": 1, "52": 1},
 	"transport": {
 		"duration": {
@@ -32,7 +32,7 @@
 
 	],
 	"description": "Fendi(芬迪) 黑色 棉质与羊绒混纺 logo滚边套头衫。圆领，长袖，螺纹底边及袖口。表面 成分：棉85%、表面 成分：羊绒 15%、表面 成分：珍珠母 100%、洗涤说明：干洗",
-	"tags": ["man", "pullover", "coat"],
+	"tags": ["male", "pullover", "coat"],
 	"type": "男士套头衫"
 
 }

@@ -6,8 +6,8 @@
 	"price": 1190,
 	"discount": 0.73,
 	"typeId"   : null,
-	"sizeType": "00",
-	"quantity": {"00": 1},
+	"sizeType": "UK",
+	"quantity": {"U": 1},
 	"transport": {
 		"duration": {
 			"min": 15, 
