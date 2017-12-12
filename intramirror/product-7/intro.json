@@ -11,5 +11,5 @@
     "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]},  {"name" : "model.jpg", "tags" : ["front", "model"]}],
     "description" : "真丝蕾丝边蝴蝶结罩衫。成分：丝绸100% 洗剂说明 干洗",
     "type" : "罩衫",   
-    "tags" : ["female", "blouse"]
+    "tags" : ["female", "blouse", "coat"]
 }

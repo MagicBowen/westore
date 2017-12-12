@@ -19,15 +19,15 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["left"]
+			"tags": ["left", "side"]
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		}
 		
 

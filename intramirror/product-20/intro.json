@@ -19,11 +19,11 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "3.jpg",
@@ -59,6 +59,6 @@
 	],
 	"description": "Maison Margiela 红色 小牛皮 Socks及裸靴。圆头，后置隐藏式拉链，后饰有标志性的白色针脚，中高粗跟。商品尺寸 Heel：8cm，Circumaference：23cm，Height：13.5cm。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
 	"type": "裸靴",
-	"tags": ["female", "socks", "boots", "ankle boots"]
+	"tags": ["female", "boots", "short_boots"]
 
 }
