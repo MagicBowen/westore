@@ -144,9 +144,11 @@ def download_picture():
     return send_file("./intramirror/{}/target/{}".format(product_id, image_id), mimetype='image/jpeg')
 
 @app.route('/westore/picture/size/relation', methods=['GET'])
-def download_size_relation():
+def query_size_relation():
     relation_Name = request.args.get('relationName')
-    return send_file("./sizeRelation/{}".format(relation_Name), mimetype='image/jpeg')
+    sex  = request.args.get('sex')
+    size_type = request.args.get('size_type')
+    return send_file("./sizeRelation/{}/{}/{}".format(sex, size_type, relation_Name), mimetype='image/jpeg')
 
 @app.route('/')
 def index():
