@@ -7,7 +7,7 @@
 	"price": 275,
 	"discount": 0.56,
 	"typeId"   : null,
-	"sizeType": "America",
+	"sizeType": "UK",
 	"quantity": {"39": 1, "40": 1, "41": 1},
 	"transport": {
 		"duration": {
