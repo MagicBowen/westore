@@ -1,0 +1,40 @@
+{
+	"brandName": "Thom Browne",
+	"color": "white",
+	"currency": "EUR",
+	"price": 370,
+	"discount": 0.6,
+	"typeId"   : null,
+	"sizeType": "Thom Browne",
+	"quantity": {"1": 3, "2":2, "3": 3},
+	"transport": {
+		"duration": {
+		"min": 14, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["front", "model"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": ["close-up", "front", "model"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": ["back", "model"]
+		},
+		{
+			"name": "4.jpg",
+			"tags": ["front", "model"]
+		}
+
+
+	],
+	"description": "Thom Browne 白色 全棉 条纹袖衬衫。表面 成分：棉 100%",
+	"type" : "男士衬衫",
+	"tags": ["male", "blouse"]
+}

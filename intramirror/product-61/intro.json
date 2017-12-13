@@ -1,0 +1,35 @@
+{
+	"brandName": "Valentino",
+	"color": "black",
+	"currency": "EUR",
+	"price": 1400,
+	"discount": 0.48,
+	"typeId"   : null,
+	"sizeType": "国际码",
+	"quantity": {"M":1, "L": 1},
+	"transport": {
+		"duration": {
+		"min": 14, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": [ "back"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": [ "front", "close-up"]
+		}
+
+	],
+	"description": "拉链长款外套。长款，黑色，立领。前置两个口袋。100%聚酯纤维、60%马海毛、40%初剪羊毛",
+	"type" : "男士外套",
+	"tags": ["male", "coat"]
+}

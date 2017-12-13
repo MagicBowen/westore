@@ -1,0 +1,15 @@
+{
+    "brandName" : "Fendi",
+    "color" : "pink",
+    "currency" : "EUR",
+    "price" : 350,
+    "discount" : 0.6,
+    "typeId"   : "shirt50",
+    "sizeType" : "italy",
+    "quantity" : {"38" : 2, "40" : 2, "42" : 2, "44" : 1},
+    "transport" : {"duration" : {"min" : 14, "max" : 19}, "description" : "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
+    "pictures" : [{"name" : "face.jpg", "tags" : ["front"]}, {"name" : "f-s.jpg", "tags" : ["front", "scene"]}, {"name" : "f-c-s.jpg", "tags" : ["front", "close-up", "scene"]}, {"name" : "f-m-s.jpg", "tags" : ["front", "model", "scene"]}, {"name" : "f-m-s-1.jpg", "tags" : ["front", "model", "scene"]}, {"name" : "b.jpg", "tags" : ["back"]}, {"name" : "b-s.jpg", "tags" : ["back", "scene"]}, {"name" : "b-c-s.jpg", "tags" : ["back", "close-up", "scene"]}, {"name" : "r-m-s.jpg", "tags" : ["right", "model", "scene", "side"]}],
+    "description" : "Fendi(芬迪) 粉红色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
+    "type" : "tshirt",
+    "tags" : ["female", "tshirt"]
+}
