@@ -19,11 +19,11 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "3.jpg",
@@ -38,6 +38,6 @@
 	],
 	"description": "女士高筒靴",
 	"type": "女士高筒靴",
-	"tags": ["female", "shoes", "boots", "high boots"]
+	"tags": ["female", "shoes", "boots", "high_boots"]
 
 }

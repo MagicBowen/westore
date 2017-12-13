@@ -27,7 +27,7 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["left-side", "model"]
+			"tags": ["left-side", "model","side"]
 		},
 		{
 			"name": "4.jpg",
@@ -39,6 +39,6 @@
 		}		
 	],
 	"description": "海军蓝色 牛皮与羊毛混纺 Plymouth连帽外套。短款，纽扣，经典衣领，带兜帽，方格衬里。成分：牛皮100%、成分：聚酰胺 20%、成分：羊毛 80%",
-	"tags": ["male", "coat"],
+	"tags": ["male", "coat", "loose_coat", "overcoat"],
 	"type": "男士外套"
 }

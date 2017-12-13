@@ -19,15 +19,15 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["right", "back"]
+			"tags": ["right", "back", "side"]
 		},
 		{
 			"name": "4.jpg",
@@ -38,6 +38,6 @@
 	],
 	"description": "女士鞋子，尖头，牛皮",
 	"type" : "女鞋",
-	"tags": ["female", "shoes", "boots"]
+	"tags": ["female", "shoes", "boots", "short_boots"]
 
 }

@@ -11,5 +11,5 @@
     "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "front-1.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]}, {"name" : "front-i.jpg", "tags" : ["front", "model"]}, {"name" : "close-up.jpg", "tags" : ["close-up"]}],
     "description" : "全棉连帽。成分:棉 100%、洗涤说明：机洗",
     "type" : "衬衫", 
-    "tags" : ["female", "blouse"]
+    "tags" : ["female", "blouse", "tshirt"]
 }
