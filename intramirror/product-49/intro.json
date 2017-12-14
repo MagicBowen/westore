@@ -5,7 +5,7 @@
 	"price": 410,
 	"discount": 0.58,
 	"typeId"   : null,
-	"sizeType": "欧洲码",
+	"sizeType": "UK",
 	"quantity": {"40":1, "41": 1},
 	"transport": {
 		"duration": {

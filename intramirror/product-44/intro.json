@@ -5,7 +5,7 @@
 	"price": 360,
 	"discount": 0.52,
 	"typeId"   : "UCM608F62",
-	"sizeType": "欧洲码",
+	"sizeType": "UK",
 	"quantity": {"38": 1, "40":1, "41": 1, "42": 1},
 	"transport": {
 		"duration": {

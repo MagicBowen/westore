@@ -1,0 +1,34 @@
+{
+	"brandName": "Doppiaa",
+	"color": "blue",
+	"currency": "EUR",
+	"price": 865,
+	"discount": 0.52,
+	"typeId"   : null,
+	"sizeType": "italy",
+	"quantity": {"50":1},
+	"transport": {
+		"duration": {
+		"min": 14, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": ["back"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": ["close-up"]
+		}
+	],
+	"description": "Marine Blue Wool Suits from Doppiaa, classic jacket buttons closure, long sleeves, two pockets on front, brand logo inside label, Pants with button and zip closure on front, belt loops, two pockets on front, two button pockets on back, classic fit, brand logo inside label",
+	"type" : "男士西装套装", 
+	"tags": ["male", "coat", "suit"]
+}
