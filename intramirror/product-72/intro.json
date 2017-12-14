@@ -5,7 +5,7 @@
 	"price": 226,
 	"discount": 0.44,
 	"typeId"   : null,
-	"sizeType": "国际码",
+	"sizeType": "standard",
 	"quantity": {"XL": 2},
 	"transport": {
 		"duration": {

@@ -1,0 +1,58 @@
+{
+	"brandName": "Gucci",
+	"color": "multicolor",
+	"currency": "EUR",
+	"price": 2400,
+	"discount": 0.55,
+	"typeId"   : null,
+	"sizeType": "Gucci",
+	"quantity": {"42": 1},
+	"transport": {
+		"duration": {
+		"min": 14, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["front"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": [ "front", "model", "scene"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": [ "right","model", "scene"]
+		},
+		{
+			"name": "4.jpg",
+			"tags": [ "front", "model","scene"]
+		},
+		{
+			"name": "5.jpg",
+			"tags": [ "front", "scene"]
+		},
+		{
+			"name": "6.jpg",
+			"tags": [ "back", "scene"]
+		},
+		{
+			"name": "7.jpg",
+			"tags": [ "close-up"]
+		},
+		{
+			"name": "8.jpg",
+			"tags": [ "close-up"]
+		},
+		{
+			"name": "9.jpg",
+			"tags": [ "scene", "intro"]
+		}
+	],
+	"description": "Gucci 多色 丝绸婚房 Acid Bloom印花半身裙。高腰，叠层设计，中长。表面 成分：丝绸 100%、衬里 成分：丝绸 29%、衬里 成分：醋酸纤维 71%、洗涤说明：干洗",
+	"type" : "女士裙子", 
+	"tags": ["female", "skirt"]
+}

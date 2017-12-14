@@ -5,7 +5,7 @@
 	"price": 1400,
 	"discount": 0.48,
 	"typeId"   : null,
-	"sizeType": "国际码",
+	"sizeType": "standard",
 	"quantity": {"M":1, "L": 1},
 	"transport": {
 		"duration": {

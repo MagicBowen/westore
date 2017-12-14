@@ -5,7 +5,7 @@
 	"price": 546,
 	"discount": 0.44,
 	"typeId"   : "W7H5099J",
-	"sizeType": "国际码",
+	"sizeType": "standard",
 	"quantity": {"S": 1, "L": 1},
 	"transport": {
 		"duration": {
