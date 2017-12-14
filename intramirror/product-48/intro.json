@@ -29,7 +29,7 @@
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["front", "model"]
+			"tags": ["right", "model", "side"]
 		},
 		{
 			"name": "5.jpg",
@@ -37,7 +37,7 @@
 		}
 
 	],
-	"description": "",
+	"description": "Polo Ralph Lauren男士休闲衬衫",
 	"type" : "男士衬衫",
 	"tags": ["male", "blouse"]
 }

@@ -5,8 +5,8 @@
 	"price": 370,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "Thom Browne",
-	"quantity": {"1": 3, "2":2, "3": 3},
+	"sizeType": "America",
+	"quantity": {"4": 3, "6":2, "8": 3},
 	"transport": {
 		"duration": {
 		"min": 14, 

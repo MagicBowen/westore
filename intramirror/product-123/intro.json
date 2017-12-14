@@ -5,7 +5,7 @@
 	"price": 865,
 	"discount": 0.52,
 	"typeId"   : null,
-	"sizeType": "italy",
+	"sizeType": "Italy",
 	"quantity": {"50":1},
 	"transport": {
 		"duration": {

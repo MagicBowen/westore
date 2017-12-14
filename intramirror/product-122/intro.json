@@ -5,7 +5,7 @@
 	"price": 1820,
 	"discount": 0.52,
 	"typeId"   : null,
-	"sizeType": "Dolce & Gabbanna",
+	"sizeType": "Italy",
 	"quantity": {"50":1},
 	"transport": {
 		"duration": {
@@ -29,7 +29,7 @@
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["left", "model"]
+			"tags": ["left", "model","side"]
 		},
 		{
 			"name": "5.jpg",

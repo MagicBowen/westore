@@ -5,7 +5,7 @@
 	"price": 910,
 	"discount": 0.44,
 	"typeId"   : "108428",
-	"sizeType": "Balmain",
+	"sizeType": "France",
 	"quantity": {"34":2, "36": 1},
 	"transport": {
 		"duration": {
@@ -41,11 +41,11 @@
 		},
 		{
 			"name": "7.jpg",
-			"tags": ["close-up"]
+			"tags": ["close-up", "side"]
 		}
 
 	],
 	"description": "Balmain（巴尔曼）海军蓝色 羊毛与丝绸混纺 浮雕纽扣针织上衣。圆领，长袖，肩章，正面纽扣，两个胸带，金色浮雕纽扣，合身廓形。成分：羊毛 70％、成分：丝绸 30%、洗涤说明：干洗",
 	"type" : "女士针织上衣", 
-	"tags": ["female","coat"]
+	"tags": ["female","coat","blouse"]
 }

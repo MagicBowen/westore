@@ -5,7 +5,7 @@
 	"price": 475,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "UK",
+	"sizeType": "Italy",
 	"quantity": {"40.5": 1, "41.5": 1, "41": 1, "42": 1},
 	"transport": {
 		"duration": {
@@ -33,6 +33,6 @@
 		}
 	],
 	"description": "Lidfort 褐色 牛皮 杏仁形鞋尖及裸靴。以41码为参考，商品尺寸 Heel：3 cm Circumference：25 cm Height：14 cm。表面 成分：牛皮 100% 衬里 成分：牛皮 100% 鞋底 成分：牛皮 100%",
-	"type" : "男士裸靴",
+	"type" : "男士靴子",
 	"tags": ["male","shoes","boots"]
 }

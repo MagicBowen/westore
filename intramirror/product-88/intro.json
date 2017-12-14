@@ -1,11 +1,11 @@
 {
-	"brandName": "Tod\u0027s",
+	"brandName": "Tods",
 	"color": "brown",
 	"currency": "EUR",
 	"price": 350,
 	"discount": 0.65,
 	"typeId"   : "XXM0T",
-	"sizeType": "Tod\u0027s",
+	"sizeType": "UK",
 	"quantity": {"5.5": 2, "6": 2, "6.5": 2, "7": 2, "7.5":2, "8": 2, "8.5": 2, "9": 2, "9.5":1},
 	"transport": {
 		"duration": {
@@ -34,5 +34,5 @@
 	],
 	"description": "编织麂皮绒乐福鞋，麂皮绒滑扣，侧面有弹性插件，背部可有标志，绒面革，内部皮革。棕色。",
 	"type" : "男士乐福鞋",
-	"tags": ["male","shoes"]
+	"tags": ["male","shoes","casual_shoes"]
 }

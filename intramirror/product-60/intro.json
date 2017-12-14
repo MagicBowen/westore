@@ -5,7 +5,7 @@
 	"price": 2320,
 	"discount": 0.48,
 	"typeId"   : null,
-	"sizeType": "Calvin Klein",
+	"sizeType": "Italy",
 	"quantity": {"48":1},
 	"transport": {
 		"duration": {
@@ -25,7 +25,7 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": [ "front", "model", "right"]
+			"tags": [ "front", "model", "right", "side"]
 		},
 		{
 			"name": "4.jpg",
@@ -35,5 +35,5 @@
 	],
 	"description": "缎布飞行员夹克 男士",
 	"type" : "男士夹克",
-	"tags": ["male", "jacket", "coat"]
+	"tags": ["male", "jacket", "coat","casual_clothes"]
 }

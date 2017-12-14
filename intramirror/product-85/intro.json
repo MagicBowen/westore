@@ -5,8 +5,8 @@
 	"price": 695,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "U",
-	"quantity": {"均码": 2},
+	"sizeType": "UK",
+	"quantity": {"U": 2},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -38,5 +38,5 @@
 	],
 	"description": "Dolce & Gabbana（杜嘉班纳）黑色 小牛皮 logo贴花背包。顶部有一个手柄，侧置拉链，环绕式拉链，可调带，真皮边饰。商品尺寸：Strap：32 cm、Depth：15 cm、Handle：6 cm、Width：30 cm、Height：40 cm。表面 成分：尼龙 12%、表面 成分：亚克力 7%、表面 成分：小牛皮 15%、表面 成分：聚酰胺 60%、表面 成分：聚丙烯 6%。",
 	"type" : "男士背包",
-	"tags": ["male","bag"]
+	"tags": ["male","bag","backpack"]
 }

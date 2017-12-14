@@ -5,8 +5,8 @@
 	"price": 1050,
 	"discount": 0.62,
 	"typeId"   : null,
-	"sizeType": "U",
-	"quantity": {"均码": 1},
+	"sizeType": "UK",
+	"quantity": {"U": 1},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -30,5 +30,5 @@
 	],
 	"description": "Prada黑色尼龙单肩包，双金属夹子搭扣，三角形金属LOGO，正面带有品牌标志，可拆卸可调节简单，内部拉链开合，翻盖下开放式隔层，内部口袋，背部带拉链口袋。产品材质：100%尼龙 产品尺寸：高度：24CM，宽度：30CM，深度：12.5CM",
 	"type" : "男士单肩包",
-	"tags": ["male","bag"]
+	"tags": ["male","bag","shoulder_bag"]
 }

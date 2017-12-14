@@ -5,7 +5,7 @@
 	"price": 491,
 	"discount": 0.44,
 	"typeId"   : null,
-	"sizeType": "Marni",
+	"sizeType": "Italy",
 	"quantity": {"38": 1},
 	"transport": {
 		"duration": {
@@ -39,5 +39,5 @@
 	],
 	"description": "Marni向来以创新的灵感诠释时尚潮流，如今也不例外，在坚守创办人Consuelo Castiglioni的美学的同时，运用不拘一格的廓形、五零年代式印花和给嘞皮草打造具个人特色的时装系列。Marni（玛尼）蓝色 初剪羊毛混纺 七分阔腿裤。隐藏式正面开合，下摆上翻，折痕，短款，阔腿。成分：涤纶 62%、成分：初剪羊毛 38%、洗涤说明：干洗",
 	"type" : "女士七分阔腿裤", 
-	"tags": ["female","pants"]
+	"tags": ["female","pants","slacks","cropped_trousers"]
 }

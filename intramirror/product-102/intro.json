@@ -5,7 +5,7 @@
 	"price": 150,
 	"discount": 0.6,
 	"typeId"   : "71310782000",
-	"sizeType": "Sportmax",
+	"sizeType": "Italy",
 	"quantity": {"40":1, "42": 1, "44": 1},
 	"transport": {
 		"duration": {
@@ -25,7 +25,7 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["right", "close-up"]
+			"tags": ["right", "close-up","side"]
 		},
 		{
 			"name": "4.jpg",
@@ -35,5 +35,5 @@
 	],
 	"description": "红色直筒长裤，前后口袋，97%棉、3%氨纶面料。",
 	"type" : "女士长裤", 
-	"tags": ["female","pants"]
+	"tags": ["female","pants","slacks"]
 }

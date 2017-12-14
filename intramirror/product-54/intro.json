@@ -5,11 +5,11 @@
     "price" : 1300,
     "discount" : 0.6,
     "typeId"   : "sweater54",
-    "sizeType" : "italy",
+    "sizeType" : "Italy",
     "quantity" : {"44" : 1, "46" : 1},
     "transport" : {"duration" : {"min" : 14, "max" : 19}, "description" : "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
     "pictures" : [{"name" : "face.jpg", "tags" : ["front"]}, {"name" : "b-s.jpg", "tags" : ["back", "scene"]}, {"name" : "f-m.jpg", "tags" : ["front", "model"]}, {"name" : "f-s.jpg", "tags" : ["front", "model"]}, {"name" : "f-s-m.jpg", "tags" : ["front", "scene", "model"]}, {"name" : "intro.jpg", "tags" : ["intro"]}, {"name" : "r-s-m.jpg", "tags" : ["right", "side", "scene", "model"]}, {"name" : "s-c.jpg", "tags" : ["scene", "close-up"]}, {"name" : "s-c-1.jpg", "tags" : ["scene", "close-up"]}],
     "description" : "Fendi(芬迪) 白色与褐色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
-    "type" : "sweater",
+    "type" : "女士毛衣",
     "tags" : ["female", "sweater", "pullover","coat"]
 }

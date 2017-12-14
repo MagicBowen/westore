@@ -5,7 +5,7 @@
 	"price": 1313,
 	"discount": 0.44,
 	"typeId"   : null,
-	"sizeType": "Givenchy",
+	"sizeType": "Italy",
 	"quantity": {"50":1, "52": 1},
 	"transport": {
 		"duration": {
@@ -21,11 +21,11 @@
 		},
 		{
 			"name": "2.jpg",
-			"tags": ["front", "left", "model"]
+			"tags": ["front", "left", "model","side"]
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["front", "right", "model"]
+			"tags": ["front", "right", "model","side"]
 		},
 		{
 			"name": "4.jpg",

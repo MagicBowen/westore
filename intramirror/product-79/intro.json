@@ -5,8 +5,8 @@
 	"price": 1100,
 	"discount": 0.62,
 	"typeId"   : null,
-	"sizeType": "U",
-	"quantity": {"均码": 1},
+	"sizeType": "UK",
+	"quantity": {"U": 1},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -30,5 +30,5 @@
 	],
 	"description": "单肩包华伦天奴 格拉瓦尼黑色，在前面的拉链口袋，前水平带，主拉链，肩带饰有可调节和可拆卸螺栓，绒面衬里，两个开放口袋，内部标签标识。高度：27 CM，高度：28 CM，深度：3 CM。100％小牛皮",
 	"type" : "男士单肩包",
-	"tags": ["male","bag"]
+	"tags": ["male","bag","shoulder_bag"]
 }

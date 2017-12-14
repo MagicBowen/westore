@@ -5,8 +5,8 @@
 	"price": 920,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "U",
-	"quantity": {"均码": 4},
+	"sizeType": "UK",
+	"quantity": {"U": 4},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -34,5 +34,5 @@
 	],
 	"description": "Prada 黑色 牛皮 logo标牌背包。 Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此包款饰有，侧面标牌、可调整肩带、拉链开合、皮革吊牌。是一款兼具实用性与品位的背包。商品尺寸 带长：35 cm、深度：18 cm、宽度：32 cm、高度：40 cm。成分：牛皮 100%、成分：尼龙 100%",
 	"type" : "男士背包",
-	"tags": ["male","bag"]
+	"tags": ["male","bag","backpack"]
 }
