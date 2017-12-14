@@ -1,0 +1,42 @@
+{
+	"brandName": "Prada",
+	"color": "black",
+	"currency": "EUR",
+	"price": 491,
+	"discount": 0.44,
+	"typeId"   : null,
+	"sizeType": "prada",
+	"quantity": {"5.5": 1, "6": 1, "6.5": 1, "7": 1, "7.5":1, "8.5": 1},
+	"transport": {
+		"duration": {
+		"min": 14, 
+		"max": 19
+		},
+		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
+	},
+	"pictures": [
+		{
+			"name": "1.jpg",
+			"tags": ["right"]
+		},
+		{
+			"name": "2.jpg",
+			"tags": ["back", "left"]
+		},
+		{
+			"name": "3.jpg",
+			"tags": [ "top", "front"]
+		},
+		{
+			"name": "4.jpg",
+			"tags": ["top"]
+		},
+		{
+			"name": "5.jpg",
+			"tags": ["bottom"]
+		}
+	],
+	"description": "Prada 黑色 牛皮logo乐福鞋。银色标牌，平底橡胶鞋底。9 UK码乐福鞋的尺寸信息如下：鞋跟：3 cm 表面 成分：牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：牛皮 100%、鞋底 成分：rubber 100%",
+	"type" : "男士乐福鞋",
+	"tags": ["male","shoes"]
+}
