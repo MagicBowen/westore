@@ -38,6 +38,6 @@
 	],
 	"description": "女士鞋子，尖头，牛皮",
 	"type" : "女鞋",
-	"tags": ["female", "shoes", "boots", "short_boots"]
+	"tags": ["female", "shoes", "boots", "short_boots","leather_shoes"]
 
 }

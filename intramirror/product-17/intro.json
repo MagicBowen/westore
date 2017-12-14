@@ -54,6 +54,6 @@
 	],
 	"description": "运动鞋，休闲款",
 	"type" : "运动鞋",
-	"tags": ["female", "shoes", "sneakers"]
+	"tags": ["female", "shoes", "sneakers","casual_shoes"]
 
 }

@@ -11,5 +11,5 @@
     "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]}],
     "description" : "牛仔短裤",
     "type" : "牛仔短裤",
-    "tags" : ["female", "short"]
+    "tags" : ["female", "short","jeans"]
 }
