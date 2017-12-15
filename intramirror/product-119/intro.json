@@ -1,12 +1,12 @@
 {
-	"brandName": "Saint Laurent",
+	"brandName": "Lardni",
 	"color": "grey",
 	"currency": "EUR",
-	"price": 2500,
+	"price": 1085,
 	"discount": 0.6,
 	"typeId"   : null,
 	"sizeType": "Italy",
-	"quantity": {"48":1, "50": 1, "52":1},
+	"quantity": {"48":1, "50": 1, "54":1},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -36,7 +36,7 @@
 			"tags": [ "front", "model"]
 		}
 	],
-	"description": "Saint Laurent（圣罗兰）灰色 丝绸、棉质与羊毛 合身两件式西装套装。经典翻领，长袖，纽扣，一般长度，合身设计，搭扣细节，侧身口袋，后置口袋。衬里 成分：丝绸 100%、衬里 成分：棉 100%、表面成分：涤纶 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
+	"description": "Prince of Wales check suit",
 	"type" : "男士西装套装", 
 	"tags": ["male", "coat", "suit"]
 }

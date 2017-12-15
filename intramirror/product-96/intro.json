@@ -17,7 +17,7 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right", "side"]
 		},
 		{
 			"name": "3.jpg",
