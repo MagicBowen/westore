@@ -5,7 +5,7 @@
 	"price": 470,
 	"discount": 0.52,
 	"typeId"   : null,
-	"sizeType": "Prada",
+	"sizeType": "Italy",
 	"quantity": {"46": 1, "50":1, "52": 1, "54": 1},
 	"transport": {
 		"duration": {

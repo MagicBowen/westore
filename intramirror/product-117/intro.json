@@ -6,7 +6,7 @@
 	"discount": 0.6,
 	"typeId"   : null,
 	"sizeType": "America",
-	"quantity": {"0":1, "2": 2},
+	"quantity": {"34":1, "38": 2},
 	"transport": {
 		"duration": {
 		"min": 14, 

@@ -5,8 +5,8 @@
 	"price": 350,
 	"discount": 0.65,
 	"typeId"   : "XXM0T",
-	"sizeType": "Tods",
-	"quantity": {"5.5": 2, "6": 2, "6.5": 2, "7": 2, "7.5":2, "8": 2, "8.5": 2, "9": 2, "9.5":1},
+	"sizeType": "UK",
+	"quantity": {"7": 2, "7.5":2, "8": 2, "8.5": 2, "9": 2, "9.5":1},
 	"transport": {
 		"duration": {
 		"min": 14, 
