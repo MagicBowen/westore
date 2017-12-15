@@ -1,11 +1,11 @@
 {
 	"brandName": "Lardni",
-	"color": "grey",
+	"color": "black",
 	"currency": "EUR",
 	"price": 1085,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "italy",
+	"sizeType": "Italy",
 	"quantity": {"48":1, "50": 1, "54":1},
 	"transport": {
 		"duration": {
@@ -17,23 +17,35 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["front", "model"]
+			"tags": ["front"]
 		},
 		{
 			"name": "2.jpg",
-			"tags": [ "back", "model"]
+			"tags": [ "front", "model"]
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["front","close-up", "model"]
+			"tags": [ "back", "model"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["back","close-up", "model"]
+			"tags": ["front","close-up", "model"]
 		},
 		{
 			"name": "5.jpg",
+			"tags": ["back","close-up", "model"]
+		},
+		{
+			"name": "6.jpg",
 			"tags": ["front", "model"]
+		},
+		{
+			"name": "7.jpg",
+			"tags": ["close-up", "model"]
+		},
+		{
+			"name": "8.jpg",
+			"tags": ["close-up", "model"]
 		}
 	],
 	"description": "Prince of Wales check suit",

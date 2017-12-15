@@ -5,7 +5,7 @@
 	"price": 2490,
 	"discount": 0.65,
 	"typeId"   : null,
-	"sizeType": "Saint Laurent",
+	"sizeType": "France",
 	"quantity": {"38":1, "40": 1, "42": 1},
 	"transport": {
 		"duration": {
@@ -34,5 +34,5 @@
 	],
 	"description": "Saint Laurent 黑色与白色 棉质、牛皮与羊毛 Heaven棒球夹克。罗纹衣领，摁扣，长袖，罗纹底边及袖口，全衬里。表面 成分：牛皮 100%， 衬里 成分：棉 100%、表面 成分：羊毛 100%。",
 	"type" : "女士夹克",
-	"tags": ["female","coat", "jacket"]
+	"tags": ["female","coat", "jacket","casual_clothes","loose_coat"]
 }

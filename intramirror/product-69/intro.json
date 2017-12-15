@@ -5,7 +5,7 @@
 	"price": 531,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "Neil Barrett",
+	"sizeType": "Italy",
 	"quantity": {"48": 1},
 	"transport": {
 		"duration": {
@@ -29,15 +29,15 @@
 		},
 		{
 			"name": "4.jpg",
-			"tags": [ "front", "left", "model"]
+			"tags": [ "front", "left", "model","side"]
 		},
 		{
 			"name": "5.jpg",
-			"tags": [ "front", "right", "model"]
+			"tags": [ "front", "right", "model","side"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": [ "front", "right", "model"]
+			"tags": [ "front", "right", "model","side"]
 		},
 		{
 			"name": "7.jpg",
@@ -46,5 +46,5 @@
 	],
 	"description": "Neil Barrett 黑色 初剪羊毛与棉质混纺 侧条纹运动裤。隐蔽式开合，侧身口袋。这件商品符合标准尺码。表面 成分：氨纶（弹性纤维）3%、衬里 成分：涤纶 45%、衬里 成分：棉 55%、表面 成分：涤纶 53%、表面 成分：初剪羊毛 44%、洗涤说明：手洗",
 	"type" : "男士运动裤",
-	"tags": ["male","pants", "sport pants"]
+	"tags": ["male","pants", "sports_pants"]
 }

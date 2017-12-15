@@ -5,7 +5,7 @@
 	"price": 695,
 	"discount": 0.44,
 	"typeId"   : "36399",
-	"sizeType": "Stella McCartney",
+	"sizeType": "Italy",
 	"quantity": {"35.5": 2, "36": 2, "37": 1, "37.5":1, "38": 2, "39": 1},
 	"transport": {
 		"duration": {
@@ -17,7 +17,7 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right","side"]
 		},
 		{
 			"name": "2.jpg",
@@ -42,5 +42,5 @@
 	],
 	"description": "Stella McCartney 黑色 人造皮革 Star Elyse厚底鞋。橡胶质抓地鞋底，厚鞋底，方头，正面绑带。鞋底 成分：rubber 100%、表面 成分：人造皮革 100%、衬里 成分：人造皮革 100%。38 IT码系带鞋的尺寸信息如下：商品尺寸： Heel：8.5 cm。38 IT码布洛克鞋的尺寸信息如下：商品尺寸：Heel：8 cm、Platform：6 cm。",
 	"type" : "女士厚底鞋",
-	"tags": ["female","shoes"]
+	"tags": ["female","shoes","pantshoes"]
 }

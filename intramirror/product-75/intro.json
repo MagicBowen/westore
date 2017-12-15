@@ -28,19 +28,15 @@
 			"tags": ["back", "model"]
 		},
 		{
-			"name": "4.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
 			"name": "5.jpg",
-			"tags": [ "right", "model"]
+			"tags": [ "right", "model","side"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": [ "right", "model"]
+			"tags": [ "right", "model","side"]
 		}
 	],
 	"description": "Faith Connexion 黑色 弹性棉质 工装长裤。成分：棉 97% 成分：氨纶（弹性纤维） 3% 洗涤说明：机洗",
 	"type" : "男士工装长裤",
-	"tags": ["male","pants"]
+	"tags": ["male","pants","slacks"]
 }

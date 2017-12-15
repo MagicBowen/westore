@@ -5,7 +5,7 @@
 	"price": 2800,
 	"discount": 0.72,
 	"typeId"   : null,
-	"sizeType": "Gucci",
+	"sizeType": "Italy",
 	"quantity": {"48":1},
 	"transport": {
 		"duration": {
@@ -38,5 +38,5 @@
 	],
 	"description": "Gucci 黑色 初剪羊毛 虎刺绣条纹防风夹克。抽绳兜帽，正面拉链，抽绳下摆。表面 成分：聚酰胺 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
 	"type" : "男士夹克外套",
-	"tags": ["male","jacket", "coat"]
+	"tags": ["male","jacket", "coat","casual_clothes"]
 }

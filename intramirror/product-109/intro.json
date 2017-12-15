@@ -5,7 +5,7 @@
 	"price": 520,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "italy",
+	"sizeType": "Italy",
 	"quantity": {"40": 1},
 	"transport": {
 		"duration": {
@@ -34,5 +34,5 @@
 	],
 	"description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 黄色 宽松喇叭裤。膏药，喇叭状设计，阔腿。成分：氨纶（弹性纤维）3％、成分：纤维胶 97%、洗涤说明：干洗。",
 	"type" : "女士喇叭裤", 
-	"tags": ["female", "pants"]
+	"tags": ["female", "pants","bell_bottoms"]
 }

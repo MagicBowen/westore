@@ -5,7 +5,7 @@
 	"price": 615,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "国际码",
+	"sizeType": "standard",
 	"quantity": {"XXS":1, "XS":2, "S":1},
 	"transport": {
 		"duration": {
@@ -25,7 +25,7 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": [ "close-up","front", "model"]
+			"tags": [ "close-up","front", "model", "left", "side"]
 		},
 		{
 			"name": "4.jpg",
@@ -34,5 +34,5 @@
 	],
 	"description": "Dsquared2 蓝色 弹性棉质 Be Nice超大款牛仔夹克。经典衣领，正面纽扣，长袖，搭扣袭击，两个胸袋，侧置口袋。衬里 成分：涤纶 65% 衬里 成分：棉 100%",
 	"type" : "男士夹克外套",
-	"tags": ["male","jacket", "coat"]
+	"tags": ["male","jacket", "coat", "jeans_coat"]
 }

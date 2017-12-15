@@ -17,11 +17,11 @@
 	"pictures": [
 		{
 			"name": "1.jpg",
-			"tags": ["right"]
+			"tags": ["right","side"]
 		},
 		{
 			"name": "2.jpg",
-			"tags": [ "right", "front"]
+			"tags": [ "right", "front","side"]
 		},
 		{
 			"name": "3.jpg",
@@ -29,6 +29,6 @@
 		}
 	],
 	"description": "正面绑带，杏仁形血检，鞋垫饰有品牌标识，平底。8 UK码德比鞋的尺寸信息如下：跟高：2 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分 100%、鞋底 成分：rubber 100%",
-	"type" : "男士德比鞋",
-	"tags": ["male","shoes"]
+	"type" : "男士德比皮鞋",
+	"tags": ["male","shoes","leather_shoes"]
 }

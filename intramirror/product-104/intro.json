@@ -5,7 +5,7 @@
 	"price": 351,
 	"discount": 0.44,
 	"typeId"   : null,
-	"sizeType": "Fendi",
+	"sizeType": "Italy",
 	"quantity": {"40": 2},
 	"transport": {
 		"duration": {
@@ -25,15 +25,15 @@
 		},
 		{
 			"name": "3.jpg",
-			"tags": ["right", "model"]
+			"tags": ["right", "model","side"]
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["right", "model"]
+			"tags": ["right", "model","side"]
 		},
 		{
 			"name": "5.jpg",
-			"tags": ["front", "model"]
+			"tags": ["front", "model","side"]
 		},
 		{
 			"name": "6.jpg",
@@ -43,5 +43,5 @@
 	],
 	"description": "Fendi（芬迪）黑色 小羊皮 紧身机车打底裤。侧置拉链，束腰，超窄腿。成分：小羊皮 100%、洗涤说明：专人洗涤。",
 	"type" : "女士紧身机车打底裤", 
-	"tags": ["female","pants"]
+	"tags": ["female","pants","leggings","leather_pants"]
 }

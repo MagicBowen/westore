@@ -5,7 +5,7 @@
 	"price": 545,
 	"discount": 0.44,
 	"typeId"   : "GY90ATFM",
-	"sizeType": "Dolce & Gabbana",
+	"sizeType": "Italy",
 	"quantity": {"50": 1},
 	"transport": {
 		"duration": {
@@ -33,14 +33,14 @@
 		},
 		{
 			"name": "5.jpg",
-			"tags": [ "front", "right", "model"]
+			"tags": [ "front", "right", "model","side"]
 		},
 		{
 			"name": "6.jpg",
-			"tags": [ "front", "left", "model"]
+			"tags": [ "front", "left", "model","side"]
 		}
 	],
 	"description": "Dolce & Gabbana (杜嘉班纳）黑色 初剪羊毛与棉质混纺 侧条纹西裤。纽扣与拉链，系腰带袢腰边，侧身口袋，后面有平袋。成分：氨纶（弹性纤维）2%、成分：棉 97%、成分：初剪羊毛 20%、洗涤说明：干洗",
 	"type" : "男士长裤",
-	"tags": ["male","pants"]
+	"tags": ["male","pants","slacks"]
 }

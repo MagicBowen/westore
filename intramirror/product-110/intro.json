@@ -5,7 +5,7 @@
 	"price": 1150,
 	"discount": 0.44,
 	"typeId"   : null,
-	"sizeType": "italy",
+	"sizeType": "Italy",
 	"quantity": {"36": 1,"38":1, "40": 1},
 	"transport": {
 		"duration": {
@@ -42,5 +42,5 @@
 	],
 	"description": "Marni（玛尼）粉色 真丝 领巾薄纱连衣裙。短款，高领，短袖，假搭扣袖口，侧身开衩。衬里 成分：丝绸 100%、表面 成分：纤维胶 58%、表面 成分：醋酸纤维 42%、洗涤说明：干洗",
 	"type" : "女士连衣裙", 
-	"tags": ["female", "skirt"]
+	"tags": ["female", "skirt", "dress"]
 }

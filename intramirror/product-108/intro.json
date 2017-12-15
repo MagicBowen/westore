@@ -5,7 +5,7 @@
 	"price": 730,
 	"discount": 0.48,
 	"typeId"   : "205W39NYC",
-	"sizeType": "Calvin Klein",
+	"sizeType": "France",
 	"quantity": {"38": 1, "40": 1, "42":1},
 	"transport": {
 		"duration": {
@@ -29,7 +29,7 @@
 		},
 		{
 			"name": "4.jpg",
-			"tags": ["right", "scene"]
+			"tags": ["right", "scene", "side"]
 		},
 		{
 			"name": "5.jpg",
@@ -41,7 +41,7 @@
 		},
 		{
 			"name": "7.jpg",
-			"tags": ["right", "model", "scene"]
+			"tags": ["right", "model", "scene", "side"]
 		},
 		{
 			"name": "8.jpg",
@@ -55,5 +55,5 @@
 	],
 	"description": "CALVIN KLEIN 205W39NYC 红色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
 	"type" : "女士长裤", 
-	"tags": ["female", "pants"]
+	"tags": ["female", "pants", "slacks"]
 }

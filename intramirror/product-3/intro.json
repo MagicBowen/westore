@@ -11,5 +11,5 @@
       "pictures" : [{"name" : "1.jpg", "tags" : ["left", "side", "scene"]}, {"name" : "2.jpg", "tags" : ["front"]}, {"name" : "3.jpg", "tags" : ["price", "scene"]}, {"name" : "4.jpg", "tags" : ["model"]}],
       "description" : "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
       "type" : "斜跨包",
-      "tags" : ["female", "bag"]      
+      "tags" : ["female", "bag","handbag"]      
 }

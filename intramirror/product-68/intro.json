@@ -1,11 +1,11 @@
 {
 	"brandName": "Dolce & Gabbana",
-	"color": "green",
+	"color": "black",
 	"currency": "EUR",
 	"price": 1950,
 	"discount": 0.6,
 	"typeId"   : "G9JT4LFUL89",
-	"sizeType": "Dolce& Gabbana",
+	"sizeType": "Italy",
 	"quantity": {"48": 1, "50":1},
 	"transport": {
 		"duration": {
@@ -26,5 +26,5 @@
 	],
 	"description": "小羊皮夹克。罗纹边下摆。拉链上有标志。产品护理：专业中心洗涤。产品材质：100%皮革。1个内部口袋拉链，2个前袋拉链",
 	"type" : "男士夹克外套",
-	"tags": ["male","jacket", "coat"]
+	"tags": ["male","jacket", "coat","leather_coat","casual_clothes"]
 }

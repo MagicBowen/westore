@@ -5,8 +5,8 @@
 	"price": 995,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "U",
-	"quantity": {"均码": 8},
+	"sizeType": "UK",
+	"quantity": {"U": 8},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -33,6 +33,6 @@
 		}
 	],
 	"description": "Nylon shoulder bag",
-	"type" : "男士肩袋",
-	"tags": ["male","shoulder bag", "bag"]
+	"type" : "男士单肩包",
+	"tags": ["male","shoulder_bag", "bag"]
 }

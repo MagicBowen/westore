@@ -5,8 +5,8 @@
 	"price": 1950,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "Dolce & Gabbana",
-	"quantity": {"2": 1},
+	"sizeType": "America",
+	"quantity": {"8": 1},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -26,5 +26,5 @@
 	],
 	"description": "Dolce & Gabbana 绿色 蕾丝无袖连衣裙。无袖设计，后置隐藏式拉链，及膝",
 	"type" : "女士裙子", 
-	"tags": ["female", "skirt"]
+	"tags": ["female", "skirt", "dress"]
 }

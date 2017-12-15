@@ -5,8 +5,8 @@
 	"price": 995,
 	"discount": 0.6,
 	"typeId"   : null,
-	"sizeType": "U",
-	"quantity": {"均码": 1},
+	"sizeType": "UK",
+	"quantity": {"U": 1},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -36,7 +36,7 @@
 			"tags": ["top", "close-up"]
 		}
 	],
-	"description": "Messenger Hendley中号手提袋，带双扣、1个内置拉链口袋、1个内置平口袋、银色金属配件、帆布衬里，可调节的织物肩带。商品尺寸：宽度：32cm、高度：24cm、深度：7cm 背带：130cm。Posizione del logo：徽标刻在紧固件上。",
-	"type" : "男士手提袋",
-	"tags": ["male","bag"]
+	"description": "Messenger Hendley中号单肩包，带双扣、1个内置拉链口袋、1个内置平口袋、银色金属配件、帆布衬里，可调节的织物肩带。商品尺寸：宽度：32cm、高度：24cm、深度：7cm 背带：130cm。Posizione del logo：徽标刻在紧固件上。",
+	"type" : "男士单肩包",
+	"tags": ["male","bag","shoulder_bag"]
 }

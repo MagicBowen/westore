@@ -5,8 +5,8 @@
 	"price": 690,
 	"discount": 0.52,
 	"typeId"   : null,
-	"sizeType": "U",
-	"quantity": {"均码": 1},
+	"sizeType": "UK",
+	"quantity": {"U": 1},
 	"transport": {
 		"duration": {
 		"min": 14, 
@@ -21,7 +21,7 @@
 		},
 		{
 			"name": "2.jpg",
-			"tags": [ "right", "front"]
+			"tags": [ "right", "front","side"]
 		},
 		{
 			"name": "3.jpg",
@@ -34,5 +34,5 @@
 	],
 	"description": "Prada 黑色 logo标牌拉链腰包。顶置拉链，内置一个主要分层，正面标志贴。宽度：33cm，高度：22cm，深度：12cm。成分：聚酰胺 100%。",
 	"type" : "男士腰包",
-	"tags": ["male","bag"]
+	"tags": ["male","bag","pocket"]
 }

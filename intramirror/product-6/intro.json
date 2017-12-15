@@ -11,5 +11,5 @@
       "pictures" : [{"name" : "1.jpg", "tags" : ["price","close-up"]}, {"name" : "2.jpg", "tags" : ["front"]}, {"name" : "3.jpg", "tags" : ["back"]}],
       "description" : "休闲款，干洗",
       "type" : "男士休闲裤",   
-      "tags" : ["male", "pants"]
+      "tags" : ["male", "pants","slacks"]
 }

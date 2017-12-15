@@ -5,7 +5,7 @@
 	"price": 1950,
 	"discount": 0.6,
 	"typeId"   : "G9JT4LFUL89",
-	"sizeType": "Dolce& Gabbana",
+	"sizeType": "Italy",
 	"quantity": {"50":1, "52": 1},
 	"transport": {
 		"duration": {
@@ -34,5 +34,5 @@
 	],
 	"description": "logo拉链真皮外套， 100%真皮",
 	"type" : "男士外套",
-	"tags": ["male", "jacket", "coat"]
+	"tags": ["male", "jacket", "coat","casual_clothes","leather_coat"]
 }
