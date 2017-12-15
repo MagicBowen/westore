@@ -1,18 +1,29 @@
 {
   "products": [
     {
+      "type": "羊绒连身衣",
+      "discount": 0.58,
+      "typeId": null,
+      "description": "羊绒连身衣",
+      "quantity": {
+        "L": 1
+      },
+      "price": 620,
+      "currency": "EUR",
+      "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-24",
+      "brandName": "Celine",
       "tags": [
         "female",
         "sweater",
         "coat"
       ],
-      "description": "羊绒连身衣",
-      "type": "羊绒连身衣",
-      "price": 620,
-      "brandName": "Celine",
-      "color": "red",
-      "typeId": null,
-      "id": "product-24",
       "sizeType": "standard",
       "pictures": [
         {
@@ -34,20 +45,31 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.58,
+      "color": "red"
+    },
+    {
+      "type": "短靴",
+      "discount": 0.62,
+      "description": "战斗短靴，牛皮与小牛皮， 杏仁形斜肩、系带，小号银色rockstud柳钉向前，橡胶质地抓地鞋底，及踝。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+      "typeId": null,
       "quantity": {
-        "L": 1
+        "40": 1,
+        "37": 1,
+        "38": 1,
+        "36": 1
       },
+      "price": 1100,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-15",
+      "brandID": "NW0S0E70XRL",
+      "brandName": "Valentino Garavani",
       "tags": [
         "female",
         "shoes",
@@ -55,14 +77,6 @@
         "short_boots",
         "leather_shoes"
       ],
-      "color": "black",
-      "type": "短靴",
-      "price": 1100,
-      "id": "product-15",
-      "brandID": "NW0S0E70XRL",
-      "brandColor": "0NO",
-      "typeId": null,
-      "description": "战斗短靴，牛皮与小牛皮， 杏仁形斜肩、系带，小号银色rockstud柳钉向前，橡胶质地抓地鞋底，及踝。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
       "sizeType": "China",
       "pictures": [
         {
@@ -141,37 +155,34 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "0NO"
+    },
+    {
+      "type": "大衣",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "成分：57% ALPACA 43% VIRGIN WOOL",
+      "quantity": {
+        "40": 1
+      },
+      "price": 2500,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Valentino Garavani",
-      "quantity": {
-        "37": 1,
-        "36": 1,
-        "38": 1,
-        "40": 1
-      },
-      "discount": 0.62
-    },
-    {
+      "id": "product-12",
+      "brandName": "Max Mara",
       "tags": [
         "female",
         "coat",
         "overcoat",
         "loose_coat"
       ],
-      "description": "成分：57% ALPACA 43% VIRGIN WOOL",
-      "type": "大衣",
-      "price": 2500,
-      "brandName": "Max Mara",
-      "color": "camel",
-      "typeId": null,
-      "id": "product-12",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -201,32 +212,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "40": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "camel"
     },
     {
+      "type": "男士单肩包",
+      "discount": 0.62,
+      "typeId": null,
+      "description": "单肩包华伦天奴 格拉瓦尼黑色，在前面的拉链口袋，前水平带，主拉链，肩带饰有可调节和可拆卸螺栓，绒面衬里，两个开放口袋，内部标签标识。高度：27 CM，高度：28 CM，深度：3 CM。100％小牛皮",
+      "quantity": {
+        "U": 1
+      },
+      "price": 1100,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-79",
+      "brandName": "Valentino Garavani",
       "tags": [
         "male",
         "bag",
         "shoulder_bag"
       ],
-      "description": "单肩包华伦天奴 格拉瓦尼黑色，在前面的拉链口袋，前水平带，主拉链，肩带饰有可调节和可拆卸螺栓，绒面衬里，两个开放口袋，内部标签标识。高度：27 CM，高度：28 CM，深度：3 CM。100％小牛皮",
-      "type": "男士单肩包",
-      "price": 1100,
-      "brandName": "Valentino Garavani",
-      "color": "black",
-      "typeId": null,
-      "id": "product-79",
       "sizeType": "UK",
       "pictures": [
         {
@@ -248,31 +259,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
+      "color": "black"
+    },
+    {
+      "type": "男士衬衫",
+      "discount": 0.52,
+      "typeId": "UCM608F62",
+      "description": "Prada 蓝色 棉质混纺 经典衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣袖口、以及平直下摆。其经典设计，可谓百搭单品。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：鸡西洗",
       "quantity": {
-        "U": 1
+        "40": 1,
+        "42": 1,
+        "38": 1,
+        "41": 1
       },
+      "price": 360,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-46",
+      "brandName": "Prada",
       "tags": [
         "male",
         "blouse"
       ],
-      "description": "Prada 蓝色 棉质混纺 经典衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣袖口、以及平直下摆。其经典设计，可谓百搭单品。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：鸡西洗",
-      "type": "男士衬衫",
-      "price": 360,
-      "brandName": "Prada",
-      "color": "blue",
-      "typeId": "UCM608F62",
-      "id": "product-46",
       "sizeType": "UK",
       "pictures": [
         {
@@ -311,36 +325,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
-      "quantity": {
-        "40": 1,
-        "38": 1,
-        "41": 1,
-        "42": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "blue"
     },
     {
+      "type": "男士短袖衬衫",
+      "discount": 0.56,
+      "description": "字母刺绣衬衫。黑色。立领。纽扣闭合方式。短袖",
+      "typeId": null,
+      "quantity": {
+        "40": 1,
+        "41": 1,
+        "39": 1
+      },
+      "price": 275,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-41",
+      "brandID": "RMS10235S00401als",
+      "brandName": "Lanvin",
       "tags": [
         "male",
         "blouse",
         "coat"
       ],
-      "color": "black",
-      "type": "男士短袖衬衫",
-      "price": 275,
-      "id": "product-41",
-      "brandID": "RMS10235S00401als",
-      "brandColor": "10",
-      "typeId": null,
-      "description": "字母刺绣衬衫。黑色。立领。纽扣闭合方式。短袖",
       "sizeType": "UK",
       "pictures": [
         {
@@ -356,34 +369,32 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Lanvin",
-      "quantity": {
-        "41": 1,
-        "39": 1,
-        "40": 1
-      },
-      "discount": 0.56
+      "color": "black",
+      "brandColor": "10"
     },
     {
+      "type": "男士衬衫",
+      "discount": 0.58,
+      "typeId": null,
+      "description": "Polo Ralph Lauren男士休闲衬衫",
+      "quantity": {
+        "M": 1
+      },
+      "price": 109,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-48",
+      "brandName": "Polo Ralph Lauren",
       "tags": [
         "male",
         "blouse"
       ],
-      "description": "Polo Ralph Lauren男士休闲衬衫",
-      "type": "男士衬衫",
-      "price": 109,
-      "brandName": "Polo Ralph Lauren",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-48",
       "sizeType": "standard",
       "pictures": [
         {
@@ -422,32 +433,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.58,
+      "color": "blue"
+    },
+    {
+      "type": "男士西裤",
+      "discount": 0.52,
+      "typeId": null,
+      "description": "Prada 黑色 羊毛、马海毛与全棉 经典西裤。圆领，长袖，罗纹底边及袖口。表面 成分：棉 100%、衬里 成分：纤维胶 100%、表面 成分：羊毛 84%、表面 成分：马海毛 16%、洗涤说明：干洗",
       "quantity": {
-        "M": 1
+        "46": 1,
+        "50": 1,
+        "52": 1,
+        "54": 1
       },
+      "price": 470,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-77",
+      "brandName": "Prada",
       "tags": [
         "male",
         "pants",
         "trouser"
       ],
-      "description": "Prada 黑色 羊毛、马海毛与全棉 经典西裤。圆领，长袖，罗纹底边及袖口。表面 成分：棉 100%、衬里 成分：纤维胶 100%、表面 成分：羊毛 84%、表面 成分：马海毛 16%、洗涤说明：干洗",
-      "type": "男士西裤",
-      "price": 470,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-77",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -472,35 +486,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
+      "color": "black"
+    },
+    {
+      "type": "男士单肩包",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Nylon shoulder bag",
       "quantity": {
-        "54": 1,
-        "52": 1,
-        "46": 1,
-        "50": 1
+        "U": 8
       },
+      "price": 995,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-83",
+      "brandName": "Prada",
       "tags": [
         "male",
         "shoulder_bag",
         "bag"
       ],
-      "description": "Nylon shoulder bag",
-      "type": "男士单肩包",
-      "price": 995,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-83",
       "sizeType": "UK",
       "pictures": [
         {
@@ -529,32 +540,32 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "black"
+    },
+    {
+      "type": "男士背包",
       "discount": 0.6,
+      "typeId": null,
+      "description": "Prada 黑色 牛皮 logo标牌背包。 Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此包款饰有，侧面标牌、可调整肩带、拉链开合、皮革吊牌。是一款兼具实用性与品位的背包。商品尺寸 带长：35 cm、深度：18 cm、宽度：32 cm、高度：40 cm。成分：牛皮 100%、成分：尼龙 100%",
       "quantity": {
-        "U": 8
+        "U": 4
       },
+      "price": 920,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-84",
+      "brandName": "Prada",
       "tags": [
         "male",
         "bag",
         "backpack"
       ],
-      "description": "Prada 黑色 牛皮 logo标牌背包。 Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此包款饰有，侧面标牌、可调整肩带、拉链开合、皮革吊牌。是一款兼具实用性与品位的背包。商品尺寸 带长：35 cm、深度：18 cm、宽度：32 cm、高度：40 cm。成分：牛皮 100%、成分：尼龙 100%",
-      "type": "男士背包",
-      "price": 920,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-84",
       "sizeType": "UK",
       "pictures": [
         {
@@ -583,32 +594,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "男士长裤",
+      "discount": 0.44,
+      "typeId": "GY90ATFM",
+      "description": "Dolce & Gabbana (杜嘉班纳）灰色 初剪羊毛与棉质混纺 侧条纹长裤。纽扣与拉链，系腰带袢腰边，侧身口袋，后面有平袋。成分：氨纶（弹性纤维）2%、成分：棉 78%、成分：初剪羊毛 20%、洗涤说明：干洗",
       "quantity": {
-        "U": 4
+        "50": 1
       },
+      "price": 496,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-70",
+      "brandName": "Dolce & Gabbana",
       "tags": [
         "male",
         "pants",
         "slacks"
       ],
-      "description": "Dolce & Gabbana (杜嘉班纳）灰色 初剪羊毛与棉质混纺 侧条纹长裤。纽扣与拉链，系腰带袢腰边，侧身口袋，后面有平袋。成分：氨纶（弹性纤维）2%、成分：棉 78%、成分：初剪羊毛 20%、洗涤说明：干洗",
-      "type": "男士长裤",
-      "price": 496,
-      "brandName": "Dolce & Gabbana",
-      "color": "black",
-      "typeId": "GY90ATFM",
-      "id": "product-70",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -654,34 +665,39 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
-      "quantity": {
-        "50": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "black"
     },
     {
+      "type": "尖头高跟鞋",
+      "discount": 0.69,
+      "description": "鞋垫饰有品牌浮雕，细高跟。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "typeId": null,
+      "quantity": {
+        "38": 1,
+        "36": 1,
+        "39": 1,
+        "40": 1,
+        "37": 1,
+        "41": 1
+      },
+      "price": 494,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-13",
+      "brandID": "S39WU0097S48432",
+      "brandName": "Jimmy Choo",
       "tags": [
         "female",
         "shoes",
         "high_heel_shoes",
         "leather_shoes"
       ],
-      "color": "black",
-      "type": "尖头高跟鞋",
-      "price": 494,
-      "id": "product-13",
-      "brandID": "S39WU0097S48432",
-      "brandColor": "961",
-      "typeId": null,
-      "description": "鞋垫饰有品牌浮雕，细高跟。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
       "sizeType": "China",
       "pictures": [
         {
@@ -706,26 +722,30 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "961"
+    },
+    {
+      "type": "靴子",
+      "discount": 0.69,
+      "description": "靴子，牛皮与小牛皮 镶嵌细跟及裸靴。尖头，侧置拉链，银色五金配件。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "typeId": null,
+      "quantity": {
+        "40": 1,
+        "39": 1
+      },
+      "price": 790,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Jimmy Choo",
-      "quantity": {
-        "41": 1,
-        "36": 1,
-        "37": 1,
-        "39": 1,
-        "38": 1,
-        "40": 1
-      },
-      "discount": 0.69
-    },
-    {
+      "id": "product-14",
+      "brandID": "TCMSZ11C07LV702",
+      "brandName": "Marni",
       "tags": [
         "female",
         "shoes",
@@ -733,14 +753,6 @@
         "short_boots",
         "leather_shoes"
       ],
-      "color": "black",
-      "type": "靴子",
-      "price": 790,
-      "id": "product-14",
-      "brandID": "TCMSZ11C07LV702",
-      "brandColor": "961",
-      "typeId": null,
-      "description": "靴子，牛皮与小牛皮 镶嵌细跟及裸靴。尖头，侧置拉链，银色五金配件。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
       "sizeType": "China",
       "pictures": [
         {
@@ -765,34 +777,33 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "961"
+    },
+    {
+      "type": "半身裙",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Lanvin (浪凡) 黑色 丝绸 长款, 高腰, 伞形半身裙。 表面 成分: 丝绸 100% 表面 成分: 纤维胶 45% 表面 成分: 醋酸纤维 55% 表面 成分: 涤纶 19% 衬里 成分: 纤维胶 48% 衬里 成分: 醋酸纤维 52% 表面 成分: 三醋酸纤维 81% 洗涤说明 干洗",
+      "quantity": {
+        "38": 1
+      },
+      "price": 1990,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Marni",
-      "quantity": {
-        "39": 1,
-        "40": 1
-      },
-      "discount": 0.69
-    },
-    {
+      "id": "product-22",
+      "brandName": "Lanvin",
       "tags": [
         "female",
         "skirt",
         "dress"
       ],
-      "description": "Lanvin (浪凡) 黑色 丝绸 长款, 高腰, 伞形半身裙。 表面 成分: 丝绸 100% 表面 成分: 纤维胶 45% 表面 成分: 醋酸纤维 55% 表面 成分: 涤纶 19% 衬里 成分: 纤维胶 48% 衬里 成分: 醋酸纤维 52% 表面 成分: 三醋酸纤维 81% 洗涤说明 干洗",
-      "type": "半身裙",
-      "price": 1990,
-      "brandName": "Lanvin",
-      "color": "black",
-      "typeId": null,
-      "id": "product-22",
       "sizeType": "France",
       "pictures": [
         {
@@ -822,31 +833,33 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "black"
+    },
+    {
+      "type": "T恤",
       "discount": 0.6,
+      "typeId": null,
+      "description": "灰色 全棉 New York骷髅头T恤。 圆领, 正面印花, 超短袖, 后侧饰有印花, 平直下摆。 成分: 棉 100%",
       "quantity": {
-        "38": 1
+        "X": 1,
+        "XS": 1,
+        "M": 1
       },
+      "price": 425,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-25",
+      "brandName": "Philipp Plein",
       "tags": [
         "female",
         "tshirt"
       ],
-      "description": "灰色 全棉 New York骷髅头T恤。 圆领, 正面印花, 超短袖, 后侧饰有印花, 平直下摆。 成分: 棉 100%",
-      "type": "T恤",
-      "price": 425,
-      "brandName": "Philipp Plein",
-      "color": "grey",
-      "typeId": null,
-      "id": "product-25",
       "sizeType": "standard",
       "pictures": [
         {
@@ -862,34 +875,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "XS": 1,
-        "M": 1,
-        "X": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "grey"
     },
     {
+      "type": "男士长裤",
+      "discount": 0.44,
+      "typeId": "GY90ATFM",
+      "description": "Dolce & Gabbana (杜嘉班纳）黑色 初剪羊毛与棉质混纺 侧条纹西裤。纽扣与拉链，系腰带袢腰边，侧身口袋，后面有平袋。成分：氨纶（弹性纤维）2%、成分：棉 97%、成分：初剪羊毛 20%、洗涤说明：干洗",
+      "quantity": {
+        "50": 1
+      },
+      "price": 545,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-71",
+      "brandName": "Dolce & Gabbana",
       "tags": [
         "male",
         "pants",
         "slacks"
       ],
-      "description": "Dolce & Gabbana (杜嘉班纳）黑色 初剪羊毛与棉质混纺 侧条纹西裤。纽扣与拉链，系腰带袢腰边，侧身口袋，后面有平袋。成分：氨纶（弹性纤维）2%、成分：棉 97%、成分：初剪羊毛 20%、洗涤说明：干洗",
-      "type": "男士长裤",
-      "price": 545,
-      "brandName": "Dolce & Gabbana",
-      "color": "grey",
-      "typeId": "GY90ATFM",
-      "id": "product-71",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -937,32 +948,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "grey"
+    },
+    {
+      "type": "男士背包",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Dolce & Gabbana（杜嘉班纳）黑色 小牛皮 logo贴花背包。顶部有一个手柄，侧置拉链，环绕式拉链，可调带，真皮边饰。商品尺寸：Strap：32 cm、Depth：15 cm、Handle：6 cm、Width：30 cm、Height：40 cm。表面 成分：尼龙 12%、表面 成分：亚克力 7%、表面 成分：小牛皮 15%、表面 成分：聚酰胺 60%、表面 成分：聚丙烯 6%。",
       "quantity": {
-        "50": 1
+        "U": 2
       },
+      "price": 695,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-85",
+      "brandName": "Dolce & Gabbana",
       "tags": [
         "male",
         "bag",
         "backpack"
       ],
-      "description": "Dolce & Gabbana（杜嘉班纳）黑色 小牛皮 logo贴花背包。顶部有一个手柄，侧置拉链，环绕式拉链，可调带，真皮边饰。商品尺寸：Strap：32 cm、Depth：15 cm、Handle：6 cm、Width：30 cm、Height：40 cm。表面 成分：尼龙 12%、表面 成分：亚克力 7%、表面 成分：小牛皮 15%、表面 成分：聚酰胺 60%、表面 成分：聚丙烯 6%。",
-      "type": "男士背包",
-      "price": 695,
-      "brandName": "Dolce & Gabbana",
-      "color": "black",
-      "typeId": null,
-      "id": "product-85",
       "sizeType": "UK",
       "pictures": [
         {
@@ -999,31 +1010,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "男士衬衫",
+      "discount": 0.58,
+      "typeId": null,
+      "description": "Givenchy男士衬衫",
       "quantity": {
-        "U": 2
+        "40": 1,
+        "41": 1
       },
+      "price": 410,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-49",
+      "brandName": "Givenchy",
       "tags": [
         "male",
         "blouse"
       ],
-      "description": "Givenchy男士衬衫",
-      "type": "男士衬衫",
-      "price": 410,
-      "brandName": "Givenchy",
-      "color": "black",
-      "typeId": null,
-      "id": "product-49",
       "sizeType": "UK",
       "pictures": [
         {
@@ -1040,33 +1052,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.58,
+      "color": "black"
+    },
+    {
+      "type": "男士单肩包",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Messenger Hendley中号单肩包，带双扣、1个内置拉链口袋、1个内置平口袋、银色金属配件、帆布衬里，可调节的织物肩带。商品尺寸：宽度：32cm、高度：24cm、深度：7cm 背带：130cm。Posizione del logo：徽标刻在紧固件上。",
       "quantity": {
-        "40": 1,
-        "41": 1
+        "U": 1
       },
+      "price": 995,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-82",
+      "brandName": "Burberry",
       "tags": [
         "male",
         "bag",
         "shoulder_bag"
       ],
-      "description": "Messenger Hendley中号单肩包，带双扣、1个内置拉链口袋、1个内置平口袋、银色金属配件、帆布衬里，可调节的织物肩带。商品尺寸：宽度：32cm、高度：24cm、深度：7cm 背带：130cm。Posizione del logo：徽标刻在紧固件上。",
-      "type": "男士单肩包",
-      "price": 995,
-      "brandName": "Burberry",
-      "color": "black",
-      "typeId": null,
-      "id": "product-82",
       "sizeType": "UK",
       "pictures": [
         {
@@ -1102,32 +1113,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "男士直筒长裤",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Alexander McQueen（亚历山大麦昆）黑色与金色 羊毛 侧条纹直筒长裤。隐藏式开合，腰带袢，侧面有条纹，后面有两个嵌线口袋。表面成分：涤纶 100%、表面 成分：100%、衬里 成分：醋酸纤维 60%、衬里 成分：纤维胶 40%、洗涤说明：干洗",
       "quantity": {
-        "U": 1
+        "50": 1,
+        "48": 1
       },
+      "price": 806,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-76",
+      "brandName": "Alexander McQueen",
       "tags": [
         "male",
         "pants",
         "slacks"
       ],
-      "description": "Alexander McQueen（亚历山大麦昆）黑色与金色 羊毛 侧条纹直筒长裤。隐藏式开合，腰带袢，侧面有条纹，后面有两个嵌线口袋。表面成分：涤纶 100%、表面 成分：100%、衬里 成分：醋酸纤维 60%、衬里 成分：纤维胶 40%、洗涤说明：干洗",
-      "type": "男士直筒长裤",
-      "price": 806,
-      "brandName": "Alexander McQueen",
-      "color": "black",
-      "typeId": null,
-      "id": "product-76",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -1175,33 +1187,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
-      "quantity": {
-        "48": 1,
-        "50": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "black"
     },
     {
+      "type": "男士T恤",
+      "discount": 0.69,
+      "description": "男士休闲穿棉T恤",
+      "typeId": null,
+      "quantity": {
+        "S": 1,
+        "XL": 1,
+        "M": 1,
+        "L": 2
+      },
+      "price": 295,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-40",
+      "brandID": "PV3MG10B3LE",
+      "brandName": "Valentino",
       "tags": [
         "male",
         "tshirt"
       ],
-      "color": "blue",
-      "type": "男士T恤",
-      "price": 295,
-      "id": "product-40",
-      "brandID": "PV3MG10B3LE",
-      "brandColor": "0OI",
-      "typeId": null,
-      "description": "男士休闲穿棉T恤",
       "sizeType": "standard",
       "pictures": [
         {
@@ -1223,36 +1237,33 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Valentino",
-      "quantity": {
-        "S": 1,
-        "L": 2,
-        "M": 1,
-        "XL": 1
-      },
-      "discount": 0.69
+      "color": "blue",
+      "brandColor": "0OI"
     },
     {
+      "type": "男士腰包",
+      "discount": 0.52,
+      "typeId": null,
+      "description": "Prada 黑色 logo标牌拉链腰包。顶置拉链，内置一个主要分层，正面标志贴。宽度：33cm，高度：22cm，深度：12cm。成分：聚酰胺 100%。",
+      "quantity": {
+        "U": 1
+      },
+      "price": 690,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-78",
+      "brandName": "Prada",
       "tags": [
         "male",
         "bag",
         "pocket"
       ],
-      "description": "Prada 黑色 logo标牌拉链腰包。顶置拉链，内置一个主要分层，正面标志贴。宽度：33cm，高度：22cm，深度：12cm。成分：聚酰胺 100%。",
-      "type": "男士腰包",
-      "price": 690,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-78",
       "sizeType": "UK",
       "pictures": [
         {
@@ -1283,31 +1294,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
+      "color": "black"
+    },
+    {
+      "type": "男士衬衫",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "这个巴黎老牌时尚屋现由设计师Carol Lim和Humberto Leon经营。两人在沿用创办人Kenzo Takada的招牌颜色和设计手法，同时也完美融入了自己的个人印记以将品牌精神延伸到现代设计中。KENZO 蓝色长袖衬衫。长袖紧身、可搭配适合西裤。成分：100%纯棉",
       "quantity": {
-        "U": 1
+        "S": 3,
+        "XL": 2,
+        "M": 2,
+        "L": 2
       },
+      "price": 145,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-47",
+      "brandName": "Kenzo",
       "tags": [
         "male",
         "blouse"
       ],
-      "description": "这个巴黎老牌时尚屋现由设计师Carol Lim和Humberto Leon经营。两人在沿用创办人Kenzo Takada的招牌颜色和设计手法，同时也完美融入了自己的个人印记以将品牌精神延伸到现代设计中。KENZO 蓝色长袖衬衫。长袖紧身、可搭配适合西裤。成分：100%纯棉",
-      "type": "男士衬衫",
-      "price": 145,
-      "brandName": "Kenzo",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-47",
       "sizeType": "standard",
       "pictures": [
         {
@@ -1340,35 +1354,32 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "blue"
+    },
+    {
+      "type": "女士喇叭裤",
       "discount": 0.6,
+      "typeId": null,
+      "description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 黄色 宽松喇叭裤。膏药，喇叭状设计，阔腿。成分：氨纶（弹性纤维）3％、成分：纤维胶 97%、洗涤说明：干洗。",
       "quantity": {
-        "S": 3,
-        "L": 2,
-        "M": 2,
-        "XL": 2
+        "40": 1
       },
+      "price": 520,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-109",
+      "brandName": "Emilio Puccy",
       "tags": [
         "female",
         "pants",
         "bell_bottoms"
       ],
-      "description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 黄色 宽松喇叭裤。膏药，喇叭状设计，阔腿。成分：氨纶（弹性纤维）3％、成分：纤维胶 97%、洗涤说明：干洗。",
-      "type": "女士喇叭裤",
-      "price": 520,
-      "brandName": "Emilio Puccy",
-      "color": "yellow",
-      "typeId": null,
-      "id": "product-109",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -1398,32 +1409,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "yellow"
+    },
+    {
+      "type": "女士长裤",
+      "discount": 0.48,
+      "typeId": "205W39NYC",
+      "description": "CALVIN KLEIN 205W39NYC 紫色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
       "quantity": {
         "40": 1
       },
+      "price": 730,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-107",
+      "brandName": "Calvin Klein",
       "tags": [
         "female",
         "pants",
         "slacks"
       ],
-      "description": "CALVIN KLEIN 205W39NYC 紫色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
-      "type": "女士长裤",
-      "price": 730,
-      "brandName": "Calvin Klein",
-      "color": "red",
-      "typeId": "205W39NYC",
-      "id": "product-107",
       "sizeType": "France",
       "pictures": [
         {
@@ -1493,32 +1504,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.48,
+      "color": "red"
+    },
+    {
+      "type": "女士针织上衣",
+      "discount": 0.44,
+      "typeId": "108428",
+      "description": "Balmain（巴尔曼）海军蓝色 羊毛与丝绸混纺 浮雕纽扣针织上衣。圆领，长袖，肩章，正面纽扣，两个胸带，金色浮雕纽扣，合身廓形。成分：羊毛 70％、成分：丝绸 30%、洗涤说明：干洗",
       "quantity": {
-        "40": 1
+        "34": 2,
+        "36": 1
       },
+      "price": 910,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-100",
+      "brandName": "Balmain",
       "tags": [
         "female",
         "coat",
         "blouse"
       ],
-      "description": "Balmain（巴尔曼）海军蓝色 羊毛与丝绸混纺 浮雕纽扣针织上衣。圆领，长袖，肩章，正面纽扣，两个胸带，金色浮雕纽扣，合身廓形。成分：羊毛 70％、成分：丝绸 30%、洗涤说明：干洗",
-      "type": "女士针织上衣",
-      "price": 910,
-      "brandName": "Balmain",
-      "color": "blue",
-      "typeId": "108428",
-      "id": "product-100",
       "sizeType": "France",
       "pictures": [
         {
@@ -1571,33 +1583,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
-      "quantity": {
-        "36": 1,
-        "34": 2
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "blue"
     },
     {
+      "type": "男士休闲裤",
+      "discount": 0.62,
+      "typeId": null,
+      "description": "休闲款，干洗",
+      "quantity": {
+        "S": 1,
+        "M": 1,
+        "L": 1
+      },
+      "price": 395,
+      "currency": "EUR",
+      "transport": {
+        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-6",
+      "brandName": "Les Hommes",
       "tags": [
         "male",
         "pants",
         "slacks"
       ],
-      "description": "休闲款，干洗",
-      "type": "男士休闲裤",
-      "price": 395,
-      "brandName": "Les Hommes",
-      "color": "black",
-      "typeId": null,
-      "id": "product-6",
       "sizeType": "standard",
       "pictures": [
         {
@@ -1620,34 +1633,32 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "black"
+    },
+    {
+      "type": "高领纯色毛衣",
       "discount": 0.62,
+      "typeId": "sweater-1",
+      "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
       "quantity": {
-        "S": 1,
-        "L": 1,
-        "M": 1
+        "XS": 1
       },
+      "price": 790,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-1",
+      "brandName": "Maison Margiela",
       "tags": [
         "female",
         "sweater",
         "coat"
       ],
-      "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
-      "type": "高领纯色毛衣",
-      "price": 790,
-      "brandName": "Maison Margiela",
-      "color": "white",
-      "typeId": "sweater-1",
-      "id": "product-1",
       "sizeType": "standard",
       "pictures": [
         {
@@ -1714,32 +1725,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
+      "color": "white"
+    },
+    {
+      "type": "衬衫",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "真丝印花。成分: 丝绸 100% 洗涤说明 干洗",
       "quantity": {
-        "XS": 1
+        "M": 1,
+        "L": 1
       },
+      "price": 369,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-8",
+      "brandName": "Equipment",
       "tags": [
         "female",
         "blouse",
         "coat"
       ],
-      "description": "真丝印花。成分: 丝绸 100% 洗涤说明 干洗",
-      "type": "衬衫",
-      "price": 369,
-      "brandName": "Equipment",
-      "color": "white",
-      "typeId": null,
-      "id": "product-8",
       "sizeType": "standard",
       "pictures": [
         {
@@ -1774,33 +1786,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "L": 1,
-        "M": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "white"
     },
     {
+      "type": "女士长裤",
+      "discount": 0.6,
+      "typeId": "71310782000",
+      "description": "黑色抽绳系带长裤，100% 聚酯。",
+      "quantity": {
+        "40": 1,
+        "42": 1,
+        "44": 1,
+        "48": 1
+      },
+      "price": 150,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-101",
+      "brandName": "Sportmax",
       "tags": [
         "female",
         "pants",
         "slacks"
       ],
-      "description": "黑色抽绳系带长裤，100% 聚酯。",
-      "type": "女士长裤",
-      "price": 150,
-      "brandName": "Sportmax",
-      "color": "black",
-      "typeId": "71310782000",
-      "id": "product-101",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -1833,35 +1847,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "女士长裤",
+      "discount": 0.48,
+      "typeId": "205W39NYC",
+      "description": "CALVIN KLEIN 205W39NYC 红色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
       "quantity": {
         "40": 1,
-        "48": 1,
         "42": 1,
-        "44": 1
+        "38": 1
       },
+      "price": 730,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-108",
+      "brandName": "Calvin Klein",
       "tags": [
         "female",
         "pants",
         "slacks"
       ],
-      "description": "CALVIN KLEIN 205W39NYC 红色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
-      "type": "女士长裤",
-      "price": 730,
-      "brandName": "Calvin Klein",
-      "color": "red",
-      "typeId": "205W39NYC",
-      "id": "product-108",
       "sizeType": "France",
       "pictures": [
         {
@@ -1930,34 +1943,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.48,
-      "quantity": {
-        "40": 1,
-        "38": 1,
-        "42": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "red"
     },
     {
+      "type": "衬衫",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "全棉连帽。成分:棉 100%、洗涤说明：机洗",
+      "quantity": {
+        "38": 1,
+        "36": 1
+      },
+      "price": 596,
+      "currency": "EUR",
+      "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-9",
+      "brandName": "Paco Rabanne",
       "tags": [
         "female",
         "blouse",
         "tshirt"
       ],
-      "description": "全棉连帽。成分:棉 100%、洗涤说明：机洗",
-      "type": "衬衫",
-      "price": 596,
-      "brandName": "Paco Rabanne",
-      "color": "white",
-      "typeId": null,
-      "id": "product-9",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -1992,33 +2004,33 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "white"
+    },
+    {
+      "type": "罩衫",
       "discount": 0.6,
+      "typeId": null,
+      "description": "真丝蕾丝边蝴蝶结罩衫。成分：丝绸100% 洗剂说明 干洗",
       "quantity": {
-        "36": 1,
-        "38": 1
+        "40": 1,
+        "42": 2
       },
+      "price": 1066,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-7",
+      "brandName": "Francesco Scognamiglio",
       "tags": [
         "female",
         "blouse",
         "coat"
       ],
-      "description": "真丝蕾丝边蝴蝶结罩衫。成分：丝绸100% 洗剂说明 干洗",
-      "type": "罩衫",
-      "price": 1066,
-      "brandName": "Francesco Scognamiglio",
-      "color": "white",
-      "typeId": null,
-      "id": "product-7",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2041,33 +2053,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "40": 1,
-        "42": 2
-      },
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "white"
     },
     {
+      "type": "女士裙子",
+      "discount": 0.55,
+      "typeId": null,
+      "description": "Gucci 多色 丝绸婚房 Acid Bloom印花半身裙。高腰，叠层设计，中长。表面 成分：丝绸 100%、衬里 成分：丝绸 29%、衬里 成分：醋酸纤维 71%、洗涤说明：干洗",
+      "quantity": {
+        "42": 1
+      },
+      "price": 2400,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-115",
+      "brandName": "Gucci",
       "tags": [
         "female",
         "skirt",
         "dress"
       ],
-      "description": "Gucci 多色 丝绸婚房 Acid Bloom印花半身裙。高腰，叠层设计，中长。表面 成分：丝绸 100%、衬里 成分：丝绸 29%、衬里 成分：醋酸纤维 71%、洗涤说明：干洗",
-      "type": "女士裙子",
-      "price": 2400,
-      "brandName": "Gucci",
-      "color": "multicolor",
-      "typeId": null,
-      "id": "product-115",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2134,32 +2145,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.55,
+      "color": "multicolor"
+    },
+    {
+      "type": "女士裙子",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "下摆有宽肩宽的膝盖长裙，后背稍长。对比的抽绳腰部增添了运动感。由米色丝绸制成，印有浅蓝色阴影的印花图案。无衬里",
       "quantity": {
-        "42": 1
+        "42": 1,
+        "44": 1
       },
+      "price": 1200,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-112",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "skirt",
         "short_skirt"
       ],
-      "description": "下摆有宽肩宽的膝盖长裙，后背稍长。对比的抽绳腰部增添了运动感。由米色丝绸制成，印有浅蓝色阴影的印花图案。无衬里",
-      "type": "女士裙子",
-      "price": 1200,
-      "brandName": "Fendi",
-      "color": "beige",
-      "typeId": null,
-      "id": "product-112",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2189,33 +2201,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "beige"
+    },
+    {
+      "type": "男士西装套装",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Givenchy Suits/Jumpsuits Men",
       "quantity": {
-        "42": 1,
-        "44": 1
+        "50": 1,
+        "52": 1
       },
+      "price": 1313,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-124",
+      "brandName": "Givenchy",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "Givenchy Suits/Jumpsuits Men",
-      "type": "男士西装套装",
-      "price": 1313,
-      "brandName": "Givenchy",
-      "color": "black",
-      "typeId": null,
-      "id": "product-124",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2250,33 +2262,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "black"
+    },
+    {
+      "type": "男士西装套装",
+      "discount": 0.52,
+      "typeId": null,
+      "description": "Marine Blue Wool Suits from Doppiaa, classic jacket buttons closure, long sleeves, two pockets on front, brand logo inside label, Pants with button and zip closure on front, belt loops, two pockets on front, two button pockets on back, classic fit, brand logo inside label",
       "quantity": {
-        "52": 1,
         "50": 1
       },
+      "price": 865,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-123",
+      "brandName": "Doppiaa",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "Marine Blue Wool Suits from Doppiaa, classic jacket buttons closure, long sleeves, two pockets on front, brand logo inside label, Pants with button and zip closure on front, belt loops, two pockets on front, two button pockets on back, classic fit, brand logo inside label",
-      "type": "男士西装套装",
-      "price": 865,
-      "brandName": "Doppiaa",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-123",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2298,32 +2309,32 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "blue"
+    },
+    {
+      "type": "男士西装套装",
       "discount": 0.52,
+      "typeId": null,
+      "description": "Black virgin wool two buttons suit with two buttons and side pockets with flap, Classic trousers with belt loops, two side pockets and two back pockets",
       "quantity": {
         "50": 1
       },
+      "price": 1820,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-122",
+      "brandName": "Dolce & Gabbanna",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "Black virgin wool two buttons suit with two buttons and side pockets with flap, Classic trousers with belt loops, two side pockets and two back pockets",
-      "type": "男士西装套装",
-      "price": 1820,
-      "brandName": "Dolce & Gabbanna",
-      "color": "black",
-      "typeId": null,
-      "id": "product-122",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2365,32 +2376,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
+      "color": "black"
+    },
+    {
+      "type": "女士裙子",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Dolce & Gabbana 绿色 蕾丝无袖连衣裙。无袖设计，后置隐藏式拉链，及膝",
       "quantity": {
-        "50": 1
+        "8": 1
       },
+      "price": 1950,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-113",
+      "brandName": "Dolce & Gabbana",
       "tags": [
         "female",
         "skirt",
         "dress"
       ],
-      "description": "Dolce & Gabbana 绿色 蕾丝无袖连衣裙。无袖设计，后置隐藏式拉链，及膝",
-      "type": "女士裙子",
-      "price": 1950,
-      "brandName": "Dolce & Gabbana",
-      "color": "green",
-      "typeId": null,
-      "id": "product-113",
       "sizeType": "America",
       "pictures": [
         {
@@ -2406,32 +2417,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "green"
+    },
+    {
+      "type": "女士裙子",
+      "discount": 0.72,
+      "typeId": null,
+      "description": "这款精致的作品采用了娴静的中长款造型，腰部高耸的高腰设计，以创意总监Alessandro Michele的Gucci Rhombus印花为标志性的白色，红色和蓝色调色板－这是一个独特而复古的灵感来源。成分：丝绸 100%、洗涤说明：干洗",
       "quantity": {
-        "8": 1
+        "42": 1
       },
+      "price": 1300,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-114",
+      "brandName": "Gucci",
       "tags": [
         "female",
         "skirt",
         "dress"
       ],
-      "description": "这款精致的作品采用了娴静的中长款造型，腰部高耸的高腰设计，以创意总监Alessandro Michele的Gucci Rhombus印花为标志性的白色，红色和蓝色调色板－这是一个独特而复古的灵感来源。成分：丝绸 100%、洗涤说明：干洗",
-      "type": "女士裙子",
-      "price": 1300,
-      "brandName": "Gucci",
-      "color": "white&red&blue",
-      "typeId": null,
-      "id": "product-114",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2482,33 +2493,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.72,
+      "color": "white&red&blue"
+    },
+    {
+      "type": "男士夹克外套",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Dsquared2 蓝色 弹性棉质 Be Nice超大款牛仔夹克。经典衣领，正面纽扣，长袖，搭扣袭击，两个胸袋，侧置口袋。衬里 成分：涤纶 65% 衬里 成分：棉 100%",
       "quantity": {
-        "42": 1
+        "XXS": 1,
+        "S": 1,
+        "XS": 2
       },
+      "price": 615,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-65",
+      "brandName": "Dsquared2",
       "tags": [
         "male",
         "jacket",
         "coat",
         "jeans_coat"
       ],
-      "description": "Dsquared2 蓝色 弹性棉质 Be Nice超大款牛仔夹克。经典衣领，正面纽扣，长袖，搭扣袭击，两个胸袋，侧置口袋。衬里 成分：涤纶 65% 衬里 成分：棉 100%",
-      "type": "男士夹克外套",
-      "price": 615,
-      "brandName": "Dsquared2",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-65",
       "sizeType": "standard",
       "pictures": [
         {
@@ -2543,34 +2556,35 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "blue"
+    },
+    {
+      "type": "男士靴子",
       "discount": 0.6,
+      "typeId": null,
+      "description": "Lidfort 褐色 牛皮 杏仁形鞋尖及裸靴。以41码为参考，商品尺寸 Heel：3 cm Circumference：25 cm Height：14 cm。表面 成分：牛皮 100% 衬里 成分：牛皮 100% 鞋底 成分：牛皮 100%",
       "quantity": {
-        "S": 1,
-        "XS": 2,
-        "XXS": 1
+        "41.5": 1,
+        "42": 1,
+        "41": 1,
+        "40.5": 1
       },
+      "price": 475,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-91",
+      "brandName": "Lidfort",
       "tags": [
         "male",
         "shoes",
         "boots"
       ],
-      "description": "Lidfort 褐色 牛皮 杏仁形鞋尖及裸靴。以41码为参考，商品尺寸 Heel：3 cm Circumference：25 cm Height：14 cm。表面 成分：牛皮 100% 衬里 成分：牛皮 100% 鞋底 成分：牛皮 100%",
-      "type": "男士靴子",
-      "price": 475,
-      "brandName": "Lidfort",
-      "color": "brown",
-      "typeId": null,
-      "id": "product-91",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2601,35 +2615,36 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "brown"
+    },
+    {
+      "type": "女士厚底鞋",
+      "discount": 0.44,
+      "typeId": "36399",
+      "description": "Stella McCartney 金色 人造皮革 Star Elyse厚底鞋。橡胶质抓地鞋底，厚鞋底，方头，正面绑带。鞋底 成分：rubber 100%、表面 成分：人造皮革 100%、衬里 成分：人造皮革 100%。38 IT码系带鞋的尺寸信息如下：商品尺寸： Heel：8.5 cm。38 IT码布洛克鞋的尺寸信息如下：商品尺寸：Heel：8 cm、Platform：6 cm。",
       "quantity": {
-        "40.5": 1,
-        "41": 1,
-        "41.5": 1,
-        "42": 1
+        "38.5": 1,
+        "35.5": 1,
+        "34": 1,
+        "37.5": 1,
+        "36.5": 1
       },
+      "price": 670,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-96",
+      "brandName": "Stella McCartney",
       "tags": [
         "female",
         "shoes",
         "pantshoes"
       ],
-      "description": "Stella McCartney 金色 人造皮革 Star Elyse厚底鞋。橡胶质抓地鞋底，厚鞋底，方头，正面绑带。鞋底 成分：rubber 100%、表面 成分：人造皮革 100%、衬里 成分：人造皮革 100%。38 IT码系带鞋的尺寸信息如下：商品尺寸： Heel：8.5 cm。38 IT码布洛克鞋的尺寸信息如下：商品尺寸：Heel：8 cm、Platform：6 cm。",
-      "type": "女士厚底鞋",
-      "price": 670,
-      "brandName": "Stella McCartney",
-      "color": "golden",
-      "typeId": "36399",
-      "id": "product-96",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2660,37 +2675,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "golden"
+    },
+    {
+      "type": "男士外套",
+      "discount": 0.67,
+      "typeId": null,
+      "description": "Gucci 黑色 羊毛与马海毛混纺 经典西装夹克。梯形翻领，长袖，胸袋，侧身口袋，正面纽扣，中后背开衩。衬里 成分：纤维胶 100% 衬里 成分：铜胺纤维 100% 表面 成分: 羊毛 84% 表面 成分：马海毛 16% 洗涤说明 干洗",
       "quantity": {
-        "35.5": 1,
-        "37.5": 1,
-        "34": 1,
-        "38.5": 1,
-        "36.5": 1
+        "50": 1,
+        "52": 1,
+        "48": 1
       },
+      "price": 1750,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-62",
+      "brandName": "Gucci",
       "tags": [
         "male",
         "casual_clothes",
         "coat",
         "suit"
       ],
-      "description": "Gucci 黑色 羊毛与马海毛混纺 经典西装夹克。梯形翻领，长袖，胸袋，侧身口袋，正面纽扣，中后背开衩。衬里 成分：纤维胶 100% 衬里 成分：铜胺纤维 100% 表面 成分: 羊毛 84% 表面 成分：马海毛 16% 洗涤说明 干洗",
-      "type": "男士外套",
-      "price": 1750,
-      "brandName": "Gucci",
-      "color": "black",
-      "typeId": null,
-      "id": "product-62",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2712,35 +2725,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.67,
+      "color": "black"
+    },
+    {
+      "type": "女士毛衣",
+      "discount": 0.6,
+      "typeId": "sweater54",
+      "description": "Fendi(芬迪) 白色与褐色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
       "quantity": {
-        "48": 1,
-        "52": 1,
-        "50": 1
+        "46": 1,
+        "44": 1
       },
+      "price": 1300,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-54",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "sweater",
         "pullover",
         "coat"
       ],
-      "description": "Fendi(芬迪) 白色与褐色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
-      "type": "女士毛衣",
-      "price": 1300,
-      "brandName": "Fendi",
-      "color": "white",
-      "typeId": "sweater54",
-      "id": "product-54",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2808,33 +2820,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "46": 1,
-        "44": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "white"
     },
     {
+      "type": "女士短裙",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "下摆有宽肩宽的膝盖长裙，后背稍长。对比的抽绳腰部增添了运动感。由米色丝绸制成，印有浅蓝色阴影的印花图案。无衬里。",
+      "quantity": {
+        "42": 1,
+        "44": 1
+      },
+      "price": 1200,
+      "currency": "EUR",
+      "transport": {
+        "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+        "duration": {
+          "min": 16,
+          "max": 20
+        }
+      },
+      "id": "product-53",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "skirt",
         "short_skirt"
       ],
-      "description": "下摆有宽肩宽的膝盖长裙，后背稍长。对比的抽绳腰部增添了运动感。由米色丝绸制成，印有浅蓝色阴影的印花图案。无衬里。",
-      "type": "女士短裙",
-      "price": 1200,
-      "brandName": "Fendi",
-      "color": "beige",
-      "typeId": null,
-      "id": "product-53",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2864,33 +2876,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "beige"
+    },
+    {
+      "type": "女士开衫",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Prada 正面纽扣，v领，线条装饰，羊绒混纺开衫。成分：30%真丝70%羊绒",
       "quantity": {
+        "40": 1,
         "42": 1,
         "44": 1
       },
+      "price": 651,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
-          "min": 16,
-          "max": 20
-        },
-        "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-98",
+      "brandName": "Prada",
       "tags": [
         "female",
         "coat",
         "sweater"
       ],
-      "description": "Prada 正面纽扣，v领，线条装饰，羊绒混纺开衫。成分：30%真丝70%羊绒",
-      "type": "女士开衫",
-      "price": 651,
-      "brandName": "Prada",
-      "color": "pink",
-      "typeId": null,
-      "id": "product-98",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2928,35 +2941,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
-      "quantity": {
-        "40": 1,
-        "42": 1,
-        "44": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "pink"
     },
     {
+      "type": "男士套头衫",
+      "discount": 0.6,
+      "description": "Fendi(芬迪) 黑色 棉质与羊绒混纺 logo滚边套头衫。圆领，长袖，螺纹底边及袖口。表面 成分：棉85%、表面 成分：羊绒 15%、表面 成分：珍珠母 100%、洗涤说明：干洗",
+      "typeId": null,
+      "quantity": {
+        "50": 1,
+        "52": 1,
+        "48": 1
+      },
+      "price": 420,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-38",
+      "brandID": "FZZ363 A2DX",
+      "brandName": "Fendi",
       "tags": [
         "male",
         "pullover",
         "coat"
       ],
-      "color": "black",
-      "type": "男士套头衫",
-      "price": 420,
-      "id": "product-38",
-      "brandID": "FZZ363 A2DX",
-      "brandColor": "F0QA1",
-      "typeId": null,
-      "description": "Fendi(芬迪) 黑色 棉质与羊绒混纺 logo滚边套头衫。圆领，长袖，螺纹底边及袖口。表面 成分：棉85%、表面 成分：羊绒 15%、表面 成分：珍珠母 100%、洗涤说明：干洗",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -2978,37 +2991,35 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "F0QA1"
+    },
+    {
+      "type": "男士夹克",
+      "discount": 0.69,
+      "description": "皮夹克，男士，红色",
+      "typeId": null,
+      "quantity": {
+        "S": 1
+      },
+      "price": 800,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Fendi",
-      "quantity": {
-        "48": 1,
-        "52": 1,
-        "50": 1
-      },
-      "discount": 0.6
-    },
-    {
+      "id": "product-36",
+      "brandID": "PV3RB20J4TA",
+      "brandName": "Valentino",
       "tags": [
         "male",
         "jacket",
         "coat",
         "loose_coat"
       ],
-      "color": "red",
-      "type": "男士夹克",
-      "price": 800,
-      "id": "product-36",
-      "brandID": "PV3RB20J4TA",
-      "brandColor": "0NO",
-      "typeId": null,
-      "description": "皮夹克，男士，红色",
       "sizeType": "standard",
       "pictures": [
         {
@@ -3030,34 +3041,34 @@
           ]
         }
       ],
+      "color": "red",
+      "brandColor": "0NO"
+    },
+    {
+      "type": "手提包",
+      "discount": 0.69,
+      "description": "CALVIN KLEIN 205W39NYC 黑色 牛皮 超大款手提包。成分：牛皮100%",
+      "typeId": null,
+      "quantity": {
+        "U": 1
+      },
+      "price": 1600,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Valentino",
-      "quantity": {
-        "S": 1
-      },
-      "discount": 0.69
-    },
-    {
+      "id": "product-31",
+      "brandID": "74WLBA01.T027",
+      "brandName": "Calvin Klein",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "black",
-      "type": "手提包",
-      "price": 1600,
-      "id": "product-31",
-      "brandID": "74WLBA01.T027",
-      "brandColor": "001",
-      "typeId": null,
-      "description": "CALVIN KLEIN 205W39NYC 黑色 牛皮 超大款手提包。成分：牛皮100%",
       "sizeType": "standard",
       "pictures": [
         {
@@ -3087,33 +3098,36 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Calvin Klein",
-      "quantity": {
-        "U": 1
-      },
-      "discount": 0.69
+      "color": "black",
+      "brandColor": "001"
     },
     {
+      "type": "女士T恤",
+      "discount": 0.6,
+      "typeId": "shirt50",
+      "description": "Fendi(芬迪) 粉红色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
+      "quantity": {
+        "40": 2,
+        "42": 2,
+        "44": 1,
+        "38": 2
+      },
+      "price": 350,
+      "currency": "EUR",
+      "transport": {
+        "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-52",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "tshirt",
         "coat"
       ],
-      "description": "Fendi(芬迪) 粉红色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
-      "type": "女士T恤",
-      "price": 350,
-      "brandName": "Fendi",
-      "color": "pink",
-      "typeId": "shirt50",
-      "id": "product-52",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -3184,36 +3198,36 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "pink"
+    },
+    {
+      "type": "女士针织上衣",
+      "discount": 0.44,
+      "typeId": "108428",
+      "description": "Balmain（巴尔曼）黑色 羊毛与丝绸混纺 浮雕纽扣针织上衣。圆领，长袖，肩章，正面纽扣，两个胸带，金色浮雕纽扣，合身廓形。成分：羊毛 70％、成分：丝绸 30%、洗涤说明：干洗",
       "quantity": {
         "40": 2,
-        "38": 2,
-        "42": 2,
-        "44": 1
+        "38": 1,
+        "34": 5,
+        "36": 4
       },
+      "price": 910,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-99",
+      "brandName": "Balmain",
       "tags": [
         "female",
         "coat",
         "see_through_dress",
         "casual_clothes"
       ],
-      "description": "Balmain（巴尔曼）黑色 羊毛与丝绸混纺 浮雕纽扣针织上衣。圆领，长袖，肩章，正面纽扣，两个胸带，金色浮雕纽扣，合身廓形。成分：羊毛 70％、成分：丝绸 30%、洗涤说明：干洗",
-      "type": "女士针织上衣",
-      "price": 910,
-      "brandName": "Balmain",
-      "color": "black",
-      "typeId": "108428",
-      "id": "product-99",
       "sizeType": "France",
       "pictures": [
         {
@@ -3267,36 +3281,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "black"
+    },
+    {
+      "type": "女士毛衣",
+      "discount": 0.6,
+      "typeId": "sweater54",
+      "description": "Fendi(芬迪) 粉红色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
       "quantity": {
-        "36": 4,
-        "34": 5,
-        "38": 1,
-        "40": 2
+        "42": 1,
+        "46": 1,
+        "44": 1
       },
+      "price": 1300,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-55",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "sweater",
         "pullover",
         "coat"
       ],
-      "description": "Fendi(芬迪) 粉红色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
-      "type": "女士毛衣",
-      "price": 1300,
-      "brandName": "Fendi",
-      "color": "pink",
-      "typeId": "sweater54",
-      "id": "product-55",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -3323,7 +3336,7 @@
           "name": "f-s.jpg",
           "tags": [
             "front",
-            "model"
+            "scene"
           ]
         },
         {
@@ -3363,22 +3376,29 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "pink"
+    },
+    {
+      "type": "女士夹克",
+      "discount": 0.65,
+      "typeId": null,
+      "description": "Saint Laurent 黑色与白色 棉质、牛皮与羊毛 Heaven棒球夹克。罗纹衣领，摁扣，长袖，罗纹底边及袖口，全衬里。表面 成分：牛皮 100%， 衬里 成分：棉 100%、表面 成分：羊毛 100%。",
       "quantity": {
+        "40": 1,
         "42": 1,
-        "46": 1,
-        "44": 1
+        "38": 1
       },
+      "price": 2490,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-97",
+      "brandName": "Saint Laurent",
       "tags": [
         "female",
         "coat",
@@ -3386,13 +3406,6 @@
         "casual_clothes",
         "loose_coat"
       ],
-      "description": "Saint Laurent 黑色与白色 棉质、牛皮与羊毛 Heaven棒球夹克。罗纹衣领，摁扣，长袖，罗纹底边及袖口，全衬里。表面 成分：牛皮 100%， 衬里 成分：棉 100%、表面 成分：羊毛 100%。",
-      "type": "女士夹克",
-      "price": 2490,
-      "brandName": "Saint Laurent",
-      "color": "black&white",
-      "typeId": null,
-      "id": "product-97",
       "sizeType": "France",
       "pictures": [
         {
@@ -3424,34 +3437,38 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
+      "color": "black&white"
+    },
+    {
+      "type": "男士德比皮鞋",
+      "discount": 0.62,
+      "typeId": null,
+      "description": "正面绑带，杏仁形血检，鞋垫饰有品牌标识，平底。8 UK码德比鞋的尺寸信息如下：跟高：2 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分 100%、鞋底 成分：rubber 100%",
       "quantity": {
-        "40": 1,
-        "38": 1,
-        "42": 1
+        "7": 1,
+        "9": 1,
+        "6.5": 1,
+        "8": 1,
+        "5": 1,
+        "7.5": 1,
+        "6": 1
       },
+      "price": 550,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-90",
+      "brandName": "Prada",
       "tags": [
         "male",
         "shoes",
         "leather_shoes"
       ],
-      "description": "正面绑带，杏仁形血检，鞋垫饰有品牌标识，平底。8 UK码德比鞋的尺寸信息如下：跟高：2 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分 100%、鞋底 成分：rubber 100%",
-      "type": "男士德比皮鞋",
-      "price": 550,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-90",
       "sizeType": "UK",
       "pictures": [
         {
@@ -3477,26 +3494,27 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
+      "color": "black"
+    },
+    {
+      "type": "男士夹克外套",
+      "discount": 0.56,
+      "typeId": null,
+      "description": "Valentino（华伦天奴）灰色 棉质混纺 标语印花连帽衫。抽绳兜帽，正面开口式口袋，长袖。成分：棉 92%、成分：聚酰胺 8%、洗涤说明：机洗",
       "quantity": {
-        "6.5": 1,
-        "8": 1,
-        "7": 1,
-        "9": 1,
-        "6": 1,
-        "7.5": 1,
-        "5": 1
+        "S": 1
       },
+      "price": 590,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-64",
+      "brandName": "Valentino",
       "tags": [
         "male",
         "jacket",
@@ -3504,13 +3522,6 @@
         "casual_clothes",
         "pullover"
       ],
-      "description": "Valentino（华伦天奴）灰色 棉质混纺 标语印花连帽衫。抽绳兜帽，正面开口式口袋，长袖。成分：棉 92%、成分：聚酰胺 8%、洗涤说明：机洗",
-      "type": "男士夹克外套",
-      "price": 590,
-      "brandName": "Valentino",
-      "color": "grey",
-      "typeId": null,
-      "id": "product-64",
       "sizeType": "standard",
       "pictures": [
         {
@@ -3561,33 +3572,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.56,
-      "quantity": {
-        "S": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "grey"
     },
     {
+      "type": "马鞍包",
+      "discount": 0.62,
+      "description": "翻盖饰有摁扣，可拆卸可调肩带，顶部有一个手柄，内置拉链口袋。商品尺寸 带长：67cm、深度：13cm、手柄：11cm、宽度：28cm、高度：28 cm。表面成分：小牛皮100%、衬里 成分：涤纶100%",
+      "typeId": null,
+      "quantity": {
+        "U": 2
+      },
+      "price": 2390,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-30",
+      "brandID": "S61WG0011SY0767",
+      "brandName": "Maison Margiela",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "green",
-      "type": "马鞍包",
-      "price": 2390,
-      "id": "product-30",
-      "brandID": "S61WG0011SY0767",
-      "brandColor": "615",
-      "typeId": null,
-      "description": "翻盖饰有摁扣，可拆卸可调肩带，顶部有一个手柄，内置拉链口袋。商品尺寸 带长：67cm、深度：13cm、手柄：11cm、宽度：28cm、高度：28 cm。表面成分：小牛皮100%、衬里 成分：涤纶100%",
       "sizeType": "standard",
       "pictures": [
         {
@@ -3653,34 +3664,36 @@
           ]
         }
       ],
+      "color": "green",
+      "brandColor": "615"
+    },
+    {
+      "type": "男士西裤",
+      "discount": 0.69,
+      "description": "Valentino（华伦天奴）黑色 全棉 经典西裤。合身设计",
+      "typeId": null,
+      "quantity": {
+        "50": 1,
+        "52": 1,
+        "48": 1
+      },
+      "price": 300,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Maison Margiela",
-      "quantity": {
-        "U": 2
-      },
-      "discount": 0.62
-    },
-    {
+      "id": "product-37",
+      "brandID": "PV3RB20J4TA",
+      "brandName": "Valentino",
       "tags": [
         "male",
         "pants",
         "trouser"
       ],
-      "color": "black",
-      "type": "男士西裤",
-      "price": 300,
-      "id": "product-37",
-      "brandID": "PV3RB20J4TA",
-      "brandColor": "0NO",
-      "typeId": null,
-      "description": "Valentino（华伦天奴）黑色 全棉 经典西裤。合身设计",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -3724,36 +3737,35 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "0NO"
+    },
+    {
+      "type": "男士运动衫",
+      "discount": 0.69,
+      "description": "Valentino灰色运动衫、连帽、拉绳和拉链。它具有标志性的金色螺柱和袋鼠口袋。罗纹袖口和下摆",
+      "typeId": null,
+      "quantity": {
+        "S": 1,
+        "L": 1
+      },
+      "price": 980,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
+      "id": "product-39",
+      "brandID": "PV3MF08V3TV",
       "brandName": "Valentino",
-      "quantity": {
-        "48": 1,
-        "52": 1,
-        "50": 1
-      },
-      "discount": 0.69
-    },
-    {
       "tags": [
         "male",
         "loose_coat",
         "coat"
       ],
-      "color": "grey",
-      "type": "男士运动衫",
-      "price": 980,
-      "id": "product-39",
-      "brandID": "PV3MF08V3TV",
-      "brandColor": "080",
-      "typeId": null,
-      "description": "Valentino灰色运动衫、连帽、拉绳和拉链。它具有标志性的金色螺柱和袋鼠口袋。罗纹袖口和下摆",
       "sizeType": "standard",
       "pictures": [
         {
@@ -3775,34 +3787,38 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Valentino",
-      "quantity": {
-        "S": 1,
-        "L": 1
-      },
-      "discount": 0.69
+      "color": "grey",
+      "brandColor": "080"
     },
     {
+      "type": "男士德比皮鞋",
+      "discount": 0.65,
+      "typeId": null,
+      "description": "Alexander McQueen（亚历山大麦昆）黑色 小牛皮与牛皮 扣环德比鞋。圆头，口子，橡胶质抓地鞋底。43 IT码德比鞋的尺寸信息如下：跟高：1.5 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：rubber 100%",
+      "quantity": {
+        "42": 1,
+        "41.5": 1,
+        "40": 1,
+        "43": 1,
+        "44": 1,
+        "41": 1
+      },
+      "price": 720,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-89",
+      "brandName": "Alexander McQueen",
       "tags": [
         "male",
         "shoes",
         "leather_shoes"
       ],
-      "description": "Alexander McQueen（亚历山大麦昆）黑色 小牛皮与牛皮 扣环德比鞋。圆头，口子，橡胶质抓地鞋底。43 IT码德比鞋的尺寸信息如下：跟高：1.5 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：rubber 100%",
-      "type": "男士德比皮鞋",
-      "price": 720,
-      "brandName": "Alexander McQueen",
-      "color": "black",
-      "typeId": null,
-      "id": "product-89",
       "sizeType": "standard",
       "pictures": [
         {
@@ -3832,38 +3848,37 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
-      "quantity": {
-        "40": 1,
-        "41.5": 1,
-        "43": 1,
-        "44": 1,
-        "41": 1,
-        "42": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "black"
     },
     {
+      "type": "男士皮鞋",
+      "discount": 0.6,
+      "description": "Prada黑色蕾丝花边皮鞋。封闭式针织、透明橡胶鞋底、蕾丝印花效果。成分：100%皮革、橡胶。鞋底高度：4cm",
+      "typeId": null,
+      "quantity": {
+        "8.5": 1,
+        "10": 1,
+        "6.5": 1,
+        "9.5": 1,
+        "7.5": 1
+      },
+      "price": 695,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-42",
+      "brandID": "2EE0983OVW",
+      "brandName": "Prada",
       "tags": [
         "male",
         "shoes",
         "leather_shoes"
       ],
-      "color": "black",
-      "type": "男士皮鞋",
-      "price": 695,
-      "id": "product-42",
-      "brandID": "2EE0983OVW",
-      "brandColor": "F0207",
-      "typeId": null,
-      "description": "Prada黑色蕾丝花边皮鞋。封闭式针织、透明橡胶鞋底、蕾丝印花效果。成分：100%皮革、橡胶。鞋底高度：4cm",
       "sizeType": "UK",
       "pictures": [
         {
@@ -3893,36 +3908,35 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Prada",
-      "quantity": {
-        "6.5": 1,
-        "9.5": 1,
-        "10": 1,
-        "7.5": 1,
-        "8.5": 1
-      },
-      "discount": 0.6
+      "color": "black",
+      "brandColor": "F0207"
     },
     {
+      "type": "男士衬衫",
+      "discount": 0.52,
+      "typeId": "UCM608F62",
+      "description": "Prada 白色 全棉 经典衬衫。正面竖排纽扣，长袖，曲线形底边。表面 成分：棉 100%、衬里 成分：棉 100%、洗涤说明：手洗",
+      "quantity": {
+        "40": 1,
+        "42": 1,
+        "38": 1,
+        "41": 1
+      },
+      "price": 360,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-45",
+      "brandName": "Prada",
       "tags": [
         "male",
         "blouse"
       ],
-      "description": "Prada 白色 全棉 经典衬衫。正面竖排纽扣，长袖，曲线形底边。表面 成分：棉 100%、衬里 成分：棉 100%、洗涤说明：手洗",
-      "type": "男士衬衫",
-      "price": 360,
-      "brandName": "Prada",
-      "color": "white",
-      "typeId": "UCM608F62",
-      "id": "product-45",
       "sizeType": "UK",
       "pictures": [
         {
@@ -3961,35 +3975,37 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
+      "color": "white"
+    },
+    {
+      "type": "男士乐福鞋",
+      "discount": 0.65,
+      "typeId": "XXM0T",
+      "description": "编织麂皮绒乐福鞋，麂皮绒滑扣，侧面有弹性插件，背部可有标志，绒面革，内部皮革。蓝色。",
       "quantity": {
-        "40": 1,
-        "38": 1,
-        "41": 1,
-        "42": 1
+        "7": 2,
+        "9": 2,
+        "8": 2,
+        "8.5": 2,
+        "7.5": 2,
+        "9.5": 1
       },
+      "price": 350,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-87",
+      "brandName": "Tods",
       "tags": [
         "male",
         "shoes",
         "casual_shoes"
       ],
-      "description": "编织麂皮绒乐福鞋，麂皮绒滑扣，侧面有弹性插件，背部可有标志，绒面革，内部皮革。蓝色。",
-      "type": "男士乐福鞋",
-      "price": 350,
-      "brandName": "Tods",
-      "color": "blue",
-      "typeId": "XXM0T",
-      "id": "product-87",
       "sizeType": "UK",
       "pictures": [
         {
@@ -4020,37 +4036,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
+      "color": "blue"
+    },
+    {
+      "type": "男士机车运动裤",
+      "discount": 0.44,
+      "typeId": "W7H5099J",
+      "description": "Balmain（巴尔曼）灰色 全棉 机车运动裤。附加抽绳的弹性松紧腰边，弹性松紧底边，超窄腿。成分：棉 100％、洗涤说明：机洗",
       "quantity": {
-        "8": 2,
-        "9.5": 1,
-        "7": 2,
-        "8.5": 2,
-        "9": 2,
-        "7.5": 2
+        "XXL": 1
       },
+      "price": 716,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-73",
+      "brandName": "Balmain",
       "tags": [
         "male",
         "sport_pants",
         "pants"
       ],
-      "description": "Balmain（巴尔曼）灰色 全棉 机车运动裤。附加抽绳的弹性松紧腰边，弹性松紧底边，超窄腿。成分：棉 100％、洗涤说明：机洗",
-      "type": "男士机车运动裤",
-      "price": 716,
-      "brandName": "Balmain",
-      "color": "grey",
-      "typeId": "W7H5099J",
-      "id": "product-73",
       "sizeType": "standard",
       "pictures": [
         {
@@ -4097,32 +4108,33 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "grey"
+    },
+    {
+      "type": "男士机车运动裤",
       "discount": 0.44,
+      "typeId": "W7H5099J",
+      "description": "Balmain（巴尔曼）黑色 全棉 机车运动裤。附加抽绳的弹性松紧腰边，弹性松紧底边，超窄腿。成分：棉 100％、洗涤说明：机洗",
       "quantity": {
-        "XXL": 1
+        "S": 1,
+        "L": 1
       },
+      "price": 546,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-74",
+      "brandName": "Balmain",
       "tags": [
         "male",
         "sport_pants",
         "pants"
       ],
-      "description": "Balmain（巴尔曼）黑色 全棉 机车运动裤。附加抽绳的弹性松紧腰边，弹性松紧底边，超窄腿。成分：棉 100％、洗涤说明：机洗",
-      "type": "男士机车运动裤",
-      "price": 546,
-      "brandName": "Balmain",
-      "color": "black",
-      "typeId": "W7H5099J",
-      "id": "product-74",
       "sizeType": "standard",
       "pictures": [
         {
@@ -4167,33 +4179,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "black"
+    },
+    {
+      "type": "男士单肩包",
+      "discount": 0.62,
+      "typeId": null,
+      "description": "Prada黑色尼龙单肩包，双金属夹子搭扣，三角形金属LOGO，正面带有品牌标志，可拆卸可调节简单，内部拉链开合，翻盖下开放式隔层，内部口袋，背部带拉链口袋。产品材质：100%尼龙 产品尺寸：高度：24CM，宽度：30CM，深度：12.5CM",
       "quantity": {
-        "S": 1,
-        "L": 1
+        "U": 1
       },
+      "price": 1050,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-80",
+      "brandName": "Prada",
       "tags": [
         "male",
         "bag",
         "shoulder_bag"
       ],
-      "description": "Prada黑色尼龙单肩包，双金属夹子搭扣，三角形金属LOGO，正面带有品牌标志，可拆卸可调节简单，内部拉链开合，翻盖下开放式隔层，内部口袋，背部带拉链口袋。产品材质：100%尼龙 产品尺寸：高度：24CM，宽度：30CM，深度：12.5CM",
-      "type": "男士单肩包",
-      "price": 1050,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-80",
       "sizeType": "UK",
       "pictures": [
         {
@@ -4216,20 +4227,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
-      "quantity": {
-        "U": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "black"
     },
     {
+      "type": "裸靴",
+      "discount": 0.62,
+      "description": "Maison Margiela 红色 小牛皮 Socks及裸靴。圆头，后置隐藏式拉链，后饰有标志性的白色针脚，中高粗跟。商品尺寸 Heel：8cm，Circumaference：23cm，Height：13.5cm。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+      "typeId": null,
+      "quantity": {
+        "36": 1,
+        "38": 1,
+        "36.5": 1,
+        "37.5": 1,
+        "39": 1,
+        "40": 1,
+        "37": 1,
+        "35.5": 1
+      },
+      "price": 590,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-20",
+      "brandID": "S39WU0097S48432",
+      "brandName": "Maison Margiela",
       "tags": [
         "female",
         "boots",
@@ -4237,14 +4263,6 @@
         "leather_shoes",
         "casual_shoes"
       ],
-      "color": "red",
-      "type": "裸靴",
-      "price": 590,
-      "id": "product-20",
-      "brandID": "S39WU0097S48432",
-      "brandColor": "961",
-      "typeId": null,
-      "description": "Maison Margiela 红色 小牛皮 Socks及裸靴。圆头，后置隐藏式拉链，后饰有标志性的白色针脚，中高粗跟。商品尺寸 Heel：8cm，Circumaference：23cm，Height：13.5cm。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
       "sizeType": "China",
       "pictures": [
         {
@@ -4312,41 +4330,34 @@
           ]
         }
       ],
+      "color": "red",
+      "brandColor": "961"
+    },
+    {
+      "type": "女士手袋",
+      "discount": 0.69,
+      "description": "SOFT CUBE小号光滑小牛皮手袋；手提或斜挎 皮革肩带，长22英寸（55厘米）；2个内侧扁平口袋 9 X 9 X 5英寸（24 X 23 X 11厘米）；金色饰面；100%小牛皮，100％反毛小牛皮衬里",
+      "typeId": null,
+      "quantity": {
+        "U": 1
+      },
+      "price": 1300,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Maison Margiela",
-      "quantity": {
-        "37": 1,
-        "36": 1,
-        "36.5": 1,
-        "35.5": 1,
-        "37.5": 1,
-        "39": 1,
-        "38": 1,
-        "40": 1
-      },
-      "discount": 0.62
-    },
-    {
+      "id": "product-27",
+      "brandID": "181613AZJ38NO",
+      "brandName": "Celine",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "black",
-      "type": "女士手袋",
-      "price": 1300,
-      "id": "product-27",
-      "brandID": "181613AZJ38NO",
-      "brandColor": "38NO",
-      "typeId": null,
-      "description": "SOFT CUBE小号光滑小牛皮手袋；手提或斜挎 皮革肩带，长22英寸（55厘米）；2个内侧扁平口袋 9 X 9 X 5英寸（24 X 23 X 11厘米）；金色饰面；100%小牛皮，100％反毛小牛皮衬里",
       "sizeType": "standard",
       "pictures": [
         {
@@ -4405,21 +4416,31 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "38NO"
+    },
+    {
+      "type": "女鞋",
+      "discount": 0.65,
+      "description": "女士鞋子，尖头，牛皮",
+      "typeId": null,
+      "quantity": {
+        "40": 1,
+        "38.5": 1,
+        "37.5": 1
+      },
+      "price": 680,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
+      "id": "product-18",
+      "brandID": "321943CES",
       "brandName": "Celine",
-      "quantity": {
-        "U": 1
-      },
-      "discount": 0.69
-    },
-    {
       "tags": [
         "female",
         "shoes",
@@ -4427,14 +4448,6 @@
         "short_boots",
         "leather_shoes"
       ],
-      "color": "blue",
-      "type": "女鞋",
-      "price": 680,
-      "id": "product-18",
-      "brandID": "321943CES",
-      "brandColor": "07EB",
-      "typeId": null,
-      "description": "女士鞋子，尖头，牛皮",
       "sizeType": "China",
       "pictures": [
         {
@@ -4466,35 +4479,36 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Celine",
-      "quantity": {
-        "37.5": 1,
-        "40": 1,
-        "38.5": 1
-      },
-      "discount": 0.65
+      "color": "blue",
+      "brandColor": "07EB"
     },
     {
+      "type": "吊带裙",
+      "discount": 0.65,
+      "typeId": null,
+      "description": "成分：57% ALPACA 43% VIRGIN WOOL",
+      "quantity": {
+        "L": 1,
+        "S": 1,
+        "XS": 1,
+        "M": 1
+      },
+      "price": 560,
+      "currency": "EUR",
+      "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计12个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+        "duration": {
+          "min": 17,
+          "max": 24
+        }
+      },
+      "id": "product-11",
+      "brandName": "Tory Burch",
       "tags": [
         "female",
         "dress",
         "skirt"
       ],
-      "description": "成分：57% ALPACA 43% VIRGIN WOOL",
-      "type": "吊带裙",
-      "price": 560,
-      "brandName": "Tory Burch",
-      "color": "black",
-      "typeId": null,
-      "id": "product-11",
       "sizeType": "standard",
       "pictures": [
         {
@@ -4504,37 +4518,42 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
-      "quantity": {
-        "S": 1,
-        "L": 1,
-        "XS": 1,
-        "M": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 17,
-          "max": 24
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计12个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "black"
     },
     {
+      "type": "高跟鞋",
+      "discount": 0.62,
+      "description": "Versace 黑色 牛皮 Medusa Palazzo高跟鞋。尖头，Medusa头纹标志镶嵌，低跟，鞋垫饰有品牌标识。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+      "typeId": null,
+      "quantity": {
+        "38": 1,
+        "36.5": 2,
+        "36": 2,
+        "38.5": 2,
+        "37": 2,
+        "39": 2,
+        "35.5": 2,
+        "35": 2,
+        "37.5": 2
+      },
+      "price": 1100,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-16",
+      "brandID": "NW0S0E70XRL",
+      "brandName": "Versace",
       "tags": [
         "female",
         "shoes",
         "high_heel_shoes",
         "leather_shoes"
       ],
-      "color": "black",
-      "type": "高跟鞋",
-      "price": 1100,
-      "id": "product-16",
-      "brandID": "NW0S0E70XRL",
-      "brandColor": "0NO",
-      "typeId": null,
-      "description": "Versace 黑色 牛皮 Medusa Palazzo高跟鞋。尖头，Medusa头纹标志镶嵌，低跟，鞋垫饰有品牌标识。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
       "sizeType": "China",
       "pictures": [
         {
@@ -4559,42 +4578,34 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "0NO"
+    },
+    {
+      "type": "购物袋",
+      "discount": 0.76,
+      "description": "Bazar购物袋，蓝白彩条，皮质",
+      "typeId": null,
+      "quantity": {
+        "U": 2
+      },
+      "price": 1350,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Versace",
-      "quantity": {
-        "37": 2,
-        "36": 2,
-        "35": 2,
-        "36.5": 2,
-        "35.5": 2,
-        "37.5": 2,
-        "39": 2,
-        "38": 1,
-        "38.5": 2
-      },
-      "discount": 0.62
-    },
-    {
+      "id": "product-29",
+      "brandID": "443097/DE9ON",
+      "brandName": "Balenciaga",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "blue",
-      "type": "购物袋",
-      "price": 1350,
-      "id": "product-29",
-      "brandID": "443097/DE9ON",
-      "brandColor": "4380",
-      "typeId": null,
-      "description": "Bazar购物袋，蓝白彩条，皮质",
       "sizeType": "standard",
       "pictures": [
         {
@@ -4623,33 +4634,33 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Balenciaga",
-      "quantity": {
-        "U": 2
-      },
-      "discount": 0.76
+      "color": "blue",
+      "brandColor": "4380"
     },
     {
+      "type": "男士手拿包",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Dolce & Gabbana黑色尼龙手拿包。外部拉链封闭、拉链口袋、可拆卸和可调肩带、内部拉链袋。成分：尼龙。商品尺寸：Width:14.57英寸、Height：10.24英寸、Depth：4.72英寸",
+      "quantity": {
+        "U": 1
+      },
+      "price": 995,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-81",
+      "brandName": "Dolce & Gabbana",
       "tags": [
         "male",
         "bag",
         "shoulder_bag"
       ],
-      "description": "Dolce & Gabbana黑色尼龙手拿包。外部拉链封闭、拉链口袋、可拆卸和可调肩带、内部拉链袋。成分：尼龙。商品尺寸：Width:14.57英寸、Height：10.24英寸、Depth：4.72英寸",
-      "type": "男士手拿包",
-      "price": 995,
-      "brandName": "Dolce & Gabbana",
-      "color": "black",
-      "typeId": null,
-      "id": "product-81",
       "sizeType": "UK",
       "pictures": [
         {
@@ -4685,32 +4696,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "男士工装长裤",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Faith Connexion 黑色 弹性棉质 工装长裤。成分：棉 97% 成分：氨纶（弹性纤维） 3% 洗涤说明：机洗",
       "quantity": {
-        "U": 1
+        "S": 1,
+        "M": 2,
+        "L": 1
       },
+      "price": 676,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-75",
+      "brandName": "Faith Connexion",
       "tags": [
         "male",
         "pants",
         "slacks"
       ],
-      "description": "Faith Connexion 黑色 弹性棉质 工装长裤。成分：棉 97% 成分：氨纶（弹性纤维） 3% 洗涤说明：机洗",
-      "type": "男士工装长裤",
-      "price": 676,
-      "brandName": "Faith Connexion",
-      "color": "black",
-      "typeId": null,
-      "id": "product-75",
       "sizeType": "standard",
       "pictures": [
         {
@@ -4750,34 +4763,32 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "black"
+    },
+    {
+      "type": "男士运动长裤",
       "discount": 0.44,
+      "typeId": null,
+      "description": "Moncler 深灰色 全棉 经典运动长裤。附加抽绳的弹性松紧腰边，侧身口袋，后置贴袋，修身，弹性松紧袖口。这件商品尺码适中。成分：棉 100%、洗涤说明：机洗 Moncler是位于阿尔卑斯山的Monastier de Clermont小村的简称。1952年，该品牌在这里诞生，今日，它以经典的绗缝羽绒大衣备受运动派潮人的瞩目。",
       "quantity": {
-        "S": 1,
-        "L": 1,
-        "M": 2
+        "XL": 2
       },
+      "price": 226,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-72",
+      "brandName": "Moncler",
       "tags": [
         "male",
         "sport_pants",
         "pants"
       ],
-      "description": "Moncler 深灰色 全棉 经典运动长裤。附加抽绳的弹性松紧腰边，侧身口袋，后置贴袋，修身，弹性松紧袖口。这件商品尺码适中。成分：棉 100%、洗涤说明：机洗 Moncler是位于阿尔卑斯山的Monastier de Clermont小村的简称。1952年，该品牌在这里诞生，今日，它以经典的绗缝羽绒大衣备受运动派潮人的瞩目。",
-      "type": "男士运动长裤",
-      "price": 226,
-      "brandName": "Moncler",
-      "color": "grey",
-      "typeId": null,
-      "id": "product-72",
       "sizeType": "standard",
       "pictures": [
         {
@@ -4818,33 +4829,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "grey"
+    },
+    {
+      "type": "男士公文包",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Alexander McQueen（亚历山大麦昆）黑色 牛皮 拼接公文包。顶部有两个手柄，双向拉链，肩带。商品尺寸：Strap：50 cm、Depth：8 cm、Handle：10 cm、Width：40 cm、Height：27 cm",
       "quantity": {
-        "XL": 2
+        "U": 2
       },
+      "price": 1800,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-86",
+      "brandName": "Alexander McQueen",
       "tags": [
         "male",
         "bag",
         "briefcase",
         "shoulder_bag"
       ],
-      "description": "Alexander McQueen（亚历山大麦昆）黑色 牛皮 拼接公文包。顶部有两个手柄，双向拉链，肩带。商品尺寸：Strap：50 cm、Depth：8 cm、Handle：10 cm、Width：40 cm、Height：27 cm",
-      "type": "男士公文包",
-      "price": 1800,
-      "brandName": "Alexander McQueen",
-      "color": "black",
-      "typeId": null,
-      "id": "product-86",
       "sizeType": "UK",
       "pictures": [
         {
@@ -4878,31 +4889,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "男士衬衫",
+      "discount": 0.52,
+      "typeId": "UCM608F62",
+      "description": "Prada 黑色 棉质混纺 经典排扣衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣细节、曲线形底边。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：干洗",
       "quantity": {
-        "U": 2
+        "40": 1,
+        "42": 1,
+        "38": 1,
+        "41": 1
       },
+      "price": 360,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-44",
+      "brandName": "Prada",
       "tags": [
         "male",
         "blouse"
       ],
-      "description": "Prada 黑色 棉质混纺 经典排扣衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣细节、曲线形底边。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：干洗",
-      "type": "男士衬衫",
-      "price": 360,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": "UCM608F62",
-      "id": "product-44",
       "sizeType": "UK",
       "pictures": [
         {
@@ -4934,35 +4948,40 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
+      "color": "black"
+    },
+    {
+      "type": "男士乐福鞋",
+      "discount": 0.65,
+      "typeId": "XXM0T",
+      "description": "编织麂皮绒乐福鞋，麂皮绒滑扣，侧面有弹性插件，背部可有标志，绒面革，内部皮革。棕色。",
       "quantity": {
-        "40": 1,
-        "38": 1,
-        "41": 1,
-        "42": 1
+        "7": 2,
+        "9": 2,
+        "6.5": 2,
+        "8": 2,
+        "5.5": 2,
+        "8.5": 2,
+        "7.5": 2,
+        "9.5": 1,
+        "6": 2
       },
+      "price": 350,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-88",
+      "brandName": "Tods",
       "tags": [
         "male",
         "shoes",
         "casual_shoes"
       ],
-      "description": "编织麂皮绒乐福鞋，麂皮绒滑扣，侧面有弹性插件，背部可有标志，绒面革，内部皮革。棕色。",
-      "type": "男士乐福鞋",
-      "price": 350,
-      "brandName": "Tods",
-      "color": "brown",
-      "typeId": "XXM0T",
-      "id": "product-88",
       "sizeType": "UK",
       "pictures": [
         {
@@ -4993,39 +5012,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
+      "color": "brown"
+    },
+    {
+      "type": "男士衬衫",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Thom Browne 白色 全棉 条纹袖衬衫。表面 成分：棉 100%",
       "quantity": {
-        "5.5": 2,
-        "6.5": 2,
-        "7": 2,
-        "8": 2,
-        "8.5": 2,
-        "9.5": 1,
-        "9": 2,
-        "6": 2,
-        "7.5": 2
+        "4": 3,
+        "8": 3,
+        "6": 2
       },
+      "price": 370,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-43",
+      "brandName": "Thom Browne",
       "tags": [
         "male",
         "blouse"
       ],
-      "description": "Thom Browne 白色 全棉 条纹袖衬衫。表面 成分：棉 100%",
-      "type": "男士衬衫",
-      "price": 370,
-      "brandName": "Thom Browne",
-      "color": "white",
-      "typeId": null,
-      "id": "product-43",
       "sizeType": "America",
       "pictures": [
         {
@@ -5058,36 +5071,38 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "8": 3,
-        "4": 3,
-        "6": 2
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "white"
     },
     {
+      "type": "运动鞋",
+      "discount": 0.6,
+      "description": "运动鞋，休闲款",
+      "typeId": null,
+      "quantity": {
+        "37": 1,
+        "35.5": 1,
+        "35": 1,
+        "36.5": 1,
+        "36": 1
+      },
+      "price": 595,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-17",
+      "brandID": "CK0150AH290",
+      "brandName": "Dolce & Gabanna",
       "tags": [
         "female",
         "shoes",
         "sneakers",
         "casual_shoes"
       ],
-      "color": "black",
-      "type": "运动鞋",
-      "price": 595,
-      "id": "product-17",
-      "brandID": "CK0150AH290",
-      "brandColor": "HNF57",
-      "typeId": null,
-      "description": "运动鞋，休闲款",
       "sizeType": "China",
       "pictures": [
         {
@@ -5151,38 +5166,34 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "HNF57"
+    },
+    {
+      "type": "女士编制手提包",
+      "discount": 0.73,
+      "description": "真皮编制，金属提链",
+      "typeId": null,
+      "quantity": {
+        "U": 1
+      },
+      "price": 2800,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Dolce & Gabanna",
-      "quantity": {
-        "35.5": 1,
-        "37": 1,
-        "36": 1,
-        "35": 1,
-        "36.5": 1
-      },
-      "discount": 0.6
-    },
-    {
+      "id": "product-28",
+      "brandID": "386498/VCB10",
+      "brandName": "Bottega Veneta",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "black",
-      "type": "女士编制手提包",
-      "price": 2800,
-      "id": "product-28",
-      "brandID": "386498/VCB10",
-      "brandColor": "1000",
-      "typeId": null,
-      "description": "真皮编制，金属提链",
       "sizeType": "standard",
       "pictures": [
         {
@@ -5211,33 +5222,35 @@
           ]
         }
       ],
+      "color": "black",
+      "brandColor": "1000"
+    },
+    {
+      "type": "丝绒阔腿裤",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "成分: 纤维胶 82% 成分: 丝绸 18% 洗涤说明 干洗",
+      "quantity": {
+        "40": 1,
+        "42": 1,
+        "38": 1
+      },
+      "price": 375,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Bottega Veneta",
-      "quantity": {
-        "U": 1
-      },
-      "discount": 0.73
-    },
-    {
+      "id": "product-10",
+      "brandName": "Federica Tosi",
       "tags": [
         "female",
         "pants",
         "slacks"
       ],
-      "description": "成分: 纤维胶 82% 成分: 丝绸 18% 洗涤说明 干洗",
-      "type": "丝绒阔腿裤",
-      "price": 375,
-      "brandName": "Federica Tosi",
-      "color": "green",
-      "typeId": null,
-      "id": "product-10",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -5253,36 +5266,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "green"
+    },
+    {
+      "type": "女士手提包",
+      "discount": 0.73,
+      "description": "真皮款女士手提包",
+      "typeId": null,
       "quantity": {
-        "40": 1,
-        "38": 1,
-        "42": 1
+        "U": 1
       },
+      "price": 1190,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-26",
+      "brandID": "C17WS331HGP208",
+      "brandName": "Chloe",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "brown",
-      "type": "女士手提包",
-      "price": 1190,
-      "brandName": "Chloe",
-      "brandID": "C17WS331HGP208",
-      "typeId": null,
-      "id": "product-26",
       "sizeType": "UK",
-      "description": "真皮款女士手提包",
       "pictures": [
         {
           "name": "1.jpg",
@@ -5310,34 +5321,38 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.73,
+      "color": "brown"
+    },
+    {
+      "type": "女士高筒靴",
+      "discount": 0.68,
+      "description": "女士高筒靴",
+      "typeId": null,
       "quantity": {
-        "U": 1
+        "37": 1,
+        "39": 1,
+        "37.5": 1,
+        "36": 1,
+        "38.5": 1
       },
+      "price": 1295,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-19",
+      "brandID": "494248/W0530",
+      "brandName": "Balenciaga",
       "tags": [
         "female",
         "shoes",
         "boots",
         "high_boots"
       ],
-      "color": "red",
-      "type": "女士高筒靴",
-      "price": 1295,
-      "id": "product-19",
-      "brandID": "494248/W0530",
-      "brandColor": "6650",
-      "typeId": null,
-      "description": "女士高筒靴",
       "sizeType": "China",
       "pictures": [
         {
@@ -5368,37 +5383,37 @@
           ]
         }
       ],
+      "color": "red",
+      "brandColor": "6650"
+    },
+    {
+      "type": "牛仔短裤",
+      "discount": 0.81,
+      "typeId": null,
+      "description": "牛仔短裤",
+      "quantity": {
+        "12": 1,
+        "4": 2,
+        "8": 2,
+        "6": 1,
+        "10": 2
+      },
+      "price": 174,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
+        }
       },
-      "currency": "EUR",
-      "brandName": "Balenciaga",
-      "quantity": {
-        "37": 1,
-        "37.5": 1,
-        "36": 1,
-        "38.5": 1,
-        "39": 1
-      },
-      "discount": 0.68
-    },
-    {
+      "id": "product-21",
+      "brandName": "J Brand",
       "tags": [
         "female",
         "short",
         "jeans"
       ],
-      "description": "牛仔短裤",
-      "type": "牛仔短裤",
-      "price": 174,
-      "brandName": "J Brand",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-21",
       "sizeType": "America",
       "pictures": [
         {
@@ -5414,36 +5429,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.81,
+      "color": "blue"
+    },
+    {
+      "type": "高领纯色毛衣",
+      "discount": 0.62,
+      "typeId": "sweater-1",
+      "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
       "quantity": {
-        "8": 2,
-        "4": 2,
-        "10": 2,
-        "12": 1,
-        "6": 1
+        "S": 2,
+        "XS": 2
       },
+      "price": 790,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-2",
+      "brandName": "Maison Margiela",
       "tags": [
         "female",
         "sweater",
         "coat"
       ],
-      "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
-      "type": "高领纯色毛衣",
-      "price": 790,
-      "brandName": "Maison Margiela",
-      "color": "red",
-      "typeId": "sweater-1",
-      "id": "product-2",
       "sizeType": "standard",
       "pictures": [
         {
@@ -5460,33 +5472,39 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
+      "color": "red"
+    },
+    {
+      "type": "板鞋",
+      "discount": 0.65,
+      "typeId": null,
+      "description": "拼接logo板鞋；成分：牛皮 100%，表面 成分：绒面皮 100%",
       "quantity": {
-        "S": 2,
-        "XS": 2
+        "42": 1,
+        "41.5": 1,
+        "43": 1,
+        "39": 1,
+        "40": 1,
+        "39.5": 1,
+        "44": 1,
+        "41": 1
       },
+      "price": 520,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日和买手店确认，周一、周四发货，发货后预计10个工作日到达目的地",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-5",
+      "brandName": "valentino",
       "tags": [
         "male",
         "shoes",
         "sneakers"
       ],
-      "description": "拼接logo板鞋；成分：牛皮 100%，表面 成分：绒面皮 100%",
-      "type": "板鞋",
-      "price": 520,
-      "brandName": "valentino",
-      "color": "black",
-      "typeId": null,
-      "id": "product-5",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -5509,40 +5527,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
-      "quantity": {
-        "41": 1,
-        "41.5": 1,
-        "43": 1,
-        "39": 1,
-        "44": 1,
-        "39.5": 1,
-        "40": 1,
-        "42": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日和买手店确认，周一、周四发货，发货后预计10个工作日到达目的地"
-      }
+      "color": "black"
     },
     {
+      "type": "女士七分阔腿裤",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Marni向来以创新的灵感诠释时尚潮流，如今也不例外，在坚守创办人Consuelo Castiglioni的美学的同时，运用不拘一格的廓形、五零年代式印花和给嘞皮草打造具个人特色的时装系列。Marni（玛尼）蓝色 初剪羊毛混纺 七分阔腿裤。隐藏式正面开合，下摆上翻，折痕，短款，阔腿。成分：涤纶 62%、成分：初剪羊毛 38%、洗涤说明：干洗",
+      "quantity": {
+        "38": 1
+      },
+      "price": 491,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-103",
+      "brandName": "Marni",
       "tags": [
         "female",
         "pants",
         "slacks",
         "cropped_trousers"
       ],
-      "description": "Marni向来以创新的灵感诠释时尚潮流，如今也不例外，在坚守创办人Consuelo Castiglioni的美学的同时，运用不拘一格的廓形、五零年代式印花和给嘞皮草打造具个人特色的时装系列。Marni（玛尼）蓝色 初剪羊毛混纺 七分阔腿裤。隐藏式正面开合，下摆上翻，折痕，短款，阔腿。成分：涤纶 62%、成分：初剪羊毛 38%、洗涤说明：干洗",
-      "type": "女士七分阔腿裤",
-      "price": 491,
-      "brandName": "Marni",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-103",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -5580,33 +5591,33 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "blue"
+    },
+    {
+      "type": "女士紧身机车打底裤",
       "discount": 0.44,
+      "typeId": null,
+      "description": "Fendi（芬迪）黑色 小羊皮 紧身机车打底裤。侧置拉链，束腰，超窄腿。成分：小羊皮 100%、洗涤说明：专人洗涤。",
       "quantity": {
-        "38": 1
+        "40": 2
       },
+      "price": 351,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-104",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "pants",
         "leggings",
         "leather_pants"
       ],
-      "description": "Fendi（芬迪）黑色 小羊皮 紧身机车打底裤。侧置拉链，束腰，超窄腿。成分：小羊皮 100%、洗涤说明：专人洗涤。",
-      "type": "女士紧身机车打底裤",
-      "price": 351,
-      "brandName": "Fendi",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-104",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -5653,33 +5664,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
-      "quantity": {
-        "40": 2
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "blue"
     },
     {
+      "type": "斜跨包",
+      "discount": 0.62,
+      "typeId": "bag-1",
+      "description": "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
+      "quantity": {
+        "U": 1
+      },
+      "price": 1600,
+      "currency": "EUR",
+      "transport": {
+        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-4",
+      "brandName": "Maison Margiela",
       "tags": [
         "female",
         "bag",
         "handbag",
         "shoulder_bag"
       ],
-      "description": "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
-      "type": "斜跨包",
-      "price": 1600,
-      "brandName": "Maison Margiela",
-      "color": "black",
-      "typeId": "bag-1",
-      "id": "product-4",
       "sizeType": "standard",
       "pictures": [
         {
@@ -5704,32 +5715,32 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "black"
+    },
+    {
+      "type": "斜跨包",
       "discount": 0.62,
+      "typeId": "bag-1",
+      "description": "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
       "quantity": {
-        "U": 1
+        "U": 2
       },
+      "price": 1600,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-3",
+      "brandName": "Maison Margiela",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "description": "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
-      "type": "斜跨包",
-      "price": 1600,
-      "brandName": "Maison Margiela",
-      "color": "pink",
-      "typeId": "bag-1",
-      "id": "product-3",
       "sizeType": "standard",
       "pictures": [
         {
@@ -5760,32 +5771,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
-      "quantity": {
-        "U": 2
-      },
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"
-      }
+      "color": "pink"
     },
     {
+      "type": "女士运动裤",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Fendi（芬迪）蓝色 侧条纹运动裤。套头款式，侧面有对比的拼接。成分：氨纶（弹性纤维）15% 成分：聚酰胺 85% 洗涤说明：手洗",
+      "quantity": {
+        "40": 1
+      },
+      "price": 1601,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-105",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "sport_pants",
         "pants"
       ],
-      "description": "Fendi（芬迪）蓝色 侧条纹运动裤。套头款式，侧面有对比的拼接。成分：氨纶（弹性纤维）15% 成分：聚酰胺 85% 洗涤说明：手洗",
-      "type": "女士运动裤",
-      "price": 1601,
-      "brandName": "Fendi",
-      "color": "black",
-      "typeId": null,
-      "id": "product-105",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -5825,32 +5836,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "black"
+    },
+    {
+      "type": "女士长裤",
+      "discount": 0.6,
+      "typeId": "71310782000",
+      "description": "红色直筒长裤，前后口袋，97%棉、3%氨纶面料。",
       "quantity": {
-        "40": 1
+        "40": 1,
+        "42": 1,
+        "44": 1
       },
+      "price": 150,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-102",
+      "brandName": "Sportmax",
       "tags": [
         "female",
         "pants",
         "slacks"
       ],
-      "description": "红色直筒长裤，前后口袋，97%棉、3%氨纶面料。",
-      "type": "女士长裤",
-      "price": 150,
-      "brandName": "Sportmax",
-      "color": "red",
-      "typeId": "71310782000",
-      "id": "product-102",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -5883,35 +5896,33 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "red"
+    },
+    {
+      "type": "女士裙装",
       "discount": 0.6,
+      "typeId": null,
+      "description": "作为Michael Kors的副线，Michael Michael Korsw为率性女性风尚品牌之一，其利落的上下装及经典包款则早已在时尚圈占有一席之地。Michael Michael Kors 紫色与粉红色 扇贝形花卉蕾丝小礼服。圆领，透视长袖，后置隐藏式拉链，扇贝形下摆。表面 成分：涤纶23%、衬里 成分：涤纶 100%、表面 成分：棉 30%、表面 成分：尼龙 24%、表面 成分 24%、表面 成分：纤维胶 23%、洗涤说明：手洗",
       "quantity": {
-        "40": 1,
-        "42": 1,
-        "44": 1
+        "8": 1
       },
+      "price": 295,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-111",
+      "brandName": "Michael Kors",
       "tags": [
         "female",
         "skirt",
         "dress",
         "see_through_dress"
       ],
-      "description": "作为Michael Kors的副线，Michael Michael Korsw为率性女性风尚品牌之一，其利落的上下装及经典包款则早已在时尚圈占有一席之地。Michael Michael Kors 紫色与粉红色 扇贝形花卉蕾丝小礼服。圆领，透视长袖，后置隐藏式拉链，扇贝形下摆。表面 成分：涤纶23%、衬里 成分：涤纶 100%、表面 成分：棉 30%、表面 成分：尼龙 24%、表面 成分 24%、表面 成分：纤维胶 23%、洗涤说明：手洗",
-      "type": "女士裙装",
-      "price": 295,
-      "brandName": "Michael Kors",
-      "color": "purple&pink",
-      "typeId": null,
-      "id": "product-111",
       "sizeType": "America",
       "pictures": [
         {
@@ -5958,31 +5969,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "purple&pink"
+    },
+    {
+      "type": "女士裙子",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Prada 黑色 真丝羊毛混纺 半身裙 成分：44% 真丝 56%羊毛",
       "quantity": {
-        "8": 1
+        "40": 1,
+        "46": 1,
+        "38": 1
       },
+      "price": 700,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-116",
+      "brandName": "Prada",
       "tags": [
         "female",
         "skirt"
       ],
-      "description": "Prada 黑色 真丝羊毛混纺 半身裙 成分：44% 真丝 56%羊毛",
-      "type": "女士裙子",
-      "price": 700,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-116",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6023,34 +6036,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "black"
+    },
+    {
+      "type": "男士西装套装",
+      "discount": 0.52,
+      "typeId": null,
+      "description": "田园诗般的风格品牌GiCapri在50年代就开始了发展，品牌在经过重新改造成为了当今男装市场的重要地位。裁缝师Vincenzo Sicignano在50年代开始就创造了被时装界认可的定制运动外套，拥有及其轻薄的面料以及没有褶皱的效果，在5年前Siciganano的孙子继续发展这种面料模式进行设计",
       "quantity": {
-        "40": 1,
-        "38": 1,
-        "46": 1
+        "56": 1,
+        "48": 1
       },
+      "price": 620,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-120",
+      "brandName": "Gi Capri",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "田园诗般的风格品牌GiCapri在50年代就开始了发展，品牌在经过重新改造成为了当今男装市场的重要地位。裁缝师Vincenzo Sicignano在50年代开始就创造了被时装界认可的定制运动外套，拥有及其轻薄的面料以及没有褶皱的效果，在5年前Siciganano的孙子继续发展这种面料模式进行设计",
-      "type": "男士西装套装",
-      "price": 620,
-      "brandName": "Gi Capri",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-120",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6079,33 +6091,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
+      "color": "blue"
+    },
+    {
+      "type": "男士西装套装",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Saint Laurent（圣罗兰）黑色 丝绸、棉质与羊毛 合身两件式西装套装。经典翻领，长袖，纽扣，一般长度，合身设计，搭扣细节，侧身口袋，后置口袋。衬里 成分：丝绸 100%、衬里 成分：棉 100%、表面成分：涤纶 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
       "quantity": {
-        "56": 1,
+        "50": 1,
+        "52": 1,
         "48": 1
       },
+      "price": 2500,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-118",
+      "brandName": "Saint Laurent",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "Saint Laurent（圣罗兰）黑色 丝绸、棉质与羊毛 合身两件式西装套装。经典翻领，长袖，纽扣，一般长度，合身设计，搭扣细节，侧身口袋，后置口袋。衬里 成分：丝绸 100%、衬里 成分：棉 100%、表面成分：涤纶 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
-      "type": "男士西装套装",
-      "price": 2500,
-      "brandName": "Saint Laurent",
-      "color": "black",
-      "typeId": null,
-      "id": "product-118",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6166,34 +6179,34 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "black"
+    },
+    {
+      "type": "男士西装套装",
       "discount": 0.6,
+      "typeId": null,
+      "description": "Prince of Wales check suit",
       "quantity": {
-        "48": 1,
-        "52": 1,
-        "50": 1
+        "50": 1,
+        "54": 1,
+        "48": 1
       },
+      "price": 1085,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-119",
+      "brandName": "Lardni",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "Prince of Wales check suit",
-      "type": "男士西装套装",
-      "price": 1085,
-      "brandName": "Lardni",
-      "color": "grey",
-      "typeId": null,
-      "id": "product-119",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6234,34 +6247,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "grey"
+    },
+    {
+      "type": "男士西装套装",
+      "discount": 0.52,
+      "typeId": null,
+      "description": "Blue Wool Suits from Prada, jacket with button closure on front, three pockets on fromt, pinces on front, long sleeves buttons cuffs, two button pockets inside, brand logo inside label. Classic pants, hook and buttons closure, belt loops, two pockets on front, two button pockets on back, brand log inside label",
       "quantity": {
-        "48": 1,
-        "54": 1,
-        "50": 1
+        "50": 1,
+        "52": 1,
+        "48": 1
       },
+      "price": 1820,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-121",
+      "brandName": "Prada",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "Blue Wool Suits from Prada, jacket with button closure on front, three pockets on fromt, pinces on front, long sleeves buttons cuffs, two button pockets inside, brand logo inside label. Classic pants, hook and buttons closure, belt loops, two pockets on front, two button pockets on back, brand log inside label",
-      "type": "男士西装套装",
-      "price": 1820,
-      "brandName": "Prada",
-      "color": "blue",
-      "typeId": null,
-      "id": "product-121",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6283,34 +6296,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.52,
+      "color": "blue"
+    },
+    {
+      "type": "男士西装套装",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Thom Browne 黑色 羊毛与马海毛婚房 斜线剪裁西装套装。夹克：梯形翻领，正面纽扣，两个正面盖袋，后背有两个开衩。长裤：横条纹，侧置口袋，后置口袋。这件商品尺码偏大，请选择小一号。表面 成分：涤纶 100%、衬里 成分：铜胺纤维 100%、表面 成分：羊毛 100%",
       "quantity": {
-        "48": 1,
-        "52": 1,
-        "50": 1
+        "38": 2,
+        "34": 1
       },
+      "price": 2810,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-117",
+      "brandName": "Thom Browne",
       "tags": [
         "male",
         "coat",
         "suit"
       ],
-      "description": "Thom Browne 黑色 羊毛与马海毛婚房 斜线剪裁西装套装。夹克：梯形翻领，正面纽扣，两个正面盖袋，后背有两个开衩。长裤：横条纹，侧置口袋，后置口袋。这件商品尺码偏大，请选择小一号。表面 成分：涤纶 100%、衬里 成分：铜胺纤维 100%、表面 成分：羊毛 100%",
-      "type": "男士西装套装",
-      "price": 2810,
-      "brandName": "Thom Browne",
-      "color": "black",
-      "typeId": null,
-      "id": "product-117",
       "sizeType": "America",
       "pictures": [
         {
@@ -6351,33 +6363,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "女士连衣裙",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Marni（玛尼）粉色 真丝 领巾薄纱连衣裙。短款，高领，短袖，假搭扣袖口，侧身开衩。衬里 成分：丝绸 100%、表面 成分：纤维胶 58%、表面 成分：醋酸纤维 42%、洗涤说明：干洗",
       "quantity": {
-        "34": 1,
-        "38": 2
+        "40": 1,
+        "38": 1,
+        "36": 1
       },
+      "price": 1150,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-110",
+      "brandName": "Marni",
       "tags": [
         "female",
         "skirt",
         "dress"
       ],
-      "description": "Marni（玛尼）粉色 真丝 领巾薄纱连衣裙。短款，高领，短袖，假搭扣袖口，侧身开衩。衬里 成分：丝绸 100%、表面 成分：纤维胶 58%、表面 成分：醋酸纤维 42%、洗涤说明：干洗",
-      "type": "女士连衣裙",
-      "price": 1150,
-      "brandName": "Marni",
-      "color": "pink",
-      "typeId": null,
-      "id": "product-110",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6421,36 +6434,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
-      "quantity": {
-        "36": 1,
-        "38": 1,
-        "40": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "pink"
     },
     {
+      "type": "单肩包",
+      "discount": 0.62,
+      "description": "Valentino Garavani 轻薄象牙色皮革单肩包，正面搭配钩扣，正面和背面饰有黑色和灰色金属铆钉细节，绒面革衬里内有两个隔层和一个拉链袋，里面贴有品牌标志。",
+      "typeId": null,
+      "quantity": {
+        "U": 2
+      },
+      "price": 2545,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-32",
+      "brandID": "NW2B0053UVC",
+      "brandName": "Valentino Garavani",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "ivory",
-      "type": "单肩包",
-      "price": 2545,
-      "brandName": "Valentino Garavani",
-      "brandID": "NW2B0053UVC",
-      "typeId": null,
-      "id": "product-32",
       "sizeType": "standard",
-      "description": "Valentino Garavani 轻薄象牙色皮革单肩包，正面搭配钩扣，正面和背面饰有黑色和灰色金属铆钉细节，绒面革衬里内有两个隔层和一个拉链袋，里面贴有品牌标志。",
       "pictures": [
         {
           "name": "1.jpg",
@@ -6520,34 +6531,36 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
+      "color": "ivory"
+    },
+    {
+      "type": "男士外套",
+      "discount": 0.6,
+      "description": "海军蓝色 牛皮与羊毛混纺 Plymouth连帽外套。短款，纽扣，经典衣领，带兜帽，方格衬里。成分：牛皮100%、成分：聚酰胺 20%、成分：羊毛 80%",
+      "typeId": null,
       "quantity": {
-        "U": 2
+        "XL": 1,
+        "M": 1,
+        "L": 1
       },
+      "price": 895,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 15,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-35",
+      "brandID": "4059500SANDRINGHAM",
+      "brandName": "Burberry",
       "tags": [
         "male",
         "coat",
         "loose_coat",
         "overcoat"
       ],
-      "color": "blue",
-      "type": "男士外套",
-      "price": 895,
-      "id": "product-35",
-      "brandID": "4059500SANDRINGHAM",
-      "brandColor": "41000",
-      "typeId": null,
-      "description": "海军蓝色 牛皮与羊毛混纺 Plymouth连帽外套。短款，纽扣，经典衣领，带兜帽，方格衬里。成分：牛皮100%、成分：聚酰胺 20%、成分：羊毛 80%",
       "sizeType": "standard",
       "pictures": [
         {
@@ -6586,35 +6599,38 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Burberry",
-      "quantity": {
-        "XL": 1,
-        "L": 1,
-        "M": 1
-      },
-      "discount": 0.6
+      "color": "blue",
+      "brandColor": "41000"
     },
     {
+      "type": "女士厚底鞋",
+      "discount": 0.44,
+      "typeId": "36399",
+      "description": "Stella McCartney 黑色 人造皮革 Star Elyse厚底鞋。橡胶质抓地鞋底，厚鞋底，方头，正面绑带。鞋底 成分：rubber 100%、表面 成分：人造皮革 100%、衬里 成分：人造皮革 100%。38 IT码系带鞋的尺寸信息如下：商品尺寸： Heel：8.5 cm。38 IT码布洛克鞋的尺寸信息如下：商品尺寸：Heel：8 cm、Platform：6 cm。",
+      "quantity": {
+        "38": 2,
+        "36": 2,
+        "37.5": 1,
+        "39": 1,
+        "37": 1,
+        "35.5": 2
+      },
+      "price": 695,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-95",
+      "brandName": "Stella McCartney",
       "tags": [
         "female",
         "shoes",
         "pantshoes"
       ],
-      "description": "Stella McCartney 黑色 人造皮革 Star Elyse厚底鞋。橡胶质抓地鞋底，厚鞋底，方头，正面绑带。鞋底 成分：rubber 100%、表面 成分：人造皮革 100%、衬里 成分：人造皮革 100%。38 IT码系带鞋的尺寸信息如下：商品尺寸： Heel：8.5 cm。38 IT码布洛克鞋的尺寸信息如下：商品尺寸：Heel：8 cm、Platform：6 cm。",
-      "type": "女士厚底鞋",
-      "price": 695,
-      "brandName": "Stella McCartney",
-      "color": "black",
-      "typeId": "36399",
-      "id": "product-95",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6657,25 +6673,28 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "black"
+    },
+    {
+      "type": "男士外套",
+      "discount": 0.48,
+      "typeId": null,
+      "description": "拉链长款外套。长款，黑色，立领。前置两个口袋。100%聚酯纤维、60%马海毛、40%初剪羊毛",
       "quantity": {
-        "37": 1,
-        "36": 2,
-        "35.5": 2,
-        "37.5": 1,
-        "39": 1,
-        "38": 2
+        "M": 1,
+        "L": 1
       },
+      "price": 1400,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-61",
+      "brandName": "Valentino",
       "tags": [
         "male",
         "coat",
@@ -6683,13 +6702,6 @@
         "overcoat",
         "loose_coat"
       ],
-      "description": "拉链长款外套。长款，黑色，立领。前置两个口袋。100%聚酯纤维、60%马海毛、40%初剪羊毛",
-      "type": "男士外套",
-      "price": 1400,
-      "brandName": "Valentino",
-      "color": "black",
-      "typeId": null,
-      "id": "product-61",
       "sizeType": "standard",
       "pictures": [
         {
@@ -6712,34 +6724,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.48,
+      "color": "black"
+    },
+    {
+      "type": "男士夹克外套",
+      "discount": 0.72,
+      "typeId": null,
+      "description": "Gucci 黑色 初剪羊毛 虎刺绣条纹防风夹克。抽绳兜帽，正面拉链，抽绳下摆。表面 成分：聚酰胺 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
       "quantity": {
-        "L": 1,
-        "M": 1
+        "48": 1
       },
+      "price": 2800,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-66",
+      "brandName": "Gucci",
       "tags": [
         "male",
         "jacket",
         "coat",
         "casual_clothes"
       ],
-      "description": "Gucci 黑色 初剪羊毛 虎刺绣条纹防风夹克。抽绳兜帽，正面拉链，抽绳下摆。表面 成分：聚酰胺 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
-      "type": "男士夹克外套",
-      "price": 2800,
-      "brandName": "Gucci",
-      "color": "black",
-      "typeId": null,
-      "id": "product-66",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6780,33 +6791,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.72,
+      "color": "black"
+    },
+    {
+      "type": "男士板鞋",
+      "discount": 0.44,
+      "typeId": "CMIA037",
+      "description": "Marcelo Burlon County Of Milan 白色 Marcelo Burlon x Reebok Zoku板鞋。 圆头，系带，鞋舌饰有品牌浮雕，橡胶质抓地鞋底。43 IT码运动鞋的尺寸信息如下：跟高：2 cm 鞋底 成分：rubber 100%、表面：成分：涤纶 100%、衬里 成分：涤纶 100%",
       "quantity": {
-        "48": 1
+        "42": 2,
+        "41": 2
       },
+      "price": 324,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-92",
+      "brandName": "Marcelo Burlon",
       "tags": [
         "male",
         "shoes",
         "casual_shoes",
         "skate_shoes"
       ],
-      "description": "Marcelo Burlon County Of Milan 白色 Marcelo Burlon x Reebok Zoku板鞋。 圆头，系带，鞋舌饰有品牌浮雕，橡胶质抓地鞋底。43 IT码运动鞋的尺寸信息如下：跟高：2 cm 鞋底 成分：rubber 100%、表面：成分：涤纶 100%、衬里 成分：涤纶 100%",
-      "type": "男士板鞋",
-      "price": 324,
-      "brandName": "Marcelo Burlon",
-      "color": "white",
-      "typeId": "CMIA037",
-      "id": "product-92",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6838,33 +6850,35 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "white"
+    },
+    {
+      "type": "女士T恤",
+      "discount": 0.6,
+      "typeId": "shirt50",
+      "description": "Fendi(芬迪) 黑色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
       "quantity": {
-        "41": 2,
-        "42": 2
+        "40": 2,
+        "42": 2,
+        "44": 1,
+        "38": 2
       },
+      "price": 350,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-50",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "tshirt",
         "coat"
       ],
-      "description": "Fendi(芬迪) 黑色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
-      "type": "女士T恤",
-      "price": 350,
-      "brandName": "Fendi",
-      "color": "black",
-      "typeId": "shirt50",
-      "id": "product-50",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -6934,35 +6948,36 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "40": 2,
-        "38": 2,
-        "42": 2,
-        "44": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "black"
     },
     {
+      "type": "女士西裤",
+      "discount": 0.65,
+      "typeId": "pants56",
+      "description": "Tory Burch(汤丽柏琦) 白色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
+      "quantity": {
+        "12": 1,
+        "4": 1,
+        "8": 1,
+        "6": 1,
+        "10": 1
+      },
+      "price": 265,
+      "currency": "EUR",
+      "transport": {
+        "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+        "duration": {
+          "min": 16,
+          "max": 20
+        }
+      },
+      "id": "product-57",
+      "brandName": "Tory Burch",
       "tags": [
         "female",
         "pants",
         "trouser"
       ],
-      "description": "Tory Burch(汤丽柏琦) 白色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
-      "type": "女士西裤",
-      "price": 265,
-      "brandName": "Tory Burch",
-      "color": "white",
-      "typeId": "pants56",
-      "id": "product-57",
       "sizeType": "America",
       "pictures": [
         {
@@ -6992,24 +7007,28 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
-      "quantity": {
-        "8": 1,
-        "4": 1,
-        "10": 1,
-        "12": 1,
-        "6": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 16,
-          "max": 20
-        },
-        "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "white"
     },
     {
+      "type": "男士夹克外套",
+      "discount": 0.6,
+      "typeId": "G9JT4LFUL89",
+      "description": "小羊皮夹克。罗纹边下摆。拉链上有标志。产品护理：专业中心洗涤。产品材质：100%皮革。1个内部口袋拉链，2个前袋拉链",
+      "quantity": {
+        "50": 1,
+        "48": 1
+      },
+      "price": 1950,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-68",
+      "brandName": "Dolce & Gabbana",
       "tags": [
         "male",
         "jacket",
@@ -7017,13 +7036,6 @@
         "leather_coat",
         "casual_clothes"
       ],
-      "description": "小羊皮夹克。罗纹边下摆。拉链上有标志。产品护理：专业中心洗涤。产品材质：100%皮革。1个内部口袋拉链，2个前袋拉链",
-      "type": "男士夹克外套",
-      "price": 1950,
-      "brandName": "Dolce & Gabbana",
-      "color": "black",
-      "typeId": "G9JT4LFUL89",
-      "id": "product-68",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -7039,34 +7051,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
-      "quantity": {
-        "48": 1,
-        "50": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "black"
     },
     {
+      "type": "女士手提包",
+      "discount": 0.76,
+      "description": "真皮材质",
+      "typeId": null,
+      "quantity": {
+        "U": 1
+      },
+      "price": 1795,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-34",
+      "brandID": "491634/C8k05",
+      "brandName": "Balenciaga",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "black",
-      "type": "女士手提包",
-      "price": 1795,
-      "id": "product-34",
-      "brandID": "491634/C8k05",
-      "brandColor": "1000",
-      "typeId": null,
-      "description": "真皮材质",
       "sizeType": "standard",
       "pictures": [
         {
@@ -7096,35 +7107,35 @@
           ]
         }
       ],
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      },
-      "currency": "EUR",
-      "brandName": "Balenciaga",
+      "color": "black",
+      "brandColor": "1000"
+    },
+    {
+      "type": "女士手提包",
+      "discount": 0.62,
+      "description": "牛皮小号链饰。成分：牛皮100%",
+      "typeId": null,
       "quantity": {
         "U": 1
       },
-      "discount": 0.76
-    },
-    {
+      "price": 750,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 15,
+          "max": 19
+        }
+      },
+      "id": "product-33",
+      "brandID": "17H1401SM2MIRLG.710",
+      "brandName": "Paco Rabanne",
       "tags": [
         "female",
         "bag",
         "handbag"
       ],
-      "color": "gold",
-      "type": "女士手提包",
-      "price": 750,
-      "brandName": "Paco Rabanne",
-      "brandID": "17H1401SM2MIRLG.710",
-      "typeId": null,
-      "id": "product-33",
       "sizeType": "standard",
-      "description": "牛皮小号链饰。成分：牛皮100%",
       "pictures": [
         {
           "name": "1.jpg",
@@ -7159,32 +7170,36 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.62,
-      "quantity": {
-        "U": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 15,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "gold"
     },
     {
+      "type": "女士西裤",
+      "discount": 0.65,
+      "typeId": "pants56",
+      "description": "Tory Burch(汤丽柏琦) 蓝色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
+      "quantity": {
+        "12": 1,
+        "4": 1,
+        "8": 1,
+        "6": 1,
+        "10": 1
+      },
+      "price": 265,
+      "currency": "EUR",
+      "transport": {
+        "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+        "duration": {
+          "min": 16,
+          "max": 20
+        }
+      },
+      "id": "product-56",
+      "brandName": "Tory Burch",
       "tags": [
         "female",
         "pants",
         "trouser"
       ],
-      "description": "Tory Burch(汤丽柏琦) 蓝色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
-      "type": "女士西裤",
-      "price": 265,
-      "brandName": "Tory Burch",
-      "color": "blue",
-      "typeId": "pants56",
-      "id": "product-56",
       "sizeType": "America",
       "pictures": [
         {
@@ -7229,36 +7244,32 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.65,
-      "quantity": {
-        "8": 1,
-        "4": 1,
-        "10": 1,
-        "12": 1,
-        "6": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 16,
-          "max": 20
-        },
-        "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
+      "color": "blue"
     },
     {
+      "type": "男士运动裤",
+      "discount": 0.6,
+      "typeId": null,
+      "description": "Neil Barrett 黑色 初剪羊毛与棉质混纺 侧条纹运动裤。隐蔽式开合，侧身口袋。这件商品符合标准尺码。表面 成分：氨纶（弹性纤维）3%、衬里 成分：涤纶 45%、衬里 成分：棉 55%、表面 成分：涤纶 53%、表面 成分：初剪羊毛 44%、洗涤说明：手洗",
+      "quantity": {
+        "48": 1
+      },
+      "price": 531,
+      "currency": "EUR",
+      "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+        "duration": {
+          "min": 14,
+          "max": 19
+        }
+      },
+      "id": "product-69",
+      "brandName": "Neil Barrett",
       "tags": [
         "male",
         "pants",
         "sports_pants"
       ],
-      "description": "Neil Barrett 黑色 初剪羊毛与棉质混纺 侧条纹运动裤。隐蔽式开合，侧身口袋。这件商品符合标准尺码。表面 成分：氨纶（弹性纤维）3%、衬里 成分：涤纶 45%、衬里 成分：棉 55%、表面 成分：涤纶 53%、表面 成分：初剪羊毛 44%、洗涤说明：手洗",
-      "type": "男士运动裤",
-      "price": 531,
-      "brandName": "Neil Barrett",
-      "color": "black",
-      "typeId": null,
-      "id": "product-69",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -7315,32 +7326,35 @@
           ]
         }
       ],
-      "currency": "EUR",
+      "color": "black"
+    },
+    {
+      "type": "女士T恤",
       "discount": 0.6,
+      "typeId": "shirt50",
+      "description": "Fendi(芬迪) 白色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
       "quantity": {
-        "48": 1
+        "40": 3,
+        "42": 2,
+        "44": 1,
+        "38": 3
       },
+      "price": 350,
+      "currency": "EUR",
       "transport": {
+        "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-51",
+      "brandName": "Fendi",
       "tags": [
         "female",
         "tshirt",
         "coat"
       ],
-      "description": "Fendi(芬迪) 白色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
-      "type": "女士T恤",
-      "price": 350,
-      "brandName": "Fendi",
-      "color": "white",
-      "typeId": "shirt50",
-      "id": "product-51",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -7407,36 +7421,34 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "white"
+    },
+    {
+      "type": "男士板鞋",
+      "discount": 0.44,
+      "typeId": "CMIA037",
+      "description": "Marcelo Burlon County Of Milan 黑色 Marcelo Burlon x Reebok Zoku板鞋。 圆头，系带，鞋舌饰有品牌浮雕，橡胶质抓地鞋底。43 IT码运动鞋的尺寸信息如下：跟高：2 cm 鞋底 成分：rubber 100%、表面：成分：涤纶 100%、衬里 成分：涤纶 100%",
       "quantity": {
-        "40": 3,
-        "38": 3,
         "42": 2,
-        "44": 1
+        "41": 2
       },
+      "price": 324,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-93",
+      "brandName": "Marcelo Burlon",
       "tags": [
         "male",
         "shoes",
         "skate_shoes",
         "sneakers"
       ],
-      "description": "Marcelo Burlon County Of Milan 黑色 Marcelo Burlon x Reebok Zoku板鞋。 圆头，系带，鞋舌饰有品牌浮雕，橡胶质抓地鞋底。43 IT码运动鞋的尺寸信息如下：跟高：2 cm 鞋底 成分：rubber 100%、表面：成分：涤纶 100%、衬里 成分：涤纶 100%",
-      "type": "男士板鞋",
-      "price": 324,
-      "brandName": "Marcelo Burlon",
-      "color": "black",
-      "typeId": "CMIA037",
-      "id": "product-93",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -7460,21 +7472,28 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
+      "color": "black"
+    },
+    {
+      "type": "男士外套",
+      "discount": 0.6,
+      "typeId": "G9JT4LFUL89",
+      "description": "logo拉链真皮外套， 100%真皮",
       "quantity": {
-        "41": 2,
-        "42": 2
+        "50": 1,
+        "52": 1
       },
+      "price": 1950,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-67",
+      "brandName": "Dolce & Gabbana",
       "tags": [
         "male",
         "jacket",
@@ -7482,13 +7501,6 @@
         "casual_clothes",
         "leather_coat"
       ],
-      "description": "logo拉链真皮外套， 100%真皮",
-      "type": "男士外套",
-      "price": 1950,
-      "brandName": "Dolce & Gabbana",
-      "color": "black",
-      "typeId": "G9JT4LFUL89",
-      "id": "product-67",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -7521,34 +7533,33 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.6,
+      "color": "black"
+    },
+    {
+      "type": "男士夹克",
+      "discount": 0.48,
+      "typeId": null,
+      "description": "缎布飞行员夹克 男士",
       "quantity": {
-        "52": 1,
-        "50": 1
+        "48": 1
       },
+      "price": 2320,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-60",
+      "brandName": "Calvin Klein",
       "tags": [
         "male",
         "jacket",
         "coat",
         "casual_clothes"
       ],
-      "description": "缎布飞行员夹克 男士",
-      "type": "男士夹克",
-      "price": 2320,
-      "brandName": "Calvin Klein",
-      "color": "black",
-      "typeId": null,
-      "id": "product-60",
       "sizeType": "Italy",
       "pictures": [
         {
@@ -7583,32 +7594,37 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.48,
+      "color": "black"
+    },
+    {
+      "type": "男士乐福皮鞋",
+      "discount": 0.44,
+      "typeId": null,
+      "description": "Prada 黑色 牛皮logo乐福鞋。银色标牌，平底橡胶鞋底。9 UK码乐福鞋的尺寸信息如下：鞋跟：3 cm 表面 成分：牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：牛皮 100%、鞋底 成分：rubber 100%",
       "quantity": {
-        "48": 1
+        "7": 1,
+        "6.5": 1,
+        "5.5": 1,
+        "8.5": 1,
+        "7.5": 1,
+        "6": 1
       },
+      "price": 491,
+      "currency": "EUR",
       "transport": {
+        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
         "duration": {
           "min": 14,
           "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
-    },
-    {
+        }
+      },
+      "id": "product-94",
+      "brandName": "Prada",
       "tags": [
         "male",
         "shoes",
         "leather_shoes"
       ],
-      "description": "Prada 黑色 牛皮logo乐福鞋。银色标牌，平底橡胶鞋底。9 UK码乐福鞋的尺寸信息如下：鞋跟：3 cm 表面 成分：牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：牛皮 100%、鞋底 成分：rubber 100%",
-      "type": "男士乐福皮鞋",
-      "price": 491,
-      "brandName": "Prada",
-      "color": "black",
-      "typeId": null,
-      "id": "product-94",
       "sizeType": "UK",
       "pictures": [
         {
@@ -7645,23 +7661,7 @@
           ]
         }
       ],
-      "currency": "EUR",
-      "discount": 0.44,
-      "quantity": {
-        "5.5": 1,
-        "6.5": 1,
-        "7": 1,
-        "8.5": 1,
-        "6": 1,
-        "7.5": 1
-      },
-      "transport": {
-        "duration": {
-          "min": 14,
-          "max": 19
-        },
-        "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"
-      }
+      "color": "black"
     }
   ]
 }
