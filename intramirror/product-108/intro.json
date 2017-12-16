@@ -1,59 +1,95 @@
 {
-	"brandName": "Calvin Klein",
-	"color": "red",
-	"currency": "EUR",
-	"price": 730,
-	"discount": 0.48,
-	"typeId"   : "205W39NYC",
-	"sizeType": "France",
-	"quantity": {"38": 1, "40": 1, "42":1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front", "scene"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "scene"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["right", "scene", "side"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": ["back"]
-		},
-		{
-			"name": "6.jpg",
-			"tags": ["close-up", "top", "scene"]
-		},
-		{
-			"name": "7.jpg",
-			"tags": ["right", "model", "scene", "side"]
-		},
-		{
-			"name": "8.jpg",
-			"tags": ["intro",  "scene"]
-		},
-		{
-			"name": "9.jpg",
-			"tags": ["price", "scene"]
-		}
-
-	],
-	"description": "CALVIN KLEIN 205W39NYC 红色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
-	"type" : "女士长裤", 
-	"tags": ["female", "pants", "slacks"]
+  "brandName": "Calvin Klein",
+  "typeId": "205W39NYC",
+  "quantity": {
+    "38": 9,
+    "42": 3,
+    "40": 4
+  },
+  "description": "CALVIN KLEIN 205W39NYC 红色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
+  "sizeType": "France",
+  "color": "red",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "scene"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "scene"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "right",
+        "scene",
+        "side"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "close-up",
+        "top",
+        "scene"
+      ]
+    },
+    {
+      "name": "7.jpg",
+      "tags": [
+        "right",
+        "model",
+        "scene",
+        "side"
+      ]
+    },
+    {
+      "name": "8.jpg",
+      "tags": [
+        "intro",
+        "scene"
+      ]
+    },
+    {
+      "name": "9.jpg",
+      "tags": [
+        "price",
+        "scene"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.48,
+  "price": 730,
+  "tags": [
+    "female",
+    "pants",
+    "slacks"
+  ],
+  "type": "女士长裤",
+  "currency": "EUR"
 }

@@ -1,35 +1,49 @@
 {
-	"brandName": "Gucci",
-	"color": "black",
-	"currency": "EUR",
-	"price": 1750,
-	"discount": 0.67,
-	"typeId"   : null,
-	"sizeType": "Italy",
-	"quantity": {"48":1, "50": 1, "52": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "back"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": [ "close-up"]
-		}
-
-	],
-	"description": "Gucci 黑色 羊毛与马海毛混纺 经典西装夹克。梯形翻领，长袖，胸袋，侧身口袋，正面纽扣，中后背开衩。衬里 成分：纤维胶 100% 衬里 成分：铜胺纤维 100% 表面 成分: 羊毛 84% 表面 成分：马海毛 16% 洗涤说明 干洗",
-	"type" : "男士外套",
-	"tags": ["male","casual_clothes", "coat","suit"]
+  "brandName": "Gucci",
+  "typeId": null,
+  "quantity": {
+    "48": 4,
+    "50": 5,
+    "52": 1
+  },
+  "description": "Gucci 黑色 羊毛与马海毛混纺 经典西装夹克。梯形翻领，长袖，胸袋，侧身口袋，正面纽扣，中后背开衩。衬里 成分：纤维胶 100% 衬里 成分：铜胺纤维 100% 表面 成分: 羊毛 84% 表面 成分：马海毛 16% 洗涤说明 干洗",
+  "sizeType": "Italy",
+  "color": "black",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.67,
+  "price": 1750,
+  "tags": [
+    "male",
+    "casual_clothes",
+    "coat",
+    "suit"
+  ],
+  "type": "男士外套",
+  "currency": "EUR"
 }

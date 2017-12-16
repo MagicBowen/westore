@@ -1,50 +1,75 @@
 {
-	"brandName": "Gucci",
-	"color": "white&red&blue",
-	"currency": "EUR",
-	"price": 1300,
-	"discount": 0.72,
-	"typeId"   : null,
-	"sizeType": "Italy",
-	"quantity": {"42": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": [ "front", "scene"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": [ "back", "scene"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": [ "close-up"]
-		},
-		{
-			"name": "6.jpg",
-			"tags": [ "intro", "scene"]
-		},
-		{
-			"name": "7.jpg",
-			"tags": [ "price", "scene"]
-		}
-	],
-	"description": "这款精致的作品采用了娴静的中长款造型，腰部高耸的高腰设计，以创意总监Alessandro Michele的Gucci Rhombus印花为标志性的白色，红色和蓝色调色板－这是一个独特而复古的灵感来源。成分：丝绸 100%、洗涤说明：干洗",
-	"type" : "女士裙子", 
-	"tags": ["female", "skirt", "dress"]
+  "brandName": "Gucci",
+  "typeId": null,
+  "quantity": {
+    "42": 9
+  },
+  "description": "这款精致的作品采用了娴静的中长款造型，腰部高耸的高腰设计，以创意总监Alessandro Michele的Gucci Rhombus印花为标志性的白色，红色和蓝色调色板－这是一个独特而复古的灵感来源。成分：丝绸 100%、洗涤说明：干洗",
+  "sizeType": "Italy",
+  "color": "white&red&blue",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "front",
+        "scene"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "back",
+        "scene"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "close-up"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "intro",
+        "scene"
+      ]
+    },
+    {
+      "name": "7.jpg",
+      "tags": [
+        "price",
+        "scene"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.72,
+  "price": 1300,
+  "tags": [
+    "female",
+    "skirt",
+    "dress"
+  ],
+  "type": "女士裙子",
+  "currency": "EUR"
 }

@@ -1,15 +1,54 @@
 {
-    "brandName" : "valentino",
-    "color" : "black",
-    "currency" : "EUR",
-    "price" : 520,
-    "discount" : 0.65,
-    "typeId"   : null,    
-    "sizeType" : "Italy",            
-    "quantity" : {"39" : 1, "39.5":1, "40":1, "41":1, "41.5":1, "42":1, "43":1, "44":1},
-    "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日和买手店确认，周一、周四发货，发货后预计10个工作日到达目的地"},
-    "pictures" : [{"name" : "1.jpg", "tags" : ["right","side"]}, {"name" : "2.jpg", "tags" : ["front"]}, {"name" : "3.jpg", "tags" : ["price"]}],
-    "description" : "拼接logo板鞋；成分：牛皮 100%，表面 成分：绒面皮 100%",
-    "type" : "板鞋",   
-    "tags" : ["male", "shoes", "sneakers"]
+  "brandName": "valentino",
+  "typeId": null,
+  "quantity": {
+    "42": 8,
+    "40": 7,
+    "39": 6,
+    "39.5": 9,
+    "41": 7,
+    "41.5": 3,
+    "43": 7,
+    "44": 3
+  },
+  "description": "拼接logo板鞋；成分：牛皮 100%，表面 成分：绒面皮 100%",
+  "sizeType": "Italy",
+  "color": "black",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "price"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "1个工作日和买手店确认，周一、周四发货，发货后预计10个工作日到达目的地",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "discount": 0.65,
+  "price": 520,
+  "tags": [
+    "male",
+    "shoes",
+    "sneakers"
+  ],
+  "type": "板鞋",
+  "currency": "EUR"
 }

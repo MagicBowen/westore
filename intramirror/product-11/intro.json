@@ -1,15 +1,37 @@
 {
-    "brandName" : "Tory Burch",
-    "color" : "black",
-    "currency" : "EUR",
-    "price" : 560,
-    "discount" : 0.65,
-    "typeId"   : null,
-    "sizeType" : "standard",
-    "quantity" : {"XS" : 1, "S" : 1, "M" : 1, "L" : 1},
-    "transport" : {"duration" : {"min" : 17, "max" : 24}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计12个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
-    "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}],
-    "description" : "成分：57% ALPACA 43% VIRGIN WOOL",
-    "type"     : "吊带裙",
-    "tags" : ["female", "dress", "skirt"]
+  "brandName": "Tory Burch",
+  "typeId": null,
+  "quantity": {
+    "M": 5,
+    "XS": 6,
+    "S": 8,
+    "L": 8
+  },
+  "description": "成分：57% ALPACA 43% VIRGIN WOOL",
+  "sizeType": "standard",
+  "color": "black",
+  "pictures": [
+    {
+      "name": "front.jpg",
+      "tags": [
+        "front"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计12个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 24,
+      "min": 17
+    }
+  },
+  "discount": 0.65,
+  "price": 560,
+  "tags": [
+    "female",
+    "dress",
+    "skirt"
+  ],
+  "type": "吊带裙",
+  "currency": "EUR"
 }

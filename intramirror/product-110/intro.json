@@ -1,46 +1,70 @@
 {
-	"brandName": "Marni",
-	"color": "pink",
-	"currency": "EUR",
-	"price": 1150,
-	"discount": 0.44,
-	"typeId"   : null,
-	"sizeType": "Italy",
-	"quantity": {"36": 1,"38":1, "40": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["right", "model"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["back", "model"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": ["front", "model"]
-		},
-		{
-			"name": "6.jpg",
-			"tags": ["close-up"]
-		}
-	],
-	"description": "Marni（玛尼）粉色 真丝 领巾薄纱连衣裙。短款，高领，短袖，假搭扣袖口，侧身开衩。衬里 成分：丝绸 100%、表面 成分：纤维胶 58%、表面 成分：醋酸纤维 42%、洗涤说明：干洗",
-	"type" : "女士连衣裙", 
-	"tags": ["female", "skirt", "dress"]
+  "brandName": "Marni",
+  "typeId": null,
+  "quantity": {
+    "38": 2,
+    "40": 3,
+    "36": 10
+  },
+  "description": "Marni（玛尼）粉色 真丝 领巾薄纱连衣裙。短款，高领，短袖，假搭扣袖口，侧身开衩。衬里 成分：丝绸 100%、表面 成分：纤维胶 58%、表面 成分：醋酸纤维 42%、洗涤说明：干洗",
+  "sizeType": "Italy",
+  "color": "pink",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "right",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.44,
+  "price": 1150,
+  "tags": [
+    "female",
+    "skirt",
+    "dress"
+  ],
+  "type": "女士连衣裙",
+  "currency": "EUR"
 }

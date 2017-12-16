@@ -1,39 +1,60 @@
 {
-	"brandName": "Versace",
-	"brandID": "NW0S0E70XRL",
-	"brandColor": "0NO",
-	"color": "black",
-	"currency": "EUR",
-	"price": 1100,
-	"discount": 0.62,
-	"typeId"   : null,
-	"sizeType": "China",
-	"quantity": { "35":2, "35.5": 2, "36": 2, "36.5": 2, "37": 2, "37.5":2,  "38": 1, "38.5":2,  "39":2},
-	"transport": {
-		"duration": {
-		"min": 15, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": ["left", "side"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["right", "side"]
-		}
-		
-
-	],
-	"description": "Versace 黑色 牛皮 Medusa Palazzo高跟鞋。尖头，Medusa头纹标志镶嵌，低跟，鞋垫饰有品牌标识。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
-	"type" : "高跟鞋",
-	"tags": ["female", "shoes", "high_heel_shoes","leather_shoes"]
-
+  "brandName": "Versace",
+  "typeId": null,
+  "quantity": {
+    "37.5": 6,
+    "38": 7,
+    "39": 2,
+    "36": 1,
+    "38.5": 2,
+    "35.5": 2,
+    "37": 9,
+    "36.5": 7,
+    "35": 7
+  },
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "sizeType": "China",
+  "brandID": "NW0S0E70XRL",
+  "color": "black",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "left",
+        "side"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    }
+  ],
+  "description": "Versace 黑色 牛皮 Medusa Palazzo高跟鞋。尖头，Medusa头纹标志镶嵌，低跟，鞋垫饰有品牌标识。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：rubber100%",
+  "discount": 0.62,
+  "price": 1100,
+  "brandColor": "0NO",
+  "tags": [
+    "female",
+    "shoes",
+    "high_heel_shoes",
+    "leather_shoes"
+  ],
+  "type": "高跟鞋",
+  "currency": "EUR"
 }

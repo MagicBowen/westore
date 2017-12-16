@@ -1,42 +1,65 @@
 {
-	"brandName": "Moncler",
-	"color": "grey",
-	"currency": "EUR",
-	"price": 226,
-	"discount": 0.44,
-	"typeId"   : null,
-	"sizeType": "standard",
-	"quantity": {"XL": 2},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["front", "right", "model", "side"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": [ "front", "left", "model"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": [ "back", "model"]
-		}
-	],
-	"description": "Moncler 深灰色 全棉 经典运动长裤。附加抽绳的弹性松紧腰边，侧身口袋，后置贴袋，修身，弹性松紧袖口。这件商品尺码适中。成分：棉 100%、洗涤说明：机洗 Moncler是位于阿尔卑斯山的Monastier de Clermont小村的简称。1952年，该品牌在这里诞生，今日，它以经典的绗缝羽绒大衣备受运动派潮人的瞩目。",
-	"type" : "男士运动长裤",
-	"tags": ["male","sport_pants", "pants"]
+  "brandName": "Moncler",
+  "typeId": null,
+  "quantity": {
+    "XL": 6
+  },
+  "description": "Moncler 深灰色 全棉 经典运动长裤。附加抽绳的弹性松紧腰边，侧身口袋，后置贴袋，修身，弹性松紧袖口。这件商品尺码适中。成分：棉 100%、洗涤说明：机洗 Moncler是位于阿尔卑斯山的Monastier de Clermont小村的简称。1952年，该品牌在这里诞生，今日，它以经典的绗缝羽绒大衣备受运动派潮人的瞩目。",
+  "sizeType": "standard",
+  "color": "grey",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "front",
+        "right",
+        "model",
+        "side"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "front",
+        "left",
+        "model"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.44,
+  "price": 226,
+  "tags": [
+    "male",
+    "sport_pants",
+    "pants"
+  ],
+  "type": "男士运动长裤",
+  "currency": "EUR"
 }

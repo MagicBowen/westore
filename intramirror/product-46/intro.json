@@ -1,42 +1,65 @@
 {
-	"brandName": "Prada",
-	"color": "blue",
-	"currency": "EUR",
-	"price": 360,
-	"discount": 0.52,
-	"typeId"   : "UCM608F62",
-	"sizeType": "UK",
-	"quantity": {"38": 1, "40":1, "41": 1, "42": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "model"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["front", "model", "close-up"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": ["front", "close-up"]
-		}
-	],
-	"description": "Prada 蓝色 棉质混纺 经典衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣袖口、以及平直下摆。其经典设计，可谓百搭单品。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：鸡西洗",
-	"type" : "男士衬衫",
-	"tags": ["male", "blouse"]
+  "brandName": "Prada",
+  "typeId": "UCM608F62",
+  "quantity": {
+    "41": 1,
+    "38": 3,
+    "42": 5,
+    "40": 2
+  },
+  "description": "Prada 蓝色 棉质混纺 经典衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣袖口、以及平直下摆。其经典设计，可谓百搭单品。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：鸡西洗",
+  "sizeType": "UK",
+  "color": "blue",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "front",
+        "model",
+        "close-up"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "front",
+        "close-up"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.52,
+  "price": 360,
+  "tags": [
+    "male",
+    "blouse"
+  ],
+  "type": "男士衬衫",
+  "currency": "EUR"
 }

@@ -1,30 +1,40 @@
 {
-	"brandName": "Dolce & Gabbana",
-	"color": "green",
-	"currency": "EUR",
-	"price": 1950,
-	"discount": 0.6,
-	"typeId"   : null,
-	"sizeType": "America",
-	"quantity": {"8": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "back"]
-		}
-	],
-	"description": "Dolce & Gabbana 绿色 蕾丝无袖连衣裙。无袖设计，后置隐藏式拉链，及膝",
-	"type" : "女士裙子", 
-	"tags": ["female", "skirt", "dress"]
+  "brandName": "Dolce & Gabbana",
+  "typeId": null,
+  "quantity": {
+    "8": 7
+  },
+  "description": "Dolce & Gabbana 绿色 蕾丝无袖连衣裙。无袖设计，后置隐藏式拉链，及膝",
+  "sizeType": "America",
+  "color": "green",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.6,
+  "price": 1950,
+  "tags": [
+    "female",
+    "skirt",
+    "dress"
+  ],
+  "type": "女士裙子",
+  "currency": "EUR"
 }

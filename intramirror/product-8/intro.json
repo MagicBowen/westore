@@ -1,15 +1,60 @@
 {
-    "brandName" : "Equipment",
-    "color" : "white",
-    "currency" : "EUR",
-    "price" : 369,
-    "discount" : 0.6,
-    "typeId"   : null,
-    "sizeType" : "standard",
-    "quantity" : {"M" : 1, "L" : 1},
-    "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
-    "pictures" : [{"name" : "front.jpg", "tags" : ["front"]}, {"name" : "front-1.jpg", "tags" : ["front"]}, {"name" : "back.jpg", "tags" : ["back"]}, {"name" : "front-i.jpg", "tags" : ["front", "model"]}, {"name" : "close-up.jpg", "tags" : ["close-up"]}],
-    "description" : "真丝印花。成分: 丝绸 100% 洗涤说明 干洗",
-    "type" : "衬衫",   
-    "tags" : ["female", "blouse", "coat"]
+  "brandName": "Equipment",
+  "typeId": null,
+  "quantity": {
+    "M": 5,
+    "L": 4
+  },
+  "description": "真丝印花。成分: 丝绸 100% 洗涤说明 干洗",
+  "sizeType": "standard",
+  "color": "white",
+  "pictures": [
+    {
+      "name": "front.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "front-1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "back.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "front-i.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "close-up.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "discount": 0.6,
+  "price": 369,
+  "tags": [
+    "female",
+    "blouse",
+    "coat"
+  ],
+  "type": "衬衫",
+  "currency": "EUR"
 }

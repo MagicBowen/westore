@@ -1,42 +1,66 @@
 {
-	"brandName": "Dolce & Gabbanna",
-	"color": "black",
-	"currency": "EUR",
-	"price": 1820,
-	"discount": 0.52,
-	"typeId"   : null,
-	"sizeType": "Italy",
-	"quantity": {"50":1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front", "model"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": ["front", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "model"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["left", "model","side"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": ["left", "front", "close-up","model"]
-		}
-	],
-	"description": "Black virgin wool two buttons suit with two buttons and side pockets with flap, Classic trousers with belt loops, two side pockets and two back pockets",
-	"type" : "男士西装套装", 
-	"tags": ["male", "coat", "suit"]
+  "brandName": "Dolce & Gabbanna",
+  "typeId": null,
+  "quantity": {
+    "50": 9
+  },
+  "description": "Black virgin wool two buttons suit with two buttons and side pockets with flap, Classic trousers with belt loops, two side pockets and two back pockets",
+  "sizeType": "Italy",
+  "color": "black",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "left",
+        "model",
+        "side"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "left",
+        "front",
+        "close-up",
+        "model"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.52,
+  "price": 1820,
+  "tags": [
+    "male",
+    "coat",
+    "suit"
+  ],
+  "type": "男士西装套装",
+  "currency": "EUR"
 }

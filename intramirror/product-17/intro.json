@@ -1,59 +1,95 @@
 {
-	"brandName": "Dolce & Gabanna",
-	"brandID": "CK0150AH290",
-	"brandColor": "HNF57",
-	"color": "black",
-	"currency": "EUR",
-	"price": 595,
-	"discount": 0.6,
-	"typeId"   : null,
-	"sizeType": "China",
-	"quantity": {"35": 1, "35.5":1,  "36": 1,"36.5":1, "37": 1},
-	"transport": {
-		"duration": {
-		"min": 15, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": ["right","scene", "side"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back","scene", "side"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["front","scene", "side"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": ["front","scene", "side"]
-		},
-		{
-			"name": "6.jpg",
-			"tags": ["close-up","scene"]
-		},
-		{
-			"name": "7.jpg",
-			"tags": ["close-up","scene"]
-		},
-		{
-			"name": "8.jpg",
-			"tags": ["close-up","scene"]
-		}
-		
-
-	],
-	"description": "运动鞋，休闲款",
-	"type" : "运动鞋",
-	"tags": ["female", "shoes", "sneakers","casual_shoes"]
-
+  "brandName": "Dolce & Gabanna",
+  "typeId": null,
+  "quantity": {
+    "37": 9,
+    "36": 9,
+    "36.5": 4,
+    "35.5": 4,
+    "35": 3
+  },
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "sizeType": "China",
+  "brandID": "CK0150AH290",
+  "color": "black",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "right",
+        "scene",
+        "side"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "scene",
+        "side"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "front",
+        "scene",
+        "side"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "front",
+        "scene",
+        "side"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "close-up",
+        "scene"
+      ]
+    },
+    {
+      "name": "7.jpg",
+      "tags": [
+        "close-up",
+        "scene"
+      ]
+    },
+    {
+      "name": "8.jpg",
+      "tags": [
+        "close-up",
+        "scene"
+      ]
+    }
+  ],
+  "description": "运动鞋，休闲款",
+  "discount": 0.6,
+  "price": 595,
+  "brandColor": "HNF57",
+  "tags": [
+    "female",
+    "shoes",
+    "sneakers",
+    "casual_shoes"
+  ],
+  "type": "运动鞋",
+  "currency": "EUR"
 }

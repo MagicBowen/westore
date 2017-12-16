@@ -1,15 +1,73 @@
 {
-    "brandName" : "Tory Burch",
-    "color" : "blue",
-    "currency" : "EUR",
-    "price" : 265,
-    "discount" : 0.65,
-    "typeId"   : "pants56",
-    "sizeType" : "America",
-    "quantity" : {"4" : 1, "6" : 1, "8" : 1, "10" : 1,  "12" : 1},
-    "transport" : {"duration" : {"min" : 16, "max" : 20}, "description" : "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
-    "pictures" : [{"name" : "face.jpg", "tags" : ["front"]}, {"name" : "f-s.jpg", "tags" : ["front", "scene"]}, {"name" : "f-m.jpg", "tags" : ["front", "model"]}, {"name" : "f-m-1.jpg", "tags" : ["front", "model"]}, {"name" : "b.jpg", "tags" : ["back"]}, {"name" : "r-m.jpg", "tags" : ["right", "model", "side"]}],
-    "description" : "Tory Burch(汤丽柏琦) 蓝色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
-    "type" : "女士西裤",
-    "tags" : ["female", "pants","trouser"]
+  "brandName": "Tory Burch",
+  "typeId": "pants56",
+  "quantity": {
+    "12": 7,
+    "6": 1,
+    "4": 5,
+    "10": 3,
+    "8": 1
+  },
+  "description": "Tory Burch(汤丽柏琦) 蓝色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
+  "sizeType": "America",
+  "color": "blue",
+  "pictures": [
+    {
+      "name": "face.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "f-s.jpg",
+      "tags": [
+        "front",
+        "scene"
+      ]
+    },
+    {
+      "name": "f-m.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "f-m-1.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "b.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "r-m.jpg",
+      "tags": [
+        "right",
+        "model",
+        "side"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 20,
+      "min": 16
+    }
+  },
+  "discount": 0.65,
+  "price": 265,
+  "tags": [
+    "female",
+    "pants",
+    "trouser"
+  ],
+  "type": "女士西裤",
+  "currency": "EUR"
 }

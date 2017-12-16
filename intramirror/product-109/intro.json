@@ -1,38 +1,54 @@
 {
-	"brandName": "Emilio Puccy",
-	"color": "yellow",
-	"currency": "EUR",
-	"price": 520,
-	"discount": 0.6,
-	"typeId"   : null,
-	"sizeType": "Italy",
-	"quantity": {"40": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "model"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["close-up"]
-		}
-	],
-	"description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 黄色 宽松喇叭裤。膏药，喇叭状设计，阔腿。成分：氨纶（弹性纤维）3％、成分：纤维胶 97%、洗涤说明：干洗。",
-	"type" : "女士喇叭裤", 
-	"tags": ["female", "pants","bell_bottoms"]
+  "brandName": "Emilio Puccy",
+  "typeId": null,
+  "quantity": {
+    "40": 8
+  },
+  "description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 黄色 宽松喇叭裤。膏药，喇叭状设计，阔腿。成分：氨纶（弹性纤维）3％、成分：纤维胶 97%、洗涤说明：干洗。",
+  "sizeType": "Italy",
+  "color": "yellow",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "discount": 0.6,
+  "price": 520,
+  "tags": [
+    "female",
+    "pants",
+    "bell_bottoms"
+  ],
+  "type": "女士喇叭裤",
+  "currency": "EUR"
 }

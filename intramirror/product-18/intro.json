@@ -1,43 +1,62 @@
 {
-	"brandName": "Celine",
-	"brandID": "321943CES",
-	"brandColor":"07EB",
-	"color": "blue",
-	"currency": "EUR",
-	"price": 680,
-	"discount": 0.65,
-	"typeId"   : null,
-	"sizeType": "China",
-	"quantity": {"37.5": 1, "38.5": 1, "40": 1},
-	"transport": {
-		"duration": {
-		"min": 15, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["right", "back", "side"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["close-up"]
-		}
-		
-
-	],
-	"description": "女士鞋子，尖头，牛皮",
-	"type" : "女鞋",
-	"tags": ["female", "shoes", "boots", "short_boots","leather_shoes"]
-
+  "brandName": "Celine",
+  "typeId": null,
+  "quantity": {
+    "38.5": 5,
+    "37.5": 10,
+    "40": 3
+  },
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "sizeType": "China",
+  "brandID": "321943CES",
+  "color": "blue",
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "right",
+        "back",
+        "side"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "description": "女士鞋子，尖头，牛皮",
+  "discount": 0.65,
+  "price": 680,
+  "brandColor": "07EB",
+  "tags": [
+    "female",
+    "shoes",
+    "boots",
+    "short_boots",
+    "leather_shoes"
+  ],
+  "type": "女鞋",
+  "currency": "EUR"
 }
