@@ -1,0 +1,41 @@
+{
+  "shopping_cart": {
+    "user_name": [
+      {
+        "productId": "product-1",
+        "size": "XL",
+        "amount": "5",
+        "charge": "5558元"
+      },
+      {
+        "productId": "product-1",
+        "size": "XL",
+        "amount": "5",
+        "charge": "5558元"
+      }
+    ],
+    "284894567": [
+      {
+        "charge": "5458元",
+        "color": "black",
+        "product_id": "product-61",
+        "amount": "1",
+        "size": "L"
+      },
+      {
+        "charge": "5458元",
+        "color": "black",
+        "product_id": "product-61",
+        "amount": "1",
+        "size": "L"
+      },
+      {
+        "charge": "5458元",
+        "color": "black",
+        "product_id": "product-61",
+        "amount": "1",
+        "size": "L"
+      }
+    ]
+  }
+}

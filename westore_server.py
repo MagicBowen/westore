@@ -6,6 +6,7 @@ from ProductRepo import *
 from OrderRepo import *
 from PostRepo import *
 from MakePublicEntity import *
+from ShoppingCartRepo import ShoppingCartRepo
 
 
 app = Flask(__name__)
@@ -13,11 +14,14 @@ CORS(app)
 # app.config.update(RESTFUL_JSON=dict(ensure_ascii=False))
 api = Api(app)
 
+PRODUCT_DB_FILE       = './db/products.json'
+ORDERS_DB_FILE        = './db/orders.json'
+SHOPPING_CART_DB_FILE = './db/shopping_cart.json'
 
 
 class ProductsAPI(Resource):
     def __init__(self):
-        self.repo = ProductRepo('./db/products.json')
+        self.repo = ProductRepo(PRODUCT_DB_FILE)
 
     def get(self):
         products = self.repo.getByCondition(request.args)
@@ -26,7 +30,7 @@ class ProductsAPI(Resource):
 
 class ProductAPI(Resource):
     def __init__(self):
-        self.repo = ProductRepo('./db/products.json')
+        self.repo = ProductRepo(PRODUCT_DB_FILE)
 
     def get(self, id):   
         products = self.repo.getById(id)
@@ -37,8 +41,7 @@ class ProductAPI(Resource):
 
 class OrdersAPI(Resource):
     def __init__(self):
-        self.products = ProductRepo('./db/products.json')
-        self.repo = OrderRepo('./db/orders.json')
+        self.repo = OrderRepo(ORDERS_DB_FILE, SHOPPING_CART_DB_FILE)
 
     def get(self):
         orders = self.repo.getByCondition(request.args)
@@ -47,13 +50,11 @@ class OrdersAPI(Resource):
     def post(self):
         order = request.get_json()
         try:
-            # need transaction in formal
-            self.purchase(order['products'])
-            self.repo.add(order)
+            orderId = self.repo.add(order)
         except Exception as e:
             print('exception occurred when post order: {}'.format(e))
             return {'result' : 'failed'}, 409
-        return {'result' : 'success'}, 200
+        return {'result' : 'success', 'data': orderId }, 200
 
     def purchase(self, products):
         for product in products:
@@ -62,7 +63,7 @@ class OrdersAPI(Resource):
 
 class OrderAPI(Resource):
     def __init__(self):
-        self.repo = OrderRepo('./db/orders.json')
+        self.repo = OrderRepo(ORDERS_DB_FILE, SHOPPING_CART_DB_FILE)
     
     def get(self, id):
         orders = self.repo.getById(id)
@@ -76,6 +77,38 @@ class OrderAPI(Resource):
     def delete(self, id):
         pass    
 
+
+class ShoppingCartsAPI(Resource):
+    def __init__(self):
+        self.repo = ShoppingCartRepo(SHOPPING_CART_DB_FILE)
+
+    def get(self):
+        pass
+
+    def post(self):
+        order = request.get_json()
+        try:
+            orderId = self.repo.add(order)
+        except Exception as e:
+            print('exception occurred when post order: {}'.format(e))
+            return {'result' : 'failed'}, 409
+        return {'result' : 'success'}, 200
+
+class ShoppingCartAPI(Resource):
+    def __init__(self):
+        self.repo = ShoppingCartRepo(SHOPPING_CART_DB_FILE)
+    
+    def get(self, id):
+        cart = self.repo.getById(id)
+        if not cart:
+            abort(404)
+        return cart
+
+    def put(self, id):
+        pass
+
+    def delete(self, id):
+        pass    
 
 class PostsAPI(Resource):
     def __init__(self):
@@ -104,6 +137,10 @@ api.add_resource(OrderAPI, '/westore/api/orders/<string:id>', endpoint = 'order'
 
 api.add_resource(PostsAPI, '/westore/api/posts', endpoint = 'posts')
 api.add_resource(PostAPI, '/westore/api/posts/<string:id>', endpoint = 'post')
+
+api.add_resource(ShoppingCartsAPI, '/westore/api/shopping/cart', endpoint = 'shoppings')
+api.add_resource(ShoppingCartAPI, '/westore/api/shopping/cart/<string:id>', endpoint = 'shopping')
+
 
 
 import os
