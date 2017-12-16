@@ -1,15 +1,94 @@
 {
-    "brandName" : "Fendi",
-    "color" : "pink",
-    "currency" : "EUR",
-    "price" : 1300,
-    "discount" : 0.6,
-    "typeId"   : "sweater54",
-    "sizeType" : "Italy",
-    "quantity" : {"42" : 1, "44" : 1, "46" : 1},
-    "transport" : {"duration" : {"min" : 14, "max" : 19}, "description" : "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长"},
-    "pictures" : [{"name" : "face.jpg", "tags" : ["front"]}, {"name" : "b-s.jpg", "tags" : ["back", "scene"]}, {"name" : "f-m.jpg", "tags" : ["front", "model"]}, {"name" : "f-s.jpg", "tags" : ["front", "model"]}, {"name" : "f-s-m.jpg", "tags" : ["front", "scene", "model"]}, {"name" : "price.jpg", "tags" : ["price"]}, {"name" : "f-s-m-1.jpg", "tags" : ["front", "scene", "model"]}, {"name" : "s-c.jpg", "tags" : ["scene", "close-up"]}, {"name" : "s-c-1.jpg", "tags" : ["scene", "close-up"]}],
-    "description" : "Fendi(芬迪) 粉红色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
-    "type" : "女士毛衣",
-    "tags" : ["female", "sweater", "pullover", "coat"]
+  "description": "Fendi(芬迪) 粉红色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
+  "price": 1300,
+  "discount": 0.6,
+  "color": "pink",
+  "sizeType": "Italy",
+  "quantity": {
+    "46": 78,
+    "44": 288,
+    "42": 191
+  },
+  "type": "女士毛衣",
+  "currency": "EUR",
+  "typeId": "sweater54",
+  "brandName": "Fendi",
+  "transport": {
+    "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "face.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "b-s.jpg",
+      "tags": [
+        "back",
+        "scene"
+      ]
+    },
+    {
+      "name": "f-m.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "f-s.jpg",
+      "tags": [
+        "front",
+        "scene"
+      ]
+    },
+    {
+      "name": "f-s-m.jpg",
+      "tags": [
+        "front",
+        "scene",
+        "model"
+      ]
+    },
+    {
+      "name": "price.jpg",
+      "tags": [
+        "price"
+      ]
+    },
+    {
+      "name": "f-s-m-1.jpg",
+      "tags": [
+        "front",
+        "scene",
+        "model"
+      ]
+    },
+    {
+      "name": "s-c.jpg",
+      "tags": [
+        "scene",
+        "close-up"
+      ]
+    },
+    {
+      "name": "s-c-1.jpg",
+      "tags": [
+        "scene",
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "sweater",
+    "pullover",
+    "coat"
+  ]
 }

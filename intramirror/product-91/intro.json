@@ -1,38 +1,58 @@
 {
-	"brandName": "Lidfort",
-	"color": "brown",
-	"currency": "EUR",
-	"price": 475,
-	"discount": 0.6,
-	"typeId"   : null,
-	"sizeType": "Italy",
-	"quantity": {"40.5": 1, "41.5": 1, "41": 1, "42": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "right", "front"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "left"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["top"]
-		}
-	],
-	"description": "Lidfort 褐色 牛皮 杏仁形鞋尖及裸靴。以41码为参考，商品尺寸 Heel：3 cm Circumference：25 cm Height：14 cm。表面 成分：牛皮 100% 衬里 成分：牛皮 100% 鞋底 成分：牛皮 100%",
-	"type" : "男士靴子",
-	"tags": ["male","shoes","boots"]
+  "description": "Lidfort 褐色 牛皮 杏仁形鞋尖及裸靴。以41码为参考，商品尺寸 Heel：3 cm Circumference：25 cm Height：14 cm。表面 成分：牛皮 100% 衬里 成分：牛皮 100% 鞋底 成分：牛皮 100%",
+  "price": 475,
+  "discount": 0.6,
+  "color": "brown",
+  "sizeType": "Italy",
+  "quantity": {
+    "41.5": 59,
+    "41": 241,
+    "42": 206,
+    "40.5": 189
+  },
+  "type": "男士靴子",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Lidfort",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "right",
+        "front"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "left"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "top"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "shoes",
+    "boots"
+  ]
 }

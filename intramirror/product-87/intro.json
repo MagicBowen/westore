@@ -1,38 +1,60 @@
 {
-	"brandName": "Tods",
-	"color": "blue",
-	"currency": "EUR",
-	"price": 350,
-	"discount": 0.65,
-	"typeId"   : "XXM0T",
-	"sizeType": "UK",
-	"quantity": {"7": 2, "7.5":2, "8": 2, "8.5": 2, "9": 2, "9.5":1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front","right"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "right"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["close-up"]
-		}
-	],
-	"description": "编织麂皮绒乐福鞋，麂皮绒滑扣，侧面有弹性插件，背部可有标志，绒面革，内部皮革。蓝色。",
-	"type" : "男士乐福鞋",
-	"tags": ["male","shoes","casual_shoes"]
+  "description": "编织麂皮绒乐福鞋，麂皮绒滑扣，侧面有弹性插件，背部可有标志，绒面革，内部皮革。蓝色。",
+  "price": 350,
+  "discount": 0.65,
+  "color": "blue",
+  "sizeType": "UK",
+  "quantity": {
+    "8.5": 51,
+    "7.5": 148,
+    "9.5": 243,
+    "8": 76,
+    "7": 180,
+    "9": 273
+  },
+  "type": "男士乐福鞋",
+  "currency": "EUR",
+  "typeId": "XXM0T",
+  "brandName": "Tods",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "right"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "right"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "shoes",
+    "casual_shoes"
+  ]
 }

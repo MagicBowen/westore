@@ -1,34 +1,56 @@
 {
-	"brandName": "Prada",
-	"color": "black",
-	"currency": "EUR",
-	"price": 550,
-	"discount": 0.62,
-	"typeId"   : null,
-	"sizeType": "UK",
-	"quantity": {"5": 1, "6": 1, "6.5": 1, "7": 1, "7.5":1, "8": 1, "9":1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right","side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "right", "front","side"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "left"]
-		}
-	],
-	"description": "正面绑带，杏仁形血检，鞋垫饰有品牌标识，平底。8 UK码德比鞋的尺寸信息如下：跟高：2 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分 100%、鞋底 成分：rubber 100%",
-	"type" : "男士德比皮鞋",
-	"tags": ["male","shoes","leather_shoes"]
+  "description": "正面绑带，杏仁形血检，鞋垫饰有品牌标识，平底。8 UK码德比鞋的尺寸信息如下：跟高：2 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分 100%、鞋底 成分：rubber 100%",
+  "price": 550,
+  "discount": 0.62,
+  "color": "black",
+  "sizeType": "UK",
+  "quantity": {
+    "6.5": 17,
+    "7.5": 138,
+    "8": 24,
+    "5": 58,
+    "7": 18,
+    "6": 268,
+    "9": 141
+  },
+  "type": "男士德比皮鞋",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Prada",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "right",
+        "front",
+        "side"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "left"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "shoes",
+    "leather_shoes"
+  ]
 }

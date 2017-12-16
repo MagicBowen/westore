@@ -1,45 +1,65 @@
 {
-	"brandName": "Prada",
-	"color": "white",
-	"currency": "EUR",
-	"price": 360,
-	"discount": 0.52,
-	"typeId"   : "UCM608F62",
-	"sizeType": "UK",
-	"quantity": {"38": 1, "40":1, "41": 1, "42": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back", "model"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["front", "model", "close-up"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": ["front", "close-up"]
-		}
-
-
-
-	],
-	"description": "Prada 白色 全棉 经典衬衫。正面竖排纽扣，长袖，曲线形底边。表面 成分：棉 100%、衬里 成分：棉 100%、洗涤说明：手洗",
-	"type" : "男士衬衫",
-	"tags": ["male", "blouse"]
+  "description": "Prada 白色 全棉 经典衬衫。正面竖排纽扣，长袖，曲线形底边。表面 成分：棉 100%、衬里 成分：棉 100%、洗涤说明：手洗",
+  "price": 360,
+  "discount": 0.52,
+  "color": "white",
+  "sizeType": "UK",
+  "quantity": {
+    "41": 289,
+    "42": 224,
+    "40": 152,
+    "38": 233
+  },
+  "type": "男士衬衫",
+  "currency": "EUR",
+  "typeId": "UCM608F62",
+  "brandName": "Prada",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "front",
+        "model",
+        "close-up"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "front",
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "blouse"
+  ]
 }

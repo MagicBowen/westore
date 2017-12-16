@@ -1,42 +1,60 @@
 {
-	"brandName": "Dolce & Gabbana",
-	"color": "black",
-	"currency": "EUR",
-	"price": 995,
-	"discount": 0.6,
-	"typeId"   : null,
-	"sizeType": "UK",
-	"quantity": {"U": 1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "back"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": [ "close－up", "front"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": ["top", "close-up"]
-		}
-	],
-	"description": "Dolce & Gabbana黑色尼龙手拿包。外部拉链封闭、拉链口袋、可拆卸和可调肩带、内部拉链袋。成分：尼龙。商品尺寸：Width:14.57英寸、Height：10.24英寸、Depth：4.72英寸",
-	"type" : "男士手拿包",
-	"tags": ["male","bag","shoulder_bag"]
+  "description": "Dolce & Gabbana黑色尼龙手拿包。外部拉链封闭、拉链口袋、可拆卸和可调肩带、内部拉链袋。成分：尼龙。商品尺寸：Width:14.57英寸、Height：10.24英寸、Depth：4.72英寸",
+  "price": 995,
+  "discount": 0.6,
+  "color": "black",
+  "sizeType": "UK",
+  "quantity": {
+    "U": 260
+  },
+  "type": "男士手拿包",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Dolce & Gabbana",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close－up",
+        "front"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "top",
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "bag",
+    "shoulder_bag"
+  ]
 }

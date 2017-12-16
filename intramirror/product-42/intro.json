@@ -1,43 +1,60 @@
 {
-	"brandName": "Prada",
-	"brandID": "2EE0983OVW",
-	"brandColor": "F0207",
-	"color": "black",
-	"currency": "EUR",
-	"price": 695,
-	"discount": 0.6,
-	"typeId"   : null,
-	"sizeType": "UK",
-	"quantity": {"6.5": 1, "7.5":1, "8.5": 1, "9.5": 1, "10": 1},
-	"transport": {
-		"duration": {
-		"min": 15, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right","side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["back"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["close-up","bottom"]
-		}
-
-
-	],
-	"description": "Prada黑色蕾丝花边皮鞋。封闭式针织、透明橡胶鞋底、蕾丝印花效果。成分：100%皮革、橡胶。鞋底高度：4cm",
-	"type" : "男士皮鞋",
-	"tags": ["male", "shoes","leather_shoes"]
-
+  "description": "Prada黑色蕾丝花边皮鞋。封闭式针织、透明橡胶鞋底、蕾丝印花效果。成分：100%皮革、橡胶。鞋底高度：4cm",
+  "price": 695,
+  "discount": 0.6,
+  "brandID": "2EE0983OVW",
+  "color": "black",
+  "sizeType": "UK",
+  "quantity": {
+    "6.5": 161,
+    "8.5": 95,
+    "7.5": 181,
+    "10": 244,
+    "9.5": 9
+  },
+  "type": "男士皮鞋",
+  "brandColor": "F0207",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Prada",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 15,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close-up",
+        "bottom"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "shoes",
+    "leather_shoes"
+  ]
 }

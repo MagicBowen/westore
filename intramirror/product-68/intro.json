@@ -1,30 +1,43 @@
 {
-	"brandName": "Dolce & Gabbana",
-	"color": "black",
-	"currency": "EUR",
-	"price": 1950,
-	"discount": 0.6,
-	"typeId"   : "G9JT4LFUL89",
-	"sizeType": "Italy",
-	"quantity": {"48": 1, "50":1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "back"]
-		}
-	],
-	"description": "小羊皮夹克。罗纹边下摆。拉链上有标志。产品护理：专业中心洗涤。产品材质：100%皮革。1个内部口袋拉链，2个前袋拉链",
-	"type" : "男士夹克外套",
-	"tags": ["male","jacket", "coat","leather_coat","casual_clothes"]
+  "description": "小羊皮夹克。罗纹边下摆。拉链上有标志。产品护理：专业中心洗涤。产品材质：100%皮革。1个内部口袋拉链，2个前袋拉链",
+  "price": 1950,
+  "discount": 0.6,
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "48": 220,
+    "50": 191
+  },
+  "type": "男士夹克外套",
+  "currency": "EUR",
+  "typeId": "G9JT4LFUL89",
+  "brandName": "Dolce & Gabbana",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "jacket",
+    "coat",
+    "leather_coat",
+    "casual_clothes"
+  ]
 }

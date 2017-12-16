@@ -10,14 +10,12 @@ def get_product(path):
         product['id'] = path.split(os.path.sep)[-1]
         return product
 
-
 def generate_products(products_folder):
     products = []
     for path in os.listdir(products_folder):
         if os.path.isdir(path):
             products.append(get_product(path))
     return products
-
 
 def generate_json(input_folder, json_file):
     with open(json_file, 'w') as file:

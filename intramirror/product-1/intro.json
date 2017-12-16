@@ -1,25 +1,91 @@
 {
-    "brandName" : "Maison Margiela",
-    "color" : "white",
-    "currency" : "EUR",
-    "price" : 790,
-    "discount" : 0.62,
-    "sizeType" : "standard", 
-    "typeId"   : "sweater-1",    
-    "quantity" : {"XS" : 1},
-    "transport" : {"duration" : {"min" : 15, "max" : 19}, "description" : "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地"},
-    "pictures" : [
-        {"name" : "1.jpg", "tags" : ["intro"]}, 
-        {"name" : "2.jpg", "tags" : ["front", "model","scene"]}, 
-        {"name" : "3.jpg", "tags" : ["price"]}, 
-        {"name" : "4.jpg", "tags" : ["front", "model","scene"]},
-        {"name" : "5.jpg", "tags" : ["back", "scene"]},
-        {"name" : "6.jpg", "tags" : ["close-up", "scene"]},
-        {"name" : "7.jpg", "tags" : ["front"]},
-        {"name" : "8.jpg", "tags" : ["front", "scene"]},
-        {"name" : "9.jpg", "tags" : ["front", "scene", "model"]}
-    ],
-    "description" : "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
-    "type"     : "高领纯色毛衣",
-    "tags" : ["female", "sweater", "coat"]
+  "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
+  "price": 790,
+  "discount": 0.62,
+  "color": "white",
+  "sizeType": "standard",
+  "quantity": {
+    "XS": 137
+  },
+  "type": "高领纯色毛衣",
+  "currency": "EUR",
+  "typeId": "sweater-1",
+  "brandName": "Maison Margiela",
+  "transport": {
+    "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
+    "duration": {
+      "min": 15,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "intro"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model",
+        "scene"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "price"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "front",
+        "model",
+        "scene"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "back",
+        "scene"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "close-up",
+        "scene"
+      ]
+    },
+    {
+      "name": "7.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "8.jpg",
+      "tags": [
+        "front",
+        "scene"
+      ]
+    },
+    {
+      "name": "9.jpg",
+      "tags": [
+        "front",
+        "scene",
+        "model"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "sweater",
+    "coat"
+  ]
 }

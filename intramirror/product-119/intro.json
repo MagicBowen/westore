@@ -1,42 +1,67 @@
 {
-	"brandName": "Lardni",
-	"color": "grey",
-	"currency": "EUR",
-	"price": 1085,
-	"discount": 0.6,
-	"typeId"   : null,
-	"sizeType": "Italy",
-	"quantity": {"48":1, "50": 1, "54":1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": [ "front", "model"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": ["back", "model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["front","close-up", "model"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": [ "back","close-up", "model"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": [ "front", "model"]
-		}
-	],
-	"description": "Prince of Wales check suit",
-	"type" : "男士西装套装", 
-	"tags": ["male", "coat", "suit"]
+  "description": "Prince of Wales check suit",
+  "price": 1085,
+  "discount": 0.6,
+  "color": "grey",
+  "sizeType": "Italy",
+  "quantity": {
+    "48": 88,
+    "50": 272,
+    "54": 144
+  },
+  "type": "男士西装套装",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Lardni",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "front",
+        "close-up",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "back",
+        "close-up",
+        "model"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "coat",
+    "suit"
+  ]
 }

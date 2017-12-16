@@ -1,43 +1,62 @@
 {
-	"brandName": "Balenciaga",
-	"brandID": "494248/W0530",
-	"brandColor":"6650",
-	"color": "red",
-	"currency": "EUR",
-	"price": 1295,
-	"discount": 0.68,
-	"typeId"   : null,
-	"sizeType": "China",
-	"quantity": {"36":1, "37": 1, "37.5": 1, "38.5": 1, "39": 1},
-	"transport": {
-		"duration": {
-		"min": 15, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": ["right", "side"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": ["right", "back"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": ["close-up"]
-		}
-		
-
-	],
-	"description": "女士高筒靴",
-	"type": "女士高筒靴",
-	"tags": ["female", "shoes", "boots", "high_boots"]
-
+  "description": "女士高筒靴",
+  "price": 1295,
+  "discount": 0.68,
+  "brandID": "494248/W0530",
+  "color": "red",
+  "sizeType": "China",
+  "quantity": {
+    "36": 169,
+    "39": 9,
+    "38.5": 72,
+    "37": 167,
+    "37.5": 236
+  },
+  "type": "女士高筒靴",
+  "brandColor": "6650",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Balenciaga",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 15,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "right",
+        "back"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "shoes",
+    "boots",
+    "high_boots"
+  ]
 }

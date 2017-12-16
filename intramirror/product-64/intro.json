@@ -1,51 +1,77 @@
 {
-	"brandName": "Valentino",
-	"color": "grey",
-	"currency": "EUR",
-	"price": 590,
-	"discount": 0.56,
-	"typeId"   : null,
-	"sizeType": "standard",
-	"quantity": {"S":1},
-	"transport": {
-		"duration": {
-		"min": 14, 
-		"max": 19
-		},
-		"description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）"		
-	},
-	"pictures": [
-		{
-			"name": "1.jpg",
-			"tags": ["front"]
-		},
-		{
-			"name": "2.jpg",
-			"tags": [ "back","model"]
-		},
-		{
-			"name": "3.jpg",
-			"tags": [ "close-up","front"]
-		},
-		{
-			"name": "4.jpg",
-			"tags": [ "scene", "front"]
-		},
-		{
-			"name": "5.jpg",
-			"tags": [ "intro"]
-		},
-		{
-			"name": "6.jpg",
-			"tags": [ "back","scene"]
-		},
-		{
-			"name": "7.jpg",
-			"tags": [ "close-up","front"]
-		}
-
-	],
-	"description": "Valentino（华伦天奴）灰色 棉质混纺 标语印花连帽衫。抽绳兜帽，正面开口式口袋，长袖。成分：棉 92%、成分：聚酰胺 8%、洗涤说明：机洗",
-	"type" : "男士夹克外套",
-	"tags": ["male","jacket", "coat","casual_clothes","pullover"]
+  "description": "Valentino（华伦天奴）灰色 棉质混纺 标语印花连帽衫。抽绳兜帽，正面开口式口袋，长袖。成分：棉 92%、成分：聚酰胺 8%、洗涤说明：机洗",
+  "price": 590,
+  "discount": 0.56,
+  "color": "grey",
+  "sizeType": "standard",
+  "quantity": {
+    "S": 153
+  },
+  "type": "男士夹克外套",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Valentino",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "close-up",
+        "front"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "scene",
+        "front"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "intro"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "back",
+        "scene"
+      ]
+    },
+    {
+      "name": "7.jpg",
+      "tags": [
+        "close-up",
+        "front"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "jacket",
+    "coat",
+    "casual_clothes",
+    "pullover"
+  ]
 }
