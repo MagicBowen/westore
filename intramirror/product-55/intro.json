@@ -1,21 +1,24 @@
 {
+  "description": "Fendi(芬迪) 粉红色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
+  "price": 1300,
+  "discount": 0.6,
+  "color": "pink",
+  "sizeType": "Italy",
+  "quantity": {
+    "46": 78,
+    "44": 288,
+    "42": 191
+  },
   "type": "女士毛衣",
+  "currency": "EUR",
   "typeId": "sweater54",
+  "brandName": "Fendi",
   "transport": {
     "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 1300,
-  "color": "pink",
-  "description": "Fendi(芬迪) 粉红色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
-  "sizeType": "Italy",
-  "quantity": {
-    "44": 14,
-    "46": 50,
-    "42": 78
   },
   "pictures": [
     {
@@ -82,9 +85,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Fendi",
-  "discount": 0.6,
   "tags": [
     "female",
     "sweater",

@@ -1,19 +1,29 @@
 {
+  "description": "女士高筒靴",
+  "price": 1295,
+  "discount": 0.68,
+  "brandID": "494248/W0530",
+  "color": "red",
+  "sizeType": "China",
+  "quantity": {
+    "36": 169,
+    "39": 9,
+    "38.5": 72,
+    "37": 167,
+    "37.5": 236
+  },
   "type": "女士高筒靴",
   "brandColor": "6650",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Balenciaga",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
   },
-  "price": 1295,
-  "color": "red",
-  "description": "女士高筒靴",
-  "sizeType": "China",
-  "brandID": "494248/W0530",
   "pictures": [
     {
       "name": "1.jpg",
@@ -43,16 +53,6 @@
       ]
     }
   ],
-  "quantity": {
-    "36": 42,
-    "37.5": 80,
-    "39": 34,
-    "38.5": 32,
-    "37": 15
-  },
-  "currency": "EUR",
-  "brandName": "Balenciaga",
-  "discount": 0.68,
   "tags": [
     "female",
     "shoes",

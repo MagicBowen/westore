@@ -1,19 +1,32 @@
 {
+  "description": "Maison Margiela 红色 小牛皮 Socks及裸靴。圆头，后置隐藏式拉链，后饰有标志性的白色针脚，中高粗跟。商品尺寸 Heel：8cm，Circumaference：23cm，Height：13.5cm。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+  "price": 590,
+  "discount": 0.62,
+  "brandID": "S39WU0097S48432",
+  "color": "red",
+  "sizeType": "China",
+  "quantity": {
+    "36.5": 174,
+    "40": 54,
+    "37": 294,
+    "36": 257,
+    "39": 159,
+    "35.5": 39,
+    "37.5": 174,
+    "38": 42
+  },
   "type": "裸靴",
   "brandColor": "961",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Maison Margiela",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
   },
-  "price": 590,
-  "color": "red",
-  "description": "Maison Margiela 红色 小牛皮 Socks及裸靴。圆头，后置隐藏式拉链，后饰有标志性的白色针脚，中高粗跟。商品尺寸 Heel：8cm，Circumaference：23cm，Height：13.5cm。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
-  "sizeType": "China",
-  "brandID": "S39WU0097S48432",
   "pictures": [
     {
       "name": "1.jpg",
@@ -80,19 +93,6 @@
       ]
     }
   ],
-  "quantity": {
-    "40": 20,
-    "36.5": 57,
-    "37": 90,
-    "39": 87,
-    "36": 99,
-    "38": 91,
-    "37.5": 85,
-    "35.5": 39
-  },
-  "currency": "EUR",
-  "brandName": "Maison Margiela",
-  "discount": 0.62,
   "tags": [
     "female",
     "boots",

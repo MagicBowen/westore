@@ -1,19 +1,25 @@
 {
+  "description": "真皮编制，金属提链",
+  "price": 2800,
+  "discount": 0.73,
+  "brandID": "386498/VCB10",
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "U": 41
+  },
   "type": "女士编制手提包",
   "brandColor": "1000",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Bottega Veneta",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
   },
-  "price": 2800,
-  "color": "black",
-  "description": "真皮编制，金属提链",
-  "sizeType": "standard",
-  "brandID": "386498/VCB10",
   "pictures": [
     {
       "name": "1.jpg",
@@ -41,12 +47,6 @@
       ]
     }
   ],
-  "quantity": {
-    "U": 97
-  },
-  "currency": "EUR",
-  "brandName": "Bottega Veneta",
-  "discount": 0.73,
   "tags": [
     "female",
     "bag",

@@ -1,19 +1,22 @@
 {
+  "description": "Alexander McQueen（亚历山大麦昆）黑色 牛皮 拼接公文包。顶部有两个手柄，双向拉链，肩带。商品尺寸：Strap：50 cm、Depth：8 cm、Handle：10 cm、Width：40 cm、Height：27 cm",
+  "price": 1800,
+  "discount": 0.6,
+  "color": "black",
+  "sizeType": "UK",
+  "quantity": {
+    "U": 74
+  },
   "type": "男士公文包",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Alexander McQueen",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 1800,
-  "color": "black",
-  "description": "Alexander McQueen（亚历山大麦昆）黑色 牛皮 拼接公文包。顶部有两个手柄，双向拉链，肩带。商品尺寸：Strap：50 cm、Depth：8 cm、Handle：10 cm、Width：40 cm、Height：27 cm",
-  "sizeType": "UK",
-  "quantity": {
-    "U": 82
   },
   "pictures": [
     {
@@ -47,9 +50,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Alexander McQueen",
-  "discount": 0.6,
   "tags": [
     "male",
     "bag",

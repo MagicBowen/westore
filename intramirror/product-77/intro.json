@@ -1,22 +1,25 @@
 {
+  "description": "Prada 黑色 羊毛、马海毛与全棉 经典西裤。圆领，长袖，罗纹底边及袖口。表面 成分：棉 100%、衬里 成分：纤维胶 100%、表面 成分：羊毛 84%、表面 成分：马海毛 16%、洗涤说明：干洗",
+  "price": 470,
+  "discount": 0.52,
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "46": 126,
+    "52": 103,
+    "50": 109,
+    "54": 3
+  },
   "type": "男士西裤",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Prada",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 470,
-  "color": "black",
-  "description": "Prada 黑色 羊毛、马海毛与全棉 经典西裤。圆领，长袖，罗纹底边及袖口。表面 成分：棉 100%、衬里 成分：纤维胶 100%、表面 成分：羊毛 84%、表面 成分：马海毛 16%、洗涤说明：干洗",
-  "sizeType": "Italy",
-  "quantity": {
-    "50": 99,
-    "52": 13,
-    "46": 61,
-    "54": 9
   },
   "pictures": [
     {
@@ -41,9 +44,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Prada",
-  "discount": 0.52,
   "tags": [
     "male",
     "pants",

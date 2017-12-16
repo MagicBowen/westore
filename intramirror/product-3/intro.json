@@ -1,19 +1,22 @@
 {
+  "description": "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
+  "price": 1600,
+  "discount": 0.62,
+  "color": "pink",
+  "sizeType": "standard",
+  "quantity": {
+    "U": 90
+  },
   "type": "斜跨包",
+  "currency": "EUR",
   "typeId": "bag-1",
+  "brandName": "Maison Margiela",
   "transport": {
     "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
-  },
-  "price": 1600,
-  "color": "pink",
-  "description": "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
-  "sizeType": "standard",
-  "quantity": {
-    "U": 46
   },
   "pictures": [
     {
@@ -44,9 +47,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Maison Margiela",
-  "discount": 0.62,
   "tags": [
     "female",
     "bag",

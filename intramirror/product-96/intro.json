@@ -1,23 +1,26 @@
 {
+  "description": "Stella McCartney 金色 人造皮革 Star Elyse厚底鞋。橡胶质抓地鞋底，厚鞋底，方头，正面绑带。鞋底 成分：rubber 100%、表面 成分：人造皮革 100%、衬里 成分：人造皮革 100%。38 IT码系带鞋的尺寸信息如下：商品尺寸： Heel：8.5 cm。38 IT码布洛克鞋的尺寸信息如下：商品尺寸：Heel：8 cm、Platform：6 cm。",
+  "price": 670,
+  "discount": 0.44,
+  "color": "golden",
+  "sizeType": "Italy",
+  "quantity": {
+    "36.5": 5,
+    "38.5": 168,
+    "34": 260,
+    "35.5": 141,
+    "37.5": 188
+  },
   "type": "女士厚底鞋",
+  "currency": "EUR",
   "typeId": "36399",
+  "brandName": "Stella McCartney",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 670,
-  "color": "golden",
-  "description": "Stella McCartney 金色 人造皮革 Star Elyse厚底鞋。橡胶质抓地鞋底，厚鞋底，方头，正面绑带。鞋底 成分：rubber 100%、表面 成分：人造皮革 100%、衬里 成分：人造皮革 100%。38 IT码系带鞋的尺寸信息如下：商品尺寸： Heel：8.5 cm。38 IT码布洛克鞋的尺寸信息如下：商品尺寸：Heel：8 cm、Platform：6 cm。",
-  "sizeType": "Italy",
-  "quantity": {
-    "36.5": 80,
-    "34": 7,
-    "35.5": 31,
-    "38.5": 10,
-    "37.5": 59
   },
   "pictures": [
     {
@@ -48,9 +51,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Stella McCartney",
-  "discount": 0.44,
   "tags": [
     "female",
     "shoes",

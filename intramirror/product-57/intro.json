@@ -1,23 +1,26 @@
 {
+  "description": "Tory Burch(汤丽柏琦) 白色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
+  "price": 265,
+  "discount": 0.65,
+  "color": "white",
+  "sizeType": "America",
+  "quantity": {
+    "8": 254,
+    "4": 127,
+    "12": 76,
+    "10": 52,
+    "6": 295
+  },
   "type": "女士西裤",
+  "currency": "EUR",
   "typeId": "pants56",
+  "brandName": "Tory Burch",
   "transport": {
     "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
     "duration": {
-      "max": 20,
-      "min": 16
+      "min": 16,
+      "max": 20
     }
-  },
-  "price": 265,
-  "color": "white",
-  "description": "Tory Burch(汤丽柏琦) 白色 弹性棉质 Vanner长裤。成份：氨纶（弹性纤维）3% 成份：棉67% 成份：莱赛尔纤维 30% 洗剂说明：干洗",
-  "sizeType": "America",
-  "quantity": {
-    "8": 95,
-    "4": 21,
-    "10": 17,
-    "12": 42,
-    "6": 15
   },
   "pictures": [
     {
@@ -47,9 +50,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Tory Burch",
-  "discount": 0.65,
   "tags": [
     "female",
     "pants",

@@ -1,19 +1,22 @@
 {
+  "description": "Messenger Hendley中号单肩包，带双扣、1个内置拉链口袋、1个内置平口袋、银色金属配件、帆布衬里，可调节的织物肩带。商品尺寸：宽度：32cm、高度：24cm、深度：7cm 背带：130cm。Posizione del logo：徽标刻在紧固件上。",
+  "price": 995,
+  "discount": 0.6,
+  "color": "black",
+  "sizeType": "UK",
+  "quantity": {
+    "U": 111
+  },
   "type": "男士单肩包",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Burberry",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 995,
-  "color": "black",
-  "description": "Messenger Hendley中号单肩包，带双扣、1个内置拉链口袋、1个内置平口袋、银色金属配件、帆布衬里，可调节的织物肩带。商品尺寸：宽度：32cm、高度：24cm、深度：7cm 背带：130cm。Posizione del logo：徽标刻在紧固件上。",
-  "sizeType": "UK",
-  "quantity": {
-    "U": 7
   },
   "pictures": [
     {
@@ -49,9 +52,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Burberry",
-  "discount": 0.6,
   "tags": [
     "male",
     "bag",

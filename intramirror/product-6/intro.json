@@ -1,21 +1,24 @@
 {
+  "description": "休闲款，干洗",
+  "price": 395,
+  "discount": 0.62,
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "S": 208,
+    "L": 131,
+    "M": 248
+  },
   "type": "男士休闲裤",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Les Hommes",
   "transport": {
     "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
-  },
-  "price": 395,
-  "color": "black",
-  "description": "休闲款，干洗",
-  "sizeType": "standard",
-  "quantity": {
-    "M": 7,
-    "L": 42,
-    "S": 58
   },
   "pictures": [
     {
@@ -38,9 +41,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Les Hommes",
-  "discount": 0.62,
   "tags": [
     "male",
     "pants",

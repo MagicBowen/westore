@@ -1,22 +1,25 @@
 {
+  "description": "Fendi(芬迪) 黑色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
+  "price": 350,
+  "discount": 0.6,
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "44": 126,
+    "38": 7,
+    "40": 113,
+    "42": 234
+  },
   "type": "女士T恤",
+  "currency": "EUR",
   "typeId": "shirt50",
+  "brandName": "Fendi",
   "transport": {
     "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 350,
-  "color": "black",
-  "description": "Fendi(芬迪) 黑色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
-  "sizeType": "Italy",
-  "quantity": {
-    "40": 41,
-    "44": 67,
-    "38": 58,
-    "42": 88
   },
   "pictures": [
     {
@@ -86,9 +89,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Fendi",
-  "discount": 0.6,
   "tags": [
     "female",
     "tshirt",

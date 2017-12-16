@@ -1,19 +1,27 @@
 {
+  "description": "Fendi(芬迪) 黑色 棉质与羊绒混纺 logo滚边套头衫。圆领，长袖，螺纹底边及袖口。表面 成分：棉85%、表面 成分：羊绒 15%、表面 成分：珍珠母 100%、洗涤说明：干洗",
+  "price": 420,
+  "discount": 0.6,
+  "brandID": "FZZ363 A2DX",
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "48": 166,
+    "52": 70,
+    "50": 100
+  },
   "type": "男士套头衫",
   "brandColor": "F0QA1",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Fendi",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
   },
-  "price": 420,
-  "color": "black",
-  "description": "Fendi(芬迪) 黑色 棉质与羊绒混纺 logo滚边套头衫。圆领，长袖，螺纹底边及袖口。表面 成分：棉85%、表面 成分：羊绒 15%、表面 成分：珍珠母 100%、洗涤说明：干洗",
-  "sizeType": "Italy",
-  "brandID": "FZZ363 A2DX",
   "pictures": [
     {
       "name": "1.jpg",
@@ -34,14 +42,6 @@
       ]
     }
   ],
-  "quantity": {
-    "50": 98,
-    "52": 56,
-    "48": 26
-  },
-  "currency": "EUR",
-  "brandName": "Fendi",
-  "discount": 0.6,
   "tags": [
     "male",
     "pullover",

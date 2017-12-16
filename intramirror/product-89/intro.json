@@ -1,24 +1,27 @@
 {
+  "description": "Alexander McQueen（亚历山大麦昆）黑色 小牛皮与牛皮 扣环德比鞋。圆头，口子，橡胶质抓地鞋底。43 IT码德比鞋的尺寸信息如下：跟高：1.5 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：rubber 100%",
+  "price": 720,
+  "discount": 0.65,
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "41.5": 3,
+    "41": 235,
+    "44": 247,
+    "40": 141,
+    "43": 113,
+    "42": 237
+  },
   "type": "男士德比皮鞋",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Alexander McQueen",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 720,
-  "color": "black",
-  "description": "Alexander McQueen（亚历山大麦昆）黑色 小牛皮与牛皮 扣环德比鞋。圆头，口子，橡胶质抓地鞋底。43 IT码德比鞋的尺寸信息如下：跟高：1.5 cm 表面 成分：小牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：rubber 100%",
-  "sizeType": "standard",
-  "quantity": {
-    "40": 4,
-    "43": 87,
-    "41": 5,
-    "42": 37,
-    "44": 37,
-    "41.5": 11
   },
   "pictures": [
     {
@@ -48,9 +51,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Alexander McQueen",
-  "discount": 0.65,
   "tags": [
     "male",
     "shoes",

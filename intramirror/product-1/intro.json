@@ -1,19 +1,22 @@
 {
+  "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
+  "price": 790,
+  "discount": 0.62,
+  "color": "white",
+  "sizeType": "standard",
+  "quantity": {
+    "XS": 137
+  },
   "type": "高领纯色毛衣",
+  "currency": "EUR",
   "typeId": "sweater-1",
+  "brandName": "Maison Margiela",
   "transport": {
     "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
-  },
-  "price": 790,
-  "color": "white",
-  "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
-  "sizeType": "standard",
-  "quantity": {
-    "XS": 19
   },
   "pictures": [
     {
@@ -80,9 +83,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Maison Margiela",
-  "discount": 0.62,
   "tags": [
     "female",
     "sweater",

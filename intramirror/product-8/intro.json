@@ -1,20 +1,23 @@
 {
+  "description": "真丝印花。成分: 丝绸 100% 洗涤说明 干洗",
+  "price": 369,
+  "discount": 0.6,
+  "color": "white",
+  "sizeType": "standard",
+  "quantity": {
+    "L": 288,
+    "M": 198
+  },
   "type": "衬衫",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Equipment",
   "transport": {
     "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
-  },
-  "price": 369,
-  "color": "white",
-  "description": "真丝印花。成分: 丝绸 100% 洗涤说明 干洗",
-  "sizeType": "standard",
-  "quantity": {
-    "M": 39,
-    "L": 74
   },
   "pictures": [
     {
@@ -49,9 +52,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Equipment",
-  "discount": 0.6,
   "tags": [
     "female",
     "blouse",

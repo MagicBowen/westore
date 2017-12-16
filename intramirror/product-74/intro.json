@@ -1,20 +1,23 @@
 {
+  "description": "Balmain（巴尔曼）黑色 全棉 机车运动裤。附加抽绳的弹性松紧腰边，弹性松紧底边，超窄腿。成分：棉 100％、洗涤说明：机洗",
+  "price": 546,
+  "discount": 0.44,
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "S": 245,
+    "L": 236
+  },
   "type": "男士机车运动裤",
+  "currency": "EUR",
   "typeId": "W7H5099J",
+  "brandName": "Balmain",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 546,
-  "color": "black",
-  "description": "Balmain（巴尔曼）黑色 全棉 机车运动裤。附加抽绳的弹性松紧腰边，弹性松紧底边，超窄腿。成分：棉 100％、洗涤说明：机洗",
-  "sizeType": "standard",
-  "quantity": {
-    "L": 68,
-    "S": 72
   },
   "pictures": [
     {
@@ -59,9 +62,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Balmain",
-  "discount": 0.44,
   "tags": [
     "male",
     "sport_pants",

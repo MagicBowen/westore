@@ -1,20 +1,23 @@
 {
+  "description": "田园诗般的风格品牌GiCapri在50年代就开始了发展，品牌在经过重新改造成为了当今男装市场的重要地位。裁缝师Vincenzo Sicignano在50年代开始就创造了被时装界认可的定制运动外套，拥有及其轻薄的面料以及没有褶皱的效果，在5年前Siciganano的孙子继续发展这种面料模式进行设计",
+  "price": 620,
+  "discount": 0.52,
+  "color": "blue",
+  "sizeType": "Italy",
+  "quantity": {
+    "56": 67,
+    "48": 222
+  },
   "type": "男士西装套装",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Gi Capri",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 14
+      "min": 14,
+      "max": 19
     }
-  },
-  "price": 620,
-  "color": "blue",
-  "description": "田园诗般的风格品牌GiCapri在50年代就开始了发展，品牌在经过重新改造成为了当今男装市场的重要地位。裁缝师Vincenzo Sicignano在50年代开始就创造了被时装界认可的定制运动外套，拥有及其轻薄的面料以及没有褶皱的效果，在5年前Siciganano的孙子继续发展这种面料模式进行设计",
-  "sizeType": "Italy",
-  "quantity": {
-    "56": 92,
-    "48": 14
   },
   "pictures": [
     {
@@ -43,9 +46,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Gi Capri",
-  "discount": 0.52,
   "tags": [
     "male",
     "coat",

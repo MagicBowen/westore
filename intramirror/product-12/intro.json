@@ -1,19 +1,22 @@
 {
+  "description": "成分：57% ALPACA 43% VIRGIN WOOL",
+  "price": 2500,
+  "discount": 0.6,
+  "color": "camel",
+  "sizeType": "Italy",
+  "quantity": {
+    "40": 222
+  },
   "type": "大衣",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Max Mara",
   "transport": {
     "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
-  },
-  "price": 2500,
-  "color": "camel",
-  "description": "成分：57% ALPACA 43% VIRGIN WOOL",
-  "sizeType": "Italy",
-  "quantity": {
-    "40": 69
   },
   "pictures": [
     {
@@ -43,9 +46,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Max Mara",
-  "discount": 0.6,
   "tags": [
     "female",
     "coat",

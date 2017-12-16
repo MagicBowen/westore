@@ -1,19 +1,26 @@
 {
+  "description": "Valentino灰色运动衫、连帽、拉绳和拉链。它具有标志性的金色螺柱和袋鼠口袋。罗纹袖口和下摆",
+  "price": 980,
+  "discount": 0.69,
+  "brandID": "PV3MF08V3TV",
+  "color": "grey",
+  "sizeType": "standard",
+  "quantity": {
+    "S": 28,
+    "L": 48
+  },
   "type": "男士运动衫",
   "brandColor": "080",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Valentino",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
   },
-  "price": 980,
-  "color": "grey",
-  "description": "Valentino灰色运动衫、连帽、拉绳和拉链。它具有标志性的金色螺柱和袋鼠口袋。罗纹袖口和下摆",
-  "sizeType": "standard",
-  "brandID": "PV3MF08V3TV",
   "pictures": [
     {
       "name": "1.jpg",
@@ -34,13 +41,6 @@
       ]
     }
   ],
-  "quantity": {
-    "L": 1,
-    "S": 36
-  },
-  "currency": "EUR",
-  "brandName": "Valentino",
-  "discount": 0.69,
   "tags": [
     "male",
     "loose_coat",

@@ -1,21 +1,24 @@
 {
+  "description": "成分: 纤维胶 82% 成分: 丝绸 18% 洗涤说明 干洗",
+  "price": 375,
+  "discount": 0.6,
+  "color": "green",
+  "sizeType": "Italy",
+  "quantity": {
+    "42": 268,
+    "40": 255,
+    "38": 174
+  },
   "type": "丝绒阔腿裤",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Federica Tosi",
   "transport": {
     "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
-  },
-  "price": 375,
-  "color": "green",
-  "description": "成分: 纤维胶 82% 成分: 丝绸 18% 洗涤说明 干洗",
-  "sizeType": "Italy",
-  "quantity": {
-    "40": 32,
-    "42": 52,
-    "38": 78
   },
   "pictures": [
     {
@@ -31,9 +34,6 @@
       ]
     }
   ],
-  "currency": "EUR",
-  "brandName": "Federica Tosi",
-  "discount": 0.6,
   "tags": [
     "female",
     "pants",

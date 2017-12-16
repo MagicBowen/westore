@@ -1,19 +1,30 @@
 {
+  "description": "鞋垫饰有品牌浮雕，细高跟。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+  "price": 494,
+  "discount": 0.69,
+  "brandID": "S39WU0097S48432",
+  "color": "black",
+  "sizeType": "China",
+  "quantity": {
+    "41": 224,
+    "40": 174,
+    "37": 121,
+    "36": 124,
+    "39": 195,
+    "38": 293
+  },
   "type": "尖头高跟鞋",
   "brandColor": "961",
+  "currency": "EUR",
   "typeId": null,
+  "brandName": "Jimmy Choo",
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
-      "max": 19,
-      "min": 15
+      "min": 15,
+      "max": 19
     }
   },
-  "price": 494,
-  "color": "black",
-  "description": "鞋垫饰有品牌浮雕，细高跟。表面 成分：牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
-  "sizeType": "China",
-  "brandID": "S39WU0097S48432",
   "pictures": [
     {
       "name": "1.jpg",
@@ -37,17 +48,6 @@
       ]
     }
   ],
-  "quantity": {
-    "40": 22,
-    "41": 53,
-    "39": 57,
-    "36": 71,
-    "37": 55,
-    "38": 94
-  },
-  "currency": "EUR",
-  "brandName": "Jimmy Choo",
-  "discount": 0.69,
   "tags": [
     "female",
     "shoes",
