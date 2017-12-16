@@ -1,14 +1,22 @@
 {
-  "brandName": "Marni",
+  "type": "女士连衣裙",
   "typeId": null,
-  "quantity": {
-    "38": 2,
-    "40": 3,
-    "36": 10
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 1150,
+  "color": "pink",
   "description": "Marni（玛尼）粉色 真丝 领巾薄纱连衣裙。短款，高领，短袖，假搭扣袖口，侧身开衩。衬里 成分：丝绸 100%、表面 成分：纤维胶 58%、表面 成分：醋酸纤维 42%、洗涤说明：干洗",
   "sizeType": "Italy",
-  "color": "pink",
+  "quantity": {
+    "40": 53,
+    "38": 34,
+    "36": 44
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -51,20 +59,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Marni",
   "discount": 0.44,
-  "price": 1150,
   "tags": [
     "female",
     "skirt",
     "dress"
-  ],
-  "type": "女士连衣裙",
-  "currency": "EUR"
+  ]
 }

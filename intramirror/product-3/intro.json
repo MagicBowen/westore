@@ -1,12 +1,20 @@
 {
-  "brandName": "Maison Margiela",
+  "type": "斜跨包",
   "typeId": "bag-1",
-  "quantity": {
-    "U": 4
+  "transport": {
+    "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 1600,
+  "color": "pink",
   "description": "商品尺寸：带长 54cm，深度 9cm，手柄 7cm，宽度 19cm，高度 20cm。成分：牛皮 100%",
   "sizeType": "standard",
-  "color": "pink",
+  "quantity": {
+    "U": 46
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -36,20 +44,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Maison Margiela",
   "discount": 0.62,
-  "price": 1600,
   "tags": [
     "female",
     "bag",
     "handbag"
-  ],
-  "type": "斜跨包",
-  "currency": "EUR"
+  ]
 }

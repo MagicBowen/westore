@@ -1,12 +1,20 @@
 {
-  "brandName": "Max Mara",
+  "type": "大衣",
   "typeId": null,
-  "quantity": {
-    "40": 7
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 2500,
+  "color": "camel",
   "description": "成分：57% ALPACA 43% VIRGIN WOOL",
   "sizeType": "Italy",
-  "color": "camel",
+  "quantity": {
+    "40": 69
+  },
   "pictures": [
     {
       "name": "front.jpg",
@@ -35,21 +43,13 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Max Mara",
   "discount": 0.6,
-  "price": 2500,
   "tags": [
     "female",
     "coat",
     "overcoat",
     "loose_coat"
-  ],
-  "type": "大衣",
-  "currency": "EUR"
+  ]
 }

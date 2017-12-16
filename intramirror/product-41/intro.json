@@ -1,11 +1,7 @@
 {
-  "brandName": "Lanvin",
+  "type": "男士短袖衬衫",
+  "brandColor": "10",
   "typeId": null,
-  "quantity": {
-    "41": 6,
-    "40": 8,
-    "39": 7
-  },
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
@@ -13,9 +9,11 @@
       "min": 15
     }
   },
+  "price": 275,
+  "color": "black",
+  "description": "字母刺绣衬衫。黑色。立领。纽扣闭合方式。短袖",
   "sizeType": "UK",
   "brandID": "RMS10235S00401als",
-  "color": "black",
   "pictures": [
     {
       "name": "1.jpg",
@@ -30,15 +28,17 @@
       ]
     }
   ],
-  "description": "字母刺绣衬衫。黑色。立领。纽扣闭合方式。短袖",
+  "quantity": {
+    "40": 25,
+    "41": 4,
+    "39": 92
+  },
+  "currency": "EUR",
+  "brandName": "Lanvin",
   "discount": 0.56,
-  "price": 275,
-  "brandColor": "10",
   "tags": [
     "male",
     "blouse",
     "coat"
-  ],
-  "type": "男士短袖衬衫",
-  "currency": "EUR"
+  ]
 }

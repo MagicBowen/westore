@@ -1,12 +1,20 @@
 {
-  "brandName": "Valentino",
+  "type": "男士夹克外套",
   "typeId": null,
-  "quantity": {
-    "S": 5
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 590,
+  "color": "grey",
   "description": "Valentino（华伦天奴）灰色 棉质混纺 标语印花连帽衫。抽绳兜帽，正面开口式口袋，长袖。成分：棉 92%、成分：聚酰胺 8%、洗涤说明：机洗",
   "sizeType": "standard",
-  "color": "grey",
+  "quantity": {
+    "S": 47
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -56,22 +64,14 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Valentino",
   "discount": 0.56,
-  "price": 590,
   "tags": [
     "male",
     "jacket",
     "coat",
     "casual_clothes",
     "pullover"
-  ],
-  "type": "男士夹克外套",
-  "currency": "EUR"
+  ]
 }

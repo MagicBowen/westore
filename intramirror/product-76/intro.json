@@ -1,13 +1,21 @@
 {
-  "brandName": "Alexander McQueen",
+  "type": "男士直筒长裤",
   "typeId": null,
-  "quantity": {
-    "48": 7,
-    "50": 5
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 806,
+  "color": "black",
   "description": "Alexander McQueen（亚历山大麦昆）黑色与金色 羊毛 侧条纹直筒长裤。隐藏式开合，腰带袢，侧面有条纹，后面有两个嵌线口袋。表面成分：涤纶 100%、表面 成分：100%、衬里 成分：醋酸纤维 60%、衬里 成分：纤维胶 40%、洗涤说明：干洗",
   "sizeType": "Italy",
-  "color": "black",
+  "quantity": {
+    "50": 65,
+    "48": 48
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -54,20 +62,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Alexander McQueen",
   "discount": 0.44,
-  "price": 806,
   "tags": [
     "male",
     "pants",
     "slacks"
-  ],
-  "type": "男士直筒长裤",
-  "currency": "EUR"
+  ]
 }

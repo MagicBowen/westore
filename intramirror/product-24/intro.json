@@ -1,12 +1,20 @@
 {
-  "brandName": "Celine",
+  "type": "羊绒连身衣",
   "typeId": null,
-  "quantity": {
-    "L": 1
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 620,
+  "color": "red",
   "description": "羊绒连身衣",
   "sizeType": "standard",
-  "color": "red",
+  "quantity": {
+    "L": 67
+  },
   "pictures": [
     {
       "name": "front.jpg",
@@ -27,20 +35,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Celine",
   "discount": 0.58,
-  "price": 620,
   "tags": [
     "female",
     "sweater",
     "coat"
-  ],
-  "type": "羊绒连身衣",
-  "currency": "EUR"
+  ]
 }

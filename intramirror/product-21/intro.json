@@ -1,16 +1,24 @@
 {
-  "brandName": "J Brand",
+  "type": "牛仔短裤",
   "typeId": null,
-  "quantity": {
-    "12": 9,
-    "6": 4,
-    "4": 2,
-    "10": 4,
-    "8": 9
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 174,
+  "color": "blue",
   "description": "牛仔短裤",
   "sizeType": "America",
-  "color": "blue",
+  "quantity": {
+    "8": 82,
+    "4": 72,
+    "10": 87,
+    "12": 28,
+    "6": 89
+  },
   "pictures": [
     {
       "name": "front.jpg",
@@ -25,20 +33,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "J Brand",
   "discount": 0.81,
-  "price": 174,
   "tags": [
     "female",
     "short",
     "jeans"
-  ],
-  "type": "牛仔短裤",
-  "currency": "EUR"
+  ]
 }

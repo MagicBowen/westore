@@ -1,12 +1,20 @@
 {
-  "brandName": "Gucci",
+  "type": "女士裙子",
   "typeId": null,
-  "quantity": {
-    "42": 9
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 1300,
+  "color": "white&red&blue",
   "description": "这款精致的作品采用了娴静的中长款造型，腰部高耸的高腰设计，以创意总监Alessandro Michele的Gucci Rhombus印花为标志性的白色，红色和蓝色调色板－这是一个独特而复古的灵感来源。成分：丝绸 100%、洗涤说明：干洗",
   "sizeType": "Italy",
-  "color": "white&red&blue",
+  "quantity": {
+    "42": 98
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -56,20 +64,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Gucci",
   "discount": 0.72,
-  "price": 1300,
   "tags": [
     "female",
     "skirt",
     "dress"
-  ],
-  "type": "女士裙子",
-  "currency": "EUR"
+  ]
 }

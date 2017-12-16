@@ -1,12 +1,20 @@
 {
-  "brandName": "Lanvin",
+  "type": "半身裙",
   "typeId": null,
-  "quantity": {
-    "38": 1
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 1990,
+  "color": "black",
   "description": "Lanvin (浪凡) 黑色 丝绸 长款, 高腰, 伞形半身裙。 表面 成分: 丝绸 100% 表面 成分: 纤维胶 45% 表面 成分: 醋酸纤维 55% 表面 成分: 涤纶 19% 衬里 成分: 纤维胶 48% 衬里 成分: 醋酸纤维 52% 表面 成分: 三醋酸纤维 81% 洗涤说明 干洗",
   "sizeType": "France",
-  "color": "black",
+  "quantity": {
+    "38": 23
+  },
   "pictures": [
     {
       "name": "front.jpg",
@@ -35,20 +43,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Lanvin",
   "discount": 0.6,
-  "price": 1990,
   "tags": [
     "female",
     "skirt",
     "dress"
-  ],
-  "type": "半身裙",
-  "currency": "EUR"
+  ]
 }

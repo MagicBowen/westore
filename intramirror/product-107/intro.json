@@ -1,12 +1,20 @@
 {
-  "brandName": "Calvin Klein",
+  "type": "女士长裤",
   "typeId": "205W39NYC",
-  "quantity": {
-    "40": 8
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 730,
+  "color": "red",
   "description": "CALVIN KLEIN 205W39NYC 紫色 羊毛 缝饰细节长裤。成分：羊毛 100%、洗涤说明：干洗",
   "sizeType": "France",
-  "color": "red",
+  "quantity": {
+    "40": 17
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -75,20 +83,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Calvin Klein",
   "discount": 0.48,
-  "price": 730,
   "tags": [
     "female",
     "pants",
     "slacks"
-  ],
-  "type": "女士长裤",
-  "currency": "EUR"
+  ]
 }

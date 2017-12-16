@@ -1,13 +1,21 @@
 {
-  "brandName": "Marcelo Burlon",
+  "type": "男士板鞋",
   "typeId": "CMIA037",
-  "quantity": {
-    "41": 10,
-    "42": 8
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 324,
+  "color": "black",
   "description": "Marcelo Burlon County Of Milan 黑色 Marcelo Burlon x Reebok Zoku板鞋。 圆头，系带，鞋舌饰有品牌浮雕，橡胶质抓地鞋底。43 IT码运动鞋的尺寸信息如下：跟高：2 cm 鞋底 成分：rubber 100%、表面：成分：涤纶 100%、衬里 成分：涤纶 100%",
   "sizeType": "Italy",
-  "color": "black",
+  "quantity": {
+    "42": 35,
+    "41": 90
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -30,21 +38,13 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Marcelo Burlon",
   "discount": 0.44,
-  "price": 324,
   "tags": [
     "male",
     "shoes",
     "skate_shoes",
     "sneakers"
-  ],
-  "type": "男士板鞋",
-  "currency": "EUR"
+  ]
 }

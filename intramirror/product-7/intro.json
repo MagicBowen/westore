@@ -1,13 +1,21 @@
 {
-  "brandName": "Francesco Scognamiglio",
+  "type": "罩衫",
   "typeId": null,
-  "quantity": {
-    "40": 2,
-    "42": 10
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 1066,
+  "color": "white",
   "description": "真丝蕾丝边蝴蝶结罩衫。成分：丝绸100% 洗剂说明 干洗",
   "sizeType": "Italy",
-  "color": "white",
+  "quantity": {
+    "40": 97,
+    "42": 87
+  },
   "pictures": [
     {
       "name": "front.jpg",
@@ -29,20 +37,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Francesco Scognamiglio",
   "discount": 0.6,
-  "price": 1066,
   "tags": [
     "female",
     "blouse",
     "coat"
-  ],
-  "type": "罩衫",
-  "currency": "EUR"
+  ]
 }

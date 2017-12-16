@@ -1,15 +1,23 @@
 {
-  "brandName": "Sportmax",
+  "type": "女士长裤",
   "typeId": "71310782000",
-  "quantity": {
-    "48": 4,
-    "44": 9,
-    "40": 7,
-    "42": 5
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 150,
+  "color": "black",
   "description": "黑色抽绳系带长裤，100% 聚酯。",
   "sizeType": "Italy",
-  "color": "black",
+  "quantity": {
+    "40": 85,
+    "44": 83,
+    "48": 94,
+    "42": 92
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -41,20 +49,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Sportmax",
   "discount": 0.6,
-  "price": 150,
   "tags": [
     "female",
     "pants",
     "slacks"
-  ],
-  "type": "女士长裤",
-  "currency": "EUR"
+  ]
 }

@@ -1,11 +1,7 @@
 {
-  "brandName": "Burberry",
+  "type": "男士外套",
+  "brandColor": "41000",
   "typeId": null,
-  "quantity": {
-    "M": 5,
-    "XL": 2,
-    "L": 5
-  },
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
@@ -13,9 +9,11 @@
       "min": 15
     }
   },
+  "price": 895,
+  "color": "blue",
+  "description": "海军蓝色 牛皮与羊毛混纺 Plymouth连帽外套。短款，纽扣，经典衣领，带兜帽，方格衬里。成分：牛皮100%、成分：聚酰胺 20%、成分：羊毛 80%",
   "sizeType": "standard",
   "brandID": "4059500SANDRINGHAM",
-  "color": "blue",
   "pictures": [
     {
       "name": "1.jpg",
@@ -53,16 +51,18 @@
       ]
     }
   ],
-  "description": "海军蓝色 牛皮与羊毛混纺 Plymouth连帽外套。短款，纽扣，经典衣领，带兜帽，方格衬里。成分：牛皮100%、成分：聚酰胺 20%、成分：羊毛 80%",
+  "quantity": {
+    "M": 8,
+    "L": 95,
+    "XL": 36
+  },
+  "currency": "EUR",
+  "brandName": "Burberry",
   "discount": 0.6,
-  "price": 895,
-  "brandColor": "41000",
   "tags": [
     "male",
     "coat",
     "loose_coat",
     "overcoat"
-  ],
-  "type": "男士外套",
-  "currency": "EUR"
+  ]
 }

@@ -1,12 +1,20 @@
 {
-  "brandName": "Polo Ralph Lauren",
+  "type": "男士衬衫",
   "typeId": null,
-  "quantity": {
-    "M": 10
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 109,
+  "color": "blue",
   "description": "Polo Ralph Lauren男士休闲衬衫",
   "sizeType": "standard",
-  "color": "blue",
+  "quantity": {
+    "M": 82
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -44,19 +52,11 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Polo Ralph Lauren",
   "discount": 0.58,
-  "price": 109,
   "tags": [
     "male",
     "blouse"
-  ],
-  "type": "男士衬衫",
-  "currency": "EUR"
+  ]
 }

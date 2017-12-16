@@ -1,12 +1,20 @@
 {
-  "brandName": "Fendi",
+  "type": "女士紧身机车打底裤",
   "typeId": null,
-  "quantity": {
-    "40": 9
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 351,
+  "color": "blue",
   "description": "Fendi（芬迪）黑色 小羊皮 紧身机车打底裤。侧置拉链，束腰，超窄腿。成分：小羊皮 100%、洗涤说明：专人洗涤。",
   "sizeType": "Italy",
-  "color": "blue",
+  "quantity": {
+    "40": 70
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -52,21 +60,13 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Fendi",
   "discount": 0.44,
-  "price": 351,
   "tags": [
     "female",
     "pants",
     "leggings",
     "leather_pants"
-  ],
-  "type": "女士紧身机车打底裤",
-  "currency": "EUR"
+  ]
 }

@@ -1,13 +1,21 @@
 {
-  "brandName": "Paco Rabanne",
+  "type": "衬衫",
   "typeId": null,
-  "quantity": {
-    "38": 9,
-    "36": 3
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 596,
+  "color": "white",
   "description": "全棉连帽。成分:棉 100%、洗涤说明：机洗",
   "sizeType": "Italy",
-  "color": "white",
+  "quantity": {
+    "38": 98,
+    "36": 75
+  },
   "pictures": [
     {
       "name": "front.jpg",
@@ -41,20 +49,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Paco Rabanne",
   "discount": 0.6,
-  "price": 596,
   "tags": [
     "female",
     "blouse",
     "tshirt"
-  ],
-  "type": "衬衫",
-  "currency": "EUR"
+  ]
 }

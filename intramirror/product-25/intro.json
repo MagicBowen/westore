@@ -1,14 +1,22 @@
 {
-  "brandName": "Philipp Plein",
+  "type": "T恤",
   "typeId": null,
-  "quantity": {
-    "M": 9,
-    "XS": 9,
-    "X": 9
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 425,
+  "color": "grey",
   "description": "灰色 全棉 New York骷髅头T恤。 圆领, 正面印花, 超短袖, 后侧饰有印花, 平直下摆。 成分: 棉 100%",
   "sizeType": "standard",
-  "color": "grey",
+  "quantity": {
+    "XS": 42,
+    "M": 92,
+    "X": 28
+  },
   "pictures": [
     {
       "name": "front.jpg",
@@ -23,19 +31,11 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Philipp Plein",
   "discount": 0.6,
-  "price": 425,
   "tags": [
     "female",
     "tshirt"
-  ],
-  "type": "T恤",
-  "currency": "EUR"
+  ]
 }

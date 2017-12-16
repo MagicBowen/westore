@@ -1,14 +1,22 @@
 {
-  "brandName": "Prada",
+  "type": "女士开衫",
   "typeId": null,
-  "quantity": {
-    "44": 6,
-    "40": 4,
-    "42": 10
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 651,
+  "color": "pink",
   "description": "Prada 正面纽扣，v领，线条装饰，羊绒混纺开衫。成分：30%真丝70%羊绒",
   "sizeType": "Italy",
-  "color": "pink",
+  "quantity": {
+    "40": 96,
+    "44": 85,
+    "42": 88
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -45,20 +53,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Prada",
   "discount": 0.44,
-  "price": 651,
   "tags": [
     "female",
     "coat",
     "sweater"
-  ],
-  "type": "女士开衫",
-  "currency": "EUR"
+  ]
 }

@@ -1,11 +1,7 @@
 {
-  "brandName": "Valentino",
+  "type": "男士西裤",
+  "brandColor": "0NO",
   "typeId": null,
-  "quantity": {
-    "48": 6,
-    "50": 6,
-    "52": 6
-  },
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周一、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
@@ -13,9 +9,11 @@
       "min": 15
     }
   },
+  "price": 300,
+  "color": "black",
+  "description": "Valentino（华伦天奴）黑色 全棉 经典西裤。合身设计",
   "sizeType": "Italy",
   "brandID": "PV3RB20J4TA",
-  "color": "black",
   "pictures": [
     {
       "name": "1.jpg",
@@ -58,15 +56,17 @@
       ]
     }
   ],
-  "description": "Valentino（华伦天奴）黑色 全棉 经典西裤。合身设计",
+  "quantity": {
+    "50": 78,
+    "52": 64,
+    "48": 49
+  },
+  "currency": "EUR",
+  "brandName": "Valentino",
   "discount": 0.69,
-  "price": 300,
-  "brandColor": "0NO",
   "tags": [
     "male",
     "pants",
     "trouser"
-  ],
-  "type": "男士西裤",
-  "currency": "EUR"
+  ]
 }

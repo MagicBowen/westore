@@ -1,9 +1,7 @@
 {
-  "brandName": "Balenciaga",
+  "type": "购物袋",
+  "brandColor": "4380",
   "typeId": null,
-  "quantity": {
-    "U": 3
-  },
   "transport": {
     "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
     "duration": {
@@ -11,9 +9,11 @@
       "min": 15
     }
   },
+  "price": 1350,
+  "color": "blue",
+  "description": "Bazar购物袋，蓝白彩条，皮质",
   "sizeType": "standard",
   "brandID": "443097/DE9ON",
-  "color": "blue",
   "pictures": [
     {
       "name": "1.jpg",
@@ -41,15 +41,15 @@
       ]
     }
   ],
-  "description": "Bazar购物袋，蓝白彩条，皮质",
+  "quantity": {
+    "U": 7
+  },
+  "currency": "EUR",
+  "brandName": "Balenciaga",
   "discount": 0.76,
-  "price": 1350,
-  "brandColor": "4380",
   "tags": [
     "female",
     "bag",
     "handbag"
-  ],
-  "type": "购物袋",
-  "currency": "EUR"
+  ]
 }

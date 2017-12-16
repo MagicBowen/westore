@@ -1,15 +1,23 @@
 {
-  "brandName": "Kenzo",
+  "type": "男士衬衫",
   "typeId": null,
-  "quantity": {
-    "S": 6,
-    "M": 7,
-    "XL": 9,
-    "L": 10
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 145,
+  "color": "blue",
   "description": "这个巴黎老牌时尚屋现由设计师Carol Lim和Humberto Leon经营。两人在沿用创办人Kenzo Takada的招牌颜色和设计手法，同时也完美融入了自己的个人印记以将品牌精神延伸到现代设计中。KENZO 蓝色长袖衬衫。长袖紧身、可搭配适合西裤。成分：100%纯棉",
   "sizeType": "standard",
-  "color": "blue",
+  "quantity": {
+    "M": 40,
+    "L": 91,
+    "XL": 46,
+    "S": 59
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -41,19 +49,11 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Kenzo",
   "discount": 0.6,
-  "price": 145,
   "tags": [
     "male",
     "blouse"
-  ],
-  "type": "男士衬衫",
-  "currency": "EUR"
+  ]
 }

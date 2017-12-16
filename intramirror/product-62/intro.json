@@ -1,14 +1,22 @@
 {
-  "brandName": "Gucci",
+  "type": "男士外套",
   "typeId": null,
-  "quantity": {
-    "48": 4,
-    "50": 5,
-    "52": 1
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 1750,
+  "color": "black",
   "description": "Gucci 黑色 羊毛与马海毛混纺 经典西装夹克。梯形翻领，长袖，胸袋，侧身口袋，正面纽扣，中后背开衩。衬里 成分：纤维胶 100% 衬里 成分：铜胺纤维 100% 表面 成分: 羊毛 84% 表面 成分：马海毛 16% 洗涤说明 干洗",
   "sizeType": "Italy",
-  "color": "black",
+  "quantity": {
+    "50": 52,
+    "52": 77,
+    "48": 68
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -29,21 +37,13 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Gucci",
   "discount": 0.67,
-  "price": 1750,
   "tags": [
     "male",
     "casual_clothes",
     "coat",
     "suit"
-  ],
-  "type": "男士外套",
-  "currency": "EUR"
+  ]
 }

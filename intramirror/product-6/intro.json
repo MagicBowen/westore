@@ -1,14 +1,22 @@
 {
-  "brandName": "Les Hommes",
+  "type": "男士休闲裤",
   "typeId": null,
-  "quantity": {
-    "S": 9,
-    "M": 4,
-    "L": 10
+  "transport": {
+    "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
   },
+  "price": 395,
+  "color": "black",
   "description": "休闲款，干洗",
   "sizeType": "standard",
-  "color": "black",
+  "quantity": {
+    "M": 7,
+    "L": 42,
+    "S": 58
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -30,20 +38,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
-    "duration": {
-      "max": 19,
-      "min": 15
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Les Hommes",
   "discount": 0.62,
-  "price": 395,
   "tags": [
     "male",
     "pants",
     "slacks"
-  ],
-  "type": "男士休闲裤",
-  "currency": "EUR"
+  ]
 }

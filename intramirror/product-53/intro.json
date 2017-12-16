@@ -1,13 +1,21 @@
 {
-  "brandName": "Fendi",
+  "type": "女士短裙",
   "typeId": null,
-  "quantity": {
-    "44": 4,
-    "42": 5
+  "transport": {
+    "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 20,
+      "min": 16
+    }
   },
+  "price": 1200,
+  "color": "beige",
   "description": "下摆有宽肩宽的膝盖长裙，后背稍长。对比的抽绳腰部增添了运动感。由米色丝绸制成，印有浅蓝色阴影的印花图案。无衬里。",
   "sizeType": "Italy",
-  "color": "beige",
+  "quantity": {
+    "44": 20,
+    "42": 62
+  },
   "pictures": [
     {
       "name": "face.jpg",
@@ -36,20 +44,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "max": 20,
-      "min": 16
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Fendi",
   "discount": 0.6,
-  "price": 1200,
   "tags": [
     "female",
     "skirt",
     "short_skirt"
-  ],
-  "type": "女士短裙",
-  "currency": "EUR"
+  ]
 }

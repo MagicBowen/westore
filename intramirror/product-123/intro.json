@@ -1,12 +1,20 @@
 {
-  "brandName": "Doppiaa",
+  "type": "男士西装套装",
   "typeId": null,
-  "quantity": {
-    "50": 4
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
   },
+  "price": 865,
+  "color": "blue",
   "description": "Marine Blue Wool Suits from Doppiaa, classic jacket buttons closure, long sleeves, two pockets on front, brand logo inside label, Pants with button and zip closure on front, belt loops, two pockets on front, two button pockets on back, classic fit, brand logo inside label",
   "sizeType": "Italy",
-  "color": "blue",
+  "quantity": {
+    "50": 20
+  },
   "pictures": [
     {
       "name": "1.jpg",
@@ -27,20 +35,12 @@
       ]
     }
   ],
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "max": 19,
-      "min": 14
-    }
-  },
+  "currency": "EUR",
+  "brandName": "Doppiaa",
   "discount": 0.52,
-  "price": 865,
   "tags": [
     "male",
     "coat",
     "suit"
-  ],
-  "type": "男士西装套装",
-  "currency": "EUR"
+  ]
 }
