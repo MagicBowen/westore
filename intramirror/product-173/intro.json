@@ -1,0 +1,42 @@
+{
+  "description": "Hooded techno fabric jacket. Adjustable drawstring hood. Ribbed kni cuffs. Product Care: Hand wash. 100% Polyester, 100%, 50%, Wool, 50%. Chiusura: Zipper. Imbottitura: Polyester. Taglia del capo indossato nella foto: 48. Tasche: 2 pockets with button on the front, 2 internal pocket with button. Misure modella/o: Altezza: 189, Busto:98, Girovita:80, Fianchi:93. Conversione taglie: IT. Colore: black",
+  "price": 1195,
+  "discount": 0.56,
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "46": 23,
+    "48": 38
+  },
+  "type": "男士夹克外套",
+  "brandColor": "10",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Lanvin",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "coat",
+    "jacket"
+  ]
+}

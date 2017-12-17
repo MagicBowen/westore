@@ -1,0 +1,59 @@
+{
+  "description": "Paco Rabanne 黑色 饰扣眼九分裤。正面拉链开合，九分长，银色扣眼。成分：聚乙烯 100%、洗涤说明：机洗",
+  "price": 715,
+  "discount": 0.6,
+  "brandID": "17H1401SM2MIRLG.710",
+  "color": "black",
+  "sizeType": "France",
+  "quantity": {
+    "38": 57
+  },
+  "type": "女士九分裤",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Paco Rabanne",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "left",
+        "side",
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "back",
+        "model",
+        "right",
+        "side"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "pants"
+  ]
+}

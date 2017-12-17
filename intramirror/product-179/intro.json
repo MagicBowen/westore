@@ -1,0 +1,48 @@
+{
+  "description": "Black Nylon Jacket Ready Elvis from Philipp Plein, zip closure on front, long sleeves, elastic on waistband. Two pocket, silver embossed brand logo on front. brand log paint black on back and inside brand log label.",
+  "price": 1398,
+  "discount": 0.56,
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "S": 27
+  },
+  "type": "男士夹克",
+  "brandColor": "10",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Philipp Plein",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "close-up",
+        "front"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "coat",
+    "jacket"
+  ]
+}

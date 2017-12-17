@@ -1,0 +1,69 @@
+{
+  "description": "设计独树一帜的美国设计师Tory Burch绝对是美国时尚的代表品牌之一，同时也是时尚圈内红人，擅长运用经典美国运动风元素将品牌国际化，盛名在外。Tory Burch（汤丽柏琦）黑色 纳帕皮 Liana芭蕾舞平底鞋。表面 成分：纳帕皮 100%、衬里 成分：牛皮 100%、鞋底 成分：牛皮 100%",
+  "price": 285,
+  "discount": 0.6,
+  "color": "black",
+  "sizeType": "America",
+  "quantity": {
+    "6": 32,
+    "6.5": 47,
+    "7": 56,
+    "7.5": 25,
+    "8": 35,
+    "9": 39,
+    "10": 42
+  },
+  "type": "女士芭蕾舞平底鞋",
+  "currency": "EUR",
+  "typeId": "46084",
+  "brandName": "Tory Burch",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "side",
+        "right"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "side",
+        "right"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "top",
+        "close-up"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "bottom"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "shoes"
+  ]
+}

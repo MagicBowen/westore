@@ -1,0 +1,40 @@
+{
+  "description": "Black virgin wool oversized coat from federica tosi",
+  "price": 834,
+  "discount": 0.6,
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "38": 72
+  },
+  "type": "女士大衣",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Federica Tosi",
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "min": 15,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "coat",
+    "overcoat"
+  ]
+}

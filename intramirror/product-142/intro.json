@@ -1,0 +1,70 @@
+{
+  "description": "Marni 黑色 牛皮 Medium Trunk单肩包。翻盖饰有插入式的摁扣，内置一个可延展的夹层，可调肩带。商品尺寸 宽度：23 cm、高度：16 cm、深度：12 cm、带长：67 cm。Model 胸围：83 cm、身高：179 cm、臀围：85 cm、腰围：61 cm、表面 成分：小牛皮 100%。",
+  "price": 1291,
+  "discount": 0.65,
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "U": 70
+  },
+  "type": "女士 单肩包",
+  "currency": "EUR",
+  "typeId": "SBMPS01",
+  "brandName": "Marni",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "right",
+        "front",
+        "side"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "back",
+        "left",
+        "side"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "top"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "top",
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "bag",
+    "shoulder_bag"
+  ]
+}

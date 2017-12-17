@@ -1,0 +1,58 @@
+{
+  "description": "Maison Martin Margiela以低调但令人意想不到的设计元素文明，其设计中擅于采用与时尚完全无关的物体，譬如用假发或足球围巾来打造令人印象深刻的作品。Maison Margiela 灰色 全棉 条纹细节套头衫。圆领，长袖，饰缝合细节。表面 成分：棉 100%、衬里 成分：棉 100%、表面 成分：黄铜 100%：洗涤说明：手洗",
+  "price": 400,
+  "discount": 0.57,
+  "color": "grey",
+  "sizeType": "Italy",
+  "quantity": {
+    "48": 79,
+    "50": 47,
+    "52": 111
+  },
+  "type": "男士套头衫",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Maison Margiela",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "front", 
+        "model"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "coat",
+    "pullover"
+  ]
+}

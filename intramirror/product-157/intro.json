@@ -1,0 +1,66 @@
+{
+  "description": "Thom Browne 黑色 牛皮 黑色牛皮橡胶鞋底经典长翼布洛克鞋。镂空穿孔设计，正面系带，后置提鞋环，鞋垫饰有品牌标识，橡胶鞋底。8 US码布洛克鞋的尺寸信息如下：商品尺寸：鞋底高度：2 cm、鞋跟：4cm。表面 成分：牛皮 100%。",
+  "price": 670,
+  "discount": 0.52,
+  "color": "black",
+  "sizeType": "China",
+  "quantity": {
+    "41": 135,
+    "42": 67
+  },
+  "type": "男士皮鞋",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Thom Browne",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back" ,
+        "left",
+        "side"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "top"
+      ]
+    }
+    ,
+    {
+      "name": "5.jpg",
+      "tags": [
+        "close-up",
+        "top"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "shoes",
+    "leather_shoes"
+  ]
+}

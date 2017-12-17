@@ -1,0 +1,58 @@
+{
+  "description": "Pantalone in misto cotone. Logo stampato lungo la gamba. Banda elasticizzata in vita con coulisse. Due tasche laterali. Una tasca sul retro.",
+  "price": 575,
+  "discount": 0.6,
+  "brandID": "RMS10235S00401als",
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "48": 23,
+    "50": 38,
+    "52": 82
+  },
+  "type": "男士运动裤",
+  "brandColor": "10",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Lanvin",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "model",
+        "front"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "model",
+        "back"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "male",
+    "pants",
+    "sport_pants"
+  ]
+}
