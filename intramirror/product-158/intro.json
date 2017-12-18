@@ -1,5 +1,5 @@
 {
-  "description": "1997年，Thom Browne只身来到纽约，在Giorge Armani的陈列室，从卑微的服务员做起。Thom Browne 中灰色 羊毛混纺 灰色格运动外套。",
+  "description": "Thom Browne 中灰色 羊毛混纺 灰色格运动外套。",
   "price": 2811,
   "discount": 0.52,
   "color": "grey",
@@ -44,7 +44,8 @@
       "name": "4.jpg",
       "tags": [
         "front",
-        "model"
+        "model",
+        "left"
       ]
     }
     ,

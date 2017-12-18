@@ -1,13 +1,14 @@
 {
-  "description": "Thom Browne 黑色 牛皮 条纹细节背包。顶部有弧状手柄，可调整肩带，正面拉链口袋，环绕式拉链，内置贴袋。商品尺寸：宽度：26 cm、高度：40 cm、手柄：10 cm、深度：15 cm、带长：33 cm。成分：牛皮 10%、成分：涤纶 90%。",
+  "description": "Thom Browne 蓝色女士针织毛衣",
   "price": 860,
   "discount": 0.6,
-  "color": "black",
+  "color": "blue",
   "sizeType": "standard",
   "quantity": {
-    "U": 135
+    "XS": 135,
+    "S": 12
   },
-  "type": "男士背包",
+  "type": "女士毛衣",
   "currency": "EUR",
   "typeId": null,
   "brandName": "Thom Browne",

@@ -26,12 +26,14 @@
     {
       "name": "1.jpg",
       "tags": [
+        "side",
         "right"
       ]
     },
     {
       "name": "2.jpg",
       "tags": [
+        "side",
         "left"
       ]
     },

@@ -7,7 +7,7 @@
   "quantity": {
     "S": 95
   },
-  "type": "女士 连衣裙",
+  "type": "女士连衣裙",
   "currency": "EUR",
   "typeId": null,
   "brandName": "Sportmax",
@@ -53,6 +53,6 @@
     "female",
     "skirt",
     "dress",
-    "mini_dress"
+    "miniskirt"
   ]
 }

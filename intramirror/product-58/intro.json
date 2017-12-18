@@ -1,5 +1,5 @@
 {
-  "description": "Black leather skinny trousers from federica tosi",
+  "description": "Federica tosi黑色女士紧身皮裤",
   "price": 753,
   "discount": 0.6,
   "color": "black",
@@ -36,6 +36,7 @@
   "tags": [
     "female",
     "pants",
-    "skinny_trousers"
+    "skinny_trousers",
+    "leather_pants"
   ]
 }

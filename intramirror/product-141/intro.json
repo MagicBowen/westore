@@ -7,7 +7,7 @@
   "quantity": {
     "U": 95
   },
-  "type": "女士 单肩包",
+  "type": "女士单肩包",
   "currency": "EUR",
   "typeId": "SBMPS01",
   "brandName": "Marni",
@@ -50,7 +50,9 @@
     {
       "name": "5.jpg",
       "tags": [
-        "top"
+        "top",
+        "close-up",
+        "inner"
       ]
     }
   ],
