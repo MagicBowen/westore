@@ -1,0 +1,61 @@
+{
+  "description": "金属细节无袖衫，61%纤维胶、30%涤纶、9%弹性纤维",
+  "price": 150,
+  "discount": 0.6,
+  "color": "white",
+  "sizeType": "Italy",
+  "quantity": {
+    "42": 62,
+    "44": 30,
+    "46": 58,
+    "48": 60
+  },
+  "type": "女士无袖衫",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Sportmax",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "front",
+        "model",
+        "right",
+        "side"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "coat",
+    "casual_clothes"
+  ]
+}

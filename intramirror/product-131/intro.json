@@ -1,0 +1,63 @@
+{
+  "description": "Balmain（巴尔曼）黑色 全棉 合身针织上衣。圆领，长袖，合身廓形，正面标贴，搭扣肩。成分：棉 100%、洗涤说明：机洗",
+  "price": 496,
+  "discount": 0.52,
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "XL": 150,
+    "XXL": 130
+  },
+  "type": "男士针织上衣",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Balmain",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "close-up",
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "coat",
+    "tshirt"
+  ]
+}

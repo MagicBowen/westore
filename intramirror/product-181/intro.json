@@ -1,0 +1,41 @@
+{
+  "description": "Multicolour silk blend patterned trousers from Equipment",
+  "price": 500,
+  "discount": 0.6,
+  "color": "multicolor",
+  "sizeType": "standard",
+  "quantity": {
+    "S": 41
+  },
+  "type": "女士长裤",
+  "brandColor": "10",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Equipment",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "pants",
+    "slacks"
+  ]
+}

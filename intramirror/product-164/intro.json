@@ -1,0 +1,47 @@
+{
+  "description": "Black Silk Shirt from Emilio Pucci, classic neck, buttons closure on front, long sleeves button cuffs, brand logo inside label.",
+  "price": 780,
+  "discount": 0.56,
+  "color": "black",
+  "sizeType": "Italy",
+  "quantity": {
+    "44": 52
+  },
+  "type": "女士衬衫",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Emilio Pucci",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "coat",
+    "blouse",
+    "shirt"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "description": "Calvin Klein 绿色 丝绸混纺 系腰带连衣裙。圆领，无袖设计，束腰带，短款。衬里 成分：氨纶（弹性纤维） 5%、衬里 成分：丝绸 95%、表面 成分：纤维胶 100％、洗涤说明：干洗",
+  "price": 2160,
+  "discount": 0.6,
+  "color": "green",
+  "sizeType": "Italy",
+  "quantity": {
+    "40": 37,
+    "42": 42
+  },
+  "type": "女士连衣裙",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Calvin Klein",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "right",
+        "side",
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "back",
+        "side",
+        "left",
+        "model"
+      ]
+    },
+    {
+      "name": "6.jpg",
+      "tags": [
+        "back"
+      ]
+    },
+    {
+      "name": "7.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "skirt",
+    "dress"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "description": "黑色迷你骷髅头贴花小礼服，圆领，腰边饰有阵脚，短款，无袖设计，喇叭状设计，水钻骷髅细节，后置拉链。表面 成分：涤纶 100% 衬里 成分：聚酰胺 100% 干洗",
+  "price": 1498,
+  "discount": 0.65,
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "S": 58,
+    "M": 42
+  },
+  "type": "女士小礼服",
+  "brandColor": "10",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Philipp Plein",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "model",
+        "front"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "model",
+        "front"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "model",
+        "back"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "skirt",
+    "dress",
+    "little_dress"
+  ]
+}

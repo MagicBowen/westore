@@ -8,7 +8,7 @@
   "quantity": {
     "U": 220
   },
-  "type": "购物袋",
+  "type": "女士手提袋",
   "brandColor": "4380",
   "currency": "EUR",
   "typeId": null,
@@ -43,7 +43,8 @@
     {
       "name": "4.jpg",
       "tags": [
-        "close-up"
+        "close-up",
+        "inner"
       ]
     }
   ],

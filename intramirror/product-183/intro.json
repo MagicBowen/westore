@@ -1,0 +1,64 @@
+{
+  "description": "Paco Rabanne 黑色 初剪羊毛与棉质 超大款大衣。表面 成分：棉 100% 衬里 成分：棉 100% 表面 成分：氨纶（弹性纤维） 5% 表面 成分：聚酰胺 4% 表面 成分：初剪羊毛 91% 洗涤说明：干洗。",
+  "price": 1650,
+  "discount": 0.68,
+  "brandID": "17H1401SM2MIRLG.710",
+  "color": "black",
+  "sizeType": "standard",
+  "quantity": {
+    "U": 73
+  },
+  "type": "女士大衣",
+  "currency": "EUR",
+  "typeId": null,
+  "brandName": "Paco Rabanne",
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "min": 14,
+      "max": 19
+    }
+  },
+  "pictures": [
+    {
+      "name": "1.jpg",
+      "tags": [
+        "front"
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "tags": [
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "3.jpg",
+      "tags": [
+        "right",
+        "side",
+        "front",
+        "model"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "tags": [
+        "back",
+        "model"
+      ]
+    },
+    {
+      "name": "5.jpg",
+      "tags": [
+        "close-up"
+      ]
+    }
+  ],
+  "tags": [
+    "female",
+    "coat",
+    "overcoat"
+  ]
+}
