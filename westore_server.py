@@ -187,6 +187,11 @@ def query_size_relation():
     size_type = request.args.get('size_type')
     return send_file("./sizeRelation/{}/{}/{}".format(sex, size_type, relation_Name), mimetype='image/jpeg')
 
+@app.route('/westore/picture/images', methods=['GET'])
+def query_image():
+    image_name = request.args.get('name')
+    return send_file("./images/{}".format(image_name), mimetype='image/jpeg')    
+
 @app.route('/')
 def index():
     return render_template('index.html')
