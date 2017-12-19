@@ -93,7 +93,7 @@
       "id": "product-1"
     },
     {
-      "description": "成分: 纤维胶 82% 成分: 丝绸 18% 洗涤说明 干洗",
+      "description": "Federica Tosi 绿色 丝绸混纺 丝绸阔腿裤。成分: 纤维胶 82% 成分: 丝绸 18% 洗涤说明 干洗",
       "price": 375,
       "discount": 0.6,
       "color": "green",
@@ -785,7 +785,7 @@
       "id": "product-109"
     },
     {
-      "description": "成分：57% ALPACA 43% VIRGIN WOOL",
+      "description": "Tory Burch（汤丽柏琦）羊毛羊驼毛混纺 黑色吊带裙。成分：57% 羊驼毛 43% 纯羊毛",
       "price": 560,
       "discount": 0.65,
       "color": "black",
@@ -1454,7 +1454,7 @@
       "id": "product-118"
     },
     {
-      "description": "Prince of Wales check suit",
+      "description": "Lardni 灰色 男士西装套装。",
       "price": 1085,
       "discount": 0.6,
       "color": "grey",
@@ -1522,10 +1522,10 @@
       "id": "product-119"
     },
     {
-      "description": "成分：57% ALPACA 43% VIRGIN WOOL",
+      "description": "Max Mara 驼色 羊毛混纺 女士大衣。成分：57% 羊驼毛、成分：43% 羊毛",
       "price": 2500,
       "discount": 0.6,
-      "color": "camel",
+      "color": "caramel",
       "sizeType": "Italy",
       "quantity": {
         "40": 222
@@ -1633,7 +1633,7 @@
       "id": "product-120"
     },
     {
-      "description": "Blue Wool Suits from Prada, jacket with button closure on front, three pockets on fromt, pinces on front, long sleeves buttons cuffs, two button pockets inside, brand logo inside label. Classic pants, hook and buttons closure, belt loops, two pockets on front, two button pockets on back, brand log inside label",
+      "description": "Prada 蓝色 羊毛西装套装。长袖，纽扣，一般长度，合身设计，搭扣细节，侧身口袋，后置口袋。衬里 成分：丝绸 100%、衬里 成分：棉 100%、表面成分：涤纶 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
       "price": 1820,
       "discount": 0.52,
       "color": "blue",
@@ -1682,7 +1682,7 @@
       "id": "product-121"
     },
     {
-      "description": "Black virgin wool two buttons suit with two buttons and side pockets with flap, Classic trousers with belt loops, two side pockets and two back pockets",
+      "description": "Dolce & Gabbanna（杜嘉班纳）男士西装套装。黑色 纯羊毛 配两个纽扣，侧面翻盖，带腰带的经典长裤，两个侧袋和两个后袋",
       "price": 1820,
       "discount": 0.52,
       "color": "black",
@@ -1796,7 +1796,7 @@
       "id": "product-123"
     },
     {
-      "description": "Givenchy Suits/Jumpsuits Men",
+      "description": "Givenchy 男士西装套装。表面 成分：100% 羊毛",
       "price": 1313,
       "discount": 0.44,
       "color": "black",
@@ -2116,7 +2116,7 @@
       "id": "product-128"
     },
     {
-      "description": "Sneakers in pelle. Allacciatura frontale. Logo in metallo. Interno in pelle. Suola in gomma",
+      "description": "Maison Margiela 白色 皮革运动鞋。前花边。金属标志。皮革内饰。橡胶鞋底",
       "price": 540,
       "discount": 0.6,
       "color": "white",
@@ -2234,7 +2234,7 @@
       "id": "product-13"
     },
     {
-      "description": "Sneakers in pelle. Allacciatura frontale. Logo in metallo. Interno in pelle. Suola in gomma",
+      "description": "Maison Margiela 皮革运动鞋。前花边。金属标志。皮革内饰。橡胶鞋底",
       "price": 540,
       "discount": 0.6,
       "color": "red",
@@ -2504,7 +2504,7 @@
       "id": "product-133"
     },
     {
-      "description": "Black silk-blend stud-trimmed dress from Balmain",
+      "description": "Balmain 黑色 真丝混纺 饰钉连衣裙",
       "price": 1863,
       "discount": 0.65,
       "color": "black",
@@ -2545,7 +2545,7 @@
       "id": "product-134"
     },
     {
-      "description": "男士经典款大衣",
+      "description": "Balmain 黑色 男士经典款大衣",
       "price": 2990,
       "discount": 0.65,
       "color": "black",
@@ -2649,7 +2649,7 @@
       "id": "product-136"
     },
     {
-      "description": "金属细节无袖衫，61%纤维胶、30%涤纶、9%弹性纤维",
+      "description": "Sportmax 白色 金属细节无袖衫，61%纤维胶、30%涤纶、9%弹性纤维",
       "price": 150,
       "discount": 0.6,
       "color": "white",
@@ -2711,7 +2711,7 @@
       "id": "product-137"
     },
     {
-      "description": "Silk georgette blouse. Drawstring details along sleeves. Rear zip fastening. Jersey tank top.",
+      "description": "Sportmax 红色 丝绸乔其纱女衬衫。",
       "price": 300,
       "discount": 0.65,
       "color": "red",
@@ -2769,7 +2769,7 @@
       "id": "product-138"
     },
     {
-      "description": "Black stretch viscose cady skirt. Asymmetric ruffled design. Side zip fastening",
+      "description": "Sportmax 黑色 裙子。不对称设计。侧面拉链。成分：纤维胶 100%",
       "price": 351,
       "discount": 0.65,
       "color": "black",
@@ -2883,7 +2883,7 @@
       "id": "product-14"
     },
     {
-      "description": "Black chenille mini dress. Tonai studded details. Front patch pockets",
+      "description": "Sportmax 黑色雪尼尔迷你连衣裙。前贴袋",
       "price": 421,
       "discount": 0.65,
       "color": "black",
@@ -3142,7 +3142,7 @@
       "id": "product-143"
     },
     {
-      "description": "This brown A-line midi skirt from Marni captures the irreverent style codes of the maison. Carefully crafted from a silk blend and designed to fall just below the knee, it features a pleated design and a concealed rear zip fastening. Team yours with a white blouse and platform sandals for an offbeat outfit win. This item fits small, please select the next size up.",
+      "description": "Marni这款棕色的中长裙体现maison的不羁风格。设计成恰好落在膝盖以下，具有褶皱设计和隐藏式后部拉链。尺码偏小，请选择大一号的尺码",
       "price": 891,
       "discount": 0.6,
       "color": "brown",
@@ -3183,7 +3183,7 @@
       "id": "product-144"
     },
     {
-      "description": "Dark-green cotton hoodle jacket with yellow snap button detail. Side pockets, ribbed collar cuffs and hem.",
+      "description": "Marni 深绿色 纯棉外套 黄色摁扣。侧袋，罗纹领口袖口和下摆。",
       "price": 570,
       "discount": 0.65,
       "color": "green",
@@ -3693,7 +3693,7 @@
       "id": "product-150"
     },
     {
-      "description": "Calvin Klein Black and White T-shirt 男士",
+      "description": "Calvin Klein 黑色与白色 男士T恤",
       "price": 300,
       "discount": 0.6,
       "color": "black&white",
@@ -3742,7 +3742,7 @@
       "id": "product-151"
     },
     {
-      "description": "Calvin Klein High crew neck sweater 男士, 100% Cotton",
+      "description": "Calvin Klein 高领毛衣 男士, 100% 纯棉",
       "price": 300,
       "discount": 0.6,
       "color": "white",
@@ -4614,7 +4614,7 @@
       "id": "product-163"
     },
     {
-      "description": "Black Silk Shirt from Emilio Pucci, classic neck, buttons closure on front, long sleeves button cuffs, brand logo inside label.",
+      "description": "Emilio Pucci黑色真丝衬衫，经典脖子，正面纽扣开合，长袖袖扣，标签内的品牌标志。",
       "price": 780,
       "discount": 0.56,
       "color": "black",
@@ -4866,7 +4866,7 @@
       "id": "product-167"
     },
     {
-      "description": "Blacked Clay Anya Fur Coat from Tory Burch, hook closure in front, long sleeves, two pockets on front, brand logo on inside label",
+      "description": "Tory Burch 皮大衣，正面钩扣，长袖，正面有两个口袋，内部标签上有品牌标志",
       "price": 2350,
       "discount": 0.56,
       "color": "brown",
@@ -4960,7 +4960,7 @@
       "id": "product-169"
     },
     {
-      "description": "运动鞋，休闲款",
+      "description": "Dolce & Gabanna（杜嘉班纳） 真皮运动鞋，休闲款。表面 成分：100% 小牛皮 洗涤说明：专人洗涤",
       "price": 595,
       "discount": 0.6,
       "brandID": "CK0150AH290",
@@ -5119,7 +5119,7 @@
       "id": "product-170"
     },
     {
-      "description": "Patent cap-toe suede sneakers. Patent leather cap-to. Rounded toeline. Visible stitches. Contrasting outsole. Composizione tomala scarpe: In suede.",
+      "description": "Lanvin（浪凡）灰色 专利帽趾绒面革运动鞋。漆皮鞋面。圆头。缝饰细节。",
       "price": 345,
       "discount": 0.56,
       "brandID": "RMS10235S00401als",
@@ -5182,7 +5182,7 @@
       "id": "product-171"
     },
     {
-      "description": "Pantalone in misto cotone. Logo stampato lungo la gamba. Banda elasticizzata in vita con coulisse. Due tasche laterali. Una tasca sul retro.",
+      "description": "棉混纺长裤。腿部有标志。腰部有松紧带抽绳。两个侧袋。一个口袋在后面。",
       "price": 575,
       "discount": 0.6,
       "brandID": "RMS10235S00401als",
@@ -5241,7 +5241,7 @@
       "id": "product-172"
     },
     {
-      "description": "Hooded techno fabric jacket. Adjustable drawstring hood. Ribbed kni cuffs. Product Care: Hand wash. 100% Polyester, 100%, 50%, Wool, 50%. Chiusura: Zipper. Imbottitura: Polyester. Taglia del capo indossato nella foto: 48. Tasche: 2 pockets with button on the front, 2 internal pocket with button. Misure modella/o: Altezza: 189, Busto:98, Girovita:80, Fianchi:93. Conversione taglie: IT. Colore: black",
+      "description": "连帽夹克 可调节的抽绳帽 罗纹袖口 洗涤说明：手洗颜色：黑色",
       "price": 1195,
       "discount": 0.56,
       "color": "black",
@@ -5284,7 +5284,7 @@
       "id": "product-173"
     },
     {
-      "description": "Sugar mini lambskin crossbody bag. Front flap with magnetica button fastening. 2 inner compartment. Internal zipper pocket. 2 internal slip pockets. Chain and leather shoulder strap. Gold-tone metal hardware. Width: 22 cm Height: 14 cm Depth:5.5 cm Strap: 110 cm. Posizione del logo: Metallic logo on front. 100%, Leather. Confezione: Acetate. Colore: black. Product Model: Sugar",
+      "description": "小羊皮斜挎包。带磁扣的前翻盖。 2个内舱。内部拉链口袋。 2个内部滑袋。链条和皮革肩带。宽度：22厘米高度：14厘米深度：5.5厘米表带：110厘米。标志位置：正面有金属标志。 100％，皮革。包装：醋酸盐。颜色：黑色。",
       "price": 1145,
       "discount": 0.56,
       "color": "black",
@@ -5579,7 +5579,7 @@
       "id": "product-178"
     },
     {
-      "description": "Black Nylon Jacket Ready Elvis from Philipp Plein, zip closure on front, long sleeves, elastic on waistband. Two pocket, silver embossed brand logo on front. brand log paint black on back and inside brand log label.",
+      "description": "Philipp Plein 黑色 尼龙夹克外套, 正面有拉链，长袖，腰身有弹性。前面有两个口袋，银色浮雕品牌标志。背部有品牌标识。",
       "price": 1398,
       "discount": 0.56,
       "color": "black",
@@ -5629,7 +5629,7 @@
       "id": "product-179"
     },
     {
-      "description": "女士鞋子，尖头，牛皮",
+      "description": "Essentials蓝色反毛皮切尔西短靴、尖头及裸靴、黑色侧边弹性饰带、易穿、叠层皮革细鞋跟、70毫米（2.7英寸）鞋跟、撞色小山羊皮鞋垫、皮革鞋底、反毛小山羊皮。",
       "price": 680,
       "discount": 0.65,
       "brandID": "321943CES",
@@ -5756,7 +5756,7 @@
       "id": "product-180"
     },
     {
-      "description": "Multicolour silk blend patterned trousers from Equipment",
+      "description": "Equipment 多色 丝绸混纺 长裤",
       "price": 500,
       "discount": 0.6,
       "color": "multicolor",
@@ -5798,7 +5798,7 @@
       "id": "product-181"
     },
     {
-      "description": "Black silk blend long shirt dress from Equipment",
+      "description": "Equipment 黑色 丝绸混纺 长衬衫连衣裙",
       "price": 595,
       "discount": 0.6,
       "color": "black",
@@ -5905,7 +5905,7 @@
       "id": "product-183"
     },
     {
-      "description": "Green wool blend long knitted dress from Paco Rabanne.",
+      "description": "Paco Rabanne 绿色 羊毛混纺 长款针织连衣裙。",
       "price": 690,
       "discount": 0.6,
       "brandID": "17H1401SM2MIRLG.710",
@@ -6072,7 +6072,7 @@
       "id": "product-186"
     },
     {
-      "description": "女士高筒靴",
+      "description": "Balenciaga 真皮 红色 女士高筒靴。表面 成分：100% 牛皮",
       "price": 1295,
       "discount": 0.68,
       "brandID": "494248/W0530",
@@ -6282,7 +6282,7 @@
       "id": "product-20"
     },
     {
-      "description": "牛仔短裤",
+      "description": "J Brand 女士 牛仔短裤。表面 成分：100% 牛仔布 洗涤说明：机洗",
       "price": 174,
       "discount": 0.81,
       "color": "blue",
@@ -6445,7 +6445,7 @@
       "id": "product-23"
     },
     {
-      "description": "羊绒连身衣",
+      "description": "Celine 红色 羊绒连身衣。成分：100% 羊绒、洗涤说明：干洗",
       "price": 620,
       "discount": 0.58,
       "color": "red",
@@ -6534,7 +6534,7 @@
       "id": "product-25"
     },
     {
-      "description": "真皮款女士手提包",
+      "description": "Chloe 棕色 真皮款女士手提包。表面 成分：100% 牛皮 衬里 成分：100% 涤纶",
       "price": 1190,
       "discount": 0.73,
       "brandID": "C17WS331HGP208",
@@ -6677,7 +6677,7 @@
       "id": "product-27"
     },
     {
-      "description": "真皮编制，金属提链",
+      "description": "Bottega Veneta 女士 手提包。真皮编制，金属提链",
       "price": 2800,
       "discount": 0.73,
       "brandID": "386498/VCB10",
@@ -6843,7 +6843,8 @@
       "tags": [
         "female",
         "bag",
-        "handbag"
+        "handbag",
+        "shoulder_bag"
       ],
       "id": "product-3"
     },
@@ -6937,7 +6938,8 @@
       "tags": [
         "female",
         "bag",
-        "handbag"
+        "handbag",
+        "shoulder_bag"
       ],
       "id": "product-30"
     },
@@ -7159,7 +7161,7 @@
       "id": "product-33"
     },
     {
-      "description": "真皮材质",
+      "description": "Balenciaga 黑色 女士手提包。真皮材质。表面 成分：100% 小牛皮",
       "price": 1795,
       "discount": 0.76,
       "brandID": "491634/C8k05",
@@ -7560,7 +7562,7 @@
       "id": "product-4"
     },
     {
-      "description": "男士休闲穿棉T恤",
+      "description": "Valentino（华伦天女）蓝色 男士休闲纯棉T恤",
       "price": 295,
       "discount": 0.69,
       "brandID": "PV3MG10B3LE",
@@ -8028,7 +8030,7 @@
       "id": "product-47"
     },
     {
-      "description": "Polo Ralph Lauren男士休闲衬衫",
+      "description": "Polo Ralph Lauren 蓝色 男士休闲衬衫",
       "price": 109,
       "discount": 0.58,
       "color": "blue",
@@ -8091,7 +8093,7 @@
       "id": "product-48"
     },
     {
-      "description": "Givenchy男士衬衫",
+      "description": "Givenchy 黑色 男士衬衫",
       "price": 410,
       "discount": 0.58,
       "color": "black",
@@ -8902,7 +8904,7 @@
       "id": "product-58"
     },
     {
-      "description": "Black virgin wool oversized coat from federica tosi",
+      "description": "Federica Tosi 黑色 纯羊毛大衣。表面 成分：100% 羊毛",
       "price": 834,
       "discount": 0.6,
       "color": "black",
@@ -8943,7 +8945,7 @@
       "id": "product-59"
     },
     {
-      "description": "休闲款，干洗",
+      "description": "Les Hommes 黑色纯棉运动裤，系腰带设计，前置两个口袋，后置贴袋，内有品牌标识，弹性松紧袖口，",
       "price": 395,
       "discount": 0.62,
       "color": "black",
@@ -9155,7 +9157,7 @@
       "id": "product-62"
     },
     {
-      "description": "Black virgin wool blend kimono style wrap dress from federica tosi",
+      "description": "Federica Tosi 黑色 羊毛混纺 和服样式连衣裙",
       "price": 420,
       "discount": 0.6,
       "color": "black",
@@ -9405,7 +9407,7 @@
       "id": "product-66"
     },
     {
-      "description": "logo拉链真皮外套， 100%真皮",
+      "description": "Dolce & Gabbana(杜嘉班纳）黑色 logo拉链真皮外套，100%真皮",
       "price": 1950,
       "discount": 0.6,
       "color": "black",
@@ -10292,7 +10294,7 @@
       "id": "product-79"
     },
     {
-      "description": "真丝印花。成分: 丝绸 100% 洗涤说明 干洗",
+      "description": "Equipment 白色 真丝 印花衬衫。成分: 丝绸 100% 洗涤说明 干洗",
       "price": 369,
       "discount": 0.6,
       "color": "white",
@@ -10525,7 +10527,7 @@
       "id": "product-82"
     },
     {
-      "description": "Nylon shoulder bag",
+      "description": "Prada（普拉达）黑色 尼龙 男士单肩包",
       "price": 995,
       "discount": 0.6,
       "color": "black",
@@ -10941,7 +10943,7 @@
       "id": "product-89"
     },
     {
-      "description": "全棉连帽。成分:棉 100%、洗涤说明：机洗",
+      "description": "Paco Rabanne 白色 全棉府绸连帽。成分:棉 100%、洗涤说明：机洗",
       "price": 596,
       "discount": 0.6,
       "color": "white",
