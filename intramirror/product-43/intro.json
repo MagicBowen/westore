@@ -3,11 +3,11 @@
   "price": 370,
   "discount": 0.6,
   "color": "white",
-  "sizeType": "America",
+  "sizeType": "Italy",
   "quantity": {
-    "8": 241,
-    "4": 183,
-    "6": 190
+    "38": 241,
+    "42": 183,
+    "44": 190
   },
   "type": "男士衬衫",
   "currency": "EUR",
