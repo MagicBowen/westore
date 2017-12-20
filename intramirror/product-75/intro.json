@@ -1,66 +1,66 @@
 {
-  "description": "Faith Connexion 黑色 弹性棉质 工装长裤。成分：棉 97% 成分：氨纶（弹性纤维） 3% 洗涤说明：机洗",
-  "price": 676,
-  "discount": 0.44,
-  "color": "black",
-  "sizeType": "standard",
-  "quantity": {
-    "S": 292,
-    "L": 250,
-    "M": 63
-  },
-  "type": "男士工装长裤",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Faith Connexion",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "right",
         "model",
         "side"
-      ]
+      ],
+      "name": "5.jpg"
     },
     {
-      "name": "6.jpg",
       "tags": [
         "right",
         "model",
         "side"
-      ]
+      ],
+      "name": "6.jpg"
     }
   ],
+  "description": "Faith Connexion 黑色 弹性棉质 工装长裤。成分：棉 97% 成分：氨纶（弹性纤维） 3% 洗涤说明：机洗",
   "tags": [
     "male",
     "pants",
     "slacks"
-  ]
+  ],
+  "quantity": {
+    "L": 118,
+    "S": 23,
+    "M": 107
+  },
+  "price": 676,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士工装长裤",
+  "brandName": "Faith Connexion",
+  "color": "black",
+  "discount": 0.44
 }

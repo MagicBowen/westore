@@ -1,98 +1,98 @@
 {
-  "description": "Fendi(芬迪) 粉红色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
-  "price": 350,
-  "discount": 0.6,
-  "color": "pink",
-  "sizeType": "Italy",
-  "quantity": {
-    "44": 175,
-    "38": 24,
-    "40": 117,
-    "42": 57
-  },
-  "type": "女士T恤",
-  "currency": "EUR",
   "typeId": "shirt50",
-  "brandName": "Fendi",
-  "transport": {
-    "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "face.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "face.jpg"
     },
     {
-      "name": "f-s.jpg",
       "tags": [
         "front",
         "scene"
-      ]
+      ],
+      "name": "f-s.jpg"
     },
     {
-      "name": "f-c-s.jpg",
       "tags": [
         "front",
         "close-up",
         "scene"
-      ]
+      ],
+      "name": "f-c-s.jpg"
     },
     {
-      "name": "f-m-s.jpg",
       "tags": [
         "front",
         "model",
         "scene"
-      ]
+      ],
+      "name": "f-m-s.jpg"
     },
     {
-      "name": "f-m-s-1.jpg",
       "tags": [
         "front",
         "model",
         "scene"
-      ]
+      ],
+      "name": "f-m-s-1.jpg"
     },
     {
-      "name": "b.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "b.jpg"
     },
     {
-      "name": "b-s.jpg",
       "tags": [
         "back",
         "scene"
-      ]
+      ],
+      "name": "b-s.jpg"
     },
     {
-      "name": "b-c-s.jpg",
       "tags": [
         "back",
         "close-up",
         "scene"
-      ]
+      ],
+      "name": "b-c-s.jpg"
     },
     {
-      "name": "r-m-s.jpg",
       "tags": [
         "right",
         "model",
         "scene",
         "side"
-      ]
+      ],
+      "name": "r-m-s.jpg"
     }
   ],
+  "description": "Fendi(芬迪) 粉红色 全棉 Bag Bugs印花T恤。圆领，短袖，平直下摆。 表面成分: 棉 100%，洗剂说明：干洗",
   "tags": [
     "female",
     "tshirt",
     "coat"
-  ]
+  ],
+  "quantity": {
+    "38": 143,
+    "40": 27,
+    "42": 135,
+    "44": 7
+  },
+  "price": 350,
+  "transport": {
+    "description": "1个工作日内买手店在确认，之后1-3个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士T恤",
+  "brandName": "Fendi",
+  "color": "pink",
+  "discount": 0.6
 }

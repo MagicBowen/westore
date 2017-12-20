@@ -1,89 +1,89 @@
 {
-  "description": "大胆地展示未来的时尚经典，让这个美国时尚的经典品牌之一的Calvin Klein更加精炼。Calvin Klein 灰色 羊毛与棉质 方格图案西装夹克。衬里 成分：棉 100%、表面 成分：羊毛 100%、洗涤说明：干洗",
-  "price": 1555,
-  "discount": 0.56,
-  "color": "grey",
-  "sizeType": "Italy",
-  "quantity": {
-    "44": 92
-  },
-  "type": "女士西装夹克",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Calvin Klein",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "scene"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "back",
         "scene"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "close-up",
         "scene"
-      ]
+      ],
+      "name": "5.jpg"
     },
     {
-      "name": "6.jpg",
       "tags": [
         "front",
         "model",
         "scene"
-      ]
+      ],
+      "name": "6.jpg"
     },
     {
-      "name": "7.jpg",
       "tags": [
         "front",
         "model",
         "scene"
-      ]
+      ],
+      "name": "7.jpg"
     },
     {
-      "name": "8.jpg",
       "tags": [
         "intro"
-      ]
+      ],
+      "name": "8.jpg"
     },
     {
-      "name": "9.jpg",
       "tags": [
         "price"
-      ]
+      ],
+      "name": "9.jpg"
     }
   ],
+  "description": "大胆地展示未来的时尚经典，让这个美国时尚的经典品牌之一的Calvin Klein更加精炼。Calvin Klein 灰色 羊毛与棉质 方格图案西装夹克。衬里 成分：棉 100%、表面 成分：羊毛 100%、洗涤说明：干洗",
   "tags": [
     "female",
     "coat",
     "suit"
-  ]
+  ],
+  "quantity": {
+    "44": 42
+  },
+  "price": 1555,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士西装夹克",
+  "brandName": "Calvin Klein",
+  "color": "grey",
+  "discount": 0.56
 }

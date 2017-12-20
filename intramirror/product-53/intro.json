@@ -1,55 +1,55 @@
 {
-  "description": "下摆有宽肩宽的膝盖长裙，后背稍长。对比的抽绳腰部增添了运动感。由米色丝绸制成，印有浅蓝色阴影的印花图案。无衬里。",
-  "price": 1200,
-  "discount": 0.6,
-  "color": "beige",
-  "sizeType": "Italy",
-  "quantity": {
-    "44": 236,
-    "42": 241
-  },
-  "type": "女士短裙",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Fendi",
-  "transport": {
-    "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "min": 16,
-      "max": 20
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "face.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "face.jpg"
     },
     {
-      "name": "f-m.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "f-m.jpg"
     },
     {
-      "name": "b.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "b.jpg"
     },
     {
-      "name": "b-m.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "b-m.jpg"
     }
   ],
+  "description": "下摆有宽肩宽的膝盖长裙，后背稍长。对比的抽绳腰部增添了运动感。由米色丝绸制成，印有浅蓝色阴影的印花图案。无衬里。",
   "tags": [
     "female",
     "skirt",
     "short_skirt"
-  ]
+  ],
+  "quantity": {
+    "42": 118,
+    "44": 150
+  },
+  "price": 1200,
+  "transport": {
+    "description": "2个工作日内买手店在确认，之后2-4个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 20,
+      "min": 16
+    }
+  },
+  "type": "女士短裙",
+  "brandName": "Fendi",
+  "color": "beige",
+  "discount": 0.6
 }

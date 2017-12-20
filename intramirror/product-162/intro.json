@@ -1,39 +1,39 @@
 {
-  "description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 多色 针织长衫。百褶袖三色袖，领口带有系带。",
-  "price": 1381,
-  "discount": 0.6,
-  "color": "multicolor",
-  "sizeType": "Italy",
-  "quantity": {
-    "40": 12
-  },
-  "type": "女士长衫",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Emilio Pucci",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "2.jpg"
     }
   ],
+  "description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 多色 针织长衫。百褶袖三色袖，领口带有系带。",
   "tags": [
     "female",
     "coat"
-  ]
+  ],
+  "quantity": {
+    "40": 1
+  },
+  "price": 1381,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士长衫",
+  "brandName": "Emilio Pucci",
+  "color": "multicolor",
+  "discount": 0.6
 }

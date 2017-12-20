@@ -1,56 +1,56 @@
 {
-  "description": "Bazar购物袋，蓝白彩条，皮质",
-  "price": 1350,
-  "discount": 0.76,
-  "brandID": "443097/DE9ON",
-  "color": "blue",
-  "sizeType": "standard",
-  "quantity": {
-    "U": 220
-  },
-  "type": "女士手提袋",
-  "brandColor": "4380",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Balenciaga",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "left",
         "side"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "close-up",
         "inner"
-      ]
+      ],
+      "name": "4.jpg"
     }
   ],
+  "description": "Bazar购物袋，蓝白彩条，皮质",
   "tags": [
     "female",
     "bag",
     "handbag"
-  ]
+  ],
+  "quantity": {
+    "U": 34
+  },
+  "price": 1350,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "4380",
+  "type": "女士手提袋",
+  "brandName": "Balenciaga",
+  "brandID": "443097/DE9ON",
+  "color": "blue",
+  "discount": 0.76
 }

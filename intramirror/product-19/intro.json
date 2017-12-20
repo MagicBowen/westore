@@ -1,62 +1,62 @@
 {
-  "description": "Balenciaga 真皮 红色 女士高筒靴。表面 成分：100% 牛皮",
-  "price": 1295,
-  "discount": 0.68,
-  "brandID": "494248/W0530",
-  "color": "red",
-  "sizeType": "China",
-  "quantity": {
-    "36": 169,
-    "39": 9,
-    "38.5": 72,
-    "37": 167,
-    "37.5": 236
-  },
-  "type": "女士高筒靴",
-  "brandColor": "6650",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Balenciaga",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "China",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "right",
         "side"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "right",
         "side"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "right",
         "back"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "4.jpg"
     }
   ],
+  "description": "Balenciaga 真皮 红色 女士高筒靴。表面 成分：100% 牛皮",
   "tags": [
     "female",
     "shoes",
     "boots",
     "high_boots"
-  ]
+  ],
+  "quantity": {
+    "36": 121,
+    "39": 139,
+    "37.5": 63,
+    "37": 88,
+    "38.5": 63
+  },
+  "price": 1295,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "6650",
+  "type": "女士高筒靴",
+  "brandName": "Balenciaga",
+  "brandID": "494248/W0530",
+  "color": "red",
+  "discount": 0.68
 }

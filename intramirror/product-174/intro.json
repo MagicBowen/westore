@@ -1,64 +1,64 @@
 {
-  "description": "小羊皮斜挎包。带磁扣的前翻盖。 2个内舱。内部拉链口袋。 2个内部滑袋。链条和皮革肩带。宽度：22厘米高度：14厘米深度：5.5厘米表带：110厘米。标志位置：正面有金属标志。 100％，皮革。包装：醋酸盐。颜色：黑色。",
-  "price": 1145,
-  "discount": 0.56,
-  "color": "black",
-  "sizeType": "standard",
-  "quantity": {
-    "U": 38
-  },
-  "type": "女士挎包",
-  "brandColor": "10",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Lanvin",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "right",
         "side",
         "front"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "top",
         "close-up",
         "inner"
-      ]
+      ],
+      "name": "5.jpg"
     }
   ],
+  "description": "小羊皮斜挎包。带磁扣的前翻盖。 2个内舱。内部拉链口袋。 2个内部滑袋。链条和皮革肩带。宽度：22厘米高度：14厘米深度：5.5厘米表带：110厘米。标志位置：正面有金属标志。 100％，皮革。包装：醋酸盐。颜色：黑色。",
   "tags": [
     "female",
     "bag",
     "crossbody_bag",
     "shoulder_bag"
-  ]
+  ],
+  "quantity": {
+    "U": 92
+  },
+  "price": 1145,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "brandColor": "10",
+  "type": "女士挎包",
+  "brandName": "Lanvin",
+  "color": "black",
+  "discount": 0.56
 }

@@ -1,80 +1,80 @@
 {
-  "description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 多色 真丝 印花直筒连衣裙。成分：丝绸 100％、洗涤说明：干洗。",
-  "price": 1381,
-  "discount": 0.6,
-  "color": "multicolor",
-  "sizeType": "Italy",
-  "quantity": {
-    "40": 82
-  },
-  "type": "女士直筒连衣裙",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Emilio Pucci",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "scene"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "back",
         "scene"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "close-up",
         "scene"
-      ]
+      ],
+      "name": "5.jpg"
     },
     {
-      "name": "6.jpg",
       "tags": [
         "close-up",
         "scene"
-      ]
+      ],
+      "name": "6.jpg"
     },
     {
-      "name": "7.jpg",
       "tags": [
         "intro"
-      ]
+      ],
+      "name": "7.jpg"
     },
     {
-      "name": "8.jpg",
       "tags": [
         "intro"
-      ]
+      ],
+      "name": "8.jpg"
     }
   ],
+  "description": "Emilio Pucci一向主张与众不同的服饰，在许多系列中找到的万花筒式的多色几何印花就是其代表特色。Emilio Pucci 多色 真丝 印花直筒连衣裙。成分：丝绸 100％、洗涤说明：干洗。",
   "tags": [
     "female",
     "skirt",
     "dress"
-  ]
+  ],
+  "quantity": {
+    "40": 80
+  },
+  "price": 1381,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士直筒连衣裙",
+  "brandName": "Emilio Pucci",
+  "color": "multicolor",
+  "discount": 0.6
 }

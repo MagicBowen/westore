@@ -1,62 +1,62 @@
 {
-  "description": "federica tosi 灰色 初剪羊毛 可拆卸高领毛衣。成分：初剪羊毛 100%、洗涤说明：机洗",
-  "price": 267,
-  "discount": 0.6,
-  "color": "grey",
-  "sizeType": "Italy",
-  "quantity": {
-    "38": 174,
-    "42": 268,
-    "40": 255
-  },
-  "type": "女士高领毛衣",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Federica Tosi",
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "5.jpg"
     }
   ],
+  "description": "federica tosi 灰色 初剪羊毛 可拆卸高领毛衣。成分：初剪羊毛 100%、洗涤说明：机洗",
   "tags": [
     "female",
     "coat",
     "sweater"
-  ]
+  ],
+  "quantity": {
+    "38": 146,
+    "40": 115,
+    "42": 63
+  },
+  "price": 267,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "女士高领毛衣",
+  "brandName": "Federica Tosi",
+  "color": "grey",
+  "discount": 0.6
 }

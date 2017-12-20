@@ -1,60 +1,60 @@
 {
-  "description": "Equipment 白色 真丝 印花衬衫。成分: 丝绸 100% 洗涤说明 干洗",
-  "price": 369,
-  "discount": 0.6,
-  "color": "white",
-  "sizeType": "standard",
-  "quantity": {
-    "L": 288,
-    "M": 198
-  },
-  "type": "衬衫",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Equipment",
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "front.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "front.jpg"
     },
     {
-      "name": "front-1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "front-1.jpg"
     },
     {
-      "name": "back.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "back.jpg"
     },
     {
-      "name": "front-i.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "front-i.jpg"
     },
     {
-      "name": "close-up.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "close-up.jpg"
     }
   ],
+  "description": "Equipment 白色 真丝 印花衬衫。成分: 丝绸 100% 洗涤说明 干洗",
   "tags": [
     "female",
     "blouse",
     "coat"
-  ]
+  ],
+  "quantity": {
+    "L": 27,
+    "M": 45
+  },
+  "price": 369,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "衬衫",
+  "brandName": "Equipment",
+  "color": "white",
+  "discount": 0.6
 }
