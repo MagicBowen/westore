@@ -1,57 +1,57 @@
 {
-  "description": "Maison Martin Margiela以低调但令人意想不到的设计元素文明，其设计中擅于采用与时尚完全无关的物体，譬如用假发或足球围巾来打造令人印象深刻的作品。Maison Margiela 黑色 全棉 侧条纹休闲裤。弹性松紧要变，直筒腿。衬里 成分：聚酰胺 100%、表面 成分：涤纶 51%、表面 成分：棉 49%、洗涤说明：干洗",
-  "price": 490,
-  "discount": 0.57,
-  "color": "black",
-  "sizeType": "Italy",
-  "quantity": {
-    "46": 182,
-    "48": 32,
-    "50": 135
-  },
-  "type": "男士休闲裤",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Maison Margiela",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "4.jpg"
     }
   ],
+  "description": "Maison Martin Margiela以低调但令人意想不到的设计元素文明，其设计中擅于采用与时尚完全无关的物体，譬如用假发或足球围巾来打造令人印象深刻的作品。Maison Margiela 黑色 全棉 侧条纹休闲裤。弹性松紧要变，直筒腿。衬里 成分：聚酰胺 100%、表面 成分：涤纶 51%、表面 成分：棉 49%、洗涤说明：干洗",
   "tags": [
     "male",
     "pants",
     "slacks"
-  ]
+  ],
+  "quantity": {
+    "50": 138,
+    "48": 104,
+    "46": 98
+  },
+  "price": 490,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士休闲裤",
+  "brandName": "Maison Margiela",
+  "color": "black",
+  "discount": 0.57
 }

@@ -1,75 +1,75 @@
 {
-  "description": "这款精致的作品采用了娴静的中长款造型，腰部高耸的高腰设计，以创意总监Alessandro Michele的Gucci Rhombus印花为标志性的白色，红色和蓝色调色板－这是一个独特而复古的灵感来源。成分：丝绸 100%、洗涤说明：干洗",
-  "price": 1300,
-  "discount": 0.72,
-  "color": "white&red&blue",
-  "sizeType": "Italy",
-  "quantity": {
-    "42": 105
-  },
-  "type": "女士裙子",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Gucci",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "scene"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "back",
         "scene"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "5.jpg"
     },
     {
-      "name": "6.jpg",
       "tags": [
         "intro",
         "scene"
-      ]
+      ],
+      "name": "6.jpg"
     },
     {
-      "name": "7.jpg",
       "tags": [
         "price",
         "scene"
-      ]
+      ],
+      "name": "7.jpg"
     }
   ],
+  "description": "这款精致的作品采用了娴静的中长款造型，腰部高耸的高腰设计，以创意总监Alessandro Michele的Gucci Rhombus印花为标志性的白色，红色和蓝色调色板－这是一个独特而复古的灵感来源。成分：丝绸 100%、洗涤说明：干洗",
   "tags": [
     "female",
     "skirt",
     "dress"
-  ]
+  ],
+  "quantity": {
+    "42": 45
+  },
+  "price": 1300,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士裙子",
+  "brandName": "Gucci",
+  "color": "white&red&blue",
+  "discount": 0.72
 }

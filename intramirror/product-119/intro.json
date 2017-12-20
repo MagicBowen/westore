@@ -1,67 +1,67 @@
 {
-  "description": "Lardni 灰色 男士西装套装。",
-  "price": 1085,
-  "discount": 0.6,
-  "color": "grey",
-  "sizeType": "Italy",
-  "quantity": {
-    "48": 88,
-    "50": 272,
-    "54": 144
-  },
-  "type": "男士西装套装",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Lardni",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "close-up",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "back",
         "close-up",
         "model"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "5.jpg"
     }
   ],
+  "description": "Lardni 灰色 男士西装套装。",
   "tags": [
     "male",
     "coat",
     "suit"
-  ]
+  ],
+  "quantity": {
+    "50": 100,
+    "48": 142,
+    "54": 40
+  },
+  "price": 1085,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士西装套装",
+  "brandName": "Lardni",
+  "color": "grey",
+  "discount": 0.6
 }

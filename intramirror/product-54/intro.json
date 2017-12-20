@@ -1,94 +1,94 @@
 {
-  "description": "Fendi(芬迪) 白色与褐色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
-  "price": 1300,
-  "discount": 0.6,
-  "color": "white",
-  "sizeType": "Italy",
-  "quantity": {
-    "46": 130,
-    "44": 245
-  },
-  "type": "女士毛衣",
-  "currency": "EUR",
   "typeId": "sweater54",
-  "brandName": "Fendi",
-  "transport": {
-    "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "face.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "face.jpg"
     },
     {
-      "name": "b-s.jpg",
       "tags": [
         "back",
         "scene"
-      ]
+      ],
+      "name": "b-s.jpg"
     },
     {
-      "name": "f-m.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "f-m.jpg"
     },
     {
-      "name": "f-s.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "f-s.jpg"
     },
     {
-      "name": "f-s-m.jpg",
       "tags": [
         "front",
         "scene",
         "model"
-      ]
+      ],
+      "name": "f-s-m.jpg"
     },
     {
-      "name": "intro.jpg",
       "tags": [
         "intro"
-      ]
+      ],
+      "name": "intro.jpg"
     },
     {
-      "name": "r-s-m.jpg",
       "tags": [
         "right",
         "side",
         "scene",
         "model"
-      ]
+      ],
+      "name": "r-s-m.jpg"
     },
     {
-      "name": "s-c.jpg",
       "tags": [
         "scene",
         "close-up"
-      ]
+      ],
+      "name": "s-c.jpg"
     },
     {
-      "name": "s-c-1.jpg",
       "tags": [
         "scene",
         "close-up"
-      ]
+      ],
+      "name": "s-c-1.jpg"
     }
   ],
+  "description": "Fendi(芬迪) 白色与褐色 羊绒与貂毛。 高领，罗纹针织，七分袖，皮草边饰。成份：羊绒100% 成份：貂毛100% 成份：纤维胶60% 成份：棉40%",
   "tags": [
     "female",
     "sweater",
     "pullover",
     "coat"
-  ]
+  ],
+  "quantity": {
+    "46": 85,
+    "44": 53
+  },
+  "price": 1300,
+  "transport": {
+    "description": "1个工作日内买手店在确认，之后1个工作日发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士毛衣",
+  "brandName": "Fendi",
+  "color": "white",
+  "discount": 0.6
 }

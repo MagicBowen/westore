@@ -1,44 +1,44 @@
 {
-  "description": "字母刺绣衬衫。黑色。立领。纽扣闭合方式。短袖",
-  "price": 275,
-  "discount": 0.56,
-  "brandID": "RMS10235S00401als",
-  "color": "black",
-  "sizeType": "UK",
-  "quantity": {
-    "39": 238,
-    "41": 65,
-    "40": 188
-  },
-  "type": "男士短袖衬衫",
-  "brandColor": "10",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Lanvin",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "UK",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "2.jpg"
     }
   ],
+  "description": "字母刺绣衬衫。黑色。立领。纽扣闭合方式。短袖",
   "tags": [
     "male",
     "blouse",
     "coat"
-  ]
+  ],
+  "quantity": {
+    "39": 39,
+    "40": 79,
+    "41": 73
+  },
+  "price": 275,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "10",
+  "type": "男士短袖衬衫",
+  "brandName": "Lanvin",
+  "brandID": "RMS10235S00401als",
+  "color": "black",
+  "discount": 0.56
 }

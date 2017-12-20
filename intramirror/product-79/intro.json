@@ -1,46 +1,46 @@
 {
-  "description": "单肩包华伦天奴 格拉瓦尼黑色，在前面的拉链口袋，前水平带，主拉链，肩带饰有可调节和可拆卸螺栓，绒面衬里，两个开放口袋，内部标签标识。高度：27 CM，高度：28 CM，深度：3 CM。100％小牛皮",
-  "price": 1100,
-  "discount": 0.62,
-  "color": "black",
-  "sizeType": "UK",
-  "quantity": {
-    "U": 100
-  },
-  "type": "男士单肩包",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Valentino Garavani",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "UK",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "3.jpg"
     }
   ],
+  "description": "单肩包华伦天奴 格拉瓦尼黑色，在前面的拉链口袋，前水平带，主拉链，肩带饰有可调节和可拆卸螺栓，绒面衬里，两个开放口袋，内部标签标识。高度：27 CM，高度：28 CM，深度：3 CM。100％小牛皮",
   "tags": [
     "male",
     "bag",
     "shoulder_bag"
-  ]
+  ],
+  "quantity": {
+    "U": 47
+  },
+  "price": 1100,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士单肩包",
+  "brandName": "Valentino Garavani",
+  "color": "black",
+  "discount": 0.62
 }

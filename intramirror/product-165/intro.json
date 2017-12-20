@@ -1,46 +1,46 @@
 {
-  "description": "来自Tory Burch的Leccio皮革迷你单肩包，正面饰有金色和圆形饰钉，磁扣盖，顶部提手，可拆卸和可调节肩带，两个内部隔层，卡片内部插槽以及品牌标识。",
-  "price": 365,
-  "discount": 0.62,
-  "color": "green",
-  "sizeType": "standard",
-  "quantity": {
-    "U": 32
-  },
-  "type": "女士单肩包",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Tory Burch",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "3.jpg"
     }
   ],
+  "description": "来自Tory Burch的Leccio皮革迷你单肩包，正面饰有金色和圆形饰钉，磁扣盖，顶部提手，可拆卸和可调节肩带，两个内部隔层，卡片内部插槽以及品牌标识。",
   "tags": [
     "female",
     "bag",
     "shoulder_bag"
-  ]
+  ],
+  "quantity": {
+    "U": 23
+  },
+  "price": 365,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士单肩包",
+  "brandName": "Tory Burch",
+  "color": "green",
+  "discount": 0.62
 }

@@ -22,5 +22,5 @@ def modify_quantity(input_folder, number_ceil):
 
 if __name__ == '__main__':
     input_folder = '.'
-    number_ceil = 300
+    number_ceil = 150
     modify_quantity(input_folder, number_ceil)

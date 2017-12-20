@@ -1,59 +1,59 @@
 {
-  "description": "Marni 深绿色 纯棉外套 黄色摁扣。侧袋，罗纹领口袖口和下摆。",
-  "price": 570,
-  "discount": 0.65,
-  "color": "green",
-  "sizeType": "Italy",
-  "quantity": {
-    "46": 70,
-    "48": 52
-  },
-  "type": "男士夹克外套",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Marni",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "right",
         "model",
         "side"
-      ]
+      ],
+      "name": "4.jpg"
     }
   ],
+  "description": "Marni 深绿色 纯棉外套 黄色摁扣。侧袋，罗纹领口袖口和下摆。",
   "tags": [
     "male",
     "coat",
     "jacket",
     "casual_clothes"
-  ]
+  ],
+  "quantity": {
+    "46": 38,
+    "48": 102
+  },
+  "price": 570,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士夹克外套",
+  "brandName": "Marni",
+  "color": "green",
+  "discount": 0.65
 }

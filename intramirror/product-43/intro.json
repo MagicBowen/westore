@@ -1,59 +1,59 @@
 {
-  "description": "Thom Browne 白色 全棉 条纹袖衬衫。表面 成分：棉 100%",
-  "price": 370,
-  "discount": 0.6,
-  "color": "white",
-  "sizeType": "America",
-  "quantity": {
-    "8": 241,
-    "4": 183,
-    "6": 190
-  },
-  "type": "男士衬衫",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Thom Browne",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "America",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "close-up",
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "4.jpg"
     }
   ],
+  "description": "Thom Browne 白色 全棉 条纹袖衬衫。表面 成分：棉 100%",
   "tags": [
     "male",
     "coat",
     "blouse"
-  ]
+  ],
+  "quantity": {
+    "4": 112,
+    "8": 35,
+    "6": 137
+  },
+  "price": 370,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士衬衫",
+  "brandName": "Thom Browne",
+  "color": "white",
+  "discount": 0.6
 }
