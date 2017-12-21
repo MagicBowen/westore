@@ -1,49 +1,49 @@
 {
-  "description": "Les Hommes 黑色纯棉运动裤，系腰带设计，前置两个口袋，后置贴袋，内有品牌标识，弹性松紧袖口，",
-  "price": 395,
-  "discount": 0.62,
-  "color": "black",
-  "sizeType": "standard",
-  "quantity": {
-    "S": 208,
-    "L": 131,
-    "M": 248
-  },
-  "type": "男士休闲裤",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Les Hommes",
-  "transport": {
-    "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "price",
         "close-up"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "3.jpg"
     }
   ],
+  "description": "Les Hommes 黑色纯棉运动裤，系腰带设计，前置两个口袋，后置贴袋，内有品牌标识，弹性松紧袖口，",
   "tags": [
     "male",
     "pants",
     "slacks"
-  ]
+  ],
+  "quantity": {
+    "L": 33,
+    "S": 137,
+    "M": 98
+  },
+  "price": 395,
+  "transport": {
+    "description": "1个工作日和买手店确认，周二、周四发货，发货后预计10个工作日到达目的地",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "男士休闲裤",
+  "brandName": "Les Hommes",
+  "color": "black",
+  "discount": 0.62
 }

@@ -1,41 +1,41 @@
 {
-  "description": "Givenchy 黑色 男士衬衫",
-  "price": 410,
-  "discount": 0.58,
-  "color": "black",
-  "sizeType": "UK",
-  "quantity": {
-    "41": 135,
-    "40": 4
-  },
-  "type": "男士衬衫",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Givenchy",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "UK",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     }
   ],
+  "description": "Givenchy 黑色 男士衬衫",
   "tags": [
     "male",
     "blouse"
-  ]
+  ],
+  "quantity": {
+    "41": 89,
+    "40": 72
+  },
+  "price": 410,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "男士衬衫",
+  "brandName": "Givenchy",
+  "color": "black",
+  "discount": 0.58
 }

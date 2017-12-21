@@ -1,55 +1,55 @@
 {
-  "description": "Max Mara 驼色 羊毛混纺 女士大衣。成分：57% 羊驼毛、成分：43% 羊毛",
-  "price": 2500,
-  "discount": 0.6,
-  "color": "caramel",
-  "sizeType": "Italy",
-  "quantity": {
-    "40": 222
-  },
-  "type": "大衣",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Max Mara",
-  "transport": {
-    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "front.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "front.jpg"
     },
     {
-      "name": "front-1.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "front-1.jpg"
     },
     {
-      "name": "back.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "back.jpg"
     },
     {
-      "name": "close-up.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "close-up.jpg"
     }
   ],
+  "description": "Max Mara 驼色 羊毛混纺 女士大衣。成分：57% 羊驼毛、成分：43% 羊毛",
   "tags": [
     "female",
     "coat",
     "overcoat",
     "loose_coat"
-  ]
+  ],
+  "quantity": {
+    "40": 31
+  },
+  "price": 2500,
+  "transport": {
+    "description": "1个工作日内买手店在确认，每周二、四发货，发货后预计10个工作日左右到目的地。如遇节假日及海关抽检有可能会延长",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "大衣",
+  "brandName": "Max Mara",
+  "color": "caramel",
+  "discount": 0.6
 }

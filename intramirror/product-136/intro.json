@@ -1,62 +1,62 @@
 {
-  "description": "Balmain（巴尔曼）蓝色 初剪羊毛与棉质混纺 双排扣西装夹克。尖翻领，正面纽扣，两个正面盖袋，长袖，搭扣袖口。衬里 成分：纤维胶 52%、衬里 成分：棉 48％、表面 成分：初剪羊毛 100%、洗涤说明：专人洗涤。",
-  "price": 1594,
-  "discount": 0.52,
-  "color": "blue",
-  "sizeType": "Italy",
-  "quantity": {
-    "40": 62
-  },
-  "type": "女士西装夹克",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Balmain",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "5.jpg"
     }
   ],
+  "description": "Balmain（巴尔曼）蓝色 初剪羊毛与棉质混纺 双排扣西装夹克。尖翻领，正面纽扣，两个正面盖袋，长袖，搭扣袖口。衬里 成分：纤维胶 52%、衬里 成分：棉 48％、表面 成分：初剪羊毛 100%、洗涤说明：专人洗涤。",
   "tags": [
     "female",
     "coat",
     "suit",
     "jacket"
-  ]
+  ],
+  "quantity": {
+    "40": 20
+  },
+  "price": 1594,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士西装夹克",
+  "brandName": "Balmain",
+  "color": "blue",
+  "discount": 0.52
 }

@@ -1,63 +1,63 @@
 {
-  "description": "Marni向来以创新的灵感诠释时尚潮流，如今也不例外，在坚守创办人Consuelo Castiglioni的美学的同时，运用不拘一格的廓形、五零年代式印花和给嘞皮草打造具个人特色的时装系列。Marni（玛尼）蓝色 初剪羊毛混纺 七分阔腿裤。隐藏式正面开合，下摆上翻，折痕，短款，阔腿。成分：涤纶 62%、成分：初剪羊毛 38%、洗涤说明：干洗",
-  "price": 491,
-  "discount": 0.44,
-  "color": "blue",
-  "sizeType": "Italy",
-  "quantity": {
-    "38": 266
-  },
-  "type": "女士七分阔腿裤",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Marni",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "back",
         "model"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "front",
         "model"
-      ]
+      ],
+      "name": "5.jpg"
     }
   ],
+  "description": "Marni向来以创新的灵感诠释时尚潮流，如今也不例外，在坚守创办人Consuelo Castiglioni的美学的同时，运用不拘一格的廓形、五零年代式印花和给嘞皮草打造具个人特色的时装系列。Marni（玛尼）蓝色 初剪羊毛混纺 七分阔腿裤。隐藏式正面开合，下摆上翻，折痕，短款，阔腿。成分：涤纶 62%、成分：初剪羊毛 38%、洗涤说明：干洗",
   "tags": [
     "female",
     "pants",
     "slacks",
     "cropped_trousers"
-  ]
+  ],
+  "quantity": {
+    "38": 131
+  },
+  "price": 491,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士七分阔腿裤",
+  "brandName": "Marni",
+  "color": "blue",
+  "discount": 0.44
 }

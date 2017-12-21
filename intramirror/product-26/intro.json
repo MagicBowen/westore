@@ -1,55 +1,55 @@
 {
-  "description": "Chloe 棕色 真皮款女士手提包。表面 成分：100% 牛皮 衬里 成分：100% 涤纶",
-  "price": 1190,
-  "discount": 0.73,
-  "brandID": "C17WS331HGP208",
-  "color": "brown",
-  "sizeType": "UK",
-  "quantity": {
-    "U": 172
-  },
-  "type": "女士手提包",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Chloe",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "UK",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "close-up",
         "inner"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "right",
         "side"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "4.jpg"
     }
   ],
+  "description": "Chloe 棕色 真皮款女士手提包。表面 成分：100% 牛皮 衬里 成分：100% 涤纶",
   "tags": [
     "female",
     "bag",
     "handbag"
-  ]
+  ],
+  "quantity": {
+    "U": 82
+  },
+  "price": 1190,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "type": "女士手提包",
+  "brandName": "Chloe",
+  "brandID": "C17WS331HGP208",
+  "color": "brown",
+  "discount": 0.73
 }

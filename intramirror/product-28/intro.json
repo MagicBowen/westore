@@ -1,57 +1,57 @@
 {
-  "description": "Bottega Veneta 女士 手提包。真皮编制，金属提链",
-  "price": 2800,
-  "discount": 0.73,
-  "brandID": "386498/VCB10",
-  "color": "black",
-  "sizeType": "standard",
-  "quantity": {
-    "U": 41
-  },
-  "type": "女士编制手提包",
-  "brandColor": "1000",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Bottega Veneta",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front",
         "side"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "close-up",
         "top",
         "inner"
-      ]
+      ],
+      "name": "4.jpg"
     }
   ],
+  "description": "Bottega Veneta 女士 手提包。真皮编制，金属提链",
   "tags": [
     "female",
     "bag",
     "handbag"
-  ]
+  ],
+  "quantity": {
+    "U": 15
+  },
+  "price": 2800,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "1000",
+  "type": "女士编制手提包",
+  "brandName": "Bottega Veneta",
+  "brandID": "386498/VCB10",
+  "color": "black",
+  "discount": 0.73
 }

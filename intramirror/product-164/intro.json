@@ -1,47 +1,47 @@
 {
-  "description": "Emilio Pucci黑色真丝衬衫，经典脖子，正面纽扣开合，长袖袖扣，标签内的品牌标志。",
-  "price": 780,
-  "discount": 0.56,
-  "color": "black",
-  "sizeType": "Italy",
-  "quantity": {
-    "44": 52
-  },
-  "type": "女士衬衫",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Emilio Pucci",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "close-up"
-      ]
+      ],
+      "name": "3.jpg"
     }
   ],
+  "description": "Emilio Pucci黑色真丝衬衫，经典脖子，正面纽扣开合，长袖袖扣，标签内的品牌标志。",
   "tags": [
     "female",
     "coat",
     "blouse",
     "shirt"
-  ]
+  ],
+  "quantity": {
+    "44": 108
+  },
+  "price": 780,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士衬衫",
+  "brandName": "Emilio Pucci",
+  "color": "black",
+  "discount": 0.56
 }

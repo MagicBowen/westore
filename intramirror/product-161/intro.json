@@ -1,46 +1,46 @@
 {
-  "description": "Emilio Pucci 蓝色、棕色与黑色 荷叶运动鞋。拼色设计，圆头，穿套式，后置提鞋环，荷叶边饰，漆皮，弹性带，白色橡胶质鞋底。",
-  "price": 1381,
-  "discount": 0.6,
-  "color": "multicolor",
-  "sizeType": "Italy",
-  "quantity": {
-    "35": 42,
-    "36": 45,
-    "38": 46,
-    "39": 43,
-    "40": 82,
-    "41": 72
-  },
-  "type": "女士运动鞋",
-  "currency": "EUR",
   "typeId": null,
-  "brandName": "Emilio Pucci",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 14,
-      "max": 19
-    }
-  },
+  "sizeType": "Italy",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "right",
         "side"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "2.jpg"
     }
   ],
+  "description": "Emilio Pucci 蓝色、棕色与黑色 荷叶运动鞋。拼色设计，圆头，穿套式，后置提鞋环，荷叶边饰，漆皮，弹性带，白色橡胶质鞋底。",
   "tags": [
     "female",
     "shoes",
     "sneakers"
-  ]
+  ],
+  "quantity": {
+    "38": 2,
+    "39": 143,
+    "36": 30,
+    "40": 133,
+    "41": 28,
+    "35": 10
+  },
+  "price": 1381,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，确认后2-5个工作日发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士运动鞋",
+  "brandName": "Emilio Pucci",
+  "color": "multicolor",
+  "discount": 0.6
 }

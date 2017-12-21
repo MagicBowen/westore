@@ -1,94 +1,94 @@
 {
-  "description": "翻盖饰有摁扣，可拆卸可调肩带，顶部有一个手柄，内置拉链口袋。商品尺寸 带长：67cm、深度：13cm、手柄：11cm、宽度：28cm、高度：28 cm。表面成分：小牛皮100%、衬里 成分：涤纶100%",
-  "price": 2390,
-  "discount": 0.62,
-  "brandID": "S61WG0011SY0767",
-  "color": "green",
-  "sizeType": "standard",
-  "quantity": {
-    "U": 41
-  },
-  "type": "马鞍包",
-  "brandColor": "615",
-  "currency": "EUR",
   "typeId": "bag-1",
-  "brandName": "Maison Margiela",
-  "transport": {
-    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
-    "duration": {
-      "min": 15,
-      "max": 19
-    }
-  },
+  "sizeType": "standard",
+  "currency": "EUR",
   "pictures": [
     {
-      "name": "1.jpg",
       "tags": [
         "front"
-      ]
+      ],
+      "name": "1.jpg"
     },
     {
-      "name": "2.jpg",
       "tags": [
         "back",
         "scene"
-      ]
+      ],
+      "name": "2.jpg"
     },
     {
-      "name": "3.jpg",
       "tags": [
         "front",
         "scene"
-      ]
+      ],
+      "name": "3.jpg"
     },
     {
-      "name": "4.jpg",
       "tags": [
         "left",
         "scene",
         "side"
-      ]
+      ],
+      "name": "4.jpg"
     },
     {
-      "name": "5.jpg",
       "tags": [
         "top",
         "scene"
-      ]
+      ],
+      "name": "5.jpg"
     },
     {
-      "name": "6.jpg",
       "tags": [
         "top",
         "scene",
         "inner"
-      ]
+      ],
+      "name": "6.jpg"
     },
     {
-      "name": "7.jpg",
       "tags": [
         "price"
-      ]
+      ],
+      "name": "7.jpg"
     },
     {
-      "name": "8.jpg",
       "tags": [
         "model",
         "front"
-      ]
+      ],
+      "name": "8.jpg"
     },
     {
-      "name": "9.jpg",
       "tags": [
         "model",
         "front"
-      ]
+      ],
+      "name": "9.jpg"
     }
   ],
+  "description": "翻盖饰有摁扣，可拆卸可调肩带，顶部有一个手柄，内置拉链口袋。商品尺寸 带长：67cm、深度：13cm、手柄：11cm、宽度：28cm、高度：28 cm。表面成分：小牛皮100%、衬里 成分：涤纶100%",
   "tags": [
     "female",
     "bag",
     "handbag",
     "shoulder_bag"
-  ]
+  ],
+  "quantity": {
+    "U": 26
+  },
+  "price": 2390,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "615",
+  "type": "马鞍包",
+  "brandName": "Maison Margiela",
+  "brandID": "S61WG0011SY0767",
+  "color": "green",
+  "discount": 0.62
 }
