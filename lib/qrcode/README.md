@@ -35,7 +35,7 @@ tar -zvxf zbar-0.10.tar.gz
 sudo apt-get install libqt4-dev
 apt-get install python-gtk2-dev
 apt-get install imagemagick libmagickwand-dev
-cd zbar-0.1
+cd zbar-0.10
 export CFLAGS=""
 ./configure
 make
