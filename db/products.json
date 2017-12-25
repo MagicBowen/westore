@@ -2337,7 +2337,7 @@
       ],
       "description": "Balmain（巴尔曼）黑色 全棉 合身针织上衣。圆领，长袖，合身廓形，正面标贴，搭扣肩。成分：棉 100%、洗涤说明：机洗",
       "tags": [
-        "female",
+        "male",
         "coat",
         "tshirt"
       ],
@@ -9709,7 +9709,7 @@
       },
       "type": "男士长裤",
       "brandName": "Dolce & Gabbana",
-      "color": "black",
+      "color": "grey",
       "discount": 0.44,
       "id": "product-70"
     },
@@ -9782,7 +9782,7 @@
       },
       "type": "男士长裤",
       "brandName": "Dolce & Gabbana",
-      "color": "grey",
+      "color": "black",
       "discount": 0.44,
       "id": "product-71"
     },
