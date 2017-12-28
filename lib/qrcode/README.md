@@ -37,7 +37,7 @@ apt-get install python-gtk2-dev
 apt-get install imagemagick libmagickwand-dev
 cd zbar-0.10
 export CFLAGS=""
-./configure
+./configure --disable-video
 make
 make install
 pip3 install zbarlight
