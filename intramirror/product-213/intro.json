@@ -1,0 +1,72 @@
+{
+  "typeId": null,
+  "sizeType": "UK",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "left",
+        "side",
+        "front",
+        "model"
+      ],
+      "name": "4.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "model"
+      ],
+      "name": "5.jpg"
+    }
+  ],
+  "description": "Rta 黑色 棉质混纺 Edie迷你修身连衣裙。成分：涤纶 40%、成分：棉 60%、成分：Sequin 100%。",
+  "tags": [
+    "female",
+    "dress",
+    "skirt",
+    "package_hip"
+  ],
+  "quantity": {
+    "4": 20,
+    "6": 25,
+    "8": 42,
+    "10": 51,
+    "12": 72,
+    "14": 52
+  },
+  "price": 785,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "0NO",
+  "type": "女士迷你连衣裙",
+  "brandName": "Rta",
+  "brandID": "NW0S0E70XRL",
+  "color": "black",
+  "discount": 0.62
+}

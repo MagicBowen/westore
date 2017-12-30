@@ -1,0 +1,90 @@
+{
+  "typeId": null,
+  "sizeType": "China",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "right",
+        "side"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "right",
+        "side"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "top",
+        "scene"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "right",
+        "side",
+        "scene"
+      ],
+      "name": "4.jpg"
+    },
+    {
+      "tags": [
+        "left",
+        "side",
+        "scene"
+      ],
+      "name": "5.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "scene"
+      ],
+      "name": "6.jpg"
+    },
+    {
+      "tags": [
+        "bottom",
+        "scene"
+      ],
+      "name": "7.jpg"
+    },
+    {
+      "tags": [
+        "top",
+        "scene",
+        "price"
+      ],
+      "name": "8.jpg"
+    }
+  ],
+  "description": "Valentino 黑色 绒面皮与牛皮 Valentino Garavani Rockstud高跟鞋。尖头。露跟设计，鞋垫饰有品牌标识，rockstud镶嵌，多带设计，搭扣踝带，细高跟。商品尺寸 Heel：11 cm， Circumference：24 cm。衬里 成分：牛皮 100%、鞋底 成分：牛皮 100%、表面 成分：绒面皮 100%",
+  "tags": [
+    "female",
+    "shoes",
+    "high_heel_shoes",
+    "leather_shoes"
+  ],
+  "quantity": {
+    "36.5": 132
+  },
+  "price": 720,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "0NO",
+  "type": "女士高跟鞋",
+  "brandName": "Valentino",
+  "brandID": "NW0S0E70XRL",
+  "color": "black",
+  "discount": 0.6
+}

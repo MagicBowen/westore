@@ -1,0 +1,80 @@
+{
+  "typeId": null,
+  "sizeType": "standard",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "right",
+        "side",
+        "model"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "side",
+        "right",
+        "model"
+      ],
+      "name": "4.jpg"
+    },
+    {
+      "tags": [
+        "side",
+        "left",
+        "model"
+      ],
+      "name": "5.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "model"
+      ],
+      "name": "6.jpg"
+    },
+    {
+      "tags": [
+        "close-up"
+      ],
+      "name": "7.jpg"
+    }
+  ],
+  "description": "Balmain（巴尔曼）黑色 丝绸混纺 孔眼饰边连衣裙。深v领,银色五金配件，长袖，收腰设计，平直下派。表面 成分：氨纶（弹性纤维） 3%、表面 成分：纤维胶 77%、衬里 成分：聚酰胺 100%、表面 成分：丝绸 20%、表面 成分：铝 100%、洗涤说明：专人洗涤",
+  "tags": [
+    "female",
+    "dress",
+    "skirt",
+    "package_hip"
+  ],
+  "quantity": {
+    "36": 39
+  },
+  "price": 1864,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士连衣裙",
+  "brandName": "Balmain",
+  "brandID": "17H1401SM2MIRLG.710",
+  "color": "black",
+  "discount": 0.53
+}

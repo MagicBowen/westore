@@ -1,0 +1,101 @@
+{
+  "typeId": "457752",
+  "sizeType": "China",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "right",
+        "side"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "right",
+        "side"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "top",
+        "scene"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "right",
+        "side",
+        "scene"
+      ],
+      "name": "4.jpg"
+    },
+    {
+      "tags": [
+        "left",
+        "side",
+        "scene"
+      ],
+      "name": "5.jpg"
+    },
+    {
+      "tags": [
+        "close-up",
+        "scene"
+      ],
+      "name": "6.jpg"
+    },
+    {
+      "tags": [
+        "bottom",
+        "scene"
+      ],
+      "name": "7.jpg"
+    },
+    {
+      "tags": [
+        "scene",
+        "price"
+      ],
+      "name": "8.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "price"
+      ],
+      "name": "9.jpg"
+    }
+  ],
+  "description": "Saint Laurent（圣罗兰）绿色 漆皮。牛皮 Classic Tribute高跟凉鞋。鱼嘴头，厚鞋底，鞋垫饰有品牌浮雕，正面有t字形鞋带，搭扣踝带，细高跟。商品尺寸：跟高：14 cm，表面 成分：牛皮 100%、衬里 成分：牛皮 100%、鞋底 成分：牛皮 100%。",
+  "tags": [
+    "female",
+    "shoes",
+    "high_heel_shoes",
+    "leather_shoes"
+  ],
+  "quantity": {
+    "36": 16,
+    "36.5": 12,
+    "37.5": 42,
+    "38": 51,
+    "38.5": 72,
+    "39.5": 52
+  },
+  "price": 695,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "0NO",
+  "type": "女士高跟鞋",
+  "brandName": "Saint Laurent",
+  "brandID": "NW0S0E70XRL",
+  "color": "green",
+  "discount": 0.57
+}

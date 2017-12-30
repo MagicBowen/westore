@@ -1,0 +1,72 @@
+{
+  "typeId": null,
+  "sizeType": "Italy",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "scene"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "scene"
+      ],
+      "name": "4.jpg"
+    },
+    {
+      "tags": [
+        "close-up",
+        "scene"
+      ],
+      "name": "5.jpg"
+    },
+    {
+      "tags": [
+        "price"
+      ],
+      "name": "6.jpg"
+    }
+  ],
+  "description": "Clavin Klein 蓝色 全棉 迷你牛仔半身裙。表面 成分：棉 100%",
+  "tags": [
+    "female",
+    "dress",
+    "short_skirt",
+    "package_hip"
+  ],
+  "quantity": {
+    "38": 39,
+    "40": 26,
+    "42": 98
+  },
+  "price": 250,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士牛仔半身裙",
+  "brandName": "Calvin Klien",
+  "brandID": "17H1401SM2MIRLG.710",
+  "color": "blue",
+  "discount": 0.6
+}

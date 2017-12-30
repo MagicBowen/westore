@@ -1,0 +1,62 @@
+{
+  "typeId": "500448",
+  "sizeType": "pants_standard",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "front",
+        "model"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "front",
+        "left",
+        "side",
+        "model"
+      ],
+      "name": "2.jpg"
+    },
+    {
+      "tags": [
+        "back",
+        "model"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "front"
+      ],
+      "name": "4.jpg"
+    }
+  ],
+  "description": "Sain Laurent 弹力牛仔裤，带折边和五袋口袋。中洗紧身裤。模特身高177cm，穿26号",
+  "tags": [
+    "female",
+    "pants",
+    "jeans"
+  ],
+  "quantity": {
+    "25": 39,
+    "26": 34,
+    "27": 50,
+    "28": 32,
+    "29": 40
+  },
+  "price": 290,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 14
+    }
+  },
+  "type": "女士牛仔裤",
+  "brandName": "Saint Laurent",
+  "brandID": "17H1401SM2MIRLG.710",
+  "color": "blue",
+  "discount": 0.65
+}

@@ -1,0 +1,57 @@
+{
+  "typeId": null,
+  "sizeType": "America",
+  "currency": "EUR",
+  "pictures": [
+    {
+      "tags": [
+        "right",
+        "side"
+      ],
+      "name": "1.jpg"
+    },
+    {
+      "tags": [
+        "left",
+        "side",
+        "back"
+      ],
+      "name": "3.jpg"
+    },
+    {
+      "tags": [
+        "top"
+      ],
+      "name": "2.jpg"
+    }
+  ],
+  "description": "Salvatore Ferragamo 红色真皮高跟鞋。",
+  "tags": [
+    "female",
+    "shoes",
+    "high_heel_shoes",
+    "leather_shoes"
+  ],
+  "quantity": {
+    "5": 121,
+    "5.5": 100,
+    "6": 118,
+    "7": 76,
+    "8.5": 96,
+    "9.5": 137
+  },
+  "price": 490,
+  "transport": {
+    "description": "此商品1个工作日内买手店APP上进行确认，并于每周二、四发货，发货后预计10个工作日左右能到目的地。如遇节假日及海关地检有可能会相应延长（APP会出相应公告）",
+    "duration": {
+      "max": 19,
+      "min": 15
+    }
+  },
+  "brandColor": "0NO",
+  "type": "女士高跟鞋",
+  "brandName": "Salvatore Ferragamo",
+  "brandID": "NW0S0E70XRL",
+  "color": "red",
+  "discount": 0.53
+}
