@@ -1,6 +1,6 @@
 {
   "typeId": null,
-  "sizeType": "pants_standard",
+  "sizeType": "standard",
   "currency": "EUR",
   "pictures": [
     {
@@ -39,7 +39,7 @@
       "name": "5.jpg"
     }
   ],
-  "description": "Off-White 灰色 棉质混纺 Diag侧条纹紧身牛仔裤。系腰带袢腰边，隐藏式正面开合，五口袋设计，标志印花，超窄腿，一般长度。衬里 成分：棉 100%、表面 成分：尼龙 60%、表面 成分：涤纶 40%、表面 成分：棉 98%、表面 成分：氨纶（弹性纤维）2%。",
+  "description": "棉质混纺 Diag侧条纹紧身牛仔裤。系腰带袢腰边，隐藏式正面开合，五口袋设计，标志印花，超窄腿，一般长度。衬里 成分：棉 100%、表面 成分：尼龙 60%、表面 成分：涤纶 40%、表面 成分：棉 98%、表面 成分：氨纶（弹性纤维）2%。",
   "tags": [
     "female",
     "pants",
@@ -58,7 +58,7 @@
     }
   },
   "type": "女士牛仔裤",
-  "brandName": "Off-White",
+  "brandName": "Off White",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "grey",
   "discount": 0.45
