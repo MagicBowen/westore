@@ -43,5 +43,23 @@
   "type": "女士大衣",
   "brandName": "Tory Burch",
   "color": "brown",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "lepal",
+    "season": "winter",
+    "closure": {
+      "style":"hook",
+      "position": "front"
+    },
+    "composition":
+    {
+      "fur": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

@@ -37,5 +37,18 @@
   "type": "女士连衣裙",
   "brandName": "Federica Tosi",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "half",
+    "collar": "normal",
+    "season": "spring_summer",
+    "closure": null,
+    "composition":{
+      "surface": {
+        "virgin_wool": 1
+      },
+      "lining": null
+    } 
+  }
 }

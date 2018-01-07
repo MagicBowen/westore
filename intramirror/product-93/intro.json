@@ -46,5 +46,32 @@
   "type": "男士板鞋",
   "brandName": "Marcelo Burlon",
   "color": "black",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "polyester": 1
+      },
+      "lining": {
+        "polyester": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "thick",
+      "height": 2
+    },
+    "height":"low",
+    "tip": "round",
+    "closure": "shoelace",
+    "design_elements": 
+    [
+    ]
+  }    
 }

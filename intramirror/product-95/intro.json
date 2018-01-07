@@ -68,5 +68,32 @@
   "type": "女士厚底鞋",
   "brandName": "Stella McCartney",
   "color": "black",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "artificial_leather": 1
+      },
+      "lining": {
+        "artificial_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "platform",
+      "height": 8
+    },
+    "height":"low",
+    "tip": "square",
+    "closure": "shoelace",
+    "design_elements": 
+    [
+    ]
+  }    
 }

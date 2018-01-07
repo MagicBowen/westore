@@ -35,8 +35,24 @@
       "min": 15
     }
   },
-  "type": "丝绒阔腿裤",
+  "type": "Federica Tosi 绿色 丝绸混纺 丝绒阔腿裤。成分：纤维胶 82% 成分：丝绸 18 洗涤说明：干洗",
   "brandName": "Federica Tosi",
   "color": "green",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications":
+  {
+    "composition": 
+    {
+      "fiber_glue": 0.82,
+      "silk": 0.18
+    },
+    "wash": "dry_clean",
+    "season": "spring",
+    "waist": "elastic",
+    "design_elements": 
+    [
+      "wide_leg"
+
+    ]
+  }
 }

@@ -58,5 +58,25 @@
   "brandName": "Saint Laurent",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "grey",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 0.98,
+        "elastane": 0.02    
+      },
+      "lining": null
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "skinny"
+    },
+    "waist":"belt",
+    "closure": "button_zip",
+    "wash": "machine"
+  }
 }

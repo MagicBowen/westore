@@ -88,5 +88,35 @@
   "type": "女士斜挎包",
   "brandName": "Emilio Pucci",
   "color": "black",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 7,
+      "width": 20,
+      "height": 15,
+      "strap": 62,
+      "handle":null
+    },
+    "closure": "zip",
+    "strap":
+    [
+      "adjustable",
+      "removable"
+    ],
+    "design_elements":
+    [
+
+    ]
+
+  }
 }

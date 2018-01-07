@@ -46,5 +46,20 @@
   "type": "男士外套",
   "brandName": "Valentino",
   "color": "black",
-  "discount": 0.48
+  "discount": 0.48,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "vertical",
+    "season": "autumn_winter",
+    "closure": "zip",
+    "composition":{
+      "surface": {
+        "polyester": 1,
+        "mohair": 0.6,
+        "virgin_wool":0.4
+      },
+      "lining": null
+    } 
+  }
 }

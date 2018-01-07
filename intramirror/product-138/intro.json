@@ -53,5 +53,24 @@
   "type": "女士上衣",
   "brandName": "Sportmax",
   "color": "red",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "circle",
+    "season": "spring_autumn",
+    "closure": 
+    {
+      "style":"zip",
+      "position":"back"
+    },
+    "composition":
+    {
+      "silk": 1
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

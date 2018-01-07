@@ -53,5 +53,32 @@
   "brandName": "Salvatore Ferragamo",
   "brandID": "NW0S0E70XRL",
   "color": "red",
-  "discount": 0.53
+  "discount": 0.53,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "leather": 1
+      },
+      "lining": {
+        "leather": 1
+      },
+      "sole": {
+        "leather": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "thick",
+      "height": 9
+    },
+    "height":"low",
+    "tip": "round",
+    "closure": "pullover",
+    "design_elements": 
+    [
+    ]
+  }
 }

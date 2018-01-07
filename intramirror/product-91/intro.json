@@ -31,7 +31,7 @@
       "name": "4.jpg"
     }
   ],
-  "description": "Lidfort 褐色 牛皮 杏仁形鞋尖及裸靴。以41码为参考，商品尺寸 Heel：3 cm Circumference：25 cm Height：14 cm。表面 成分：牛皮 100% 衬里 成分：牛皮 100% 鞋底 成分：牛皮 100%",
+  "description": "Lidfort 褐色 牛皮 杏仁形鞋尖及踝靴。以41码为参考，商品尺寸 Heel：3 cm Circumference：25 cm Height：14 cm。表面 成分：牛皮 100% 衬里 成分：牛皮 100% 鞋底 成分：牛皮 100%",
   "tags": [
     "male",
     "shoes",
@@ -54,5 +54,32 @@
   "type": "男士靴子",
   "brandName": "Lidfort",
   "color": "brown",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "calf": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "thick",
+      "height": 2
+    },
+    "height":"ankle",
+    "tip": "almond",
+    "closure": "zip",
+    "design_elements": 
+    [
+    ]
+  }    
 }

@@ -59,5 +59,25 @@
   "brandName": "Blue De Bleu",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "black",
-  "discount": 0.45
+  "discount": 0.45,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 0.98,
+        "elastane": 0.02    
+      },
+      "lining": null
+    },
+    "leg":
+    {
+      "length": "ankle",
+      "style": "straight"
+    },
+    "waist":"belt",
+    "closure": "button_zip",
+    "wash": "hand_wash"
+  }    
 }

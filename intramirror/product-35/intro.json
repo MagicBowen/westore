@@ -64,5 +64,26 @@
   "brandName": "Burberry",
   "brandID": "4059500SANDRINGHAM",
   "color": "blue",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "autumn_winter",
+    "composition":
+    {
+      "surface":
+      {
+        "cow_leather": 1,
+        "wool": 0.8,
+        "polyamide": 0.2
+      },
+      "lining": null
+    },
+    "closure": "button",
+    "design_elements":
+    [
+      "hooded"
+    ]
+  }  
 }

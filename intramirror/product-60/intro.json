@@ -56,5 +56,18 @@
   "type": "男士夹克",
   "brandName": "Calvin Klein",
   "color": "black",
-  "discount": 0.48
+  "discount": 0.48,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "round",
+    "season": "autumn_winter",
+    "closure": "zip",
+    "composition":{
+      "surface": {
+        "nylong": 1
+      },
+      "lining": null
+    } 
+  }
 }

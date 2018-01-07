@@ -56,5 +56,18 @@
   "type": "女士长裤",
   "brandName": "Sportmax",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "polyester": 1
+    },
+    "leg":
+    {
+      "length": "long"
+    },
+    "waist":"drawstring",
+    "wash": "machine"
+  }    
 }

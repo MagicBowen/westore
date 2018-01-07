@@ -17,7 +17,7 @@
       "name": "2.jpg"
     }
   ],
-  "description": "成分：绒毛皮 100%，羊毛 65%；洗涤方式：干洗",
+  "description": "成分：绒面皮 100%，羊毛 65%；洗涤方式：干洗",
   "tags": [
     "female",
     "sweater",
@@ -38,5 +38,22 @@
   "type": "高领纯色毛衣",
   "brandName": "Maison Margiela",
   "color": "red",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "high",
+    "season": "autumn_winter",
+    "closure": "pullover",
+    "composition":{
+      "surface": {
+        "wool": 0.65,
+        "nylon": 0.35
+      },
+      "lining": {
+        "suede": 1
+      }
+    } 
+
+  }
 }

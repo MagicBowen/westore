@@ -51,5 +51,23 @@
   "type": "女士裙子",
   "brandName": "Fendi",
   "color": "beige",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "mid_calf",
+    "season": "summer",
+    "waist": "drawstring",
+    "closure": "none",
+    "composition":
+    {
+      "surface": {
+        "polyester": 1
+      },
+      "lining": null
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

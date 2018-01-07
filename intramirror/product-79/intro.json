@@ -42,5 +42,28 @@
   "type": "男士单肩包",
   "brandName": "Valentino Garavani",
   "color": "black",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 3,
+      "width": 27,
+      "height": 28,
+      "strap": "variable",
+      "handle": null
+    },
+    "closure": "zip",
+    "design_elements":
+    [
+    ]
+  }
 }

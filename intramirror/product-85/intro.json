@@ -58,5 +58,38 @@
   "type": "男士背包",
   "brandName": "Dolce & Gabbana",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "nylon": 0.12,
+        "acrylic": 0.07,
+        "calf": 0.15,
+        "polyamide": 0.60,
+        "polypropylene": 0.06
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 15,
+      "width": 30,
+      "height": 40,
+      "strap": 32,
+      "handle": 6
+    },
+    "closure": "zip",
+    "strap":
+    [
+      "adjustable"
+    ],
+    "design_elements":
+    [
+
+    ]
+
+  }
 }

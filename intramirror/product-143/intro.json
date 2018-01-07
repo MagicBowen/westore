@@ -58,5 +58,23 @@
   "type": "女士牛仔大衣",
   "brandName": "Marni",
   "color": "blue",
-  "discount": 0.48
+  "discount": 0.48,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "spandex": 0.03,
+        "fiber": 0.72,
+        "polyester": 0.25
+      },
+      "lining": null
+    },
+    "length":"long",
+    "wash": "machine",
+    "collar": "normal",
+    "sleeves": "long",
+    "season": "autumn"
+  }  
 }

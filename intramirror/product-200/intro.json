@@ -78,5 +78,25 @@
   "brandName": "Dsquared2",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "blue",
-  "discount": 0.51
+  "discount": 0.51,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 0.98,
+        "elastane": 0.02    
+      },
+      "lining": null
+    },
+    "leg":
+    {
+      "length": "three_quarter",
+      "style": "straight"
+    },
+    "waist":"belt",
+    "closure": "button_zip",
+    "wash": "machine"
+  }    
 }

@@ -57,5 +57,29 @@
   "type": "男士手拿包",
   "brandName": "Dolce & Gabbana",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "nylon": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 12,
+      "width": 37,
+      "height": 26,
+      "strap": "variable",
+      "handle": null
+    },
+    "closure": "zip",
+    "design_elements":
+    [
+    ]
+
+  }
 }

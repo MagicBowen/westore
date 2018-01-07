@@ -71,5 +71,27 @@
   "type": "女士半身裙",
   "brandName": "Balmain",
   "color": "black_white",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "spandex": 0.03,
+        "fiber": 0.72,
+        "polyester": 0.25
+      },
+      "lining": null
+    },
+    "length":"mini",
+    "wash": "dry_clean",
+    "season": "summer",
+    "waist":
+    [
+      "normal", 
+      "elastic"
+    ],
+    "hem": "skinny"
+  }    
 }

@@ -54,5 +54,29 @@
   "type": "女士裙装",
   "brandName": "Sportmax",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "silk": 1
+      },
+      "lining": null
+    },
+    "length":"mid_calf",
+    "wash": "dry_clean",
+    "season": "summer",
+    "waist":
+    [
+      "normal", 
+      "none"
+    ],
+    "hem": "slant",
+    "closure":{
+      "style": "zip",
+      "position": "side"
+    }
+  }    
 }

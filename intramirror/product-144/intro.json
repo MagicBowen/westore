@@ -36,5 +36,27 @@
   "type": "女士裙子",
   "brandName": "Marni",
   "color": "brown",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "spandex": 0.03,
+        "fiber": 0.72,
+        "polyester": 0.25
+      },
+      "lining": null
+    },
+    "length":"mid_long",
+    "wash": "dry_clean",
+    "waist": "none",
+    "closure":{
+      "style": "zip",
+      "position": "back"
+    },
+    "season": "summer",
+    "hem": "slant"
+  }  
 }

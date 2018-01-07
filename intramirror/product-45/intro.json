@@ -61,5 +61,20 @@
   "type": "男士衬衫",
   "brandName": "Prada",
   "color": "white",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": 
+  {
+    "wash": "hand_wash",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "spring_summer",
+    "closure": "button",
+    "composition":
+    {
+      "cotton": 1
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

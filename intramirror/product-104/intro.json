@@ -69,5 +69,20 @@
   "type": "女士紧身机车打底裤",
   "brandName": "Fendi",
   "color": "blue",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "composition":
+    {
+      "small_sheepskin": 1
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "narrow"
+    },
+    "waist":"none",
+    "closure": "zip",
+    "wash": "special_clean"  
+  }    
 }

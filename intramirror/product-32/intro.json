@@ -93,5 +93,28 @@
   "brandName": "Valentino Garavani",
   "brandID": "NW2B0053UVC",
   "color": "ivory",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 6,
+      "width": 27,
+      "height": 17,
+      "strap": 45,
+      "handle": null
+    },
+    "closure": "flip",
+    "design_elements":[
+    ]
+
+  }
 }

@@ -39,5 +39,21 @@
   "type": "男士夹克外套",
   "brandName": "Dolce & Gabbana",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "special_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "autumn_winter",
+    "closure": "zip",
+    "composition":
+    {
+      "surface":
+      {
+        "leather": 1
+      },
+      "lining": null
+    }
+  }
 }

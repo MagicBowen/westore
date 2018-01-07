@@ -59,5 +59,20 @@
   "type": "女士衬衫",
   "brandName": "Equipment",
   "color": "white",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"long",
+    "collar": "retain_ring",
+    "season": "spring_summer",
+    "closure": "pullover",
+    "composition":
+    {
+      "silk": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

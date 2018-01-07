@@ -38,7 +38,7 @@
       "name": "5.jpg"
     }
   ],
-  "description": "小羊皮斜挎包。带磁扣的前翻盖。 2个内舱。内部拉链口袋。 2个内部滑袋。链条和皮革肩带。宽度：22厘米高度：14厘米深度：5.5厘米表带：110厘米。标志位置：正面有金属标志。 100％，皮革。包装：醋酸盐。颜色：黑色。",
+  "description": "小羊皮斜挎包。带磁扣的前翻盖。 2个内舱。内部拉链口袋。 2个内部滑袋。链条和皮革肩带。宽度：22厘米 高度：14厘米 深度：5.5厘米 包带：110厘米。标志位置：正面有金属标志。 100％，皮革。包装：醋酸盐。颜色：黑色。",
   "tags": [
     "female",
     "bag",
@@ -60,5 +60,28 @@
   "type": "女士挎包",
   "brandName": "Lanvin",
   "color": "black",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "small_sheepskin": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 20,
+      "width": 22,
+      "height": 5.5,
+      "strap": 110,
+      "handle": null
+    },
+    "closure": "flip",
+    "design_elements":[
+    ]
+
+  }
 }

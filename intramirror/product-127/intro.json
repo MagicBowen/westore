@@ -68,5 +68,20 @@
   "type": "男士T恤",
   "brandName": "Maison Margiela",
   "color": "white",
-  "discount": 0.57
+  "discount": 0.57,
+  "specifications": {
+    "wash": "hand_wash",
+    "sleeves": "short",
+    "collar": "circle",
+    "season": "summer",
+    "closure": "pullover",
+    "composition":
+    {
+        "cotton": 1 
+    },
+    "design_elements":
+    [
+      "printed"
+    ]
+  }  
 }

@@ -45,5 +45,24 @@
   "brandName": "Valentino",
   "brandID": "PV3MF08V3TV",
   "color": "grey",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": {
+    "wash": "machine",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "autumn_winter",
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 1
+      },
+      "lining": null
+    },
+    "closure": "zip",
+    "design_elements":
+    [
+      "hooded"
+    ]
+  }  
 }

@@ -35,5 +35,23 @@
   "type": "女士长衫",
   "brandName": "Emilio Pucci",
   "color": "multicolor",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "circle",
+    "season": "spring_summer",
+    "closure": {
+      "style":"zip",
+      "position": "back"
+    },
+    "composition":
+    {
+      "silk": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

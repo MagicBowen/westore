@@ -86,5 +86,32 @@
   "brandName": "Valentino",
   "brandID": "NW0S0E70XRL",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "suede_leather": 1
+      },
+      "lining": {
+        "leather": 1
+      },
+      "sole": {
+        "leather": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "slim",
+      "height": 11
+    },
+    "height":"low",
+    "tip": "pointy",
+    "closure": "buckle",
+    "design_elements": 
+    [
+    ]
+  }    
 }

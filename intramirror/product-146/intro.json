@@ -42,5 +42,12 @@
   "type": "男士运动鞋",
   "brandName": "Marni",
   "color": "blue",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": {
+    "composition":
+    {
+      "cotton": 1 
+    },
+    "closure": "velcro"
+  }  
 }

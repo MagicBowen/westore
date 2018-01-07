@@ -38,5 +38,24 @@
   "type": "女士紧身裤",
   "brandName": "Federica Tosi",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "sufface": 
+      {
+        "leather": 1
+      },
+      "lining":null
+    },
+    "length":"long",
+    "wash": "dry_clean",
+    "season": "all",
+    "waist":"button",
+    "design_elements":
+    [
+      "skinny"
+    ]
+  }    
 }

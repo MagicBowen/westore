@@ -55,5 +55,32 @@
   "type": "男士德比皮鞋",
   "brandName": "Alexander McQueen",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "calf": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "thick",
+      "height": 1.5
+    },
+    "height":"low",
+    "tip": "round",
+    "closure": "button",
+    "design_elements": 
+    [
+    ]
+  }    
 }

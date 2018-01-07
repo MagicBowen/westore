@@ -70,5 +70,25 @@
   "brandName": "Philipp Plein",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "white",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 0.98,
+        "elastane": 0.02    
+      },
+      "lining": null
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "skinny"
+    },
+    "waist":"belt",
+    "closure": "button_zip",
+    "wash": "hand_wash"
+  }    
 }

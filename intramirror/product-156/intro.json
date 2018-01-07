@@ -49,5 +49,29 @@
   "type": "男士背包",
   "brandName": "Thom Browne",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 0.1,
+        "polyester": 0.9
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 15,
+      "width": 26,
+      "height": 40,
+      "strap": 10,
+      "handle": 33
+    },
+    "closure": "zip",
+    "design_elements":[
+    ]
+
+  }
 }

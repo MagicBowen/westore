@@ -36,7 +36,7 @@
       "name": "5.jpg"
     }
   ],
-  "description": "牛皮小号链饰。成分：牛皮100%",
+  "description": "帕科（Paco Rabanne）是创建于20世纪60年代的法国高级时装品牌。品牌以塑料、皮革、激光唱片、金属等一系列元素为独特标志。Paco Rabbana 金色 牛皮小号链饰手提包。成分：牛皮100%",
   "tags": [
     "female",
     "bag",
@@ -57,5 +57,29 @@
   "brandName": "Paco Rabanne",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "golden",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "leather": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 7,
+      "width": 26,
+      "height": 17,
+      "strap": 45,
+      "handle": null
+    },
+    "closure":"flip",
+    "design_elements":[
+      "button"
+    ]
+
+  }
 }

@@ -30,7 +30,7 @@
       "name": "4.jpg"
     }
   ],
-  "description": "Bazar购物袋，蓝白彩条，皮质",
+  "description": "Barzar 中号购物袋，100%真皮，宽度：37cm，高度：37cm，深度：20cm，手柄：21cm。",
   "tags": [
     "female",
     "bag",
@@ -52,5 +52,27 @@
   "brandName": "Balenciaga",
   "brandID": "443097/DE9ON",
   "color": "blue",
-  "discount": 0.76
+  "discount": 0.76,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "leather": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 20,
+      "width": 37,
+      "height": 37,
+      "strap": null,
+      "handle": 21
+    },
+    "closure": "zip",
+    "design_elements":[
+    ]
+  }  
 }

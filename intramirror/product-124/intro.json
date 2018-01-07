@@ -56,5 +56,28 @@
   "type": "男士西装套装",
   "brandName": "Givenchy",
   "color": "black",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "lapels": "notched",
+    "front_buttons":{
+      "breasted":"single",
+      "button": 2
+    },
+    "sleeves_buttons": 3,
+
+    "vents": "two_split",
+
+    "composition":
+    {
+      "surface": {
+        "wool": 1
+      },
+      "lining": null 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

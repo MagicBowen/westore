@@ -52,5 +52,28 @@
   "brandName": "Balenciaga",
   "brandID": "491634/C8k05",
   "color": "black",
-  "discount": 0.76
+  "discount": 0.76,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 20,
+      "width": 39,
+      "height": 38,
+      "strap": null,
+      "handle": 38
+    },
+    "closure": "zip",
+    "design_elements":[
+    ]
+
+  }
 }

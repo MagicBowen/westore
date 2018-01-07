@@ -59,5 +59,21 @@
   "type": "女士七分阔腿裤",
   "brandName": "Marni",
   "color": "blue",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "composition":
+    {
+      "polyester": 0.64,
+      "virgin_wool": 0.36
+    },
+    "leg":
+    {
+      "length": "three_quarter",
+      "style": "wide"
+    },
+    "waist":"none",
+    "closure": "button_zip",
+    "wash": "dry_clean"  
+  }    
 }

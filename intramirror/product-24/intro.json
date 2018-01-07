@@ -42,5 +42,17 @@
   "type": "羊绒连身衣",
   "brandName": "Celine",
   "color": "red",
-  "discount": 0.58
+  "discount": 0.58,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "circle",
+    "season": "autumn_winter",
+    "composition":
+    {
+      "cashmere": 1
+    },
+    "closure": "pullover"
+  }
 }

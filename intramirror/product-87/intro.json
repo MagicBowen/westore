@@ -56,5 +56,29 @@
   "type": "男士乐福鞋",
   "brandName": "Tods",
   "color": "blue",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "leather": 1
+      },
+      "lining": {
+        "leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": null,
+    "height":"low",
+    "tip": "square",
+    "closure": "none",
+    "design_elements": 
+    [
+      "pointy"
+    ]
+  }    
 }

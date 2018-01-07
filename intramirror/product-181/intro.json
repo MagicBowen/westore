@@ -37,5 +37,20 @@
   "type": "女士长裤",
   "brandName": "Equipment",
   "color": "multicolor",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "silk": 1
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "straight"
+    },
+    "waist":"belt",
+    "wash": "hand_wash"
+  }    
+
 }

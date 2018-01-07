@@ -23,7 +23,7 @@
       "name": "3.jpg"
     }
   ],
-  "description": "拼接logo板鞋；成分：牛皮 100%，表面 成分：绒面皮 100%",
+  "description": "Valentino Garavani 黑色 牛皮与绒面皮 拼接logo板鞋。衬里：成分：牛皮 100%、鞋底 成分：rubber 100%、表面 成分：绒面皮 100%、表面 成分：聚酰胺 100%",
   "tags": [
     "male",
     "shoes",
@@ -50,5 +50,23 @@
   "type": "板鞋",
   "brandName": "valentino",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "suede": 1,
+        "polyamide": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    }
+
+  }
 }

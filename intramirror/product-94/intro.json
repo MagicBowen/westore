@@ -62,5 +62,32 @@
   "type": "男士乐福皮鞋",
   "brandName": "Prada",
   "color": "black",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "thick",
+      "height": 3
+    },
+    "height":"low",
+    "tip": "round",
+    "closure": "none",
+    "design_elements": 
+    [
+    ]
+  }    
 }

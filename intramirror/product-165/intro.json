@@ -42,5 +42,35 @@
   "type": "女士单肩包",
   "brandName": "Tory Burch",
   "color": "green",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 15,
+      "width": 30,
+      "height": 25,
+      "strap": 62,
+      "handle":null
+    },
+    "closure": "flip",
+    "strap":
+    [
+      "adjustable",
+      "removable"
+    ],
+    "design_elements":
+    [
+
+    ]
+
+  }
 }

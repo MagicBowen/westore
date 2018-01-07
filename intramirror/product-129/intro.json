@@ -55,5 +55,25 @@
   "type": "男士运动鞋",
   "brandName": "Maison Margiela",
   "color": "white",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "leather": 1
+      },
+      "lining": {
+        "leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel":{
+      "style": "flat"
+    },
+    "closure": "strap"
+  }
 }

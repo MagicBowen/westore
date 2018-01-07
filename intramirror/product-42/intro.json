@@ -56,5 +56,29 @@
   "brandName": "Prada",
   "brandID": "2EE0983OVW",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "leather": 1
+      },
+      "lining": {
+        "leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": {
+      "style": "thick",
+      "height": 4
+    },
+    "tip": "round",
+    "design_elements": 
+    [
+    ]
+  }    
 }

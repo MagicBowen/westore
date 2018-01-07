@@ -71,5 +71,25 @@
   "type": "女士裙子",
   "brandName": "Gucci",
   "color": "white&red&blue",
-  "discount": 0.72
+  "discount": 0.72,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "long",
+    "season": "summer",
+    "waist": "none",
+    "closure": "zip",
+    "composition":
+    {
+      "surface": {
+        "silk": 1
+      },
+      "lining": {
+        "silk": 1 
+      }   
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

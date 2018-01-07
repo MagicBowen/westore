@@ -94,5 +94,21 @@
   "type": "女士T恤",
   "brandName": "Fendi",
   "color": "pink",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "short",
+    "collar": "circle",
+    "season": "summer",
+    "closure": "button",
+    "composition":
+    {
+      "cotton": 1 
+    },
+    "design_elements":
+    [
+      "printed"
+    ]
+  }  
 }

@@ -90,5 +90,31 @@
   "brandName": "Maison Margiela",
   "brandID": "S61WG0011SY0767",
   "color": "green",
-  "discount": 0.62
+  "discount": 0.62,
+  
+  "specifications": 
+    {
+      "composition":
+      {
+        "surface": 
+        {
+          "calf": 1
+        },
+        "lining": null
+      },
+      "size": 
+      {
+        "depth": 9,
+        "width": 19,
+        "height": 20,
+        "strap": 64,
+        "handle": 15
+      },
+      "closure": "flip",
+      "design_elements":[
+        "zip_pocket",
+        "removable_adjustable_shoulder_straps"
+      ]
+  
+    }
 }

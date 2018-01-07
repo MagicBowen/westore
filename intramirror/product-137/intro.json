@@ -57,5 +57,26 @@
   "type": "女士无袖衫",
   "brandName": "Sportmax",
   "color": "white",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "hand_wash",
+    "sleeves": "none",
+    "collar": "circle",
+    "season": "summer",
+    "closure": 
+    {
+      "style":"zip",
+      "position":"back"
+    },
+    "composition":
+    {
+      "fiber": 0.61,
+      "polyester": 0.30,
+      "elastane": 0.09
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

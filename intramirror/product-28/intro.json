@@ -53,5 +53,29 @@
   "brandName": "Bottega Veneta",
   "brandID": "386498/VCB10",
   "color": "black",
-  "discount": 0.73
+  "discount": 0.73,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "leather": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 2,
+      "width": 20,
+      "height": 13,
+      "strap": 45,
+      "handle": null
+    },
+    "closure": "flip",
+    "design_elements":[
+      "flip"
+    ]
+
+  }
 }

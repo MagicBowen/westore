@@ -46,5 +46,20 @@
   "brandName": "Valentino",
   "brandID": "PV3MG10B3LE",
   "color": "blue",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": {
+    "wash": "machine",
+    "sleeves": "short",
+    "collar": "circle",
+    "season": "summer",
+    "closure": "pullover",
+    "composition":
+    {
+        "cotton": 1 
+    },
+    "design_elements":
+    [
+      "printed"
+    ]
+  }  
 }

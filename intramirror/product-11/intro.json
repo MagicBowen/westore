@@ -33,5 +33,20 @@
   "type": "吊带裙",
   "brandName": "Tory Burch",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications":
+  {
+    "composition": 
+    {
+      "alpaca": 0.57,
+      "wool": 0.43
+    },
+    "wash": "dry_clean",
+    "season": "spring_summer",
+    "collar": "v_style",
+    "design_elements": 
+    [
+      "sling"
+    ]
+  }
 }

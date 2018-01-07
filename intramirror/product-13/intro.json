@@ -53,5 +53,25 @@
   "brandName": "Jimmy Choo",
   "brandID": "S39WU0097S48432",
   "color": "black",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "cow_leather": 1
+      }
+    },
+    "heel": {
+      "style": "slim",
+      "height": 8.4
+    }
+  }
 }

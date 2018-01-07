@@ -55,5 +55,34 @@
   "type": "男士公文包",
   "brandName": "Alexander McQueen",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 15,
+      "width": 40,
+      "height": 27,
+      "strap": 50,
+      "handle":10
+    },
+    "closure": "zip",
+    "strap":
+    [
+      "adjustable"
+    ],
+    "design_elements":
+    [
+
+    ]
+
+  }
 }

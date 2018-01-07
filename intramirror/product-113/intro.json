@@ -36,5 +36,27 @@
   "type": "女士裙子",
   "brandName": "Dolce & Gabbana",
   "color": "green",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"none",
+    "collar": "circle",
+    "length": "long",
+    "season": "summer",
+    "waist": "none",
+    "closure": "zip",
+    "composition":
+    {
+      "surface": {
+        "cotton": 0.30,
+        "silk": 0.70
+      },
+      "lining": null
+    },
+    "design_elements":
+    [
+      "lace"
+    ]
+  }  
 }

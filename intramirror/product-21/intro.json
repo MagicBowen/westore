@@ -40,5 +40,18 @@
   "type": "牛仔短裤",
   "brandName": "J Brand",
   "color": "blue",
-  "discount": 0.81
+  "discount": 0.81,
+  "specifications": 
+  {
+    "composition":
+    {
+      "denim": 1
+    },
+    "leg":
+    {
+      "length": "short"
+    },
+    "waist":"belt",
+    "wash": "machine"
+  }    
 }

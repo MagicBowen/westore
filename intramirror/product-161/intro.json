@@ -24,7 +24,7 @@
     "sneakers"
   ],
   "quantity": {
-    "38": 2,
+    "38": 15,
     "39": 143,
     "36": 30,
     "40": 133,
@@ -42,5 +42,26 @@
   "type": "女士运动鞋",
   "brandName": "Emilio Pucci",
   "color": "multicolor",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "leather": 1
+      },
+      "lining": {
+        "leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel":{
+      "style": "flat"
+    },
+    "closure": "pullover",
+    "tip": "round"
+  }
 }

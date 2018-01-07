@@ -37,5 +37,23 @@
   "type": "T恤",
   "brandName": "Philipp Plein",
   "color": "grey",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "machine",
+    "sleeves": "short",
+    "collar": "circle",
+    "season": "summer",
+    "composition":
+    {
+      "cotton": 1
+    },
+    "closure": "pullover",
+    "design_elements":
+    [
+      "printed",
+      "skull"
+    ]
+  }
+
 }

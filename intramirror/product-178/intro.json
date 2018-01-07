@@ -60,5 +60,28 @@
   "type": "女士小礼服",
   "brandName": "Philipp Plein",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"none",
+    "collar": "circle",
+    "length": "mini",
+    "season": "summer",
+    "waist": "none",
+    "closure": "zip",
+    "hem": "slant",
+    "composition":
+    {
+      "surface": {
+        "polyester": 1
+      },
+      "lining": {
+        "polyamide": 1 
+      }   
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

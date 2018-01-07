@@ -66,5 +66,27 @@
   "type": "男士长裤",
   "brandName": "Dolce & Gabbana",
   "color": "grey",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "long",
+    "season": "all_season",
+    "waist": "belt",
+    "closure": "button_zip",
+    "composition":
+    {
+      "surface": 
+      {
+        "spandex": 0.02,
+        "cotton": 0.78,
+        "virgin_wool": 0.2
+      },
+      "lining":null
+    },
+    "design_elements":
+    [
+      "stripe"
+    ]
+  }  
 }

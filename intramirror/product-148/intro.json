@@ -85,5 +85,30 @@
   "type": "女士西装夹克",
   "brandName": "Calvin Klein",
   "color": "grey",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "lapels": "peaked",
+    "front_buttons":{
+      "breasted":"single",
+      "button": 1
+    },
+    "sleeves_buttons": 4,
+
+    "vents": "one_split",
+
+    "composition":
+    {
+      "surface": {
+        "wool": 1
+      },
+      "lining": {
+        "cotton": 1
+      }
+    },
+    "design_elements":
+    [
+    ]
+  }   
 }

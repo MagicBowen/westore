@@ -75,5 +75,24 @@
   "type": "女士连衣裙",
   "brandName": "Calvin Klein",
   "color": "green",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "special_clean",
+    "sleeves": "none",
+    "collar": "circle",
+    "season": "summer",
+    "closure": "zip",
+    "waist": "belt",
+    "hem": "straight", 
+    "length": "mini",
+    "composition":
+    {
+      "surface":
+      {
+        "leather": 1
+      },
+      "lining": null
+    }
+  }
 }

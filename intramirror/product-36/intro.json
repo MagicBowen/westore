@@ -45,5 +45,24 @@
   "brandName": "Valentino",
   "brandID": "PV3RB20J4TA",
   "color": "red",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "autumn_winter",
+    "composition":
+    {
+      "surface":
+      {
+        "leather": 1
+      },
+      "lining": null
+    },
+    "closure":"zip",
+    "design_elements":
+    [
+    ]
+  }  
+
 }

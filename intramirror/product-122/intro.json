@@ -62,5 +62,28 @@
   "type": "男士西装套装",
   "brandName": "Dolce & Gabbanna",
   "color": "black",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "lapels": "notched",
+    "front_buttons":{
+      "breasted":"single",
+      "button": 2
+    },
+    "sleeves_buttons": 4,
+
+    "vents": "one_split",
+
+    "composition":
+    {
+      "surface": {
+        "wool": 1
+      },
+      "lining": null
+    },
+    "design_elements":
+    [
+    ]
+  }   
 }

@@ -68,5 +68,18 @@
   "brandName": "Valentino",
   "brandID": "PV3RB20J4TA",
   "color": "black",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": 
+  {
+    "composition":
+    {
+      "contton": 1
+    },
+    "leg":
+    {
+      "length": "long"
+    },
+    "waist":"belt",
+    "wash": "dry_clean"
+  }    
 }

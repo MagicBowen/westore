@@ -51,5 +51,19 @@
   "type": "大衣",
   "brandName": "Max Mara",
   "color": "caramel",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications":
+  {
+    "composition": 
+    {
+      "alpaca": 0.57,
+      "wool": 0.43
+    },
+    "wash": "dry_clean",
+    "season": "autumn_winter",
+    "collar": "normal",
+    "design_elements": 
+    [
+    ]
+  }
 }

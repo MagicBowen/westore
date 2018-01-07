@@ -37,5 +37,28 @@
   "type": "女士运动裤",
   "brandName": "Philipp Plein",
   "color": "white",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "long",
+    "season": "spring_autum",
+    "waist": "elastic",
+    "closure": "none",
+    "composition":
+    {
+      "surface": {
+        "cotton": 0.6,
+        "polyester": 0.05,
+        "elastane": 0.05,
+        "polyamide": 0.05,
+        "acetate_fiber": 0.25
+      },
+      "lining": null
+    },
+    "design_elements":
+    [
+      "printed"
+    ]
+  }  
 }

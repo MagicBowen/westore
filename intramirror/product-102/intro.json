@@ -55,5 +55,19 @@
   "type": "女士长裤",
   "brandName": "Sportmax",
   "color": "red",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "cotton": 0.97,
+      "spandex": 0.03
+    },
+    "leg":
+    {
+      "length": "long"
+    },
+    "waist":"none",
+    "wash": "dry_clean"  
+  }    
 }

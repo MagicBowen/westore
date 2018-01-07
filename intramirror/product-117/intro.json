@@ -62,5 +62,29 @@
   "type": "男士西装套装",
   "brandName": "Thom Browne",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "lapels": "notched",
+    "front_buttons":{
+      "breasted":"single",
+      "button": 2
+    },
+    "vents": "two_split",
+    "sleeves_buttons": 3,
+    "composition":
+    {
+      "surface": {
+        "wool": 1,
+        "polyester": 1
+      },
+      "lining": {
+        "copper_fiber": 1
+      }   
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

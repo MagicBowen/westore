@@ -77,5 +77,31 @@
   "type": "男士运动裤",
   "brandName": "Neil Barrett",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "hand_wash",
+    "length": "long",
+    "season": "all_season",
+    "waist": "none",
+    "closure": "button_zip",
+    "composition":
+    {
+      "surface": 
+      {
+        "spandex": 0.03,
+        "polyester": 0.53,
+        "virgin_wool": 44
+      },
+      "lining": 
+      {
+        "cotton": 0.55,
+        "polyester": 0.45
+      } 
+    },
+    "design_elements":
+    [
+      "stripe"
+    ]
+  }  
 }

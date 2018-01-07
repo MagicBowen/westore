@@ -41,7 +41,7 @@
       "name": "5.jpg"
     }
   ],
-  "description": "Gucci 黑色 初剪羊毛 虎刺绣条纹防风夹克。抽绳兜帽，正面拉链，抽绳下摆。表面 成分：聚酰胺 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
+  "description": "Gucci 黑色 初剪羊毛 虎刺绣条纹防风夹克。正面拉链，抽绳下摆。表面 成分：聚酰胺 100%、表面 成分：初剪羊毛 100%、洗涤说明：干洗",
   "tags": [
     "male",
     "jacket",
@@ -62,5 +62,21 @@
   "type": "男士夹克外套",
   "brandName": "Gucci",
   "color": "black",
-  "discount": 0.72
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "autumn_winter",
+    "closure": "zip",
+    "composition":
+    {
+      "surface":
+      {
+        "spandex": 1,
+        "virgin_wool": 1
+      },
+      "lining": null
+    }
+  }
 }

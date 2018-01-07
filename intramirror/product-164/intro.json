@@ -43,5 +43,23 @@
   "type": "女士衬衫",
   "brandName": "Emilio Pucci",
   "color": "black",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "lepal",
+    "season": "spring_summer",
+    "closure": {
+      "style":"button",
+      "position": "front"
+    },
+    "composition":
+    {
+      "silk": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

@@ -69,5 +69,19 @@
   "type": "女士毛衣",
   "brandName": "Thom Browne",
   "color": "blue",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": {
+    "wash": "machine",
+    "sleeves": "long",
+    "collar": "circle",
+    "season": "spring_autumn",
+    "closure": "pullover",
+    "composition":
+    {
+        "cotton": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

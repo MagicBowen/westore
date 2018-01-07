@@ -55,5 +55,24 @@
   "type": "男士夹克外套",
   "brandName": "Marni",
   "color": "green",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": {
+    "wash": "machine",
+    "sleeves": "long",
+    "collar": "hooded",
+    "season": "autumn_winter",
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 1
+      },
+      "lining": null
+    },
+    "closure": "button",
+    "design_elements":
+    [
+      "hooded"
+    ]
+  }  
 }

@@ -74,5 +74,21 @@
   "type": "女士针织上衣",
   "brandName": "Balmain",
   "color": "blue",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "circle",
+    "season": "spring",
+    "closure": "button",
+    "composition":
+    {
+        "cashmere": 0.7,
+        "silk": 0.3
+    },
+    "design_elements":
+    [
+    ]
+  } 
 }

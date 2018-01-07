@@ -90,5 +90,22 @@
   "type": "女士毛衣",
   "brandName": "Fendi",
   "color": "pink",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "three_quarter",
+    "collar": "high",
+    "season": "autumn_winter",
+    "closure": "pullover",
+    "composition":{
+      "surface": {
+        "wool": 1,
+        "mink_hair": 1
+      },
+      "lining": {
+        "fiber": 0.6,
+        "cotton": 0.4
+      }
+    } 
+  }
 }

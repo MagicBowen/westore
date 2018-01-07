@@ -25,7 +25,7 @@
       "name": "3.jpg"
     }
   ],
-  "description": "靴子，牛皮与小牛皮 镶嵌细跟及裸靴。尖头，侧置拉链，银色五金配件。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
+  "description": "靴子，牛皮与小牛皮 镶嵌细跟及踝靴。尖头，侧置拉链，银色五金配件。表面 成分：小牛皮100%， 衬里 成分：牛皮100%， 鞋底 成分：牛皮100%",
   "tags": [
     "female",
     "shoes",
@@ -50,5 +50,30 @@
   "brandName": "Marni",
   "brandID": "TCMSZ11C07LV702",
   "color": "black",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "calf": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "cow_leather": 1
+      }
+    },
+    "heel": {
+      "style": "slim",
+      "height": 4
+    },
+    "height":"ankle",
+    "closure": "zip",
+    "design_elements": 
+    [
+    ]
+  }  
 }

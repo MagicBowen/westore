@@ -48,7 +48,7 @@
       "name": "6.jpg"
     }
   ],
-  "description": "Alexander McQueen（亚历山大麦昆）黑色与金色 羊毛 侧条纹直筒长裤。隐藏式开合，腰带袢，侧面有条纹，后面有两个嵌线口袋。表面成分：涤纶 100%、表面 成分：100%、衬里 成分：醋酸纤维 60%、衬里 成分：纤维胶 40%、洗涤说明：干洗",
+  "description": "Alexander McQueen（亚历山大麦昆）黑色与金色 羊毛 侧条纹直筒长裤。隐藏式开合，腰带袢，侧面有条纹，后面有两个嵌线口袋。表面成分：涤纶 100%、衬里 成分：醋酸纤维 60%、衬里 成分：纤维胶 40%、洗涤说明：干洗",
   "tags": [
     "male",
     "pants",
@@ -69,5 +69,29 @@
   "type": "男士直筒长裤",
   "brandName": "Alexander McQueen",
   "color": "black",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "long",
+    "season": "all_season",
+    "waist": "belt",
+    "closure": "button_zip",
+    "composition":
+    {
+      "surface": 
+      {
+        "polyester": 1
+      },
+      "lining":
+      {
+        "acetate_fiber": 0.6,
+        "fiber": 0.4
+      }
+    },
+    "design_elements":
+    [
+      "strip"
+    ]
+  }  
 }

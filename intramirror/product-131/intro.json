@@ -59,5 +59,23 @@
   "type": "男士针织上衣",
   "brandName": "Balmain",
   "color": "black",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "circle",
+    "season": "spring_autumn",
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 1
+      },
+      "lining": null
+    },
+    "closure":"pullover",
+    "design_elements":
+    [
+    ]
+  }  
 }

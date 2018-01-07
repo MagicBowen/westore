@@ -54,5 +54,24 @@
   "type": "女士连衣裙",
   "brandName": "Sportmax",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "spandex": 0.03,
+        "fiber": 0.72,
+        "polyester": 0.25
+      },
+      "lining": null
+    },
+    "length":"mini",
+    "wash": "dry_clean",
+    "collar": "circle",
+    "sleeves": "none",
+    "season": "summer",
+    "hem": "slant"
+  }    
 }

@@ -69,5 +69,20 @@
   "type": "男士连帽衫",
   "brandName": "Thom Browne",
   "color": "blue",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": {
+    "wash": "machine",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "spring_autumn",
+    "closure": "pullover",
+    "composition":
+    {
+        "cotton": 1 
+    },
+    "design_elements":
+    [
+      "hooded"
+    ]
+  }  
 }

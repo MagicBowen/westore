@@ -50,5 +50,21 @@
   "type": "女士喇叭裤",
   "brandName": "Emilio Pucci",
   "color": "yellow",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "spandex": 0.03,
+      "fiber": 0.97
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "bell_bottom"
+    },
+    "waist":"none",
+    "closure": "button_zip",
+    "wash": "dry_clean"  
+  }
 }

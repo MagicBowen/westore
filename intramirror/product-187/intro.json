@@ -76,5 +76,33 @@
   "brandName": "Balmain",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "black",
-  "discount": 0.53
+  "discount": 0.53,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "elastane": 0.03,
+        "fiber": 0.77,
+        "silk": 0.2
+      },
+      "lining": 
+      {
+        "polyamide": 1
+      }
+    },
+    "collar": "v_style",
+    "sleeves": "long",
+    "length":"mini",
+    "wash": "dry_clean",
+    "season": "summer",
+    "waist": "none",
+    "hem": "skinny",
+    "closure":
+    {
+      "style": "zip",
+      "position": "back"
+    }
+  }    
 }

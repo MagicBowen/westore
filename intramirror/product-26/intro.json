@@ -30,11 +30,11 @@
       "name": "4.jpg"
     }
   ],
-  "description": "Chloe 棕色 真皮款女士手提包。表面 成分：100% 牛皮 衬里 成分：100% 涤纶",
+  "description": "Chloe 棕色 真皮 牛皮 小号单肩包。顶置拉链，金色铆钉，可拆卸可调肩带。商品尺寸：表带：60cm，深度：7cm，手柄：8cm，宽度：20cm，高度：20cm。表面 成分：100% 牛皮 衬里 成分：100% 涤纶",
   "tags": [
     "female",
     "bag",
-    "handbag"
+    "shoulder_bag"
   ],
   "quantity": {
     "U": 82
@@ -51,5 +51,30 @@
   "brandName": "Chloe",
   "brandID": "C17WS331HGP208",
   "color": "brown",
-  "discount": 0.73
+  "discount": 0.73,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 7,
+      "width": 20,
+      "height": 20,
+      "strap": 60,
+      "handle": 8
+    },
+    "closure": "zip",
+    "design_elements":[
+      "zip",
+      "removable_adjustable_shoulder_straps"
+    ]
+
+  }
 }

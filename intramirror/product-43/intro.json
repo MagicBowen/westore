@@ -55,5 +55,20 @@
   "type": "男士衬衫",
   "brandName": "Thom Browne",
   "color": "white",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "short",
+    "collar": "normal",
+    "season": "summer",
+    "closure": "button",
+    "composition":
+    {
+        "cotton": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

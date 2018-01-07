@@ -44,5 +44,21 @@
   "type": "男士毛衣",
   "brandName": "Calvin Klein",
   "color": "white",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "machine",
+    "sleeves": "long",
+    "collar": "circle",
+    "season": "summer",
+    "closure": "pullover",
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 1
+      },
+      "lining": null
+    }
+  }
 }

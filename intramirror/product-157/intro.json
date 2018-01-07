@@ -61,5 +61,33 @@
   "type": "男士皮鞋",
   "brandName": "Thom Browne",
   "color": "black",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "thick",
+      "height": 4
+    },
+    "platform": 2,
+    "height":"low",
+    "tip": "round",
+    "closure": "strap",
+    "design_elements": 
+    [
+    ]
+  }    
 }

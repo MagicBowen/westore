@@ -58,5 +58,20 @@
   "type": "男士衬衫",
   "brandName": "Polo Ralph Lauren",
   "color": "blue",
-  "discount": 0.58
+  "discount": 0.58,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "spring_summer",
+    "closure": "button",
+    "composition":
+    {
+      "cotton": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

@@ -58,5 +58,31 @@
   "brandName": "Lanvin",
   "brandID": "RMS10235S00401als",
   "color": "grey",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "paint_leather": 1
+      },
+      "lining": null,
+      "sole": 
+      {
+        "rubber": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "flat"
+    },
+    "height":null,
+    "wash": "special_clean",
+    "closure": "strap",
+    "tip": "round",
+    "design_elements": 
+    [
+    ]
+  } 
 }

@@ -56,5 +56,20 @@
   "brandName": "Paco Rabanne",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "polyethylene": 1
+    },
+    "leg":
+    {
+      "length": "ankle",
+      "style": "narrow"
+    },
+    "waist":"none",
+    "closure": "zip",
+    "wash": "dry_clean"  
+  }    
 }

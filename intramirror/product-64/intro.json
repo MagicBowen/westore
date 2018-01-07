@@ -73,5 +73,19 @@
   "type": "男士夹克外套",
   "brandName": "Valentino",
   "color": "grey",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": {
+    "wash": "machine",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "spring_summer",
+    "closure": "pullover",
+    "composition":{
+      "surface": {
+        "cotton": 0.92,
+        "polyamide":0.08
+      },
+      "lining": null
+    } 
+  }
 }

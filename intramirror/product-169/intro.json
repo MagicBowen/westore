@@ -41,5 +41,23 @@
   "brandName": "Lanvin",
   "brandID": "RMS10235S00401als",
   "color": "white",
-  "discount": 0.56
+  "discount": 0.56,
+  "specifications": 
+  {
+    "wash": "machine",
+    "sleeves": "short",
+    "collar": "circle",
+    "season": "summer",
+    "closure": {
+      "style":"pullover",
+      "position": "none"
+    },
+    "composition":
+    {
+      "cotton": 1 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

@@ -54,5 +54,22 @@
   "type": "女士西裤",
   "brandName": "Tory Burch",
   "color": "white",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "sufface": 
+      {
+        "spandex": 0.03,
+        "cotton": 0.67,
+        "lyocell_fiber": 0.3
+      },
+      "lining":null
+    },
+    "length":"long",
+    "wash": "dry_clean",
+    "season": "spring_summer",
+    "waist":"button"
+  }    
 }

@@ -55,5 +55,20 @@
   "type": "男士套头衫",
   "brandName": "Maison Margiela",
   "color": "grey",
-  "discount": 0.57
+  "discount": 0.57,
+  "specifications": {
+    "wash": "machine",
+    "sleeves": "short",
+    "collar": "circle",
+    "season": "summer",
+    "closure": "pullover",
+    "composition":
+    {
+        "cotton": 1 
+    },
+    "design_elements":
+    [
+      "printed"
+    ]
+  }  
 }

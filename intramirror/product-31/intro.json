@@ -52,5 +52,28 @@
   "brandName": "Calvin Klein",
   "brandID": "74WLBA01.T027",
   "color": "black",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 18,
+      "width": 40,
+      "height": 32,
+      "strap": null,
+      "handle": 24
+    },
+    "closure": "zip",
+    "design_elements":[
+    ]
+
+  }
 }

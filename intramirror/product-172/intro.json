@@ -54,5 +54,20 @@
   "brandName": "Lanvin",
   "brandID": "RMS10235S00401als",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "machine",
+    "length": "long",
+    "season": "spring_autumn",
+    "waist": "drawstring",
+    "composition":
+    {
+      "cotton": 1 
+    },
+    "design_elements":
+    [
+      "printed"
+    ]
+  }  
 }

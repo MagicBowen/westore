@@ -52,5 +52,31 @@
   "type": "斜跨包",
   "brandName": "Maison Margiela",
   "color": "pink",
-  "discount": 0.62
+  "discount": 0.62,
+
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 9,
+      "width": 19,
+      "height": 20,
+      "strap": 64,
+      "handle": 15
+    },
+    "design_elements":[
+      "zip_pocket",
+      "flip",
+      "removable_adjustable_shoulder_straps"
+    ]
+
+  }
 }

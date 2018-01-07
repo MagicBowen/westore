@@ -60,5 +60,21 @@
   "type": "女士开衫",
   "brandName": "Prada",
   "color": "pink",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "v_style",
+    "season": "spring",
+    "closure": "button",
+    "composition":
+    {
+        "cashmere": 0.7,
+        "silk": 0.3
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

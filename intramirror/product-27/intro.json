@@ -82,5 +82,31 @@
   "brandName": "Celine",
   "brandID": "181613AZJ38NO",
   "color": "black",
-  "discount": 0.69
+  "discount": 0.69,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": 
+      {
+        "anti_hair_calf": 1
+      }
+    },
+    "size": 
+    {
+      "depth": 11,
+      "width": 24,
+      "height": 23,
+      "strap": 55,
+      "handle": null
+    },
+    "closure": "zip",
+    "design_elements":[
+    ]
+
+  }
 }

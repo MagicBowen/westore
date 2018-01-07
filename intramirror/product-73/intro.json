@@ -67,5 +67,25 @@
   "type": "男士机车运动裤",
   "brandName": "Balmain",
   "color": "grey",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "machine",
+    "length": "long",
+    "season": "all_season",
+    "waist": "drawstring_elastic",
+    "closure": null,
+    "composition":
+    {
+      "surface": 
+      {
+        "cotton": 1
+      },
+      "lining":null
+    },
+    "design_elements":
+    [
+      "narrow_leg"
+    ]
+  }  
 }

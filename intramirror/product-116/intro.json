@@ -62,5 +62,24 @@
   "type": "女士裙子",
   "brandName": "Prada",
   "color": "black",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "length": "mid_calf",
+    "season": "summer",
+    "waist": "none",
+    "closure": "zip",
+    "composition":
+    {
+      "surface": {
+        "silk": 0.44,
+        "wool": 0.56
+      },
+      "lining": null
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

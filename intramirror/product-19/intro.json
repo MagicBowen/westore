@@ -58,5 +58,28 @@
   "brandName": "Balenciaga",
   "brandID": "494248/W0530",
   "color": "red",
-  "discount": 0.68
+  "discount": 0.68,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "cotton": 1,
+        "leather": 1
+      },
+      "lining": null,
+      "sole": null
+    },
+    "heel":
+    {
+      "style": "slim",
+      "height": 7
+    },
+    "height":"high",
+    "wash": "special_clean",
+    "design_elements": 
+    [
+    ]
+  }    
 }

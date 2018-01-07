@@ -52,5 +52,29 @@
   "type": "男士腰包",
   "brandName": "Prada",
   "color": "black",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "polyamide": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 12,
+      "width": 33,
+      "height": 22,
+      "strap": null,
+      "handle": null
+    },
+    "closure": "zip",
+    "design_elements":
+    [
+    ]
+
+  }
 }

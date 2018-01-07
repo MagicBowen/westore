@@ -49,5 +49,32 @@
   "type": "男士背包",
   "brandName": "Prada",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cow_leather": 1,
+        "nylong": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 18,
+      "width": 32,
+      "height": 50,
+      "strap": 35,
+      "handle": 6
+    },
+    "closure": "zip",
+    "strap":null,
+    "design_elements":
+    [
+
+    ]
+
+  }
 }

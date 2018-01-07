@@ -92,5 +92,32 @@
   "brandName": "Saint Laurent",
   "brandID": "NW0S0E70XRL",
   "color": "black",
-  "discount": 0.57
+  "discount": 0.57,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "cow_leather": 1
+      }
+    },
+    "heel": 
+    {
+      "style": "slim",
+      "height": 14
+    },
+    "height":"low",
+    "tip": "fish_mouth",
+    "closure": "buckle",
+    "design_elements": 
+    [
+    ]
+  }    
 }

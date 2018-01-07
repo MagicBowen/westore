@@ -68,5 +68,25 @@
   "brandName": "Calvin Klien",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "blue",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "cotton": 1
+      },
+      "lining": null
+    },
+    "length":"mini",
+    "wash": "dry_clean",
+    "season": "summer",
+    "waist":
+    [
+      "normal", 
+      "belt"
+    ],
+    "hem": "skinny"
+  }    
 }

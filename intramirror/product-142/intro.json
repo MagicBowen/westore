@@ -67,5 +67,34 @@
   "type": "女士单肩包",
   "brandName": "Marni",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 12,
+      "width": 23,
+      "height": 16,
+      "strap": 67,
+      "handle":null
+    },
+    "closure": "flip",
+    "strap":
+    [
+      "adjustable"
+    ],
+    "design_elements":
+    [
+
+    ]
+
+  }
 }

@@ -45,5 +45,22 @@
   "type": "男士外套",
   "brandName": "Gucci",
   "color": "black",
-  "discount": 0.67
+  "discount": 0.67,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "suit",
+    "season": "suit",
+    "closure": "button",
+    "composition":{
+      "surface": {
+        "mohair": 0.16,
+        "wool":0.84
+      },
+      "lining": 
+      {
+        "fiber": 1
+      }
+    } 
+  }
 }

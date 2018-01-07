@@ -47,7 +47,7 @@
       "name": "6.jpg"
     }
   ],
-  "description": "作为Michael Kors的副线，Michael Michael Korsw为率性女性风尚品牌之一，其利落的上下装及经典包款则早已在时尚圈占有一席之地。Michael Michael Kors 紫色与粉红色 扇贝形花卉蕾丝小礼服。圆领，透视长袖，后置隐藏式拉链，扇贝形下摆。表面 成分：涤纶23%、衬里 成分：涤纶 100%、表面 成分：棉 30%、表面 成分：尼龙 24%、表面 成分 24%、表面 成分：纤维胶 23%、洗涤说明：手洗",
+  "description": "作为Michael Kors的副线，Michael Michael Korsw为率性女性风尚品牌之一，其利落的上下装及经典包款则早已在时尚圈占有一席之地。Michael Michael Kors 紫色与粉红色 扇贝形花卉蕾丝小礼服。圆领，透视长袖，后置隐藏式拉链，扇贝形下摆。表面 成分：涤纶23%、衬里 成分：涤纶 100%、表面 成分：棉 30%、表面 成分：尼龙 24%、表面 成分 24%、表面 成分：纤维胶 22%、洗涤说明：手洗",
   "tags": [
     "female",
     "skirt",
@@ -68,5 +68,29 @@
   "type": "女士裙装",
   "brandName": "Michael Kors",
   "color": "purple_pink",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"short",
+    "collar": "circle",
+    "length": "mini",
+    "season": "summer",
+    "waist": "none",
+    "closure": "zip",
+    "composition":
+    {
+      "surface": {
+        "cotton": 0.30,
+        "acetate_fiber": 1
+      },
+      "lining": {
+        "silk": 1 
+      }   
+    },
+    "design_elements":
+    [
+      "lace"
+    ]
+  }  
 }

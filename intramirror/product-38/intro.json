@@ -46,5 +46,24 @@
   "brandName": "Fendi",
   "brandID": "FZZ363 A2DX",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "autumn_winter",
+    "composition":
+    {
+      "surface":
+      {
+        "cotton": 0.85,
+        "cashmere": 0.15
+      },
+      "lining": null
+    },
+    "closure": "pullover",
+    "design_elements":
+    [
+    ]
+  }  
 }

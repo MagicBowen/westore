@@ -34,7 +34,7 @@
   "tags": [
     "female",
     "skirt",
-    "dress"
+    "short_skirt"
   ],
   "quantity": {
     "38": 71
@@ -50,5 +50,32 @@
   "type": "半身裙",
   "brandName": "Lanvin",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "sufface": 
+      {
+        "silk": 1,
+        "fiber": 0.45,
+        "acetate_fiber": 0.55,
+        "polyester": 0.18,
+        "tri_acetate_fiber": 0.82
+      },
+      "lining":
+      {
+        "fiber": 0.45,
+        "acetate_fiber": 0.55       
+      }
+    },
+    "length":"long",
+    "wash": "dry_clean",
+    "season": "spring_summer",
+    "waist":
+    [
+      "high", 
+      "elastic"
+    ]
+  }    
 }

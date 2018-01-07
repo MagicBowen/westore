@@ -106,5 +106,31 @@
   "brandName": "Valentino Garavani",
   "brandID": "NW0S0E70XRL",
   "color": "black",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "calf": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "rubber": 1
+      }
+    },
+    "heel": {
+      "style": "thick",
+      "height": 1
+    },
+    "height":"ankle",
+    "closure": "strap",
+    "design_elements": 
+    [
+      "strap"
+    ]
+  }  
 }

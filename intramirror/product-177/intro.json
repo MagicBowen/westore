@@ -32,7 +32,7 @@
       "name": "4.jpg"
     }
   ],
-  "description": "10年前，设计师Philipp Plein在瑞士开设了个人品牌，凭借摇滚乐永不过时的精神和精湛的缝制手艺，塑造品牌称为全球最受欢迎的品牌之一。Philipp Plein 黑色 牛皮 小号方形手提包。翻盖饰有夹扣，银色五金配件，顶部有弧状手柄，可调肩带，正中有品牌标记。商品尺寸：Strap：60 cm、Depth：7 cm、Handie：9 cm、Width：17 cm、Height：13 cm。表面 成分：小牛皮 100%、衬里 成分：涤纶 100％",
+  "description": "10年前，设计师Philipp Plein在瑞士开设了个人品牌，凭借摇滚乐永不过时的精神和精湛的缝制手艺，塑造品牌称为全球最受欢迎的品牌之一。Philipp Plein 黑色 牛皮 小号方形手提包。翻盖饰有夹扣，银色五金配件，顶部有弧状手柄，可调肩带，正中有品牌标记。商品尺寸：Strap：60 cm、Depth：7 cm、Handle：9 cm、Width：17 cm、Height：13 cm。表面 成分：小牛皮 100%、衬里 成分：涤纶 100％",
   "tags": [
     "female",
     "bag",
@@ -53,5 +53,32 @@
   "type": "女士手提包",
   "brandName": "Philipp Plein",
   "color": "black",
-  "discount": 0.65
+  "discount": 0.65,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "calf": 1
+      },
+      "lining": 
+      {
+        "polyester": 1
+      }
+    },
+    "size": 
+    {
+      "depth": 7,
+      "width": 17,
+      "height": 13,
+      "strap": 60,
+      "handle": 9
+    },
+    "closure": "flip",
+    "design_elements":
+    [
+    ]
+
+  }
 }

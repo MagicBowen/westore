@@ -81,5 +81,30 @@
   "type": "女士芭蕾舞平底鞋",
   "brandName": "Tory Burch",
   "color": "red",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "napa": 1
+      },
+      "lining": 
+      {
+        "cow_leather": 1
+      },
+      "sole": 
+      {
+        "cow_leather": 1
+      }
+    },
+    "heel": null,
+    "height":null,
+    "closure": "pullover",
+    "tip": "pointy",
+    "design_elements": 
+    [
+    ]
+  } 
 }

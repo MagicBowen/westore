@@ -43,5 +43,29 @@
   "type": "男士单肩包",
   "brandName": "Prada",
   "color": "black",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "nylon": 1
+      },
+      "lining": null
+    },
+    "size": 
+    {
+      "depth": 12.5,
+      "width": 30,
+      "height": 24,
+      "strap": "variable",
+      "handle": null
+    },
+    "closure": "flip",
+    "design_elements":
+    [
+    ]
+
+  }
 }

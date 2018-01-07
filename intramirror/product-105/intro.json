@@ -60,5 +60,21 @@
   "type": "女士运动裤",
   "brandName": "Fendi",
   "color": "blue",
-  "discount": 0.44
+  "discount": 0.44,
+  "specifications": 
+  {
+    "composition":
+    {
+      "spandex": 0.15,
+      "polyamide": 0.85
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "narrow"
+    },
+    "waist":"elastic",
+    "closure": "none",
+    "wash": "hand_clean"  
+  }
 }

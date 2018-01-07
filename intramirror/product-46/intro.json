@@ -39,7 +39,7 @@
       "name": "5.jpg"
     }
   ],
-  "description": "Prada 蓝色 棉质混纺 经典衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣袖口、以及平直下摆。其经典设计，可谓百搭单品。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：鸡西洗",
+  "description": "Prada 蓝色 棉质混纺 经典衬衫。Mario Prada于1913年创立品牌至今，依旧传承米兰的传统工艺技术，制造出多款知名经典奢华单品实用性高且充满朝气的饰品，别出心裁的设计手法令人过目不忘。此衬衫特色有：经典衣领、正面排扣、长袖、搭扣袖口、以及平直下摆。其经典设计，可谓百搭单品。成分：聚酰胺20%、成分：氨纶（弹性纤维） 3%、成分：棉 77%、洗涤说明：机洗",
   "tags": [
     "male",
     "blouse"
@@ -61,5 +61,22 @@
   "type": "男士衬衫",
   "brandName": "Prada",
   "color": "blue",
-  "discount": 0.52
+  "discount": 0.52,
+  "specifications": 
+  {
+    "wash": "machine",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "spring_summer",
+    "closure": "button",
+    "composition":
+    {
+      "polyamide": 0.2,
+      "spandex": 0.03,
+      "cotton": 0.77 
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

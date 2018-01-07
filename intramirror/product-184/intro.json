@@ -38,5 +38,28 @@
   "brandName": "Paco Rabanne",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "green",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": 
+  {
+    "wash": "dry_clean",
+    "sleeves":"none",
+    "collar": "low",
+    "length": "long",
+    "season": "summer",
+    "waist": "none",
+    "closure": "pullover",
+    "hem": "straight",
+    "composition":
+    {
+      "surface": {
+        "cotton": 1
+      },
+      "lining": {
+        "polyamide": 1 
+      }   
+    },
+    "design_elements":
+    [
+    ]
+  }  
 }

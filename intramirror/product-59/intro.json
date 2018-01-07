@@ -36,5 +36,18 @@
   "type": "女士大衣",
   "brandName": "Federica Tosi",
   "color": "black",
-  "discount": 0.6
+  "discount": 0.6,
+  "specifications": {
+    "wash": "dry_clean",
+    "sleeves": "long",
+    "collar": "normal",
+    "season": "autumn_winter",
+    "closure": "button",
+    "composition":{
+      "surface": {
+        "wool": 1
+      },
+      "lining":null
+    } 
+  }
 }

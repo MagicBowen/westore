@@ -56,5 +56,30 @@
   "brandName": "Versace",
   "brandID": "NW0S0E70XRL",
   "color": "black",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "upping": 
+      {
+        "cow_leather": 1
+      },
+      "lining": {
+        "cow_leather": 1
+      },
+      "sole": {
+        "cow_leather": 1
+      }
+    },
+    "heel": {
+      "style": "slim",
+      "height": 6.5
+    },
+    "height":"ankle",
+    "design_elements": 
+    [
+      "pointy"
+    ]
+  }    
 }
