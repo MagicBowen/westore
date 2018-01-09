@@ -41,16 +41,19 @@
   "discount": 0.56,
   "specifications": 
   {
-    "wash": "dry_clean",
+    "wash": "hand_wash",
     "sleeves": "long",
-    "collar": "normal",
-    "season": "spring_summer",
-    "closure": "button",
+    "collar": "hooded",
+    "season": "autumn_winter",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
     "composition":
     {
       "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

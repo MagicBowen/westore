@@ -69,8 +69,12 @@
       "strap": 10,
       "handle": 33
     },
-    "closure": "zip",
-    "design_elements":[
+    "closure":
+    {
+      "style": "zip",
+      "position": "top"
+    },
+    "feature":[
     ]
 
   }

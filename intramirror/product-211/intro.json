@@ -64,7 +64,7 @@
     {
       "tags": [
         "back",
-        "price"
+        "scene"
       ],
       "name": "9.jpg"
     }
@@ -120,8 +120,11 @@
     },
     "height":"low",
     "tip": "fish_mouth",
-    "closure": "buckle",
-    "design_elements": 
+    "closure": {
+      "style":"buckle",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

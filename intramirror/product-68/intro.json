@@ -44,9 +44,13 @@
   {
     "wash": "special_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "vertical",
     "season": "autumn_winter",
-    "closure": "zip",
+    "closure": 
+    {
+      "style":"zip",
+      "position": "front"
+    },
     "composition":
     {
       "surface":

@@ -82,7 +82,11 @@
     "sleeves": "none",
     "collar": "circle",
     "season": "summer",
-    "closure": "zip",
+    "closure":
+    {
+      "style": "zip",
+      "position": "back"
+    },
     "waist": "belt",
     "hem": "straight", 
     "length": "mini",

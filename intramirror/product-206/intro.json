@@ -111,8 +111,11 @@
     },
     "height":"ankle",
     "tip": "pointy",
-    "closure": "buckle",
-    "design_elements": 
+    "closure": {
+      "style":"buckle",
+      ""
+    },
+    "feature": 
     [
     ]
   }    

@@ -87,7 +87,10 @@
       "style": "straight"
     },
     "waist":"belt",
-    "closure": "button_zip",
+    "closure": {
+      "style":"button_zip",
+      "position": "front"
+    },
     "wash": "hand_wash"
   }    
 }

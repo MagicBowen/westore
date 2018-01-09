@@ -65,9 +65,15 @@
     },
     "leg":
     {
-      "length": "long"
+      "length": "long",
+      "style": "straight"
     },
     "waist":"none",
+    "closure":
+    {
+      "style": "button_zip",
+      "position": "front"
+    },
     "wash": "dry_clean"  
   }    
 }

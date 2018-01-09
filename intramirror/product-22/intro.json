@@ -58,24 +58,29 @@
       "sufface": 
       {
         "silk": 1,
-        "fiber": 0.45,
+        "viscose": 0.45,
         "acetate_fiber": 0.55,
         "polyester": 0.18,
         "tri_acetate_fiber": 0.82
       },
       "lining":
       {
-        "fiber": 0.45,
+        "viscose": 0.45,
         "acetate_fiber": 0.55       
       }
     },
     "length":"long",
     "wash": "dry_clean",
     "season": "spring_summer",
+    "hem": "half_circle",
     "waist":
-    [
-      "high", 
-      "elastic"
-    ]
+    {
+      "position": "high",
+      "style": "elastic"
+    },
+    "closure": 
+    {
+      "style": "pullover"
+    }
   }    
 }

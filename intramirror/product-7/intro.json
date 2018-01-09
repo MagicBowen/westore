@@ -55,7 +55,11 @@
     "sleeves": "long",
     "collar": "normal",
     "season": "spring",
-    "design_elements": 
+    "closure": 
+    {
+      "style": "pullover"
+    },
+    "feature": 
     [
       "lase",
       "butterfly_knot"

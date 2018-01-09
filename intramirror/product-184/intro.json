@@ -47,7 +47,10 @@
     "length": "long",
     "season": "summer",
     "waist": "none",
-    "closure": "pullover",
+    "closure": 
+    {
+      "style":"pullover"
+    },
     "hem": "straight",
     "composition":
     {
@@ -58,7 +61,7 @@
         "polyamide": 1 
       }   
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

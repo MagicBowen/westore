@@ -78,8 +78,12 @@
     },
     "height":"low",
     "tip": "round",
-    "closure": "button",
-    "design_elements": 
+    "closure":
+    {
+      "style": "buckle",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

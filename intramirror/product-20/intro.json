@@ -124,8 +124,13 @@
     },
     "height":"ankle",
     "wash": "special_clean",
-    "closure": "zip",
-    "design_elements": 
+    "closure": 
+    {
+      "style":"zip",
+      "position": "back"
+    },
+    "tip": "round",
+    "feature": 
     [
     ]
   }    

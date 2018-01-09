@@ -58,14 +58,23 @@
   "specifications": 
   {
     "wash": "machine",
-    "length": "long",
-    "season": "spring_autumn",
-    "waist": "drawstring",
+    "leg":
+    {
+      "length": "long",
+      "style": "straight"
+    },
+    "season": "all_season",
+    "waist": "none",
+    "closure": 
+    {
+      "style": "drawstring",
+      "position": "front"
+    },
     "composition":
     {
       "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
       "printed"
     ]

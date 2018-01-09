@@ -85,11 +85,13 @@
       }
     },
     "heel": null,
-    "height":null,
-    "closure": "pullover",
-    "tip": "pointy",
-    "design_elements": 
+    "height":"low",
+    "closure": {
+      "style": "pullover"
+    },
+    "tip": "round",
+    "feature": 
     [
     ]
-  } 
+  }  
 }

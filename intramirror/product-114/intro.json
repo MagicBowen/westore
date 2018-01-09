@@ -78,7 +78,12 @@
     "length": "long",
     "season": "summer",
     "waist": "none",
-    "closure": "zip",
+    "closure":
+    {
+      "style": "zip",
+      "position": "side"
+    },
+    "hem": "slant",
     "composition":
     {
       "surface": {
@@ -88,7 +93,7 @@
         "silk": 1 
       }   
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

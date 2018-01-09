@@ -63,9 +63,13 @@
   {
     "wash": "machine",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "lapel",
     "season": "autumn",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
       "surface":

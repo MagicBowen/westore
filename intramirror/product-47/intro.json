@@ -60,14 +60,18 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "lapel",
     "season": "spring_summer",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
       "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

@@ -65,9 +65,14 @@
     },
     "wash": "machine",
     "sleeves": "long",
-    "collar": "normal",
-    "season": "spring",
-    "design_elements": 
+    "collar": "hooded",
+    "season": "spring_autumn",
+    "closure": 
+    {
+      "style": "button",
+      "postion": "front"
+    },
+    "feature": 
     [
       "hooded"
     ]

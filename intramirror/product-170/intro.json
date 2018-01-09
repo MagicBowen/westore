@@ -78,12 +78,15 @@
         "strap": 55,
         "handle": 28
       },
-      "closure": "flip",
+    "closure": {
+      "style":"flip",
+      "position": "top"
+    },
       "strap":[
         "removable",
         "adjustable"
       ],
-      "design_elements":[
+      "feature":[
         "zip_pocket"
 
       ]

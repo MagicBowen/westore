@@ -49,7 +49,7 @@
   "specifications": {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "vertical",
     "season": "autumn_winter",
     "composition":
     {
@@ -59,8 +59,12 @@
       },
       "lining": null
     },
-    "closure":"zip",
-    "design_elements":
+    "closure":
+    {
+      "style": "zip",
+      "position": "top"
+    },
+    "feature":
     [
     ]
   }  

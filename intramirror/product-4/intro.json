@@ -63,10 +63,18 @@
       "width": 19,
       "height": 20
     },
-    "design_elements":[
-      "zip_pocket",
-      "flip",
-      "removable_adjustable_shoulder_straps"
+    "closure": 
+    {
+      "style": "flip",
+      "postion": "top"
+    },
+    "strap": 
+    [
+      "removable",
+      "adustable"
+    ],
+    "feature":[
+      "zip_pocket"
     ]
 
   }

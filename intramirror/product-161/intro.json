@@ -61,7 +61,9 @@
     "heel":{
       "style": "flat"
     },
-    "closure": "pullover",
+    "closure": {
+      "style": "pullover"
+    },
     "tip": "round"
   }
 }

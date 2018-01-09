@@ -59,11 +59,20 @@
       "depth": 12.5,
       "width": 30,
       "height": 24,
-      "strap": "variable",
+      "strap": 60,
       "handle": null
     },
-    "closure": "flip",
-    "design_elements":
+    "closure":
+    {
+      "style": "flip",
+      "position": "top"
+    },
+    "strap":
+    [
+      "removable",
+      "adjustable"
+    ],
+    "feature":
     [
     ]
 

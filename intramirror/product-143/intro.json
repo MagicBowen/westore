@@ -66,15 +66,20 @@
       "surface": 
       {
         "spandex": 0.03,
-        "fiber": 0.72,
+        "viscose": 0.72,
         "polyester": 0.25
       },
       "lining": null
     },
     "length":"long",
     "wash": "machine",
-    "collar": "normal",
+    "collar": "lapel",
     "sleeves": "long",
-    "season": "autumn"
+    "season": "autumn_winter",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
   }  
 }

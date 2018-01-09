@@ -77,11 +77,14 @@
     {
       "style": "flat"
     },
-    "height":null,
+    "height":"low",
     "wash": "special_clean",
-    "closure": "strap",
+    "closure": {
+      "style":"shoelace",
+      "position": "top"
+    },
     "tip": "round",
-    "design_elements": 
+    "feature": 
     [
     ]
   } 

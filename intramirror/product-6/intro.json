@@ -63,17 +63,28 @@
     },
     "waist":"drawstring",
     "bottom_cuff":{
-      "tag":[
+      "tag":
+      [
         "elastic"
       ]
+    },
+    "leg": 
+    {
+      "length": "long",
+      "style": "straight"
+    },
+    "closure": 
+    {
+      "style": "drawstring",
+      "position": "front"
     },
     "composition":
     {
       "cotton": 1
     },
-    "design_elements":
-    {
+    "feature":
+    [
 
-    }
+    ]
   }  
 }

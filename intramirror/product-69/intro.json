@@ -84,7 +84,16 @@
     "length": "long",
     "season": "all_season",
     "waist": "none",
-    "closure": "button_zip",
+    "closure": 
+    {
+      "style":"button_zip",
+      "position": "front"
+    },
+    "leg": 
+    {
+      "length": "long",
+      "style": "straight"
+    },
     "composition":
     {
       "surface": 
@@ -99,7 +108,7 @@
         "polyester": 0.45
       } 
     },
-    "design_elements":
+    "feature":
     [
       "stripe"
     ]

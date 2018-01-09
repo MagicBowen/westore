@@ -48,10 +48,13 @@
   "discount": 0.67,
   "specifications": {
     "wash": "dry_clean",
-    "sleeves": "long",
-    "collar": "suit",
-    "season": "suit",
-    "closure": "button",
+    "lapels": "notched",
+    "front_buttons":{
+      "breasted":"single",
+      "button": 2
+    },
+    "vents": "one_split",
+    "sleeves_buttons": 4,
     "composition":{
       "surface": {
         "mohair": 0.16,
@@ -59,7 +62,7 @@
       },
       "lining": 
       {
-        "fiber": 1
+        "viscose": 1
       }
     } 
   }

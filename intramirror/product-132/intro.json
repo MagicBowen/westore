@@ -79,7 +79,7 @@
       "surface": 
       {
         "spandex": 0.03,
-        "fiber": 0.72,
+        "viscose": 0.72,
         "polyester": 0.25
       },
       "lining": null
@@ -87,11 +87,11 @@
     "length":"mini",
     "wash": "dry_clean",
     "season": "summer",
-    "waist":
-    [
-      "normal", 
-      "elastic"
-    ],
-    "hem": "skinny"
+    "waist": "elastic",
+    "hem": "skinny",
+    "closure":
+    {
+      "style": "pullover"
+    },
   }    
 }

@@ -48,7 +48,7 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "lepal",
+    "collar": "lapel",
     "season": "spring_summer",
     "closure": {
       "style":"button",
@@ -58,7 +58,7 @@
     {
       "silk": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

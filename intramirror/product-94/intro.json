@@ -84,9 +84,12 @@
       "height": 3
     },
     "height":"low",
-    "tip": "round",
-    "closure": "none",
-    "design_elements": 
+    "tip": "square",
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "feature": 
     [
     ]
   }    

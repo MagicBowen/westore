@@ -53,6 +53,9 @@
     {
       "cashmere": 1
     },
-    "closure": "pullover"
+    "closure": 
+    {
+      "style":"pullover"
+    }
   }
 }

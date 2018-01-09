@@ -73,10 +73,18 @@
   "specifications": 
   {
     "wash": "dry_clean",
-    "length": "long",
     "season": "all_season",
     "waist": "belt",
-    "closure": "button_zip",
+    "closure": 
+    {
+      "style": "button_zip",
+      "position": "front"
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "skinny"
+    },
     "composition":
     {
       "surface": 
@@ -86,10 +94,10 @@
       "lining":
       {
         "acetate_fiber": 0.6,
-        "fiber": 0.4
+        "viscose": 0.4
       }
     },
-    "design_elements":
+    "feature":
     [
       "strip"
     ]

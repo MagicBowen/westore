@@ -100,10 +100,14 @@
     "leg":
     {
       "length": "long",
-      "style": "normal"
+      "style": "straight"
     },
     "waist":"belt",
-    "closure": "button_zip",
+    "closure":
+    {
+      "style": "button_zip",
+      "position": "front"
+    },
     "wash": "dry_clean"  
   }
 }

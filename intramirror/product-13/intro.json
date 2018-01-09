@@ -72,6 +72,11 @@
     "heel": {
       "style": "slim",
       "height": 8.4
+    },
+    "tip": "pointy",
+    "closure": 
+    {
+      "style": "pullover"
     }
   }
 }

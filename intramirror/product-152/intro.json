@@ -51,7 +51,10 @@
     "sleeves": "long",
     "collar": "circle",
     "season": "summer",
-    "closure": "pullover",
+    "closure":
+    {
+      "style": "pullover"
+    },
     "composition":
     {
       "surface":

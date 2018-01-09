@@ -61,8 +61,14 @@
     },
     "wash": "dry_clean",
     "season": "autumn_winter",
-    "collar": "normal",
-    "design_elements": 
+    "collar": "lapel",
+    "sleeves": "three_quarter",
+    "closure":
+    {
+      "style": "none",
+      "postion": "front"
+    },
+    "feature": 
     [
     ]
   }

@@ -48,8 +48,11 @@
     {
       "cotton": 1
     },
-    "closure": "pullover",
-    "design_elements":
+    "closure": 
+    {
+      "style":"pullover"
+    },
+    "feature":
     [
       "printed",
       "skull"

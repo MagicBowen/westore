@@ -127,10 +127,13 @@
       "height": 1
     },
     "height":"ankle",
-    "closure": "strap",
-    "design_elements": 
+    "closure":
+    {
+      "style": "shoelace",
+      "postion": "top"
+    },
+    "feature": 
     [
-      "strap"
     ]
   }  
 }

@@ -50,9 +50,12 @@
   {
     "wash": "dry_clean",
     "sleeves":"long",
-    "collar": "normal",
+    "collar": "vertical",
     "season": "spring_autumn",
-    "closure": "zip",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
     "composition":
     {
       "surface": {
@@ -62,7 +65,7 @@
         "polyamide": 1 
       }   
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

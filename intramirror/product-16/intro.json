@@ -77,9 +77,13 @@
       "height": 6.5
     },
     "height":"ankle",
-    "design_elements": 
+    "tip": "pointy",
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "feature": 
     [
-      "pointy"
     ]
   }    
 }

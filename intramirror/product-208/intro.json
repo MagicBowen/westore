@@ -111,8 +111,11 @@
     },
     "height":"low",
     "tip": "fish_mouth",
-    "closure": "buckle",
-    "design_elements": 
+    "closure": {
+      "style":"buckle",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

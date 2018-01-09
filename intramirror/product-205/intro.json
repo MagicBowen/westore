@@ -109,8 +109,11 @@
     },
     "height":"low",
     "tip": "pointy",
-    "closure": "buckle",
-    "design_elements": 
+    "closure": {
+      "style":"buckle",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

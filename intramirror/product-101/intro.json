@@ -65,9 +65,15 @@
     },
     "leg":
     {
-      "length": "long"
+      "length": "long",
+      "style": "straight"
     },
-    "waist":"drawstring",
+    "waist":"none",
+    "closure":
+    {
+      "style": "drawstring",
+      "position": "front"
+    },
     "wash": "machine"
   }    
 }

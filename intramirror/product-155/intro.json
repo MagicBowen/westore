@@ -75,12 +75,15 @@
     "sleeves": "long",
     "collar": "circle",
     "season": "spring_autumn",
-    "closure": "pullover",
+    "closure":
+    {
+      "style": "pullover"
+    },
     "composition":
     {
         "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

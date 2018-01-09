@@ -78,8 +78,10 @@
     },
     "height":"low",
     "tip": "pointy",
-    "closure": "pullover",
-    "design_elements": 
+    "closure": {
+      "style":"pullover"
+    },
+    "feature": 
     [
     ]
   }    

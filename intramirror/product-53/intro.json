@@ -57,12 +57,18 @@
     "wash": "dry_clean",
     "length": "mid_calf",
     "season": "summer",
-    "waist": "drawstring",
+    "waist": "elastic",
+    "closure":
+    {
+      "style": "drawstring",
+      "position": "front"
+    },
+    "hem": "slant",
     "composition":
     {
       "silk": 1 
     },
-    "design_elements":
+    "feature":
     [
       "printed"
     ]

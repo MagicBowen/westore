@@ -77,7 +77,12 @@
     "length": "mini",
     "season": "summer",
     "waist": "none",
-    "closure": "zip",
+    "closure":
+    {
+      "style": "zip",
+      "position": "back"
+    },
+    "hem": "half_skinny",
     "composition":
     {
       "surface": {
@@ -88,7 +93,7 @@
         "silk": 1 
       }   
     },
-    "design_elements":
+    "feature":
     [
       "lace"
     ]

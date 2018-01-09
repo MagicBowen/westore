@@ -48,7 +48,7 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "lepal",
+    "collar": "lapel",
     "season": "winter",
     "closure": {
       "style":"hook",
@@ -58,7 +58,7 @@
     {
       "fur": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

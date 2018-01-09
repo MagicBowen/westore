@@ -81,8 +81,11 @@
       "height": null
     },
     "tip": "round",
-    "closure": "strap",
-    "design_elements": 
+    "closure": {
+      "style":"shoelace",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

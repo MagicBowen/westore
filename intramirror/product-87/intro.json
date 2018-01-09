@@ -74,11 +74,13 @@
     },
     "heel": null,
     "height":"low",
-    "tip": "square",
-    "closure": "none",
-    "design_elements": 
+    "tip": "round",
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "feature": 
     [
-      "pointy"
     ]
   }    
 }

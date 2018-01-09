@@ -66,12 +66,14 @@
     "sleeves":"long",
     "collar": "retain_ring",
     "season": "spring_summer",
-    "closure": "pullover",
+    "closure": {
+      "style":"pullover"
+    },
     "composition":
     {
       "silk": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

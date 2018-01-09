@@ -72,21 +72,26 @@
     "wash": "dry_clean",
     "sleeves":"short",
     "collar": "high",
-    "length": "under_kneel",
+    "length": "mid_calf",
     "season": "summer",
     "waist": "none",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "back"
+    },
+    "hem":"straight",
     "composition":
     {
       "surface": {
-        "fiber": 1,
+        "viscose": 1,
         "acetate_fiber": 1
       },
       "lining": {
         "silk": 1 
       }   
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

@@ -69,6 +69,8 @@
     {
       "virgin_wool": 1
     },
-    "closure": "pullover"
+    "closure":{
+      "style": "pullover"
+    }
   }
 }

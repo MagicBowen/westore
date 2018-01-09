@@ -65,7 +65,7 @@
     }
   },
   "type": "女士牛仔半身裙",
-  "brandName": "Calvin Klien",
+  "brandName": "Calvin Klein",
   "brandID": "17H1401SM2MIRLG.710",
   "color": "blue",
   "discount": 0.6,
@@ -82,11 +82,11 @@
     "length":"mini",
     "wash": "dry_clean",
     "season": "summer",
-    "waist":
-    [
-      "normal", 
-      "belt"
-    ],
+    "closure": {
+      "style":"button_zip",
+      "position": "front"
+    },
+    "waist": "belt",
     "hem": "skinny"
   }    
 }

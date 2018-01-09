@@ -71,10 +71,13 @@
     "leg":
     {
       "length": "long",
-      "style": "narrow"
+      "style": "skinny"
     },
     "waist":"elastic",
-    "closure": "none",
+    "closure":
+    {
+      "style": "pullover"
+    },
     "wash": "hand_clean"  
   }
 }

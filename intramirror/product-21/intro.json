@@ -52,6 +52,11 @@
       "length": "short"
     },
     "waist":"belt",
+    "closure":
+    {
+      "style": "button_zip",
+      "position": "front"
+    },
     "wash": "machine"
   }    
 }

@@ -68,5 +68,32 @@
   "brandName": "Rta",
   "brandID": "NW0S0E70XRL",
   "color": "black",
-  "discount": 0.62
+  "discount": 0.62,
+  "specifications": 
+  {
+    "composition":
+    {
+      "surface": 
+      {
+        "polyester": 0.4,
+        "cotton": 0.6
+      },
+      "lining": 
+      {
+        "sequin": 1
+      }
+    },
+    "collar": "none",
+    "sleeves": "long",
+    "length":"mini",
+    "wash": "dry_clean",
+    "season": "summer",
+    "waist": "none",
+    "hem": "skinny",
+    "closure":
+    {
+      "style": "zip",
+      "position": "back"
+    }
+  }    
 }

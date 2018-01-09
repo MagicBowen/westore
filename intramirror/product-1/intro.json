@@ -93,7 +93,10 @@
     "sleeves": "long",
     "collar": "high",
     "season": "autumn_winter",
-    "closure": "pullover",
+    "closure": 
+    {
+      "style": "pullover"
+    },
     "composition":{
       "surface": {
         "wool": 0.65,

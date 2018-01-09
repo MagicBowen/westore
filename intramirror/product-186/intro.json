@@ -65,7 +65,10 @@
     "sleeves": "long",
     "collar": "vertical",
     "season": "autumn_winter",
-    "closure": "zip",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
     "composition":
     {
       "surface":
@@ -74,11 +77,11 @@
       },
       "lining":
       {
-        "fiber": 0.52,
+        "viscose": 0.52,
         "copper_fiber": 0.48
       }
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

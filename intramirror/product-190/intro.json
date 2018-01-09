@@ -1,6 +1,6 @@
 {
   "typeId": "2058E43",
-  "sizeType": "pants_standard",
+  "sizeType": "standard",
   "currency": "EUR",
   "pictures": [
     {
@@ -84,7 +84,10 @@
       "style": "skinny"
     },
     "waist":"none",
-    "closure": "button",
+    "closure": {
+      "style":"button",
+      "position": "front"
+    },
     "wash": "hand_wash"
   }    
 }

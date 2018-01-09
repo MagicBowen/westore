@@ -65,21 +65,27 @@
   "specifications": 
   {
     "wash": "dry_clean",
-    "length": "long",
     "season": "all_season",
-    "waist": "drawstring_elastic",
-    "closure": null,
+    "waist": "elastic",
+    "closure": 
+    {
+      "style":"drawstring",
+      "position": "front"
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "straight"
+    },
     "composition":
     {
       "surface": 
       {
-        "spandex": 0.02,
-        "cotton": 0.78,
-        "virgin_wool": 0.2
+        "cotton": 1
       },
       "lining":null
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

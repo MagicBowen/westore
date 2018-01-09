@@ -60,12 +60,16 @@
   "specifications": {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "round",
+    "collar": "vertical",
     "season": "autumn_winter",
-    "closure": "zip",
+    "closure":
+    {
+      "style": "zip",
+      "position": "front"
+    },
     "composition":{
       "surface": {
-        "nylong": 1
+        "nylon": 1
       },
       "lining": null
     } 

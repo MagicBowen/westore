@@ -65,14 +65,18 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "lepal",
+    "collar": "lapel",
     "season": "autumn_winter",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
       "wool": 1
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

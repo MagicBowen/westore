@@ -46,8 +46,27 @@
   "specifications": {
     "composition":
     {
-      "cotton": 1 
+      "upping":
+      {
+        "cotton": 1
+      },
+      "lining":
+      {
+        "cotton": 1
+      },
+      "sole":
+      {
+        "rubber": 1
+      }
     },
-    "closure": "velcro"
+    "heel":
+    {
+      "style": "flat"
+    },
+    "closure":
+    {
+      "style": "velcro",
+      "position": "top"
+    }
   }  
 }

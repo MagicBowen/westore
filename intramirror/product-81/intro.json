@@ -73,11 +73,20 @@
       "depth": 12,
       "width": 37,
       "height": 26,
-      "strap": "variable",
+      "strap": 60,
       "handle": null
     },
-    "closure": "zip",
-    "design_elements":
+    "closure":
+    {
+      "style": "zip",
+      "position": "top"
+    },
+    "strap": 
+    [
+      "adjustable",
+      "removable"
+    ],
+    "feature":
     [
     ]
 

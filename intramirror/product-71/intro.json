@@ -72,10 +72,18 @@
   "specifications": 
   {
     "wash": "dry_clean",
-    "length": "long",
     "season": "all_season",
     "waist": "belt",
-    "closure": "button_zip",
+    "closure": 
+    {
+      "style":"button_zip",
+      "position": "front"
+    },
+    "leg":
+    {
+      "length": "long",
+      "style": "straight"
+    },
     "composition":
     {
       "surface": 
@@ -86,7 +94,7 @@
       },
       "lining":null
     },
-    "design_elements":
+    "feature":
     [
       "stripe"
     ]

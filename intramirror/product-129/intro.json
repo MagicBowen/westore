@@ -74,6 +74,10 @@
     "heel":{
       "style": "flat"
     },
-    "closure": "strap"
+    "closure":
+    {
+      "style": "shoelace",
+      "position": "top"
+    }
   }
 }

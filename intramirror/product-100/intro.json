@@ -80,14 +80,18 @@
     "wash": "dry_clean",
     "sleeves": "long",
     "collar": "circle",
-    "season": "spring",
-    "closure": "button",
+    "season": "spring_autumn",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
         "cashmere": 0.7,
         "silk": 0.3
     },
-    "design_elements":
+    "feature":
     [
     ]
   } 

@@ -77,8 +77,12 @@
     },
     "height":"ankle",
     "tip": "almond",
-    "closure": "zip",
-    "design_elements": 
+    "closure":
+    {
+      "style": "zip",
+      "position": "side"
+    },
+    "feature": 
     [
     ]
   }    

@@ -96,14 +96,17 @@
     "sleeves": "three_quarter",
     "collar": "high",
     "season": "autumn_winter",
-    "closure": "pullover",
+    "closure":
+    {
+      "style": "pullover"
+    },
     "composition":{
       "surface": {
         "wool": 1,
         "mink_hair": 1
       },
       "lining": {
-        "fiber": 0.6,
+        "viscose": 0.6,
         "cotton": 0.4
       }
     } 

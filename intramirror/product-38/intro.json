@@ -50,7 +50,7 @@
   "specifications": {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "circle",
     "season": "autumn_winter",
     "composition":
     {
@@ -61,8 +61,11 @@
       },
       "lining": null
     },
-    "closure": "pullover",
-    "design_elements":
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "feature":
     [
     ]
   }  

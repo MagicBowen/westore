@@ -45,7 +45,12 @@
     "length": "long",
     "season": "summer",
     "waist": "none",
-    "closure": "zip",
+    "closure":
+    {
+      "style": "zip",
+      "position": "back"
+    },
+    "hem": "slant",
     "composition":
     {
       "surface": {
@@ -54,7 +59,7 @@
       },
       "lining": null
     },
-    "design_elements":
+    "feature":
     [
       "lace"
     ]

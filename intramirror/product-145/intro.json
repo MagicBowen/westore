@@ -69,8 +69,12 @@
       },
       "lining": null
     },
-    "closure": "button",
-    "design_elements":
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
+    "feature":
     [
       "hooded"
     ]

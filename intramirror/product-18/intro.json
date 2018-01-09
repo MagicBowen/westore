@@ -80,7 +80,13 @@
     },
     "height":"ankle",
     "wash": "special_clean",
-    "design_elements": 
+    "closure": 
+    {
+      "style": "elastic",
+      "postion": "side"
+    },
+    "tip": "pointy",
+    "feature": 
     [
     ]
   }    

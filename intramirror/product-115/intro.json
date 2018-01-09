@@ -94,7 +94,11 @@
     "length": "mid_long",
     "season": "summer",
     "waist": "elastic",
-    "closure": "none",
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "hem": "half_circle",
     "composition":
     {
       "surface": {
@@ -105,7 +109,7 @@
         "acetate_fiber": 0.71
       }   
     },
-    "design_elements":
+    "feature":
     [
       "printed"
     ]

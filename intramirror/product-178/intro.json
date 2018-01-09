@@ -69,7 +69,11 @@
     "length": "mini",
     "season": "summer",
     "waist": "none",
-    "closure": "zip",
+    "closure": 
+    {
+      "style":"zip",
+      "position": "back"
+    },
     "hem": "slant",
     "composition":
     {
@@ -80,7 +84,7 @@
         "polyamide": 1 
       }   
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

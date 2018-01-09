@@ -73,8 +73,11 @@
       },
       "lining": null
     },
-    "closure":"pullover",
-    "design_elements":
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "feature":
     [
     ]
   }  

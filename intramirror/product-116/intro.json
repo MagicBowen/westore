@@ -69,7 +69,12 @@
     "length": "mid_calf",
     "season": "summer",
     "waist": "none",
-    "closure": "zip",
+    "closure":
+    {
+      "style": "shoelace",
+      "position": "top"
+    },
+    "hem": "straight",
     "composition":
     {
       "surface": {
@@ -78,7 +83,7 @@
       },
       "lining": null
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

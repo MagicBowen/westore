@@ -74,12 +74,16 @@
       "strap": 50,
       "handle":10
     },
-    "closure": "zip",
+    "closure":
+    {
+      "style": "zip",
+      "position": "top"
+    },
     "strap":
     [
       "adjustable"
     ],
-    "design_elements":
+    "feature":
     [
 
     ]

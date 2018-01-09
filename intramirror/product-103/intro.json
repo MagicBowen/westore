@@ -73,7 +73,11 @@
       "style": "wide"
     },
     "waist":"none",
-    "closure": "button_zip",
+    "closure":
+    {
+      "style": "button_zip",
+      "position": "front"
+    },
     "wash": "dry_clean"  
   }    
 }

@@ -70,10 +70,18 @@
       "strap": 60,
       "handle": 8
     },
-    "closure": "zip",
-    "design_elements":[
-      "zip",
-      "removable_adjustable_shoulder_straps"
+    "closure": 
+    {
+      "style":"zip",
+      "position": "top"
+    },
+    "strap": 
+    [
+      "adjustable",
+      "removable"
+    ],
+
+    "feature":[
     ]
 
   }

@@ -49,14 +49,13 @@
     "collar": "circle",
     "season": "summer",
     "closure": {
-      "style":"pullover",
-      "position": "none"
+      "style":"pullover"
     },
     "composition":
     {
       "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

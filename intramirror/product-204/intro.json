@@ -26,12 +26,13 @@
     },
     {
       "tags": [
-        "bottom"
+        "bottom",
+        "close-up"
       ],
       "name": "4.jpg"
     }
   ],
-  "description": "Dolce & Gabbana 黑色 小牛皮 漆皮高跟鞋。",
+  "description": "Dolce & Gabanna 黑色 小牛皮 漆皮高跟鞋。",
   "tags": [
     "female",
     "shoes",
@@ -51,7 +52,7 @@
   },
   "brandColor": "0NO",
   "type": "女士高跟鞋",
-  "brandName": "Dolce & Gabbana",
+  "brandName": "Dolce & Gabanna",
   "brandID": "NW0S0E70XRL",
   "color": "black",
   "discount": 0.53,
@@ -77,8 +78,10 @@
     },
     "height":"low",
     "tip": "pointy",
-    "closure": "pullover",
-    "design_elements": 
+    "closure": {
+      "style":"pullover"
+    },
+    "feature": 
     [
     ]
   }    

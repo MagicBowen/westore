@@ -73,14 +73,18 @@
   "specifications": {
     "wash": "machine",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "hooded",
     "season": "spring_autumn",
-    "closure": "pullover",
+    "closure":
+    {
+      "style": "zip",
+      "position": "front"
+    },
     "composition":
     {
-        "cotton": 1 
+      "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
       "hooded"
     ]

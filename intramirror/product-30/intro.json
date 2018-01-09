@@ -110,10 +110,18 @@
         "strap": 64,
         "handle": 15
       },
-      "closure": "flip",
-      "design_elements":[
-        "zip_pocket",
-        "removable_adjustable_shoulder_straps"
+      "closure":
+      {
+        "style": "flip",
+        "position": "top"
+      },
+      "strap": 
+      [
+        "removable",
+        "adjustable"
+      ],
+      "feature":[
+
       ]
   
     }

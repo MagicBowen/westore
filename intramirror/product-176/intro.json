@@ -41,10 +41,18 @@
   "specifications": 
   {
     "wash": "dry_clean",
-    "length": "long",
+    "leg":
+    {
+      "length": "long",
+      "style": "straight"
+    },
+    
     "season": "spring_autum",
     "waist": "elastic",
-    "closure": "none",
+    "closure": 
+    {
+      "style":"pullover"
+    },    
     "composition":
     {
       "surface": {
@@ -56,7 +64,7 @@
       },
       "lining": null
     },
-    "design_elements":
+    "feature":
     [
       "printed"
     ]

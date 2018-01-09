@@ -68,7 +68,7 @@
   "specifications": {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "lapel",
     "season": "autumn_winter",
     "composition":
     {
@@ -80,8 +80,12 @@
       },
       "lining": null
     },
-    "closure": "button",
-    "design_elements":
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
+    "feature":
     [
       "hooded"
     ]

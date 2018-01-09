@@ -50,7 +50,12 @@
       "style": "straight"
     },
     "waist":"belt",
-    "wash": "hand_wash"
+    "wash": "hand_wash",
+    "closure": {
+      "style":"button_zip",
+      "position": "front"
+    },
+
   }    
 
 }

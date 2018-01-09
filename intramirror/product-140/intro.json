@@ -62,7 +62,7 @@
       "surface": 
       {
         "spandex": 0.03,
-        "fiber": 0.72,
+        "viscose": 0.72,
         "polyester": 0.25
       },
       "lining": null
@@ -72,6 +72,10 @@
     "collar": "circle",
     "sleeves": "none",
     "season": "summer",
-    "hem": "slant"
+    "hem": "slant",
+    "closure":
+    {
+      "style": "pullover"
+    }
   }    
 }

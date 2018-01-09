@@ -71,8 +71,12 @@
       "height": 4
     },
     "height":"ankle",
-    "closure": "zip",
-    "design_elements": 
+    "closure":
+    {
+      "style": "zip",
+      "position": "side"
+    },
+    "feature": 
     [
     ]
   }  

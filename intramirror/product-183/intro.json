@@ -65,10 +65,13 @@
   {
     "wash": "dry_clean",
     "sleeves":"long",
-    "collar": "lepal",
+    "collar": "vertical",
     "length": "mid_calf",
     "season": "autumn_winter",
-    "closure": "zip",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
     "composition":
     {
       "surface": 
@@ -82,7 +85,7 @@
         "cotton": 1
       }
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

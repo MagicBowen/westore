@@ -79,12 +79,16 @@
       "strap": 67,
       "handle":null
     },
-    "closure": "flip",
+    "closure":
+    {
+      "style": "flip",
+      "position": "top"
+    },
     "strap":
     [
       "adjustable"
     ],
-    "design_elements":
+    "feature":
     [
 
     ]

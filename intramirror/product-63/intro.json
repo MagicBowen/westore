@@ -41,11 +41,18 @@
   "specifications": {
     "wash": "dry_clean",
     "sleeves": "half",
-    "collar": "normal",
+    "collar": "v_style",
     "season": "spring_summer",
-    "closure": null,
-    "composition":{
-      "surface": {
+    "closure":
+    {
+      "style": "pullover"
+    },
+    "length": "long",
+    "hem": "straight",
+    "composition":
+    {
+      "surface": 
+      {
         "virgin_wool": 1
       },
       "lining": null

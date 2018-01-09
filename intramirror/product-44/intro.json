@@ -59,16 +59,20 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "lapel",
     "season": "spring_summer",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
       "polyamide": 0.2,
       "spandex": 0.03,
       "cotton": 0.77 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

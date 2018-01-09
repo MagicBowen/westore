@@ -86,8 +86,12 @@
     },
     "height":"ankle",
     "tip": "round",
-    "closure": "",
-    "design_elements": 
+    "closure":
+    {
+      "style": "buckle",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

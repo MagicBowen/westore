@@ -67,8 +67,12 @@
     "sleeves": "long",
     "collar": "normal",
     "season": "spring",
-    "closure": "button",
-    "design_elements": 
+    "closure":
+    { 
+      "style": "button",
+      "position": "front"
+    },
+    "feature": 
     [
       "printed"
     ]

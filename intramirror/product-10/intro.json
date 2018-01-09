@@ -49,10 +49,18 @@
     "wash": "dry_clean",
     "season": "spring",
     "waist": "elastic",
-    "design_elements": 
+    "closure": 
+    {
+      "style": "drawstring_elastic",
+      "postion": "front"
+    },
+    "leg": 
+    {
+      "length": "long",
+      "style": "wide"
+    },
+    "feature": 
     [
-      "wide_leg"
-
     ]
   }
 }

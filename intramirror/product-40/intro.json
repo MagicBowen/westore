@@ -52,12 +52,15 @@
     "sleeves": "short",
     "collar": "circle",
     "season": "summer",
-    "closure": "pullover",
+    "closure":
+    {
+      "style": "pullover"
+    },
     "composition":
     {
-        "cotton": 1 
+      "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
       "printed"
     ]

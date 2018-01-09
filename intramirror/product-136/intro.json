@@ -78,11 +78,11 @@
  
       },
       "lining": {
-        "fiber": 0.52,
+        "viscose": 0.52,
         "cotton": 0.48
       }
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

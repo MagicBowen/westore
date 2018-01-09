@@ -72,9 +72,16 @@
       "strap": 45,
       "handle": null
     },
-    "closure": "flip",
-    "design_elements":[
-      "flip"
+    "closure":
+    {
+      "style": "flip",
+      "postion": "top"
+    },
+    "strap":
+    [
+      "removable"
+    ],
+    "feature":[
     ]
 
   }

@@ -71,11 +71,11 @@
     },
     "composition":
     {
-      "fiber": 0.61,
+      "viscose": 0.61,
       "polyester": 0.30,
       "elastane": 0.09
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

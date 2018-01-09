@@ -73,6 +73,10 @@
       "style": "straight"
     },
     "waist":"elastic",
+    "closure":
+    {
+      "style": "pullover"
+    },
     "wash": "hand_wash"
   }    
 }

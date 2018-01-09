@@ -52,8 +52,13 @@
     "length":"long",
     "wash": "dry_clean",
     "season": "all",
-    "waist":"button",
-    "design_elements":
+    "waist":"none",
+    "closure":
+    {
+      "style": "button_zip",
+      "position": "side"
+    },
+    "feature":
     [
       "skinny"
     ]

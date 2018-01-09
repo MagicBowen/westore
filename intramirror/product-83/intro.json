@@ -68,12 +68,16 @@
       "strap": 58,
       "handle": null
     },
-    "closure": "zip",
+    "closure":
+    {
+      "style": "zip",
+      "position": "top"
+    },
     "strap":[
       "adjustable",
       "removable"
     ],
-    "design_elements":
+    "feature":
     [
 
     ]

@@ -69,8 +69,12 @@
     },
     "height":"low",
     "tip": "round",
-    "closure": "shoelace",
-    "design_elements": 
+    "closure":
+    {
+      "style": "shoelace",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

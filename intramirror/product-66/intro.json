@@ -66,9 +66,13 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
-    "season": "autumn_winter",
-    "closure": "zip",
+    "collar": "lapel",
+    "season": "spring_autumn",
+    "closure": 
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
       "surface":

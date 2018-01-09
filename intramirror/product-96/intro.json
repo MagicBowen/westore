@@ -78,8 +78,12 @@
     },
     "height":"low",
     "tip": "square",
-    "closure": "shoelace",
-    "design_elements": 
+    "closure":
+    {
+      "style": "shoelace",
+      "position": "top"
+    },
+    "feature": 
     [
     ]
   }    

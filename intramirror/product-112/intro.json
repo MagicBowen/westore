@@ -57,8 +57,13 @@
     "wash": "dry_clean",
     "length": "mid_calf",
     "season": "summer",
-    "waist": "drawstring",
-    "closure": "none",
+    "waist": "none",
+    "closure":
+    {
+      "style": "drawstring",
+      "position": "front"
+    },
+    "hem": "slant",
     "composition":
     {
       "surface": {
@@ -66,7 +71,7 @@
       },
       "lining": null
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

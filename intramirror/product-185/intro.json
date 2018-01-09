@@ -66,10 +66,13 @@
     "leg":
     {
       "length": "ankle",
-      "style": "narrow"
+      "style": "skinny"
     },
     "waist":"none",
-    "closure": "zip",
+    "closure": {
+      "style":"zip",
+      "position": "front"
+    },
     "wash": "dry_clean"  
   }    
 }

@@ -44,14 +44,18 @@
   "specifications": {
     "wash": "machine",
     "sleeves": "short",
-    "collar": "normal",
+    "collar": "lapel",
     "season": "summer",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
-        "cotton": 1 
+      "cotton": 1 
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

@@ -104,10 +104,15 @@
       "sole": null
     },
     "heel": null,
-    "height":null,
+    "height":"low",
     "wash": "special_clean",
-    "closure": "strap",
-    "design_elements": 
+    "closure":
+    {
+      "style": "shoelace",
+      "postion": "top"
+    },
+    "tip": "round",
+    "feature": 
     [
       "love_patch"
     ]

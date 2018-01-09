@@ -61,9 +61,13 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "vertical",
     "season": "autumn_winter",
-    "closure": "snap_button",
+    "closure":
+    {
+      "style": "snap_button",
+      "position": "front"
+    },
     "composition":
     {
       "surface":
@@ -76,7 +80,7 @@
         "cotton": 1
       }
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  

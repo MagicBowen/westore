@@ -85,13 +85,17 @@
     "sleeves": "long",
     "collar": "circle",
     "season": "spring_autumn",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "composition":
     {
         "wool": 0.7,
         "silk": 0.3
     },
-    "design_elements":
+    "feature":
     [
     ]
   } 

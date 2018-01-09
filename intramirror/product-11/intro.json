@@ -44,9 +44,14 @@
     "wash": "dry_clean",
     "season": "spring_summer",
     "collar": "v_style",
-    "design_elements": 
+    "sleeves": "none",
+    "closure": 
+    {
+      "style": "pullover"
+    },
+    "feature": 
     [
-      "sling"
+      "sling" //吊带
     ]
   }
 }

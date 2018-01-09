@@ -85,6 +85,11 @@
     "length":"long",
     "wash": "dry_clean",
     "season": "spring_summer",
-    "waist":"button"
+    "waist":"none",
+    "closure":
+    {
+      "style": "button_zip",
+      "position": "front"
+    }
   }    
 }

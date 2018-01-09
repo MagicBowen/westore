@@ -77,9 +77,15 @@
     },
     "leg":
     {
-      "length": "long"
+      "length": "long",
+      "style": "straight"
     },
     "waist":"belt",
+    "closure":
+    {
+      "style": "zip",
+      "position": "front"
+    },
     "wash": "dry_clean"
   }    
 }

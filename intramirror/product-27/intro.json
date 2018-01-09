@@ -104,8 +104,16 @@
       "strap": 55,
       "handle": null
     },
-    "closure": "zip",
-    "design_elements":[
+    "closure":
+    {
+      "style": "zip",
+      "position": "top"
+    },
+    "strap":
+    [
+
+    ],
+    "feature":[
     ]
 
   }

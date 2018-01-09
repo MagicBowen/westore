@@ -41,15 +41,19 @@
   {
     "wash": "dry_clean",
     "sleeves": "long",
-    "collar": "normal",
+    "collar": "lapel",
     "season": "winter",
-    "closure": "button",
+    "closure":
+    {
+      "style": "button",
+      "position": "front"
+    },
     "length": "long",
     "composition":
     {
       "wool": 1
     },
-    "design_elements":
+    "feature":
     [
     ]
   }  
