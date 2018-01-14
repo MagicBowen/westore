@@ -93,7 +93,7 @@
   {
     "composition":
     {
-      "upping": 
+      "surface": 
       {
         "suede_leather": 1
       },
@@ -112,8 +112,7 @@
     "height":"ankle",
     "tip": "pointy",
     "closure": {
-      "style":"buckle",
-      ""
+      "style":"buckle"
     },
     "feature": 
     [
